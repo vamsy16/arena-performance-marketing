@@ -1,0 +1,32 @@
+{
+  "name": "performance-prospecting-system",
+  "version": "1.0.0",
+  "description": "Find brands already running performance marketing + Audit them + Write outreach that gets replies. 4 skills for agency prospecting.",
+  "owner": {
+    "name": "vamsy16",
+    "email": ""
+  },
+  "skills": [
+    {
+      "name": "performance-lead-audit",
+      "description": "7-skill agency prospecting audit for brands running performance marketing",
+      "path": "./skills/performance-lead-audit"
+    },
+    {
+      "name": "ig-whatsapp-audit",
+      "description": "Audit leads whose Meta ads go to Instagram or WhatsApp, not website",
+      "path": "./skills/ig-whatsapp-audit"
+    },
+    {
+      "name": "lead-prospecting",
+      "description": "Find brands already running performance marketing via Ad Library",
+      "path": "./skills/lead-prospecting"
+    },
+    {
+      "name": "outreach-personalizer",
+      "description": "Turn audit into 3 high-converting outreach DM/email templates",
+      "path": "./skills/outreach-personalizer"
+    }
+  ],
+  "keywords": ["performance marketing", "lead prospecting", "meta ad library", "agency", "outreach", "cro", "ads"]
+}
