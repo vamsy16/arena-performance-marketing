@@ -1,7 +1,7 @@
 {
   "name": "performance-prospecting-system",
-  "version": "1.0.0",
-  "description": "Find brands already running performance marketing + Audit them + Write outreach that gets replies. 4 skills for agency prospecting.",
+  "version": "1.1.0",
+  "description": "Find brands already running performance marketing + Audit them + Write outreach that gets replies. 6 skills for agency prospecting + auto scraper + PDF generator.",
   "owner": {
     "name": "vamsy16",
     "email": ""
@@ -26,7 +26,17 @@
       "name": "outreach-personalizer",
       "description": "Turn audit into 3 high-converting outreach DM/email templates",
       "path": "./skills/outreach-personalizer"
+    },
+    {
+      "name": "auto-lead-finder",
+      "description": "Automatically find brands running performance marketing without manual Ad Library browsing",
+      "path": "./skills/auto-lead-finder"
+    },
+    {
+      "name": "pdf-report-generator",
+      "description": "Generate beautiful attractive PDF audit reports to send to leads",
+      "path": "./skills/pdf-report-generator"
     }
   ],
-  "keywords": ["performance marketing", "lead prospecting", "meta ad library", "agency", "outreach", "cro", "ads"]
+  "keywords": ["performance marketing", "lead prospecting", "meta ad library", "agency", "outreach", "cro", "ads", "auto scraper", "pdf report"]
 }
