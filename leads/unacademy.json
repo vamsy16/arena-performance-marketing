@@ -1,0 +1,164 @@
+{
+  "brand": "Unacademy",
+  "website": "unacademy.com",
+  "instagram": "@unacademy",
+  "niche": "Edtech / Test Prep (JEE, NEET, UPSC, CAT)",
+  "score": 6,
+  "ads_active": 90,
+  "spend": "Rs.2-4 Cr",
+  "revenue": "Rs.826 Cr FY25",
+  "destination": "Website traffic to subscription signup (primary); app install + lead-form secondary",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Unacademy",
+  "ad_intro": "Unacademy (unacademy.com) is one of India's largest test-prep platforms and was acquired by upGrad in a deal that closed September 1, 2026 (~$206M, roughly 94% below its $3.44B 2021 peak). We identified <b>~90 active Meta creatives</b> running across India (JEE, NEET, UPSC, CAT, GATE, Bank/SSC, plus the Airlearn language app). Estimated spend is <b>Rs.2-4 Cr/mo</b> - a shadow of pre-2022 levels after marketing was cut ~70%, but still a material budget. FY25 revenue was <b>Rs.826 Cr (down 16.4% YoY)</b> against a net loss of Rs.435 Cr.<br/><br/><b>The funnel leaks at three obvious points:</b> (1) Creative: ads are influencer/educator talking-head heavy with very little topper/result UGC or parent-testimonial variety - the exact gap its listed rival Physics Wallah exploits. (2) Landing page: paid traffic lands on a generic brand homepage (\"Crack your goal with India's top educators\") with no course-specific page, no topper reviews above the fold, and a phone-OTP-only signup gate that adds friction. (3) Tracking: the site is a Next.js SPA; pixel/CAPI is not verifiable on first paint and, post-merger, Unacademy and upGrad tags will need consolidation to avoid double-counting.<br/><br/>These are <b>fixable in 7 days</b>. Realistic caution: this is an enterprise lead in active integration and cost-cutting mode, so closability is moderate - pitch efficiency and post-merger consolidation, not 'spend more'. WARM lead.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (Facebook + Instagram) primary; YouTube (Shorts + long-form) for class previews; Google Search for brand + exam terms; app-install campaigns for the Unacademy learner app and Airlearn."
+    ],
+    [
+      "Active ads count",
+      "~90 live creatives across JEE, NEET, UPSC, CAT, GATE, Bank/SSC and Airlearn language learning (Ad Library, country=IN)."
+    ],
+    [
+      "Duration signals",
+      "Several evergreen 'Join for free' / batch-launch creatives running 30+ days - winners, but high fatigue risk and a thin refresh cadence."
+    ],
+    [
+      "Funnel type",
+      "Website traffic to subscription signup (primary); app install (learner app + Airlearn) secondary; lead-form for free live classes / test series."
+    ],
+    [
+      "Budget signal",
+      "~90 ads + Rs.2-4 Cr/mo after a ~70% marketing cut since 2022 = mid-tier scaler, leaner than Physics Wallah's Rs.5-10 Cr/mo."
+    ],
+    [
+      "Campaign structure",
+      "Exam-siloed; educator-led Advantage+ creative with limited concept testing and little topper-UGC injection."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      3,
+      "#EF4444"
+    ],
+    "UGC & Social Proof": [
+      3,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      5,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      5,
+      "#F59E0B"
+    ],
+    "Tracking & CAPI": [
+      4,
+      "#EF4444"
+    ],
+    "Retargeting Depth": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Creative leak:</b> Ads lean on educator/influencer talking-heads and 'Join for free' promos. Very few topper-AIR interviews, parent testimonials, or centre/franchise walkthroughs. Result-UGC is the one format Physics Wallah scales that Unacademy under-uses.",
+    "<b>Copy leak:</b> Over-reliance on 'free class' / discount hooks ('Join for free', 'Unlimited access'). Missing angles: topper case study, failure-avoidance ('don't drop another year'), parent ROI, and post-merger trust ('now backed by upGrad').",
+    "<b>Landing page leak:</b> Paid traffic lands on the generic unacademy.com hero. No course-specific landing pages, no topper result counts or reviews above the fold, a phone-OTP-only signup gate, and the app-install CTA competes with the subscription CTA.",
+    "<b>Tracking leak:</b> Next.js SPA - pixel/GTM not verifiable on first paint (plain fetch is also blocked by bot protection). Post-merger, Unacademy and upGrad tags need consolidation to stop double-counting and duplicate retargeting. Retargeting appears one-size-fits-all, not exam-specific."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Unacademy"
+    ],
+    [
+      "Physics Wallah (listed, Nov 2025)",
+      "Scales topper-AIR result creatives + faculty UGC; ~Rs.5-10 Cr/mo Meta spend; growing revenue (Rs.2,887 Cr FY25).",
+      "PW took the creative lead in test prep; Unacademy's UGC gap is its single biggest creative opportunity."
+    ],
+    [
+      "Allen (offline)",
+      "Profitable, large-scale offline coaching; trust and results culture at centres.",
+      "Unacademy's franchise pivot must match offline trust signals in its ads."
+    ],
+    [
+      "Vedantu",
+      "Personalised landing pages per class/batch and topper video testimonials.",
+      "Unacademy's generic homepage burns ad traffic that Vedantu converts."
+    ],
+    [
+      "upGrad (new parent)",
+      "Higher-ed / working-professional brand with strong in-house performance + brand marketing.",
+      "Post-merger: consolidate tags and teams; pitch efficiency, not head-to-head."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: 15 Topper-Result UGC Reels + Post-Merger Trust Angle",
+      "Shoot 15 fifteen-second Reels: (a) recent JEE/NEET/UPSC toppers describing how Unacademy helped, (b) 5 parent testimonials, (c) 5 franchise-centre walkthroughs. Add a post-merger trust line ('now backed by upGrad'). Replace 30% of talking-head creatives. Expected: CTR +30-50%, CPA -15-25% within 10 days.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Course-Specific Landing Pages + Fix the OTP-Only Gate",
+      "Route each exam ad to unacademy.com/goal/&lt;jee&gt; etc. with UTMs instead of the generic homepage. Add topper AIR counts + reviews + 'backed by upGrad' above the fold, a sticky 'Enroll' CTA, and an email signup option alongside OTP to cut drop-off. Expected: CVR +30-40%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: Server-Side CAPI + Post-Merger Tag Consolidation",
+      "Fire Meta Pixel + CAPI server-side on /signup, /subscribe and /pay. Consolidate Unacademy and upGrad pixels to stop double-counting after the acquisition. Build 3 retargeting audiences (visited goal page, started checkout, app-opened-not-subscribed) with exam-specific creatives. Expected: recapture 10-15% of dropped signups; cleaner attribution.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CTR (Meta)",
+      "0.9-1.2%",
+      "1.5-1.9%",
+      "+40-60%"
+    ],
+    [
+      "Landing Page CVR",
+      "2.5-3.2%",
+      "4.0-5.0%",
+      "+40-50%"
+    ],
+    [
+      "Cost Per Enrollment",
+      "Baseline = 100",
+      "70-80",
+      "-20-30%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-40%",
+      "~15-20%",
+      "Saves Rs.60-90L/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I audited ~90 Unacademy ads - 3 leaks costing you money (post-merger)",
+      "Hi Gaurav / Unacademy growth team,\n\nI spent 30 minutes on unacademy.com plus your Meta Ad Library. You are running ~90 ads and the team is clearly stretched. But I spotted three leaks: (1) ads are educator talking-head heavy with almost no topper/result UGC - the exact format Physics Wallah is scaling, (2) paid traffic lands on your generic homepage instead of a course-specific page, with a phone-OTP-only gate, (3) now that the upGrad deal has closed, your pixel and upGrad's tags will double-count unless consolidated.\n\nI built a 2-page confidential audit showing exactly what to fix and the ROAS lift to expect. Can I send it over? A 15-minute call if any of it lands.\n\n- Smart Pursuit  |  Ph: 7095024220"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording of your Unacademy funnel. Minute 1 shows which of your ~90 Meta ads are fatiguing (same educator template). Minute 2 I open unacademy.com on mobile and show why the OTP gate and generic hero cost you signups. Minute 3 I show a topper-UGC ad from Physics Wallah doing ~2x the CTR of your educator ads. Happy to send it - where should I ping it (WhatsApp / email)?\""
+    ],
+    [
+      "Subject C (FOMO): Physics Wallah is scaling topper-result Reels - Unacademy isn't (yet)",
+      "Hi,\n\nWhile auditing Unacademy I noticed Physics Wallah is running heavy topper-AIR result Reels into exam-specific retargeting, and their Meta spend is now roughly 2-3x yours. Your creative is still educator-led and retargeting looks one-size-fits-all. Post-merger with upGrad is the perfect moment to consolidate tracking and refresh creative.\n\nI put together a 3-win, 7-day playbook for Unacademy. 15 minutes to walk through?\n\n- Smart Pursuit"
+    ]
+  ]
+}
