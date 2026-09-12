@@ -1,0 +1,154 @@
+{
+  "brand": "Powerlook",
+  "website": "powerlook.in",
+  "instagram": "@powerlook.in",
+  "niche": "D2C Fashion",
+  "score": 5,
+  "ads_active": 40,
+  "spend": "40-70L",
+  "revenue": "",
+  "destination": "Website",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Powerlook",
+  "ad_intro": "Powerlook (powerlook.in) is a D2C Fashion brand running <b>~40 active Meta creatives</b> in India with estimated spend <b>Rs.40-70L/mo</b> and ads pointing to website traffic to subscription/checkout. Menswear D2C targeting the premium-wardrobe segment.<br/><br/><b>The funnel leaks at three points:</b> (1) Creative: menswear static, fit-test reels missing - The gap: fit-test / haul Reels. (2) Landing page: a static product grid with no fit-test or styling UGC. (3) Tracking: Pixel/GTM not verifiable on first paint; retargeting appears one-size-fits-all rather than segment-specific..<br/><br/>These are <b>fixable in 7 days</b>; we estimate ~30-40% of ad spend is wasted. Mid-market/SMB lead - high closability with a fast test budget.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (Facebook + Instagram) primary; Google Search + YouTube secondary; app-install where relevant."
+    ],
+    [
+      "Active ads count",
+      "~40 live creatives in Ad Library (country=IN)."
+    ],
+    [
+      "Duration signals",
+      "Several evergreen creatives running 30+ days - winners, but fatigue risk and a thin refresh cadence."
+    ],
+    [
+      "Funnel type",
+      "Website traffic to subscription/checkout (primary)."
+    ],
+    [
+      "Budget signal",
+      "~40 ads + Rs.40-70L/mo = consistent mid-tier spender."
+    ],
+    [
+      "Campaign structure",
+      "Category-siloed with limited concept testing; light UGC injection."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      4,
+      "#EF4444"
+    ],
+    "UGC & Social Proof": [
+      3,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      5,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      6,
+      "#F59E0B"
+    ],
+    "Tracking & CAPI": [
+      5,
+      "#EF4444"
+    ],
+    "Retargeting Depth": [
+      5,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Creative leak:</b> Menswear static, fit-test Reels missing. The gap: fit-test / haul Reels.",
+    "<b>Copy leak:</b> Current angle is static catalog-led. Missing angle: fit + occasion story over graphics-only.",
+    "<b>Landing page leak:</b> A static product grid with no fit-test or styling UGC.",
+    "<b>Tracking leak:</b> Pixel/GTM not verifiable on first paint; retargeting appears one-size-fits-all rather than segment-specific."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Powerlook"
+    ],
+    [
+      "Snitch",
+      "Fit-test + style UGC.",
+      "Fit-test Reels missing."
+    ],
+    [
+      "Bewakoof",
+      "Meme + haul creative.",
+      "Haul Reels gap."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: Deploy fit-test / haul Reels",
+      "Shoot 15 fifteen-second fit-test / haul Reels and replace 30% of the weakest creatives. Expected: CTR +30-50%, CPA -15-25% within 10 days.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Fix the landing experience",
+      "Add fit-test + haul UGC on PDPs. Expected: CVR +30-40%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: Server-Side CAPI + Segment Retargeting",
+      "Fire Meta Pixel + CAPI server-side on key conversion events; build 3 retargeting audiences (visited but didn't convert / started checkout / dropped off) with segment-specific creatives. Expected: recapture 10-15% of dropped conversions; cleaner attribution.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CTR (Meta)",
+      "0.9-1.3%",
+      "1.5-1.9%",
+      "+40-60%"
+    ],
+    [
+      "Landing Page CVR",
+      "2.4-3.2%",
+      "3.8-4.8%",
+      "+40-50%"
+    ],
+    [
+      "Cost Per Acquisition",
+      "Baseline = 100",
+      "70-82",
+      "-18-30%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-40%",
+      "~15-20%",
+      "Saves Rs.12-25L/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I audited ~40 Powerlook ads - 3 leaks costing you money",
+      "Hi Powerlook growth team,\n\nI spent 30 minutes on powerlook.in plus your Meta Ad Library. You are running ~40 ads and the team is clearly working hard. But I spotted three leaks costing roughly 25-40% of ad spend: (1) menswear static, fit-test reels missing, (2) a static product grid with no fit-test or styling UGC, (3) Pixel/GTM not verifiable on first paint; retargeting appears one-size-fits-all rather than segment-specific.\n\nI built a 2-page confidential audit showing exactly what to fix and the ROAS lift to expect. Can I send it over? A 15-minute call if any of it lands.\n\n- Smart Pursuit  |  Ph: 7095024220"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording of your Powerlook funnel. Minute 1 shows which of your ~40 Meta ads are fatiguing; minute 2 I open powerlook.in on mobile and show the landing-page leak costing you signups; minute 3 I show a fit-test / haul Reels ad from Snitch doing ~2x your CTR. Happy to send it - where should I ping it (WhatsApp / email)?\""
+    ],
+    [
+      "Subject C (FOMO): Snitch is winning with fit-test / haul Reels - Powerlook isn't (yet)",
+      "Hi,\n\nWhile auditing Powerlook I noticed Snitch is running fit-test / haul Reels into segment-level retargeting at a much lower CPA. Your creative is still static catalog-led and retargeting looks one-size-fits-all.\n\nI put together a 3-win, 7-day playbook for Powerlook to close this gap. 15 minutes to walk through?\n\n- Smart Pursuit"
+    ]
+  ]
+}

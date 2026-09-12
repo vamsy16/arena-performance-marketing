@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 preview_pages/
 download.html
+.venv/
 
 # Don't commit day-2+ audits by default? No - commit them all so the team can see.
 # We DO commit audits/, outreach/, leads/, reports/.
