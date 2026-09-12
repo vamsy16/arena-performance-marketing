@@ -1,0 +1,67 @@
+{
+  "brand": "upGrad",
+  "website": "upgrad.com",
+  "instagram": "@upgrad_edu",
+  "niche": "Edtech / Higher Education / Professional Upskilling",
+  "score": 7,
+  "ads_active": 100,
+  "spend": "Rs.3-6 Cr/mo (FY25 total ad spend ~Rs.304 Cr)",
+  "revenue": "Rs.1,569 Cr FY25 (+5.5% YoY); Net loss narrowed to Rs.273 Cr (halved vs FY24); EBITDA positive Rs.15 Cr",
+  "destination": "HubSpot landing pages - brochure PDF download + counselor booking",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=upGrad",
+  "ad_intro": "upGrad (upgrad.com, Ronnie Screwvala-founded, Mumbai) is India's largest online higher-education platform for working professionals with <b>Rs.1,569 Cr FY25 revenue</b> and <b>~100 active creatives</b> running across Meta in India, spending an estimated <b>Rs.3-6 Cr/mo</b> on the channel (FY25 total ad spend was Rs.304 Cr, -11% YoY as management targets EBITDA). The brand pushes online degrees, MBAs, executive programs and certifications in Data Science, AI/ML, Generative AI, Digital Marketing and Study Abroad, with lead magnets dominated by 'Download Brochure' PDF gates.<br/><br/><b>Three obvious leaks in the funnel:</b> (1) <b>Creative is brochure-led, not outcome-led</b> - ~60-70% of ads are static university-logo carousels with 'Download Brochure' as the primary hook; real alumni salary-hike / promotion UGC is thin, even though working professionals buy outcomes (CTC jumps, hiring partners), not PDFs. (2) <b>Lead-form quality gap</b> - primary CTA is a multi-field brochure gate producing high lead volume but low counselor-call show-rate (industry 18-28% for brochure-gated leads); Instant Forms default without Meta's 'Higher Intent' qualifier, diluting CAPI signal. (3) <b>Retargeting stops at brochure-open</b> - 7/14-day brochure-opener pools served generic creative, with no placement-proof, hiring-partner-logo, EMI, or objection-handling layers.<br/><br/>Competitive pressure is rising: <b>Simplilearn grew live-learning revenue 65% YoY</b>, Great Learning hit Rs.847 Cr/quarter (+33%), and Scaler owns the 'salary jump' UGC template for engineers. upGrad is acquiring Unacademy and targeting EBITDA - a 25% CAC lift = ~Rs.60 Cr annualized back to the bottom line. These are fixable in 7 days. We estimate <b>35-45% of ad spend is leaking</b>; strong WARM lead.",
+  "ad_intelligence": [
+    ["Active platforms", "Meta (FB+IG) primary for India B2C degrees/certificates; Google Search brand + program keywords; LinkedIn B2B/executive; YouTube Shorts; US/UK geo campaigns (20%+ international revenue)."],
+    ["Active ads count", "~100 live creatives across MBA, Data Science, AI/ML, Generative AI, Digital Marketing, Executive MBA, Study Abroad, IIT/global-university partner programs."],
+    ["Duration signals", "Evergreen degree programs run 45-90 days; new launches (IIT Kharagpur GenAI, Waterloo CTO, Paris School of Business MBA) run 14-day bursts; brochure ads show significant creative fatigue beyond 30 days."],
+    ["Funnel type", "Lead-gen dominant: 'Download Brochure' PDF gate + 'Talk to a counselor' HubSpot booking. Multi-step forms; brochure CTA routes to PDF then counselor callback. App not primary."],
+    ["Budget signal", "Rs.304 Cr FY25 total ad spend (~Rs.25 Cr/mo blended across channels); Meta ~Rs.3-6 Cr/mo conservatively. Top-decile edtech spender, actively optimizing for efficiency (-11% YoY ad spend while revenue +5.5%)."],
+    ["Campaign structure", "Program-siloed (MBA / DS / AI / Study-Abroad); heavy use of university branding (IIT, Liverpool, Deakin, Waterloo, PSB); brochure lead magnets dominate; alumni-story creative is thin; retargeting is 7-14 day brochure-opener pools with no outcome-proof layering."]
+  ],
+  "scores": {
+    "Creative Variety": [4, "#EF4444"],
+    "UGC & Social Proof": [2, "#EF4444"],
+    "Copy & Hook Strength": [4, "#EF4444"],
+    "Landing Page CRO": [3, "#EF4444"],
+    "Tracking & CAPI": [5, "#F59E0B"],
+    "Retargeting Depth": [3, "#EF4444"]
+  },
+  "findings": [
+    "<b>Creative leak:</b> ~60-70% of active Meta ads are static or lightly-animated university-logo carousels leading with 'Download Brochure'. Career-outcome creative (alumni salary jump, promotion stories, hiring-partner cred, placement demos) is thin. For a high-ticket Rs.2-10 Lakh purchase, working professionals buy outcomes (CTC hikes, network, promotion), not PDFs. Edtech benchmarks consistently show alumni/story UGC drives 2-3x higher lead-to-call conversion than brochure ads; the current mix leaves huge CTR and CPL upside on the table.",
+    "<b>Lead-form quality leak:</b> Primary CTA is a multi-field form gated by a brochure PDF. This produces high lead volume but low counselor-call show-rate (industry-wide 18-28% for brochure-gated leads vs 40-55% for qualified outcome-led leads). Instant Forms appear to use the default 'More Volume' type without Meta's 'Higher Intent' qualifier (which adds a review step, cuts accidental submissions, lifts lead-to-meeting 15-25% per Meta's own 2026 lead-gen playbook). Sales team burns cycles on tire-kickers, and CAPI enrollment signal is diluted because the algorithm optimizes on form-submits rather than qualified-leads or enrollments.",
+    "<b>Landing page leak:</b> Brochure-gate landing pages are generic per program category, with weak placement proof above the fold (no avg. CTC hike, no hiring-partner logos, no live EMI calculator). Primary CTA is 'Download Brochure' rather than direct calendar-book with a counselor; the extra friction (PDF download -> wait for callback -> qualification) adds 24-48 hours of lead decay. Mobile experience is heavy on university logos and light on sticky CTA bar + social proof.",
+    "<b>Tracking & retargeting leak:</b> Retargeting pools are 7-14 day brochure-openers and landing-page abandoners, but creative stays brochure/generic rather than layering placement proof (Rs.X lakh CTC jump), hiring-partner logos, EMI, and objection-handling (time commitment, degree recognition, EMI options). CAPI appears to fire on form-submit rather than qualified-lead or enrollment events, which starves the algorithm of the signal that matters. No 'live Q&A with counselor' event retargeting; no alumni-testimonial retargeting layer."
+  ],
+  "competitors": [
+    ["Competitor", "What they do better", "Signal for upGrad"],
+    ["Simplilearn", "Bootcamp/cert positioning with live-instructor angle; live-learning revenue up +65% YoY (FY25 Rs.556 Cr); global audience; loss reduced 60%.", "Outcome-led creative ('live classes', 'hands-on projects') with short-form cert hooks that convert faster than degree brochure gates."],
+    ["Great Learning", "University-partnered credentials (IIT Bombay, Johns Hopkins); Rs.847 Cr Q1 FY26 revenue (+33% YoY); AI programs growing fast.", "Direct rival in premium university-partnered higher-ed - faster growth means faster creative learning velocity and fresher UGC loops."],
+    ["Scaler (InterviewBit)", "Tech-niche focus (SWE, DS, ML); intense salary-jump / career-switch UGC; strong alumni storytelling; outcome-heavy creative template.", "Owns the 'career switch' creative playbook that upGrad's brochure ads cede; engineer audience overlap is high for DS/AI programs."]
+  ],
+  "wins": [
+    ["WIN 1 - Creative: 30 Alumni-Outcome UGC Reels (Salary Hike, Promotion, Hiring Manager)",
+     "Shoot 30 sixty-second vertical Reels monthly featuring real alumni: (a) 10 salary-hike stories (before/after CTC, role transition), (b) 8 promotion/career-switch narratives (non-tech to PM, SDE to ML eng), (c) 6 hiring-manager/mentor credibility clips, (d) 6 student-experience reels (weekend class, live project, capstone). Lead each hook with a specific number ('Rs.8 Lakh to Rs.23 Lakh in 13 months') in the first 3 seconds. Replace 40% of brochure-university creatives with alumni UGC; pair every university-logo ad with an alumni UGC variant in the same ad set to run a direct A/B. Expected: CTR +35-55%, CPL -25-35%, lead-to-call +40-70%. Edtech benchmarks show outcome UGC delivers 2-3x higher lead-to-call CVR vs brochure-led creative.",
+     "#10B981", "#E6FBF3"],
+    ["WIN 2 - CRO: Higher-Intent Lead Forms + Program-Specific Landing Pages with Placement Proof",
+     "Switch Instant Forms from default 'More Volume' to Meta's <b>Higher Intent</b> form type with a review step; add 2 qualifying multiple-choice questions (years of work-ex + target intake window) to filter tire-kickers; cap fields at 3 (name/email/phone pre-filled). Replace generic brochure-gate landing pages with program-specific pages: sticky CTA bar, above-fold placement stat (avg. CTC hike, hiring partners, placement support), 3 alumni video testimonials, EMI calculator, and <b>calendar-book with a counselor</b> as the primary CTA (not 'Download Brochure'). Expected: form completion -5% volume but lead-to-call show-rate +40-60%, qualified-lead CVR +30-50%.",
+     "#F59E0B", "#FEF6E1"],
+    ["WIN 3 - Tracking: CAPI Wired to Qualified-Lead + Enrollment Events + Outcome-Layered Retargeting",
+     "Upgrade Meta CAPI to fire <b>QualifiedLead</b> (counselor call completed) and <b>Enrollment</b> (fee paid) events back to Meta - not just form-submit. Wire CRM status back so the algorithm optimizes toward paying learners, not brochure downloaders. Build 4 retargeting audiences layered by funnel depth: (1) page-view no form-fill -> serve alumni outcome Reels + hiring partners, (2) form-fill no call-book -> serve EMI/no-cost-EMI + time-commitment objection handlers, (3) call-attended no-enroll -> serve live Q&A invites + cohort-urgency, (4) past-program alumni -> serve referral / up-sell to next-degree. Add a 24h 'incomplete form' reminder sequence via WhatsApp/email. Expected: recapture 15-25% of stalled leads; ROAS on retargeting +50-80%; CAC -20% within 30 days of CAPI event upgrade.",
+     "#4C27E0", "#EDE8FF"]
+  ],
+  "impact": [
+    ["Metric", "Current (est.)", "After Wins", "Impact"],
+    ["CPL (qualified lead, Meta)", "Baseline = 100", "65-75", "-25% to -35%"],
+    ["Lead-to-counselor-call show-rate", "18-28%", "40-55%", "+40% to +60%"],
+    ["Lead-to-enrollment CVR", "Baseline = 100", "120-135", "+20% to +35%"],
+    ["Ad Spend Wastage", "~35-45%", "~15-20%", "Saves ~Rs.80L-1.4 Cr/mo"]
+  ],
+  "outreach": [
+    ["Subject A (Roast-Audit): I counted 100 upGrad ads - 3 leaks costing ~Rs.1 Cr/mo while Simplilearn grows 65%",
+     "Hi {first_name},<br/><br/>I spent 30 minutes on upgrad.com plus your Meta Ad Library. You are running <b>~100 ads</b> across MBA/Data Science/AI with Rs.304 Cr FY25 ad spend, but I spotted three leaks costing an estimated <b>~Rs.1 Cr/mo</b> in lead quality and CPL.<br/><br/>1. <b>~60-70% of creative leads with 'Download Brochure'</b> rather than alumni outcome stories. Working professionals buy CTC jumps and promotions, not PDFs. Edtech benchmarks show alumni UGC delivers 2-3x higher lead-to-call conversion.<br/>2. <b>Lead forms default to More Volume</b> instead of Meta's Higher Intent with 2 qualifying questions. Industry-wide, brochure-gated leads produce 18-28% counselor-call show-rate vs 40-55% for qualified outcome-led funnels.<br/>3. <b>Retargeting stays brochure-generic</b> instead of layering placement proof (avg. CTC hike), hiring partners, EMI, and objection-handling creative across 7/14/30-day pools.<br/><br/>With ad spend -11% YoY and EBITDA just turned positive (Rs.15 Cr), a 25% CPL lift is ~Rs.60 Cr annualized back to the bottom line. I put together a 2-page branded audit with screenshots, competitor benchmarks vs Simplilearn/Great Learning/Scaler, and three 7/10/14-day quick wins. Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"],
+    ["Subject B (Loom Script - 30 sec):",
+     "\"Hey - I recorded a 4-minute screen recording going through your top 10 ad creatives on Meta right now. Three things jumped out: (1) almost everything leads with 'Download Brochure', not alumni outcomes - I show a side-by-side with how Simplilearn handles the same DS/AI prospect, (2) your lead form is 6 fields with no Higher Intent toggle, which is burning your sales team on tire-kickers, and (3) retargeting creatives are identical to cold creatives. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"],
+    ["Subject C (FOMO): Simplilearn grew live-learning 65% YoY on UGC Reels - you are still leading with brochures",
+     "Hi {first_name},<br/><br/>Simplilearn grew live-learning revenue 65% YoY (Rs.556 Cr FY25), Great Learning hit Rs.847 Cr/quarter (+33%), and Scaler owns the 'salary jump' UGC template for engineers. Meanwhile upGrad's Meta library is ~70% brochure-download / university-logo creatives.<br/><br/>The gap is creative-to-lead-quality, not budget. I put together a 7-day creative test plan (3 alumni-outcome reels vs 3 brochure ads, same audience, same budget) with predicted CPL and lead-to-call impact based on edtech benchmarks.<br/><br/>Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"]
+  ]
+}

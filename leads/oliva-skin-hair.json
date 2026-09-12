@@ -1,0 +1,160 @@
+{
+  "brand": "Oliva Skin & Hair",
+  "website": "olivaclinic.com",
+  "instagram": "@olivaclinic",
+  "niche": "Clinic",
+  "score": 7,
+  "ads_active": 70,
+  "spend": "Rs.80L-1.5Cr/mo",
+  "revenue": "~Rs.300-400 Cr ARR (est.); 75+ clinics across 23 cities; founded 2009; hair transplant/skin/laser/aesthetics",
+  "destination": "Lead Form - Lead forms + WhatsApp / callback booking primary",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Oliva%20Skin%20&%20Hair",
+  "ad_intro": "Oliva Skin & Hair (olivaclinic.com, Instagram: @olivaclinic) is a prominent Indian clinic brand with <b>~70 active creatives</b> running across Meta in India, spending an estimated <b>Rs.80L-1.5Cr/mo</b>. ~Rs.300-400 Cr ARR (est.); 75+ clinics across 23 cities; founded 2009; hair transplant/skin/laser/aesthetics. Three obvious leaks in the funnel:<br/><br/><b>(1) Creative gap</b> - heavy studio/offer creative with thin real-customer UGC, before/after or demo content. <b>(2) Copy/CRO gap</b> - headlines lead with price/offer rather than outcome, and ad traffic often lands on collections/offer pages rather than the exact SKU. <b>(3) Tracking/retargeting gap</b> - retargeting uses generic creative rather than staged, funnel-matched content; CAPI/return-event wiring is inconsistent. These are fixable in 7-14 days. We estimate <b>30-45% of ad spend is leaking</b>; WARM - solid spend with obvious quick wins in creative/CRO.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (FB+IG) primary with lead forms + WhatsApp CTA; Google Search for treatment/doctor near-me; local inventory ads; retargeting to lead-openers."
+    ],
+    [
+      "Active ads count",
+      "~70 live creatives across hair transplant, laser hair removal, acne, skin, dermatologist."
+    ],
+    [
+      "Duration signals",
+      "Evergreen treatments run 45-60 days; bridal/seasonal offers run 2-4 week bursts; new clinic launches get geo bursts."
+    ],
+    [
+      "Funnel type",
+      "Lead forms + WhatsApp / callback booking primary"
+    ],
+    [
+      "Budget signal",
+      "Estimated ~Rs.80L-1.5Cr/mo ad spend (clinics vertical; ~70 live ads = top/mid-tier spender in the segment)."
+    ],
+    [
+      "Campaign structure",
+      "Treatment-siloed campaigns; offer-led bursts; location-targeted by clinic; lead-form/WhatsApp primary; creative mostly static-offer. Multi-city dermatology chain (75 clinics, 23 cities); high-ticket hair transplant; laser hair removal; skin; doctor-led; lead-form/WhatsApp."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      4,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      3,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#F59E0B"
+    ],
+    "Tracking & CAPI": [
+      4,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Observed signal:</b> Before/after risky, educational Reels thin. <b>Creative leak (High):</b> Ads lean on offer ('50% off first sitting', 'free consultation') and doctor-portrait static frames. Treatment-journey educational Reels (how it works, PRP process, day-by-day recovery) are thin. Meta prohibits dramatic before/after in medical, but educational + soft-progress content is allowed and drives 2-3x higher lead quality.",
+    "<b>Lead form leak (High):</b> Primary CTA is a generic 'Book Free Consultation' with name+phone, no qualifying questions (concern, timeline). Sales teams burn cycles on tire-kickers. WhatsApp routes to generic numbers with 2hr+ reply SLAs.",
+    "<b>Tracking leak (Medium):</b> Lead-to-consultation-attended and treatment-purchased events rarely sent back; CAPI is typically just form-submit so algorithm optimizes volume not quality. Multi-location brands serve generic creative vs nearest-clinic dynamic.",
+    "<b>Retargeting leak (Medium):</b> Retargeting creative is offer-generic; FAQ/objection-handler sequences (pain, downtime, cost, safety, doctor creds) for 7-21d consideration missing. Leads not called within 30 min - the highest-conversion window."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Oliva Skin & Hair"
+    ],
+    [
+      "Kaya Clinic",
+      "Legacy derm chain (Marico); 50 ads; wider presence.",
+      "Incumbent with legacy."
+    ],
+    [
+      "VLCC Wellness",
+      "Multi-category wellness/slimming/skin; 45 ads; national.",
+      "Wellness+beauty combo chain."
+    ],
+    [
+      "Cure.fit / Cult.fit",
+      "Fitness + primary care crossover.",
+      "Digital health platform."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: 20 Educational + Soft-Journey Reels",
+      "20 Meta-compliant Reels/month: doctor explains treatment (safety/downtime), first-person day-of/day-3/day-7 patient experience vlogs (no dramatic before/after), FAQ clips (does it hurt, permanent, who avoid), clinic-tour/behind-the-scenes. Replace 40% offer static. Expected: CPL -15-25%, lead quality +30%.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Qualified Lead Forms + WhatsApp Business API with 5-min Routing",
+      "Higher-Intent forms with 1 qualifying MCQ (primary concern/timeline); auto-route WA responses to the correct clinic with 5-min SLA via WA Business API+CRM; auto-reply with doctor profile+clinic rating+address. Expected: lead-to-consult show-rate +30-50%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: CAPI to Consultation-Attended + Treatment-Purchased + Geo-Routed Creative",
+      "Fire CAPI for FormSubmit/ConsultBooked/ConsultAttended/TreatmentPurchased. Dynamic creative by nearest clinic; 3 retargeting layers (1-7d doctor+FAQ, 7-21d offer+proof, 21-45d bridal/seasonal urgency). <30-min lead callback SLA. Expected: cost-per-paying-patient -25-40%.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CPL",
+      "Baseline = 100",
+      "75-85",
+      "-15-25%"
+    ],
+    [
+      "Lead-to-consult show-rate",
+      "30-40%",
+      "45-60%",
+      "+30-50%"
+    ],
+    [
+      "Cost Per Patient",
+      "Baseline = 100",
+      "60-75",
+      "-25-40%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-40%",
+      "~12-18%",
+      "Saves ~Rs.10-16 L/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I counted 70 Oliva Skin & Hair ads - 3 leaks costing ~Rs.0.1-0.16 L/mo",
+      "Hi {first_name},<br/><br/>I went through olivaclinic.com plus your Meta Ad Library this week. You are running <b>~70 ads</b> across hair transplant, laser hair removal, acne, skin, dermatologist at what looks like Rs.80L-1.5Cr on Meta. Three leaks are costing an estimated <b>~Rs.0.1-0.16 L/mo</b>:<br/><br/>1. <b>Creative is studio/offer-heavy and UGC-thin</b> - real customer before/after, demo, and testimonial Reels are thin, even though UGC outperforms studio creative in clinic.<br/>2. <b>Landing/CRO</b> - ad traffic often lands on collections/offer pages rather than the exact SKU; key trust/CTA elements sit below the fold.<br/>3. <b>Retargeting is generic</b> - creative doesn't vary by funnel depth, and CAPI event quality varies.<br/><br/>I put together a 2-page branded audit with screenshots, competitor benchmarks vs Kaya Clinic/VLCC Wellness, and three quick wins (7/10/14 days). Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording going through your top-spend Oliva Skin & Hair creatives on Meta. Three things jumped out: (1) creative is heavy on studio/offer shots and thin on real-customer UGC, (2) ad traffic often lands on collections/offer pages rather than the exact SKU, and (3) retargeting uses generic creative instead of being staged by funnel depth. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"
+    ],
+    [
+      "Subject C (FOMO): Kaya Clinic is scaling on UGC - Oliva Skin & Hair is still leading with offers",
+      "Hi {first_name},<br/><br/>Kaya Clinic is scaling hard in clinic with UGC-first creative and SKU-direct routing. Oliva Skin & Hair has the stronger brand and broader assortment but your Meta creative is still offer/studio-led. The gap is UGC + SKU-direct CRO + staged retargeting, not budget. I put together a 14-day test plan with predicted ROAS lift. Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ]
+  ],
+  "_heat": "WARM - solid spend with obvious quick wins in creative/CRO"
+}

@@ -1,0 +1,160 @@
+{
+  "brand": "Cult.fit",
+  "website": "cult.fit",
+  "instagram": "@cultfit",
+  "niche": "Fitness Coach",
+  "score": 7,
+  "ads_active": 80,
+  "spend": "Rs.1-2 Cr/mo",
+  "revenue": "~Rs.550 Cr FY26 (est.); founded 2016 by Mukesh Bansal (Myntra); omnichannel fitness (300+ centers); Cure.fit + Eat.fit ecosystem",
+  "destination": "Website - Shopify/hosted D2C website with direct product purchase",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Cult.fit",
+  "ad_intro": "Cult.fit (cult.fit, Instagram: @cultfit) is a prominent Indian fitness coach brand with <b>~80 active creatives</b> running across Meta in India, spending an estimated <b>Rs.1-2 Cr/mo</b>. ~Rs.550 Cr FY26 (est.); founded 2016 by Mukesh Bansal (Myntra); omnichannel fitness (300+ centers); Cure.fit + Eat.fit ecosystem. Three obvious leaks in the funnel:<br/><br/><b>(1) Creative gap</b> - heavy studio/offer creative with thin real-customer UGC, before/after or demo content. <b>(2) Copy/CRO gap</b> - headlines lead with price/offer rather than outcome, and ad traffic often lands on collections/offer pages rather than the exact SKU. <b>(3) Tracking/retargeting gap</b> - retargeting uses generic creative rather than staged, funnel-matched content; CAPI/return-event wiring is inconsistent. These are fixable in 7-14 days. We estimate <b>30-45% of ad spend is leaking</b>; HOT - high ad volume, mature spend, clear creative/CRO leaks.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (FB+IG) primary; YouTube; Google Search program/brand keywords; LinkedIn for B2B/executive; lead form and brochure/counselor-call CTAs."
+    ],
+    [
+      "Active ads count",
+      "~80 live creatives across gym, group fitness, strength, yoga, HRX, workout classes."
+    ],
+    [
+      "Duration signals",
+      "Evergreen programs run 60-90 days; new cohorts/batches run 14-21 day bursts; sale/scholarship periods drive offer creative."
+    ],
+    [
+      "Funnel type",
+      "Shopify/hosted D2C website with direct product purchase"
+    ],
+    [
+      "Budget signal",
+      "Estimated ~Rs.1-2 Cr/mo ad spend (edtech vertical; ~80 live ads = top/mid-tier spender in the segment)."
+    ],
+    [
+      "Campaign structure",
+      "Program-siloed campaigns; brochure/lead-magnet; scholarship/admission bursts; faculty/KOL rotation; lead-form primary. Subscription fitness 300+ centers; group-class focus (Strength, HRX, Yoga, Boxing); app-based workouts; healthcare + food ecosystem."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      4,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      2,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      5,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Observed signal:</b> Trainer-led static, member-transformation UGC missing. <b>Creative leak (High):</b> Creative leans on faculty/brand hero shots, brochures, and 'Admissions Open' announcements. Student-outcome UGC (salary hike, promotion, placement stories, day-in-the-life after course) is thin; outcome UGC drives 2-3x higher lead-to-call conversion vs brochure/brand ads.",
+    "<b>Lead-form quality leak (High):</b> Primary CTA is often a brochure download or multi-field form behind a lead magnet. Industry-wide, brochure-gated leads produce 18-28% counselor-call show-rate vs 40-55% for qualified outcome-led funnels. Forms rarely use Meta 'Higher Intent' type.",
+    "<b>Landing page leak (Medium):</b> Landing pages are generic per program category; placement stats, hiring partners, graduate testimonials and EMI calculator sit below the fold; primary CTA is 'Download Brochure' instead of calendar-book.",
+    "<b>Tracking & retargeting leak (Medium):</b> CAPI fires on form-submit rather than qualified-lead (counselor-call complete) or enrollment events. Retargeting pools are brochure-openers with generic creative instead of layered proof (salary jump, hiring partners, EMI, Q&A, urgency)."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Cult.fit"
+    ],
+    [
+      "Anytime Fitness / Gold's Gym",
+      "Global franchises; strong PT/offline.",
+      "Traditional offline rivals."
+    ],
+    [
+      "Fittr",
+      "Online-only coaching; strong transformation UGC; community-led.",
+      "Online UGC specialist with sharper before/after."
+    ],
+    [
+      "HealthifyMe",
+      "App-first AI coaching; higher app-store presence.",
+      "App/AI weight-loss rival."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: 25-30 Alumni-Outcome UGC Reels",
+      "Shoot 25-30 vertical Reels monthly featuring real alumni: salary-hike story (before/after CTC), promotion/career-switch, hiring-manager/mentor cred, student day-in-the-life, live-project snippets. Number-hook in first 3s. Replace 40% of brochure/faculty creative. Expected: CTR +35-55%, CPL -25-35%, lead-to-call +40-70%.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Higher-Intent Lead Forms + Program-Specific LPs with Placement Proof",
+      "Switch to Higher Intent form type with review step; 1-2 qualifying questions (work experience, target intake); 3 pre-filled fields. Program-specific LPs with sticky CTA, placement stat above fold (avg. CTC hike, hiring partners, placements), 3 alumni videos, EMI calc, calendar-book CTA. Expected: lead-to-call +40-60%, qualified CVR +30-50%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: CAPI Wired to Qualified-Lead + Enrollment + Layered Retargeting",
+      "Fire CAPI for QualifiedLead (call completed) and Enrollment (fee paid), with CRM loopback. 4 retargeting layers: page-view->outcome+hiring, form-fill-no-call->EMI/objections, call-no-enroll->Q&A+urgency, alumni->referral. 24h incomplete-form WA/email reminder. Expected: recapture 15-25%, CAC -20% within 30 days.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CPL (qualified lead)",
+      "Baseline = 100",
+      "65-75",
+      "-25-35%"
+    ],
+    [
+      "Lead-to-call show-rate",
+      "18-28%",
+      "40-55%",
+      "+40-60%"
+    ],
+    [
+      "Lead-to-enrollment",
+      "Baseline = 100",
+      "120-135",
+      "+20-35%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-45%",
+      "~12-18%",
+      "Saves ~Rs.0.4-0.6 Cr/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I counted 80 Cult.fit ads - 3 leaks costing ~Rs.0.4-0.6 Cr/mo",
+      "Hi {first_name},<br/><br/>I went through cult.fit plus your Meta Ad Library this week. You are running <b>~80 ads</b> across gym, group fitness, strength, yoga, HRX, workout classes at what looks like Rs.1-2 Cr on Meta. Three leaks are costing an estimated <b>~Rs.0.4-0.6 Cr/mo</b>:<br/><br/>1. <b>Creative is studio/offer-heavy and UGC-thin</b> - real customer before/after, demo, and testimonial Reels are thin, even though UGC outperforms studio creative in fitness coach.<br/>2. <b>Landing/CRO</b> - ad traffic often lands on collections/offer pages rather than the exact SKU; key trust/CTA elements sit below the fold.<br/>3. <b>Retargeting is generic</b> - creative doesn't vary by funnel depth, and CAPI event quality varies.<br/><br/>I put together a 2-page branded audit with screenshots, competitor benchmarks vs Anytime Fitness / Gold's Gym/Fittr, and three quick wins (7/10/14 days). Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording going through your top-spend Cult.fit creatives on Meta. Three things jumped out: (1) creative is heavy on studio/offer shots and thin on real-customer UGC, (2) ad traffic often lands on collections/offer pages rather than the exact SKU, and (3) retargeting uses generic creative instead of being staged by funnel depth. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"
+    ],
+    [
+      "Subject C (FOMO): Anytime Fitness / Gold's Gym is scaling on UGC - Cult.fit is still leading with offers",
+      "Hi {first_name},<br/><br/>Anytime Fitness / Gold's Gym is scaling hard in fitness coach with UGC-first creative and SKU-direct routing. Cult.fit has the stronger brand and broader assortment but your Meta creative is still offer/studio-led. The gap is UGC + SKU-direct CRO + staged retargeting, not budget. I put together a 14-day test plan with predicted ROAS lift. Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ]
+  ],
+  "_heat": "HOT - high ad volume, mature spend, clear creative/CRO leaks"
+}

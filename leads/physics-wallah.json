@@ -1,0 +1,61 @@
+{
+  "brand": "Physics Wallah",
+  "website": "pw.live",
+  "instagram": "@physicswallah",
+  "niche": "Edtech / JEE / NEET / UPSC",
+  "score": 7,
+  "ads_active": 180,
+  "spend": "Rs.5-10 Cr",
+  "revenue": "Rs.2,887 Cr FY25",
+  "destination": "Website traffic to batch signup/enrolment (primary)",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Physics%20Wallah",
+  "ad_intro": "Physics Wallah (pw.live) is one of India's largest performance advertisers in edtech. We identified <b>~180 active creatives</b> running across Meta in India (JEE, NEET, UPSC, school prep, PW Skills, Vidyapeeth). Estimated spend is <b>Rs.5-10 Cr/mo</b>; the brand scaled to <b>Rs.2,887 Cr FY25 revenue</b> after its November 2025 IPO.<br/><br/><b>The funnel leaks at three obvious points:</b> (1) Creative fatigue: over 80% of ads reuse the same teacher/founder talking-head template with very little UGC or testimonial variety. (2) Landing page: ad traffic lands on a 35+ course catalog homepage with no course-specific personalisation, slow mobile, and is routed through the third-party shortener <font face='Courier'>oaluzu.short.gy</font>, which adds a redirect hop and breaks pixel/attribution. (3) Tracking: the site is a React/Next app; we could not detect a live Meta Pixel/GTM container on first paint (likely client-side/lazy), meaning undercounted conversions and weak retargeting.<br/><br/>These are <b>fixable in 7 days</b>. We estimate 25-40% of ad spend is wasted. Strong HOT lead.",
+  "ad_intelligence": [
+    ["Active platforms", "Meta (Facebook + Instagram) primary; YouTube Search/Shorts likely; Google Search for brand terms."],
+    ["Active ads count", "~180 live creatives across JEE, NEET, UPSC, GATE, Banking, PW Skills, Vidyapeeth, CuriousJr, PW Gulf."],
+    ["Duration signals", "Several batch-launch creatives running over 30 days - winner ads, but high creative-fatigue risk."],
+    ["Funnel type", "Website traffic to batch signup/enrolment (primary). App install for Earners/PW Talk app secondary. Lead-form for NSAT scholarship."],
+    ["Budget signal", "180+ ads + Rs.5-10 Cr/mo = heavy scaler, top-decile edtech spender in India."],
+    ["Campaign structure", "Category-siloed by exam; high ad load suggests Advantage+ Creative with thin concept testing."]
+  ],
+  "scores": {
+    "Creative Variety": [3, "#EF4444"],
+    "UGC & Social Proof": [2, "#EF4444"],
+    "Copy & Hook Strength": [5, "#F59E0B"],
+    "Landing Page CRO": [4, "#EF4444"],
+    "Tracking & CAPI": [4, "#EF4444"],
+    "Retargeting Depth": [3, "#EF4444"]
+  },
+  "findings": [
+    "<b>Creative leak:</b> Most ads follow one formula: Alakh Pandey / faculty talking-head, bold yellow LAKSHYA/YAKEEN batch graphic, end-card price. Very few student UGC, result-topper interviews, parent testimonials, or Vidyapeeth walkthrough Reels. Thumbnail testing is weak.",
+    "<b>Copy leak:</b> Over-reliance on discount/promo angles (\"Rs.4500 only\", \"Batch starting soon\"). Missing angles: topper case study, parent ROI, failure-avoidance (\"don't drop another year\"). Hooks lead with brand, not pain point.",
+    "<b>Landing page leak:</b> Ad traffic goes to generic pw.live homepage or short-link redirects (oaluzu.short.gy/iit-jee). No course-specific landing pages; no sticky CTA on mobile; hero is logo + carousel with no social proof above the fold; mobile TTI is high due to large webp banners.",
+    "<b>Tracking leak:</b> Pixel/CAPI not visibly firing on first paint (JS app). Ad links use third-party shortener which strips UTM. Dedicated retargeting creatives not observed; retargeting appears one-size-fits-all."
+  ],
+  "competitors": [
+    ["Competitor", "What they do better", "Signal for PW"],
+    ["Unacademy (now with upGrad)", "Stronger educator-UGC mix; problem-solving Reels; course-level retargeting.", "PW creative is still founder-centric; needs educator variety."],
+    ["Vedantu", "Personalised landing pages per ad (city/class/batch); heavy use of topper video testimonials.", "PW homepage is a generic catalog - burns ad traffic."],
+    ["Adda247 / Testbook", "Leaderboard/AIR result creatives; lead-form ads with instant PDF magnet.", "PW can deploy free mock-test lead magnets to lower CPQL."]
+  ],
+  "wins": [
+    ["WIN 1 - Creative: Deploy 15 UGC / Result Topper Reels", "Shoot 15 fifteen-second Reels: (a) recent top-100 AIR students describing \"how PW helped\", (b) 5 parent testimonials, (c) 5 Vidyapeeth classroom walkthroughs. Replace 30% of active talking-head creatives. Expected: CTR +25 to 40%, CPA -15 to 25% within 10 days. Edtech benchmarks show UGC Reels beat founder talking-head by roughly 2x CTR.", "#10B981", "#E6FBF3"],
+    ["WIN 2 - CRO: Course-Specific Landing Pages + Kill the Shortlinks", "Route every ad directly to pw.live/<exam> with UTMs, not through short.gy. Build a dedicated landing page per batch: hero = batch name + faculty + topper photo + sticky \"Enroll Now\" CTA + countdown timer. Add topper AIR count and parent reviews above the fold. Lazy-load non-critical hero images to cut mobile TTI by about 2 seconds. Expected: CVR +30 to 50%.", "#F59E0B", "#FEF6E1"],
+    ["WIN 3 - Tracking: Server-Side CAPI + Enrollment-Funnel Retargeting", "Ensure Meta Pixel + CAPI fire on /signup, /enroll, /pay server-side (not lazy client) so iOS17+ and ad-blockers don't drop events. Build three retargeting audiences: (i) visited batch page but didn't sign up, (ii) signed up but didn't pay, (iii) started payment but dropped. Run dedicated testimonial + FOMO creatives per audience. Expected: recapture 10-15% of dropped enrollments; improve reporting accuracy by roughly 30%.", "#4C27E0", "#EDE8FF"]
+  ],
+  "impact": [
+    ["Metric", "Current (est.)", "After Wins", "Impact"],
+    ["CTR (Meta)", "1.0-1.3%", "1.6-2.0%", "+30-50%"],
+    ["Landing Page CVR", "2.8-3.5%", "4.2-5.2%", "+40-50%"],
+    ["Cost Per Enrollment", "Baseline = 100", "65-75", "-25-35%"],
+    ["Ad Spend Wastage", "~35-45%", "~15-20%", "Saves Rs.1.5-3 Cr/mo"]
+  ],
+  "outreach": [
+    ["Subject A (Roast-Audit): I counted 180 PW ads - 3 leaks costing ~Rs.2 Cr/mo",
+     "Hi Alakh / PW growth team,<br/><br/>I spent 30 minutes on pw.live plus your Meta Ad Library. You are running <b>~180 ads</b> and the creative team is clearly working hard. But I spotted three leaks that, from what I can see, cost roughly 25-40% of ad spend: (1) 80% of ads use the same faculty talking-head template - no topper UGC, (2) ad traffic goes through short.gy to a generic homepage instead of a batch-specific page, (3) Pixel/CAPI events appear to fire late so retargeting leaks enrollments.<br/><br/>I built a 2-page confidential audit showing exactly what to fix and what ROAS lift to expect. Can I send it over? A 15-minute call if any of it lands.<br/><br/>- Smart Pursuit  |  Ph: 7095024220"],
+    ["Subject B (Loom Script - 30 sec):",
+     "\"Hey - I recorded a 3-minute screen recording of your PW funnel. In the first 60 seconds I show which 30 of your 180 Meta ads are fatiguing (same creative since early August); in minute 2 I land on pw.live on my phone and show why the CTA is below the fold on a 4G user; in minute 3 I show a topper-UGC ad from Vedantu doing 2x the CTR of your founder ads. Happy to send it - where should I ping it (WhatsApp / email)?\""],
+    ["Subject C (FOMO): Unacademy is testing topper-reels retargeting - you are not",
+     "Hi,<br/><br/>While auditing PW I noticed Unacademy is running heavy topper-result Reels into an enrollment-funnel retargeting audience, and their CPA is reported roughly 30% lower than last quarter. Your creative is still faculty talking-head heavy and retargeting appears one-size-fits-all.<br/><br/>I put together a 3-win, 7-day playbook for PW to close this gap. 15 minutes to walk through?<br/><br/>- Smart Pursuit"]
+  ]
+}

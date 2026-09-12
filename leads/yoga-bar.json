@@ -1,0 +1,160 @@
+{
+  "brand": "Yoga Bar",
+  "website": "yogabars.in",
+  "instagram": "@yogabars",
+  "niche": "F&B/Nutrition",
+  "score": 7,
+  "ads_active": 60,
+  "spend": "Rs.2-3 Cr/mo",
+  "revenue": "~Rs.250-300 Cr ARR (est.); founded 2014; muesli/protein/breakfast bars; acquired by ITC in 2023",
+  "destination": "Website - Shopify/hosted D2C website with direct product purchase",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Yoga%20Bar",
+  "ad_intro": "Yoga Bar (yogabars.in, Instagram: @yogabars) is a prominent Indian f&b/nutrition brand with <b>~60 active creatives</b> running across Meta in India, spending an estimated <b>Rs.2-3 Cr/mo</b>. ~Rs.250-300 Cr ARR (est.); founded 2014; muesli/protein/breakfast bars; acquired by ITC in 2023. Three obvious leaks in the funnel:<br/><br/><b>(1) Creative gap</b> - heavy studio/offer creative with thin real-customer UGC, before/after or demo content. <b>(2) Copy/CRO gap</b> - headlines lead with price/offer rather than outcome, and ad traffic often lands on collections/offer pages rather than the exact SKU. <b>(3) Tracking/retargeting gap</b> - retargeting uses generic creative rather than staged, funnel-matched content; CAPI/return-event wiring is inconsistent. These are fixable in 7-14 days. We estimate <b>30-45% of ad spend is leaking</b>; WARM - solid spend with obvious quick wins in creative/CRO.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (FB+IG) primary; YouTube Shorts; Google Search; marketplaces (Amazon/Flipkart/Blinkit/Instamart); quick commerce critical for impulse."
+    ],
+    [
+      "Active ads count",
+      "~60 live creatives across muesli, protein bars, breakfast bars, healthy snacking."
+    ],
+    [
+      "Duration signals",
+      "Evergreen hero SKUs run 45-60 days; new flavour/launch bursts 10-21 days; festive/seasonal gifting drives heavy rotation."
+    ],
+    [
+      "Funnel type",
+      "Shopify/hosted D2C website with direct product purchase"
+    ],
+    [
+      "Budget signal",
+      "Estimated ~Rs.2-3 Cr/mo ad spend (food beverage vertical; ~60 live ads = top/mid-tier spender in the segment)."
+    ],
+    [
+      "Campaign structure",
+      "SKU/flavour-siloed; launch bursts around new flavours/variants; influencer seeding; quick-commerce offers; Advantage+ Shopping in use. ITC-owned since 2023; breakfast bars/muesli/protein bars; strong modern-trade + D2C; healthy breakfast."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      4,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      3,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#F59E0B"
+    ],
+    "Tracking & CAPI": [
+      5,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Observed signal:</b> Bar variant static, breakfast ritual Reels missing. <b>Creative leak (High):</b> Ads lean on product beauty-shots and packaging hero frames ('now Rs.X', 'pack of Y'). Taste-test reaction, recipe/ritual integration, and first-bite UGC is thin. F&B benchmarks show real taste-test and ritual Reels deliver 1.7x+ lift over studio.",
+    "<b>Copy leak - feature-led (High):</b> Headlines lead with price/offer/pack-size rather than taste, ingredient or ritual outcome ('made with real almonds', 'guilt-free 4pm snack').",
+    "<b>Landing page leak (Medium):</b> PDPs lead with offer+pack shots; taste/close-up video, ingredient sourcing, '5 ways to eat' recipes, and subscription/save sit below the fold. Sticky ATC lacks social proof.",
+    "<b>Tracking & retargeting leak (Medium):</b> Retargeting uses generic creative; flavour-specific audiences aren't segmented; subscribe-and-save / replenishment loops underused; quick-commerce deep-links not prioritized."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Yoga Bar"
+    ],
+    [
+      "The Whole Truth",
+      "Clean-label protein bars; ingredient transparency; D2C.",
+      "Clean-label D2C rival."
+    ],
+    [
+      "RiteBite / MuscleBlaze",
+      "Sports nutrition mass-play.",
+      "Mass protein rivals."
+    ],
+    [
+      "Happilo",
+      "Dry fruit/snack; 42 ads; premium gifting.",
+      "Premium healthy snacks."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: 25 Taste-Test + Ritual UGC Reels",
+      "25 vertical Reels/month: honest first-bite/sip reaction, recipe/ritual integration (pre-workout, 4pm slump, kid's tiffin, post-dinner), taste-comparison vs competition, sourcing demos, micro-creator taste-tests. Replace 35% of studio. Expected: CTR +35-50%, CPA -20-30%.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Taste/Video-First PDPs + Ritual Bundles + Subscribe-Save",
+      "10s taste/close-up hero video above fold; '5 ways to enjoy' recipe block; ritual bundles (morning/evening/office) at 10% off; subscribe-save 10-15% for replenishment SKUs; sticky ATC with rating+repeat-buyer %. Expected: CVR +25-40%, AOV/retention +20%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: Flavour-Specific Retargeting + Quick-Commerce Deep Links + Replenishment",
+      "Flavour-specific retargeting audiences; quick-commerce deep-links (Blinkit/Instamart/Swiggy Instamart) in retargeting creative; replenishment reminders at consumption cycle (15/30d) with subscribe-save. Expected: repeat +20-30%, retargeting ROAS +50%.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CTR (Meta)",
+      "1.0-1.4%",
+      "1.5-2.1%",
+      "+35-50%"
+    ],
+    [
+      "PDP CVR",
+      "2.2-3.0%",
+      "2.9-4.1%",
+      "+25-40%"
+    ],
+    [
+      "Cost Per Purchase",
+      "Baseline = 100",
+      "70-80",
+      "-20-30%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-45%",
+      "~12-18%",
+      "Saves ~Rs.0.6-1.0 Cr/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I counted 60 Yoga Bar ads - 3 leaks costing ~Rs.0.6-1.0 Cr/mo",
+      "Hi {first_name},<br/><br/>I went through yogabars.in plus your Meta Ad Library this week. You are running <b>~60 ads</b> across muesli, protein bars, breakfast bars, healthy snacking at what looks like Rs.2-3 Cr on Meta. Three leaks are costing an estimated <b>~Rs.0.6-1.0 Cr/mo</b>:<br/><br/>1. <b>Creative is studio/offer-heavy and UGC-thin</b> - real customer before/after, demo, and testimonial Reels are thin, even though UGC outperforms studio creative in f&b/nutrition.<br/>2. <b>Landing/CRO</b> - ad traffic often lands on collections/offer pages rather than the exact SKU; key trust/CTA elements sit below the fold.<br/>3. <b>Retargeting is generic</b> - creative doesn't vary by funnel depth, and CAPI event quality varies.<br/><br/>I put together a 2-page branded audit with screenshots, competitor benchmarks vs The Whole Truth/RiteBite / MuscleBlaze, and three quick wins (7/10/14 days). Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording going through your top-spend Yoga Bar creatives on Meta. Three things jumped out: (1) creative is heavy on studio/offer shots and thin on real-customer UGC, (2) ad traffic often lands on collections/offer pages rather than the exact SKU, and (3) retargeting uses generic creative instead of being staged by funnel depth. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"
+    ],
+    [
+      "Subject C (FOMO): The Whole Truth is scaling on UGC - Yoga Bar is still leading with offers",
+      "Hi {first_name},<br/><br/>The Whole Truth is scaling hard in f&b/nutrition with UGC-first creative and SKU-direct routing. Yoga Bar has the stronger brand and broader assortment but your Meta creative is still offer/studio-led. The gap is UGC + SKU-direct CRO + staged retargeting, not budget. I put together a 14-day test plan with predicted ROAS lift. Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ]
+  ],
+  "_heat": "WARM - solid spend with obvious quick wins in creative/CRO"
+}

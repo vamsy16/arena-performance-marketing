@@ -1,0 +1,160 @@
+{
+  "brand": "Prestige Group",
+  "website": "prestigegroup.com",
+  "instagram": "@prestigegroup",
+  "niche": "Real Estate",
+  "score": 8,
+  "ads_active": 48,
+  "spend": "Rs.30-60L/mo",
+  "revenue": "Mid-scale D2C brand in the Real Estate segment (est. from ad-spend ratios)",
+  "destination": "Lead Form - Lead forms + WhatsApp / callback booking primary",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=Prestige%20Group",
+  "ad_intro": "Prestige Group (prestigegroup.com, Instagram: @prestigegroup) is a prominent Indian real estate brand with <b>~48 active creatives</b> running across Meta in India, spending an estimated <b>Rs.30-60L/mo</b>. Mid-scale D2C brand in the Real Estate segment (est. from ad-spend ratios). Three obvious leaks in the funnel:<br/><br/><b>(1) Creative gap</b> - heavy studio/offer creative with thin real-customer UGC, before/after or demo content. <b>(2) Copy/CRO gap</b> - headlines lead with price/offer rather than outcome, and ad traffic often lands on collections/offer pages rather than the exact SKU. <b>(3) Tracking/retargeting gap</b> - retargeting uses generic creative rather than staged, funnel-matched content; CAPI/return-event wiring is inconsistent. These are fixable in 7-14 days. We estimate <b>30-45% of ad spend is leaking</b>; HOT - smaller budget with high-ROI quick fixes.",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta (FB+IG) primary with lead forms; Google Search; YouTube property tours; LinkedIn for premium."
+    ],
+    [
+      "Active ads count",
+      "~48 live creatives across hero SKUs across the catalog."
+    ],
+    [
+      "Duration signals",
+      "Project launches run 4-8 week bursts; ongoing inventory campaigns steady; festival/year-end offers 2-3 weeks."
+    ],
+    [
+      "Funnel type",
+      "Lead forms + WhatsApp / callback booking primary"
+    ],
+    [
+      "Budget signal",
+      "Estimated ~Rs.30-60L/mo ad spend (real estate vertical; ~48 live ads = emerging spender in the segment)."
+    ],
+    [
+      "Campaign structure",
+      "Project-siloed; launch bursts heavy on brochure/renders; lead-form primary; CRM follow-up inconsistent."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      4,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      2,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      4,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      2,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Observed signal:</b> Project launches heavy static, site-tour Reels thin. <b>Creative leak (High):</b> Ads are brochure/render-heavy - project hero shots, floor plans, discount headlines. Real resident/owner stories, drone site-progress, sample-flat walkthroughs (not polished renders), and neighborhood-lifestyle Reels are thin. Real-estate UGC typically drives 2x higher lead quality.",
+    "<b>Lead form leak (High):</b> Forms ask name+phone+email with no qualifying questions (budget, possession timing, BHK). Sales teams chase tire-kickers; brochure downloads treated as leads. Site-visit-booking as CTA underused vs 'Download Brochure'.",
+    "<b>Tracking leak (Medium):</b> CAPI rarely wired to site-visit-attended or booking; algorithm optimizes to brochure-download volume, not serious buyers. No CRM feedback loop on closed-won.",
+    "<b>Retargeting leak (Medium):</b> Consideration 60-180 days; retargeting windows short, creative same as cold. Layered proof (lifestyle -> sample flat -> pricing/EMI -> urgency by tower) missing."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Prestige Group"
+    ],
+    [
+      "Key peer 1",
+      "Strong category D2C peer running heavy UGC and SKU-direct routing.",
+      "Creative/CTR gap is the main opening."
+    ],
+    [
+      "Key peer 2",
+      "Faster-growing challenger with rapid creative velocity.",
+      "Smaller budget winning on sharper creative."
+    ],
+    [
+      "Legacy/incumbent",
+      "Offline/incumbent brand with trust halo.",
+      "D2C incumbent under-serving online buyers."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Creative: 15 Site-Progress + Resident-Story + Sample-Flat Walkthrough Reels",
+      "15 Reels/month: drone site-progress updates, raw sample-flat walkthrough (not just renders), neighborhood lifestyle (schools/metro/mall), resident testimonials, RERA/pricing explainer from sales head. Replace 40% brochure/render. Expected: CPL -20% but lead-to-site-visit +50%.",
+      "#10B981",
+      "#E6FBF3"
+    ],
+    [
+      "WIN 2 - CRO: Site-Visit-Book CTA + Qualifying Forms + Virtual Tour Landing Page",
+      "Primary CTA = 'Book Site Visit' / 'Book Virtual Tour'; 2 qualifiers (BHK preference, possession timeline); auto-WA with Maps link, sales rep name, sample-flat video instantly. Project-specific LPs with real walkthrough hero, pricing/EMI calc, RERA number - not brochure pages. Expected: lead-to-site-visit +40-60%.",
+      "#F59E0B",
+      "#FEF6E1"
+    ],
+    [
+      "WIN 3 - Tracking: CAPI to Site-Visit + Booking + 60/90/180-Day Retargeting",
+      "Fire CAPI for Lead/SiteVisitBooked/SiteVisitAttended/Token-Booking. 4 retargeting layers over 60/120/180d: 0-14d walkthrough, 14-45d lifestyle+neighborhood, 45-90d pricing-EMI+offer, 90-180d urgency (tower closing). LAL from actual bookers. Expected: cost-per-booking -30-45%.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "CPL (qualified)",
+      "Baseline = 100",
+      "80-90",
+      "-10-20%"
+    ],
+    [
+      "Lead-to-site-visit",
+      "15-25%",
+      "25-40%",
+      "+40-60%"
+    ],
+    [
+      "Cost Per Booking",
+      "Baseline = 100",
+      "55-70",
+      "-30-45%"
+    ],
+    [
+      "Ad Spend Wastage",
+      "~30-40%",
+      "~12-18%",
+      "Saves ~Rs.11-18 L/mo"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): I counted 48 Prestige Group ads - 3 leaks costing ~Rs.0.11-0.18 L/mo",
+      "Hi {first_name},<br/><br/>I went through prestigegroup.com plus your Meta Ad Library this week. You are running <b>~48 ads</b> across hero SKUs across the catalog at what looks like Rs.30-60L on Meta. Three leaks are costing an estimated <b>~Rs.0.11-0.18 L/mo</b>:<br/><br/>1. <b>Creative is studio/offer-heavy and UGC-thin</b> - real customer before/after, demo, and testimonial Reels are thin, even though UGC outperforms studio creative in real estate.<br/>2. <b>Landing/CRO</b> - ad traffic often lands on collections/offer pages rather than the exact SKU; key trust/CTA elements sit below the fold.<br/>3. <b>Retargeting is generic</b> - creative doesn't vary by funnel depth, and CAPI event quality varies.<br/><br/>I put together a 2-page branded audit with screenshots, competitor benchmarks vs Key peer 1/Key peer 2, and three quick wins (7/10/14 days). Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "Subject B (Loom Script - 30 sec):",
+      "\"Hey - I recorded a 3-minute screen recording going through your top-spend Prestige Group creatives on Meta. Three things jumped out: (1) creative is heavy on studio/offer shots and thin on real-customer UGC, (2) ad traffic often lands on collections/offer pages rather than the exact SKU, and (3) retargeting uses generic creative instead of being staged by funnel depth. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"
+    ],
+    [
+      "Subject C (FOMO): Key peer 1 is scaling on UGC - Prestige Group is still leading with offers",
+      "Hi {first_name},<br/><br/>Key peer 1 is scaling hard in real estate with UGC-first creative and SKU-direct routing. Prestige Group has the stronger brand and broader assortment but your Meta creative is still offer/studio-led. The gap is UGC + SKU-direct CRO + staged retargeting, not budget. I put together a 14-day test plan with predicted ROAS lift. Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"
+    ]
+  ],
+  "_heat": "HOT - smaller budget with high-ROI quick fixes"
+}

@@ -1,0 +1,68 @@
+{
+  "brand": "The Derma Co",
+  "website": "thedermaco.com",
+  "instagram": "@thedermaco",
+  "niche": "D2C Derma Skincare / Actives-based Beauty",
+  "score": 8,
+  "ads_active": 95,
+  "spend": "Rs.3-4 Cr/mo",
+  "revenue": "Rs.1,000+ Cr FY26 (Tracxn); Rs.500 Cr ARR hit Apr 2024; grew 30%+ YoY; EBITDA positive YTD; Honasa Consumer portfolio",
+  "destination": "Shopify (thedermaco.com IN; separate .store for US/intl) - product/collection PDPs",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&country=IN&q=The%20Derma%20Co",
+  "ad_intro": "The Derma Co (thedermaco.com, founded 2020 by Varun & Ghazal Alagh, Honasa Consumer) is India's fastest-growing actives-based derma skincare brand, crossing <b>Rs.1,000 Cr annual revenue</b> in FY26 and hitting EBITDA positive. We identified <b>~95 active creatives</b> running across Meta in India, spending an estimated <b>Rs.3-4 Cr/mo</b> on hero SKUs: 1% Hyaluronic Sunscreen Aqua Gel (SPF 50 PA++++), 10% Vitamin C Serum, 2% Kojic Acid Serum, 2% Salicylic Acid Face Wash, and acne patches.<br/><br/><b>Three obvious leaks in the funnel:</b> (1) <b>Heavy promo + doctor-led creative, thin real-customer UGC</b> - ads are dominated by 'X% off' discount hooks plus dermatologist-as-spokesperson shots, while customer before/after transformation, texture demos and 30-day journey reels are thin even though beauty benchmarks show before/after UGC delivers <b>2.3x higher ROAS</b> than brand creative. (2) <b>Discount anchoring erodes AOV and retention</b> - high %-off promos train buyers to deal-hunt; sunscreens and serums are replenishment goods, not impulse buys, and the creative under-indexes on regimen/routine bundling. (3) <b>Portfolio audience bleed + weak SKU retargeting</b> - running inside Honasa alongside Mamaearth/Aqualogica/Dr Sheth's/BBlunt without cross-brand suppression, plus PDP-view to ATC retargeting appears generic-brand rather than SKU-specific before/after.<br/><br/>Competitive heat is rising: <b>Foxtale raised $56.8M (Series C)</b> and runs 87% PDP-routed ads with heavy close-up before/after UGC, Deconstruct is Kalaari/Beenext-backed ingredient-minimalism, and Minimalist (HUL-owned) dominates ingredient-percentage trust. With Honasa pushing Derma Co + Dr Sheth's as the next growth engine to a Rs.5,000 Cr group target by 2030, ad efficiency directly compounds. We estimate <b>35-45% of ad spend is leaking</b>; HOT lead.",
+  "ad_intelligence": [
+    ["Active platforms", "Meta (FB+IG) primary; Google Search for ingredient/concern keywords (sunscreen, vitamin c serum, kojic acid, salicylic acid); Amazon/Flipkart marketplace ads; quick commerce (Blipit/Instamart) 5% of sales growing; US/intl on separate thedermaco.store Shopify."],
+    ["Active ads count", "~95 live creatives across hero SKUs: 1% Hyaluronic Sunscreen (SPF 50), 10% Vit C Serum, 2% Kojic Acid Serum, 2% Salicylic Acid Face Wash, acne patches, sunscreen stick, anti-acne, open-pores, pigmentation ranges."],
+    ["Duration signals", "Hero SKUs (sunscreen, salicylic wash) run 45+ day evergreen with heavy discount rotation; new launches run 14-21 day influencer-burst windows; promo creative (flat 30-40% off) dominates sale periods leading to promo-fatigue."],
+    ["Funnel type", "Shopify D2C; heavy discount-led (B2G1, flat % off); dermatologist/doctor credibility hooks; app not primary; quiz/routine-finder exists but under-promoted in ads."],
+    ["Budget signal", "Rs.3-4 Cr/mo on Meta conservatively (brand at Rs.1,000 Cr revenue with 30%+ growth, Honasa group ad scale, 95 ads live). Top-tier Indian derma-skincare spender alongside Minimalist/Foxtale."],
+    ["Campaign structure", "SKU-siloed by concern (acne/pigmentation/suncare); promo bursts around sale days; influencer/derm KOL rotation; Advantage+ Shopping likely in use but creative refresh cadence is slow; sister-brand overlap with Mamaearth/Aqualogica/Dr Sheth's audiences not segmented."]
+  ],
+  "scores": {
+    "Creative Variety": [4, "#EF4444"],
+    "UGC & Social Proof": [3, "#EF4444"],
+    "Copy & Hook Strength": [4, "#EF4444"],
+    "Landing Page CRO": [4, "#EF4444"],
+    "Tracking & CAPI": [5, "#F59E0B"],
+    "Retargeting Depth": [3, "#EF4444"]
+  },
+  "findings": [
+    "<b>Creative leak:</b> Ad mix is heavy on discount announcements (\"Flat 30% off\", \"Buy 2 Get 1\") and dermatologist-spokesperson studio shots, while real-customer transformation content (28-day acne clearing, 30-day pigmentation fade, texture close-ups, application routine) is thin. Skincare benchmarks (Monaqo/Agora 2025) show before/after UGC delivers <b>2.3x ROAS over brand creative</b> in beauty, with before/after-with-specific-concern identification being the winning format. The derm-cred positioning is strong but overused as the only hook, making creative feel repetitive.",
+    "<b>Copy leak - discount anchoring:</b> Headlines over-index on price/promo (\"Flat 30% off\", \"Starting Rs.299\") rather than skin-outcome (\"Active acne in 14 days\", \"Pigmentation -60% in 28 days\"). For actives-based derma skincare at Rs.300-800 price points, buyers choose on clinical proof + peer results before price. Heavy discounting also trains repeat purchase behavior to wait for sales, eroding replenishment LTV in a category where 45-90 day repeat is the profit engine.",
+    "<b>Landing page leak:</b> PDPs lead with offer banners and product beauty shots, but texture-close-up GIFs, in-use demo videos, day-by-day result carousels, and regimen-bundling (\"Complete your 3-step AM routine\") sit below the fold. Sticky ATC on mobile shows price but not star-rating + review count + 'X people bought this in last 24h' social proof. Quiz/routine-finder exists but ad traffic lands on SKU PDPs rather than concern-specific routine pages.",
+    "<b>Tracking & portfolio leak:</b> As a Honasa brand sharing ad accounts/infrastructure with Mamaearth, Aqualogica, BBlunt and Dr Sheth's, there is likely audience bleed (a buyer of Mamaearth Ubtan face wash doesn't want Derma Co salicylic ads served to them) and CAPI event dedup between sister brands needs verification. Retargeting appears to use generic brand creative rather than SKU-specific before/after per audience (PDP-view-no-ATC, ATC-no-purchase, past-purchaser cross-sell, replenishment-at-45-days)."
+  ],
+  "competitors": [
+    ["Competitor", "What they do better", "Signal for The Derma Co"],
+    ["Foxtale", "$56.8M Series C (Panthera/Z47); 450K branded searches/mo (-9%); 87% of ad traffic routed to PDPs (HQ Digital); heavy close-up before/after UGC; fast creative velocity.", "Direct actives-cohort rival outspending on paid with UGC-first creative template - the gap is creative, not budget."],
+    ["Minimalist (HUL-backed)", "Ingredient-% transparency (5% Niacinamide, 10% Vit C labels); 550K branded searches/mo; FMCG distribution + capital muscle post HUL 90.5% acquisition.", "Derma Co's ingredient-% positioning is correct but creative doesn't hero specific % claims at thumbstop the way Minimalist does."],
+    ["Deconstruct", "Kalaari/Beenext-backed (Series A $10.4M); ingredient-specific SKU storytelling (e.g. Vitamin C #1 in prompt funnel per HQ Digital); minimal-pack aesthetic; founder-led content.", "Smaller budget but sharper ingredient-minimalism positioning; eating search demand on specific actives."]
+  ],
+  "wins": [
+    ["WIN 1 - Creative: 30 Real-Customer Transformation UGC Reels (28-Day Journeys, Texture, Derm Q&A)",
+     "Shoot 30 vertical Reels monthly: (a) 8 before/after 14/28-day journeys (acne clearing, pigmentation fade, open-pores tightening, sunscreen glow) with real customers and specific day-stamps, (b) 8 texture + application demos (\"sinks in 30 seconds\", \"no white cast\", \"pill-free under makeup\"), (c) 6 derm-Q&A educational clips (not selling - \"Can I use salicylic + niacinamide together?\") to build trust, (d) 4 routine-integration clips (AM/PM for oily/acne-prone), (e) 4 unsponsored-looking unboxing/first-impression clips from micro-creators (10K-100K). Pair every promo ad with a UGC variant per ad set; cap promo-led creative at 30% of spend. Expected: ROAS +40-60% on top-spend SKUs, CPA -25-35%. Before/after UGC is the highest-ROAS format in Indian skincare per 2026 benchmarks.",
+     "#10B981", "#E6FBF3"],
+    ["WIN 2 - CRO: Outcome-First PDPs + Regimen Bundles + Sticky Social-Proof ATC",
+     "On top 10 SKUs: move the hero banner from 'Flat X% off' to an outcome statement (\"28 days to visibly clearer acne\") with small offer badge; add texture GIF, 15-second in-use video and day-1/7/14/28 result strip above the fold; add sticky mobile ATC with price, star rating, review count and 'X bought in last 24h' FOMO; introduce concern-specific regimen bundles (AM + PM for acne-prone; pigmentation routine) at 10% bundle discount vs single-SKU discounting, which lifts AOV 25-40%; route ad traffic to concern-landing pages (acne/pigmentation/suncare) rather than SKU PDPs where users can self-select into a 3-step routine. Add a lightweight 'Find your routine' quiz on the landing page (3-4 questions) that routes to bundle pages. Expected: PDP CVR +30-45%, AOV +20-25%.",
+     "#F59E0B", "#FEF6E1"],
+    ["WIN 3 - Tracking: Honasa Portfolio CAPI + Sister-Brand Suppression + SKU Replenishment Loops",
+     "Audit Meta CAPI across Honasa brands for proper server-side event dedup and cross-brand user stitching. Add <b>audience suppression</b> between sister brands (if user purchased Mamaearth or Aqualogica in last 60 days, don't serve Derma Co retinol/sunscreen ads unless they explicitly engaged with Derma Co content) to stop portfolio cannibalization. Build 5 SKU-specific retargeting audiences: (1) PDP-view no ATC -> texture demo + derm explanation, (2) ATC no purchase -> review snippets + small offer, (3) first-purchase at 30 days -> rest-of-routine cross-sell, (4) replenishment reminders at 45/60/75 days for sunscreens/serums/washes, (5) past 2x+ buyers -> VIP early access + referral. Add a 'subscribe & save' option for replenishment SKUs. Expected: retargeting ROAS +50-80%, repeat rate +15-25%, cannibalization waste cut ~20%.",
+     "#4C27E0", "#EDE8FF"]
+  ],
+  "impact": [
+    ["Metric", "Current (est.)", "After Wins", "Impact"],
+    ["CTR (Meta)", "0.9-1.3%", "1.5-2.1%", "+40-60%"],
+    ["PDP CVR (Shopify)", "2.2-2.8%", "3.0-4.0%", "+30-45%"],
+    ["AOV", "Baseline = 100", "120-125", "+20-25% (bundles)"],
+    ["Cost Per Purchase", "Baseline = 100", "62-75", "-25-38%"],
+    ["Ad Spend Wastage", "~35-45%", "~12-18%", "Saves ~Rs.1-1.6 Cr/mo"]
+  ],
+  "outreach": [
+    ["Subject A (Roast-Audit): I counted 95 Derma Co ads - 3 leaks costing ~Rs.1+ Cr/mo while Foxtale takes actives UGC share",
+     "Hi {first_name},<br/><br/>I went through thedermaco.com plus your Meta Ad Library this week. You are running <b>~95 ads</b> across sunscreens, Kojic Acid, Salicylic Acid and Vit C at what looks like Rs.3-4 Cr/mo on Meta, but three leaks are costing an estimated <b>Rs.1+ Cr/mo</b>:<br/><br/>1. <b>~60% of creative is discount + dermatologist-spokesperson shots</b>, while real-customer before/after UGC (28-day acne/pigmentation journeys) is thin - and skincare benchmarks peg before/after UGC at 2.3x ROAS over brand creative.<br/>2. <b>Heavy promo anchoring trains buyers to deal-hunt</b> instead of buying into regimen/routine bundling, which caps AOV and erodes replenishment LTV on a 45-90 day repeat category.<br/>3. <b>Portfolio audience bleed between Honasa brands</b> (Mamaearth/Aqualogica/Dr Sheth's/BBlunt) likely cannibalizes retargeting; CAPI dedup + suppression lists would cut waste ~20%.<br/><br/>With the brand crossing Rs.1,000 Cr and Honasa pushing Derma Co as a core engine toward Rs.5,000 Cr group by 2030, these are high-leverage fixes. I put together a 2-page branded audit with screenshots, competitor benchmarks vs Foxtale/Minimalist/Deconstruct, and 3 quick wins (7/10/14 days). Open to sharing it?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"],
+    ["Subject B (Loom Script - 30 sec):",
+     "\"Hey - I recorded a 3-minute screen recording going through your top-spend creatives on Meta. Three things jumped out: (1) almost everything leads with a discount or a derm talking at camera, whereas Foxtale is winning the actives buyer with close-up before/after, (2) your PDP shows offer and product shot first, texture demo and day-by-day results sit below the fold, and (3) retargeting is generic brand creative instead of SKU-specific before/after per funnel stage. I have a 2-page audit with 3 quick wins - can I send it over?\"<br/><br/>Best,<br/>Smart Pursuit"],
+    ["Subject C (FOMO): Foxtale raised $56.8M Series C on UGC before/after Reels - you are still leading with 'Flat 30% off'",
+     "Hi {first_name},<br/><br/>Foxtale just closed a $56.8M Series C (Panthera, Z47) and is scaling hard on actives buyers with close-up 28-day transformation Reels and 87% PDP routing. Deconstruct owns Vitamin C search in the AI prompt funnel per HQ Digital. Minimalist (HUL) has FMCG distribution muscle.<br/><br/>The Derma Co has stronger derm credibility and Honasa's infrastructure, but your Meta creative is still ~60% promo-led. The gap is outcome UGC + bundle CRO, not budget. I put together a 7-day creative + landing-page test plan with predicted ROAS lift. Open to sending it over?<br/><br/>Best,<br/>Smart Pursuit | Ph: 7095024220 | smartpursuit3@gmail.com"]
+  ]
+}
