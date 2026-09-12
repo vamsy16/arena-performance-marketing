@@ -1,0 +1,13 @@
+# Output folders for audit runs
+__pycache__/
+*.pyc
+preview_pages/
+download.html
+
+# Don't commit day-2+ audits by default? No - commit them all so the team can see.
+# We DO commit audits/, outreach/, leads/, reports/.
+__pycache__/
+__pycache__/
+preview_pages/
+__pycache__/
+preview_pages/
