@@ -1,1 +1,418 @@
-{"brands":{},"total_found":0,"daily_log":[],"vertical":"solar"}
+{
+  "brands": {
+    "Amplus Solar": {
+      "first_seen": "2026-09-14T06:02:34.801833",
+      "day": 1,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "segment": "B"
+    },
+    "Freyr Energy": {
+      "first_seen": "2026-09-14T06:02:34.801998",
+      "day": 1,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "segment": "R"
+    },
+    "Solex Energy": {
+      "first_seen": "2026-09-14T06:02:34.802083",
+      "day": 1,
+      "city": "Surat",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "RenewSys India": {
+      "first_seen": "2026-09-14T06:02:34.802147",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "B"
+    },
+    "Mahindra Susten": {
+      "first_seen": "2026-09-14T06:02:34.802991",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "B"
+    },
+    "Vikram Solar": {
+      "first_seen": "2026-09-14T06:02:34.803120",
+      "day": 1,
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "segment": "B"
+    },
+    "Insolation Energy": {
+      "first_seen": "2026-09-14T06:02:34.803191",
+      "day": 1,
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "segment": "B"
+    },
+    "CRI Pumps Solar": {
+      "first_seen": "2026-09-14T06:02:34.803265",
+      "day": 1,
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "segment": "B"
+    },
+    "Gautam Solar": {
+      "first_seen": "2026-09-14T06:02:34.803336",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "B"
+    },
+    "Microtek Solar": {
+      "first_seen": "2026-09-14T06:02:34.803399",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "C"
+    },
+    "Navitas Solar": {
+      "first_seen": "2026-09-14T06:02:34.803466",
+      "day": 1,
+      "city": "Surat",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "Fourth Partner Energy": {
+      "first_seen": "2026-09-14T06:02:34.803525",
+      "day": 1,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "segment": "B"
+    },
+    "Gensol Engineering": {
+      "first_seen": "2026-09-14T06:02:34.803620",
+      "day": 1,
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "SolarSquare": {
+      "first_seen": "2026-09-14T06:02:34.803689",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "R"
+    },
+    "Swelect Energy Systems": {
+      "first_seen": "2026-09-14T06:02:34.803748",
+      "day": 1,
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "segment": "C"
+    },
+    "Tata Power Solar": {
+      "first_seen": "2026-09-14T06:02:34.803802",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "B"
+    },
+    "Goldi Solar": {
+      "first_seen": "2026-09-14T06:02:34.803856",
+      "day": 1,
+      "city": "Surat",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "Ayana Renewable Power": {
+      "first_seen": "2026-09-14T06:02:34.803969",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "B"
+    },
+    "Smarten Power Systems": {
+      "first_seen": "2026-09-14T06:02:34.804034",
+      "day": 1,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "segment": "C"
+    },
+    "Okaya Power": {
+      "first_seen": "2026-09-14T06:02:34.804092",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "C"
+    },
+    "Rayzon Solar": {
+      "first_seen": "2026-09-14T06:02:34.804147",
+      "day": 1,
+      "city": "Surat",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "Luminous Solar": {
+      "first_seen": "2026-09-14T06:02:34.804203",
+      "day": 1,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "segment": "C"
+    },
+    "UTL Solar": {
+      "first_seen": "2026-09-14T06:02:34.804260",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "C"
+    },
+    "Jakson Solar": {
+      "first_seen": "2026-09-14T06:02:34.804315",
+      "day": 1,
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "segment": "B"
+    },
+    "Sungrow India": {
+      "first_seen": "2026-09-14T06:02:34.804371",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "B"
+    },
+    "Fenice Energy": {
+      "first_seen": "2026-09-14T06:02:34.804424",
+      "day": 1,
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "segment": "R"
+    },
+    "Amp Energy India": {
+      "first_seen": "2026-09-14T06:02:34.804482",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "B"
+    },
+    "V-Guard Solar": {
+      "first_seen": "2026-09-14T06:02:34.804537",
+      "day": 1,
+      "city": "Kochi",
+      "state": "Kerala",
+      "segment": "C"
+    },
+    "Loom Solar": {
+      "first_seen": "2026-09-14T06:02:34.804633",
+      "day": 1,
+      "city": "Faridabad",
+      "state": "Haryana",
+      "segment": "C"
+    },
+    "Radiance Renewables": {
+      "first_seen": "2026-09-14T06:02:34.804694",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "B"
+    },
+    "Emmvee Solar": {
+      "first_seen": "2026-09-14T06:02:34.804752",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "C"
+    },
+    "Exide Solar": {
+      "first_seen": "2026-09-14T06:02:34.804856",
+      "day": 1,
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "segment": "C"
+    },
+    "SunSource Energy": {
+      "first_seen": "2026-09-14T06:02:34.804937",
+      "day": 1,
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "segment": "B"
+    },
+    "MYSUN": {
+      "first_seen": "2026-09-14T06:02:34.804998",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "R"
+    },
+    "Adani Solar": {
+      "first_seen": "2026-09-14T06:02:34.805064",
+      "day": 1,
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "segment": "B"
+    },
+    "Sunlit Future": {
+      "first_seen": "2026-09-14T06:02:34.805120",
+      "day": 1,
+      "city": "Auroville",
+      "state": "Tamil Nadu",
+      "segment": "R"
+    },
+    "Shakti Pumps Solar": {
+      "first_seen": "2026-09-14T06:02:34.805183",
+      "day": 1,
+      "city": "Pithampur",
+      "state": "Madhya Pradesh",
+      "segment": "B"
+    },
+    "ZunRoof": {
+      "first_seen": "2026-09-14T06:02:34.805239",
+      "day": 1,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "segment": "R"
+    },
+    "Racold Solar": {
+      "first_seen": "2026-09-14T06:02:34.805293",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "C"
+    },
+    "Premier Energies": {
+      "first_seen": "2026-09-14T06:02:34.805404",
+      "day": 1,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "segment": "B"
+    },
+    "Sunsure Energy": {
+      "first_seen": "2026-09-14T06:02:34.805463",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "B"
+    },
+    "Arka Energy": {
+      "first_seen": "2026-09-14T06:02:34.805518",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "R"
+    },
+    "Nuetech Solar": {
+      "first_seen": "2026-09-14T06:02:34.805612",
+      "day": 1,
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "segment": "C"
+    },
+    "Hero Future Energies": {
+      "first_seen": "2026-09-14T06:02:34.805682",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "B"
+    },
+    "Servotech Renewable": {
+      "first_seen": "2026-09-14T06:02:34.805738",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "B"
+    },
+    "Oorjan Cleantech": {
+      "first_seen": "2026-09-14T06:02:34.805793",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "R"
+    },
+    "Solar Universe India": {
+      "first_seen": "2026-09-14T06:02:34.805847",
+      "day": 1,
+      "city": "New Delhi",
+      "state": "Delhi",
+      "segment": "C"
+    },
+    "Livguard Solar": {
+      "first_seen": "2026-09-14T06:02:34.805901",
+      "day": 1,
+      "city": "Gurugram",
+      "state": "Haryana",
+      "segment": "C"
+    },
+    "Waaree Energies": {
+      "first_seen": "2026-09-14T06:02:34.805955",
+      "day": 1,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "segment": "B"
+    },
+    "Sudarshan Saur": {
+      "first_seen": "2026-09-14T06:02:34.806009",
+      "day": 1,
+      "city": "Pune",
+      "state": "Maharashtra",
+      "segment": "C"
+    }
+  },
+  "total_found": 50,
+  "daily_log": [
+    {
+      "day": 1,
+      "date": "2026-09-14",
+      "count": 50,
+      "total_so_far": 50,
+      "segment_filter": "ALL",
+      "state_filter": "ALL",
+      "brands": [
+        "Amplus Solar",
+        "Freyr Energy",
+        "Solex Energy",
+        "RenewSys India",
+        "Mahindra Susten",
+        "Vikram Solar",
+        "Insolation Energy",
+        "CRI Pumps Solar",
+        "Gautam Solar",
+        "Microtek Solar",
+        "Navitas Solar",
+        "Fourth Partner Energy",
+        "Gensol Engineering",
+        "SolarSquare",
+        "Swelect Energy Systems",
+        "Tata Power Solar",
+        "Goldi Solar",
+        "Ayana Renewable Power",
+        "Smarten Power Systems",
+        "Okaya Power",
+        "Rayzon Solar",
+        "Luminous Solar",
+        "UTL Solar",
+        "Jakson Solar",
+        "Sungrow India",
+        "Fenice Energy",
+        "Amp Energy India",
+        "V-Guard Solar",
+        "Loom Solar",
+        "Radiance Renewables",
+        "Emmvee Solar",
+        "Exide Solar",
+        "SunSource Energy",
+        "MYSUN",
+        "Adani Solar",
+        "Sunlit Future",
+        "Shakti Pumps Solar",
+        "ZunRoof",
+        "Racold Solar",
+        "Premier Energies",
+        "Sunsure Energy",
+        "Arka Energy",
+        "Nuetech Solar",
+        "Hero Future Energies",
+        "Servotech Renewable",
+        "Oorjan Cleantech",
+        "Solar Universe India",
+        "Livguard Solar",
+        "Waaree Energies",
+        "Sudarshan Saur"
+      ]
+    }
+  ],
+  "vertical": "solar"
+}
