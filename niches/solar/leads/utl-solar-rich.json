@@ -1,0 +1,196 @@
+{
+  "brand": "UTL Solar",
+  "website": "utlsolar.com -&gt; redirects to upsinverter.com/utl/",
+  "instagram": "@utlsolar",
+  "segment": "D2C Solar Products + Rooftop Solar (listed manufacturer)",
+  "city": "New Delhi (regd) / Greater Noida (corp)",
+  "state": "Delhi NCR",
+  "capacity": "1-10 kW rooftop + 522 product SKUs",
+  "active_ads": 8,
+  "ads_active": "8",
+  "destination": "Website",
+  "spend_est": "&lt;1L/mo",
+  "spend": "Under Rs.1 L/mo est.\n(Day-1) - tiny vs\nRs.12,700 Cr m-cap",
+  "revenue": "Q1FY27 net sales\nRs.1,345.69 Cr -\nNSE: UTLSOLAR",
+  "niche": "D2C Solar Products\n+ Rooftop - 725\ndistributors / 5,546\ndealers",
+  "leak": "Amazon/Flipkart listings not linked from ads (trust gap)",
+  "data_source": "verified-live-2026-09-14",
+  "verify": "check Meta Ad Library before outreach",
+  "score": 5,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=UTL+Solar",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=utlsolar.com",
+  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
+  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "found_at": "2026-09-14T06:02:34.804258",
+  "day_found": 1,
+  "audit_date": "14 September 2026",
+  "lead_number": 18,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "UTL Solar is now a listed company with a Rs.12,700 Cr market cap running a D2C storefront that sells almost nothing. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the Sold Out problem, the domain split and the missing subsidy page.",
+  "ad_intro": "UTL Solar is the most under-marketed brand in this Day-1 cohort. Since the stub was written the company has <b>listed on NSE and BSE as Fujiyama Power Systems Ltd (UTLSOLAR)</b>, carries a market cap of roughly <b>Rs.12,700-13,200 crore</b>, and posted <b>Q1 FY27 net sales of Rs.1,345.69 crore</b> - a single quarter larger than its entire FY24 revenue of Rs.934 crore. It commissioned a <b>1 GW Mono PERC DCR cell plant at Dadri in Jan 2026</b> and a <b>2,000 MW panel line at Ratlam in May 2026</b>, taking panel capacity to <b>3,568 MW</b>. And its consumer storefront, observed live on 14 Sep 2026, is running an estimated <b>8 Meta creatives on under Rs.1 lakh a month</b> into a shop where the flagship products are marked Sold Out.",
+  "ad_intelligence": [
+    [
+      "Live creatives",
+      "~8 active Meta ads (Day-1 estimate, 14 Sep 2026) at an estimated spend under Rs.1 lakh/month - negligible against a Rs.12,700 Cr market cap and Rs.1,345 Cr quarterly sales."
+    ],
+    [
+      "Destination",
+      "Website - but utlsolar.com does not host the shop. It resolves to <b>upsinverter.com/utl/</b>, a subfolder of a different brand's domain."
+    ],
+    [
+      "Real assets",
+      "Full WooCommerce store with live MRP and sale pricing, a WhatsApp Solar Assistant on <b>+91 92201 02888</b>, a dealer store locator, a solar calculator, Anil Kapoor as brand ambassador, and 'Most Trusted Brand under Rooftop Solar' creative."
+    ],
+    [
+      "Scale",
+      "Founded 1996 by Yogesh Dua and Pawan Garg. 522 SKUs, 4-5 manufacturing units, 725 distributors, 5,546 dealers, 1,100 exclusive Shoppe franchisees, 1 GW+ rooftop installed, exports to 10 countries."
+    ],
+    [
+      "Listed-company context",
+      "Q1FY27 net sales Rs.1,345.69 Cr, PAT Rs.57.8 Cr after a Rs.143.58 Cr exceptional item; stock ran from a 52-week low of Rs.172 to a high of Rs.494.25. Marketing claims are now investor-facing disclosures."
+    ]
+  ],
+  "scores": {
+    "Subsidy &amp; Scheme Clarity": [
+      3,
+      "#EF4444"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      7,
+      "#F59E0B"
+    ],
+    "Social Proof": [
+      4,
+      "#F59E0B"
+    ],
+    "Creative Variety": [
+      5,
+      "#F59E0B"
+    ],
+    "Landing / CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking &amp; Attribution": [
+      4,
+      "#F59E0B"
+    ]
+  },
+  "findings": [
+    "<b>1. The brand's own domain does not host the brand's own shop.</b> utlsolar.com resolves to <b>upsinverter.com/utl/</b> - the D2C storefront for a Rs.12,700 crore listed company lives in a subfolder of a legacy UPS-industry domain. Every ad click, every backlink, every review citation and every share builds authority for upsinverter.com rather than for the UTL Solar brand. On top of that the solar calculator is hosted on a third property, <b>utl-solar-calculator.vercel.app</b>, whose browser tab literally reads <b>'React App'</b>. That is three domains for one funnel, none of which is the one printed on the dealer signage.",
+    "<b>2. Almost every hero solar panel in the shop is marked Sold Out - while ads drive traffic to it.</b> Live on 14 Sep 2026, the Solar Panels row shows <b>Sold Out</b> on the 510W Bifacial N-Type TOPCon (Rs.22,906 struck through to Rs.12,110), the 40W Mono PERC (Rs.4,600 to Rs.1,270), the 280W TOPCon (Rs.18,760 to Rs.13,851), the 550W TOPCon Bi-Facial Dual Glass (Rs.28,626 to Rs.22,020) and the 275W TOPCon (Rs.13,494 to Rs.10,380). The discounts are enormous - 47% to 72% off - so the offer is doing its job and then colliding with an unbuyable button. This is a company that just commissioned 3,568 MW of panel capacity and 1 GW of captive cell capacity. The panels exist. The catalogue says they do not. Every rupee driving traffic to those product pages is buying a dead end and training the pixel on failure.",
+    "<b>3. The lead form tells the customer nobody will call them.</b> The contact form on the live site carries this line verbatim: <b>'No one will call you from UTL SOLAR. You have to contact the nearest dealer number received on WhatsApp.'</b> For a Rs.2-4 lakh rooftop decision, that sentence transfers the entire burden of follow-up onto the buyer at the exact moment they raised their hand. Speed-to-lead is the single strongest predictor of close rate in rooftop solar, and this funnel formally disclaims it. The WhatsApp Solar Assistant on 9220102888 is a genuinely good asset - it should be the promise, not the disclaimer.",
+    "<b>4. There is no PM Surya Ghar subsidy page, only a subsidy banner.</b> The site runs a 'Rooftop Solar System - Subsidy Available' creative with Anil Kapoor and a 'subsidy-solar-system' product category, but no page that states the actual slabs - <b>Rs.30,000 for 1 kW, Rs.60,000 for 2 kW, Rs.78,000 for 3 kW and above</b> - or explains DBT, the national portal, or DCR eligibility. That last omission is the strange one: UTL's Dadri line is a <b>Mono PERC DCR</b> cell facility and the shop already labels modules 'BIS-certified PV modules (DCR &amp; Non-DCR)'. DCR compliance is a hard requirement for PM Surya Ghar subsidy, and UTL is one of very few brands that can say 'our cells are made in India, so your subsidy is safe'. That is the most valuable sentence in Indian residential solar right now and it is not on the site.",
+    "<b>5. The testimonial wall is long, unverifiable and in places fake-looking.</b> The page carries roughly thirty reviews under the heading 'Google Reviews about UTL', but they are hand-placed on the site rather than pulled from a live Google feed, several share the same stock avatar, and some entries are not names at all - one is headed <b>'Google Reviews UTL'</b> and another <b>'SRS Enteraprises'</b> (misspelt, and duplicated later as 'SRS Enterprises' with identical text). One reviewer is listed as <b>'Miguel O hara'</b> - the name of the Spider-Man 2099 character - and another as <b>'Divesh 007'</b>. There is no star rating and no review count anywhere. Several genuinely useful reviews are buried in there (the 2 kW shop owner, the 4 kW hybrid buyer, the customer praising subsidy paperwork help), but the wall as a whole reads as padded, and a duplicated typo'd company name next to a comic-book character undermines the ones that are real.",
+    "<b>6. The calculator is an unbranded orphan that cannot capture a lead.</b> utl-solar-calculator.vercel.app is a bare React app - tab title 'React App', emoji headings, no UTL logo, no navigation back to the shop, and critically <b>no email or phone capture at any point</b>. A visitor sizes their entire system, reaches the recommendation, and can then simply close the tab. It is also load-and-backup sizing only: it never mentions subsidy, payback period, monthly bill savings or rupee price - the four things a residential buyer is actually calculating. The tool is decent engineering pointed at the wrong question.",
+    "<b>7. Spend is wildly out of proportion to the business, and the claims are now regulated.</b> An estimated sub-Rs.1 lakh monthly ad budget against Rs.1,345 crore of quarterly sales is effectively zero D2C demand generation from a company whose stock rose 153% from its March 2026 low on the strength of this exact rooftop story. Meanwhile the site's superlatives - 'Most Trusted Brand under the Rooftop Solar category', 'India's leading' - now sit on a listed entity where unsubstantiated marketing claims are a different class of risk than they were pre-IPO. Each needs a dated source line, and the numbers actually worth advertising (3,568 MW panel capacity, 1 GW captive DCR cells, 1 GW+ rooftop installed, 5,546 dealers, 1,100 Shoppe franchisees, 29 years) appear only in an About paragraph."
+  ],
+  "competitors": [
+    [
+      "Brand",
+      "Own domain hosts shop",
+      "Subsidy slabs page",
+      "Stock status",
+      "Calculator captures lead"
+    ],
+    [
+      "UTL Solar",
+      "No - upsinverter.com/utl/",
+      "No",
+      "Hero SKUs Sold Out",
+      "No"
+    ],
+    [
+      "Loom Solar",
+      "Yes",
+      "Yes",
+      "In stock",
+      "Yes"
+    ],
+    [
+      "Luminous Solar",
+      "Yes",
+      "Yes",
+      "In stock",
+      "Yes"
+    ],
+    [
+      "Solar Universe India",
+      "Split across 2 domains",
+      "No",
+      "Marketplace only",
+      "None"
+    ]
+  ],
+  "wins": [
+    [
+      "48 hours - make the shop buyable and the brand findable",
+      "Restock or delist the five Sold Out hero panels - never run traffic to an unbuyable SKU. Point utlsolar.com at the storefront as the canonical domain and 301 the upsinverter.com/utl/ paths to it. Delete 'No one will call you from UTL SOLAR' and replace it with the truth that actually sells: 'Your nearest UTL dealer will WhatsApp you within 30 minutes.'",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "7 days - ship the DCR subsidy page nobody else can write",
+      "One page with the correct Rs.30,000 / Rs.60,000 / Rs.78,000 slabs, DBT explained, and the line only UTL can say: our cells are made at our own 1 GW Mono PERC DCR plant at Dadri, so your PM Surya Ghar subsidy is not at risk. Rebrand the calculator, move it onto the main domain, and gate the recommendation behind a name and mobile number so it finally produces leads. Add subsidy, payback and monthly savings to its output.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "14 days - spend like the company you now are",
+      "Sub-Rs.1 lakh a month is not a budget, it is a rounding error against Rs.1,345 Cr a quarter. Build 20 creatives from evidence that is already audited and public: 3,568 MW panel capacity, 1 GW captive DCR cells, 1 GW+ rooftop installed, 5,546 dealers and 1,100 Shoppe franchisees, 29 years, Anil Kapoor. Split into a D2C product angle (real discounted prices, in stock) and a rooftop subsidy angle (DCR-safe). Fire distinct events for calculator-complete, dealer-locator-search, WhatsApp-click and add-to-cart, and retarget for 60 days. Put a star rating and a real review count on the testimonial wall or cut it.",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Today (14 Sep 2026)",
+      "After 30 days"
+    ],
+    [
+      "Canonical domain",
+      "upsinverter.com/utl/",
+      "utlsolar.com"
+    ],
+    [
+      "Hero panel SKUs",
+      "5 of 5 Sold Out",
+      "In stock or delisted"
+    ],
+    [
+      "Subsidy slabs page",
+      "None",
+      "Live + DCR proof point"
+    ],
+    [
+      "Calculator",
+      "Orphan, captures nothing",
+      "Branded + gated leads"
+    ],
+    [
+      "Lead promise",
+      "'No one will call you'",
+      "30-min dealer WhatsApp"
+    ],
+    [
+      "Creative pool",
+      "~8 at &lt;Rs.1 L/mo",
+      "20+ at a real budget"
+    ]
+  ],
+  "outreach": [
+    [
+      "UTL Solar - every hero panel in your shop says Sold Out",
+      "Hi Yogesh,\n\nI audited UTL Solar's consumer funnel this morning (14 Sep 2026). Congratulations on the listing and on Q1 FY27 - Rs.1,345 crore of net sales in one quarter is more than all of FY24.\n\nWhich is why what I found is hard to look at.\n\n1. Every hero solar panel on the shop is marked Sold Out. The 510W TOPCon Bifacial at Rs.12,110 down from Rs.22,906. The 550W dual glass. The 280W. The 275W. The 40W Mono PERC at Rs.1,270 down from Rs.4,600. Discounts of 47-72% - excellent offers - all attached to an unbuyable button. You just commissioned 3,568 MW of panel capacity and a 1 GW DCR cell line at Dadri. The panels exist; your catalogue says they don't.\n\n2. utlsolar.com doesn't host your shop. It resolves to upsinverter.com/utl/ - a subfolder of another domain. Your calculator is on a third property whose browser tab reads 'React App'.\n\n3. Your lead form says, word for word: 'No one will call you from UTL SOLAR. You have to contact the nearest dealer number received on WhatsApp.' On a Rs.2-4 lakh decision.\n\n4. No PM Surya Ghar slab page anywhere - and you're one of the only brands in India that can say 'our cells are DCR, made at our own plant, so your subsidy is safe.' That's the most valuable sentence in residential solar right now.\n\nAll of this is running on an estimated sub-Rs.1 lakh a month of Meta spend.\n\n15 minutes?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "WhatsApp / Loom script - 90 seconds",
+      "Hi, Smart Pursuit here - we do performance marketing only for solar brands.\n\nNinety seconds on UTL Solar, and it's mostly one screen.\n\nI opened your shop today. Scrolled to solar panels. Sold Out. Sold Out. Sold Out. Sold Out. Sold Out. Five hero SKUs, all with huge discounts attached - the 510W TOPCon at twelve thousand down from twenty-three - and none of them buyable. You've got 3,568 megawatts of panel capacity and a gigawatt of your own DCR cells at Dadri. The stock is up 153% from the March low on that story. And the storefront says you have nothing to sell.\n\nThree more, quickly. utlsolar.com isn't your shop - it redirects to upsinverter.com slash utl. Your calculator sits on a vercel link with 'React App' in the tab and captures no leads at all. And your enquiry form tells customers that nobody from UTL will call them.\n\nYou're running maybe eight ads on under a lakh a month while doing Rs.1,345 crore a quarter.\n\nI've got a one-page fix list - restock, one domain, a DCR subsidy page nobody else can write. Want it?"
+    ],
+    [
+      "Re: You own 1 GW of DCR cells. Your website never mentions the subsidy.",
+      "Hi Yogesh,\n\nPM Surya Ghar has now crossed 50.06 lakh households and 16,185 MW, with 34,219 registered vendors chasing the same residential buyer. DCR modules are mandatory for that subsidy - and most of those 34,219 vendors are buying their cells from someone else.\n\nUTL commissioned a 1 GW Mono PERC DCR cell facility at Dadri in January 2026, entirely captive. You make the cell, you make the panel, you make the inverter, you make the battery. No one else in the residential channel can make that claim as cleanly.\n\nYour website does not say it anywhere. There is no subsidy slab page at all - just a banner.\n\nMeanwhile the assets are already audited and public: 3,568 MW panel capacity, 1 GW+ rooftop installed, 725 distributors, 5,546 dealers, 1,100 Shoppe franchisees, 29 years, Anil Kapoor as ambassador, exports to 10 countries.\n\nThat is a category-defining story running on under Rs.1 lakh a month of ad spend, into a shop where the panels are marked Sold Out.\n\nWe fix exactly this, for solar brands only. 15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ]
+  ]
+}
