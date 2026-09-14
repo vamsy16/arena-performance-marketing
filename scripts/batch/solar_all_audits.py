@@ -112,7 +112,7 @@ def build_lead(row: dict) -> dict:
     lead["ad_intro"] = (
         f"<b>{html.escape(brand)}</b> ({html.escape(website)}) is a {seg_line} advertiser in "
         f"{html.escape(city)}{', ' + html.escape(state) if state else ''}, running an estimated "
-        f"<b>~{ads_n} active Meta creatives</b> at ~<b>{html.escape(spend)}/mo</b>, with ads pointing to "
+        f"<b>~{ads_n} active Meta creatives</b> at ~<b>{html.escape(spend)}</b>, with ads pointing to "
         f"{html.escape(destination)}.<br/><br/>"
         f"<b>Lead-specific flag from the Ad Library scan:</b> {leak_html}.<br/><br/>"
         f"On top of that, the classic solar leaks apply: the PM Surya Ghar subsidy (up to "
