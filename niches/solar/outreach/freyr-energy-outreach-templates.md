@@ -1,46 +1,44 @@
 # Freyr Energy - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/freyr-energy-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `niches/solar/audits/freyr-energy-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Freyr Energy - No lead-capture before 'Check my savings' calculator (traffic wasted)
+### Subject A (Roast-Audit): your calculator gives the price away - and the homepage still says 0 customers
 
-Hi,
+Hi Saurabh / Radhika / Freyr growth,
 
-I spent 30 minutes on your Meta ad library and freyrenergy.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+I spent 40 minutes on freyrenergy.com this morning (14 Sep 2026). You already do the thing most TN/KA installers do not: the hero is Save Rs.1 Lakh (Rs.78,000 CFA + Rs.22,000 Freyr discount), 4.7 from 4,473+ Google reviews, EMI from Rs.1,466. That is not the audit.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Five leaks, all on the live site:
+1. Mid-page Calculate Your Savings shows list price, subsidy and a 120-month EMI with no phone. Day-1 leak, confirmed. The number is the magnet - you are giving it away.
+2. Day-1 ads are WhatsApp. The site is an 8-field 3-step form (email required). WhatsApp 9000828333 is a chip on /contact-us/ only.
+3. Counters render 0+ on a 21,000-customer brand.
+4. The form only lists 6 states. India-wide Meta buys Bangalore/Chennai clicks you cannot install.
+5. Jul 2026 1-stars: KSEB feasibility after 100% pay; Anantapur cash + late delivery. Ads are winning. Ops is taxing the 4.7.
 
-- Smart Pursuit
+3-page confidential audit, 3 fixes (gate calculator + WhatsApp CTA, geo-split, DISCOM-before-pay creative). Shall I WhatsApp it to 9000828333? One message, no call.
 
-P.S. One flag specific to Freyr Energy: No lead-capture before 'Check my savings' calculator (traffic wasted)
+- Smart Pursuit  |  7095024220
 
 ---
 
 ### Subject B (WhatsApp / Loom - 30 sec)
 
-"Hi Freyr Energy team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+"Hi Freyr team - 4 minutes on freyrenergy.com. First 30 seconds: hero is excellent (Rs.1 Lakh). Next minute: the calculator giving EMI without a phone, and the 0+ counters. Last 90 seconds: 6-state form vs India-wide ads, and two Jul 2026 Google 1-stars (KSEB after 100% pay, Anantapur delivery) sitting next to a 4.7 badge. Want the link on WhatsApp 9000828333? No call."
 
 ---
 
-### Subject C (FOMO): what the top rooftop installers in Hyderabad are doing differently
+### Subject C (FOMO): SolarSquare is city-paging KA/TN while your Meta still buys those clicks
 
 Hi,
 
-While auditing rooftop solar funnels in Hyderabad, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
+Auditing rooftop solar funnels this week. Freyr is the only Day-1 HIGH lead whose homepage already names Rs.78,000. The gap is not the offer.
 
-3 of these can be live in 7 days. Want the 1-page plan?
+SolarSquare has city pages + 15,000 Google ratings and a savings guarantee. Your form cannot even select Karnataka or Tamil Nadu - but India-wide Meta will still buy those clicks. Meanwhile the calculator on your own homepage lets a Hyderabad villa owner see Rs.46,769 effective cost and leave.
 
-- Smart Pursuit
+3 fixes in 7 days: gate the calculator, WhatsApp as ad CTA, geo-split to the 6 states you actually install. Want the 1-page plan?
 
-Ref: Freyr Energy (freyrenergy.com), Hyderabad - verified in Meta Ad Library India.
+- Smart Pursuit  |  7095024220
 
 ---

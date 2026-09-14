@@ -1,46 +1,44 @@
 # Okaya Power - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/okaya-power-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `niches/solar/audits/okaya-power-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Okaya Power - Product page has no subsidy eligibility note for residential buyers
+### Subject A (Roast-Audit): your 3 kW inverter page still will not say Rs.78,000
 
-Hi,
+Hi Akshay / Okaya growth / e-com team,
 
-I spent 30 minutes on your Meta ad library and okaya.co.in. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+I spent 45 minutes on okaya.in and shop.okaya.in this morning (14 Sep 2026). 110M customers, 32k dealers, GTI 10-year, DCR 550 Wp, WhatsApp 9818909090 on every page. The solar SKU pages are not at that standard.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Leaks, all live:
+1. Day-1 leak, confirmed: /solar-solution FAQ Q6 has the full PM Surya Ghar table (cap Rs.78,000, DCR, confirm MNRE). The 3 kW GTI PDP (Rs.86,400) has none of it. Shop DCR 550 Wp says 'tenders', not residential CFA.
+2. okaya.co.in did not load. okaya.in hero is UPS/combo/XBD/CBH. Solar is the fifth banner. Day-1 dest = Website. WhatsApp is a chip.
+3. Shop DCR warranty = 30 months. Brand listing = 144 months / 12-year product. Contact counters = 0k+ / 0+ next to a 110M claim.
+4. 3 kW and 3.4 kW are the same price. Related cards say '3kW (Ah)'. TOPCon '28.8%'. Catalogue buttons go to #.
+5. Do not print Rs.78,000 as an Okaya discount. DCR + MNRE installer is the honest line.
 
-- Smart Pursuit
+3-page-plus confidential audit, 3 fixes (DCR badge + solar landing + WhatsApp, one warranty/kit SKU, Amazon/UGC/DPA). Shall I WhatsApp it to 9818909090? One message, no call.
 
-P.S. One flag specific to Okaya Power: Product page has no subsidy eligibility note for residential buyers
+- Smart Pursuit  |  7095024220
 
 ---
 
 ### Subject B (WhatsApp / Loom - 30 sec)
 
-"Hi Okaya Power team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+"Hi Okaya team - 4 minutes on okaya.in. First 20 seconds: solar FAQ has Rs.78,000, the 3 kW GTI page does not. Next minute: homepage is UPS, Enquire is a hash, WhatsApp 9818909090 is a chip. Last 90 seconds: shop says 30-month warranty, brand says 144, contact page says 0 dealers. Want the link on WhatsApp 9818909090? No call."
 
 ---
 
-### Subject C (FOMO): what the top rooftop installers in New Delhi are doing differently
+### Subject C (FOMO): Growatt/Solis own the 3 kW subsidy lists while your Meta still sells XBD tubulars
 
 Hi,
 
-While auditing rooftop solar funnels in New Delhi, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
+Auditing D2C solar funnels this week. Okaya already has the 3 kW SKU (Rs.86,400, 10-year, BIS) and a DCR 550 Wp at Rs.18,750. That is the PM Surya Ghar kit. Growatt/Solis/Sungrow own the 'best 3 kW 2026' roundups because they put subsidy + warranty on the first screen.
 
-3 of these can be live in 7 days. Want the 1-page plan?
+Your hub FAQ is good. Your PDP is a blank. Your ads still land on Power Pair. Luminous/Microtek will take the Amazon click.
 
-- Smart Pursuit
+3 fixes in 7 days: DCR badge on the 3 kW page, solar landing, WhatsApp as ad CTA. Want the 1-page plan?
 
-Ref: Okaya Power (okaya.co.in), New Delhi - verified in Meta Ad Library India.
+- Smart Pursuit  |  7095024220
 
 ---
