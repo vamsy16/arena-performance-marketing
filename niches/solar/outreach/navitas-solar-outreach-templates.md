@@ -1,46 +1,79 @@
 # Navitas Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/navitas-solar-audit-report.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `niches/solar/audits/navitas-solar-solar-audit-report.pdf` (Lead score 4/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Navitas Solar - Ads target homeowners while also bidding on C&I keywords - wasted budget
+### Navitas Solar - your homepage says 0 GW capacity and 0 customers
 
-Hi,
+Hi Vineet,
 
-I spent 30 minutes on your Meta ad library and navitassolar.in. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+I audited Navitas Solar's paid funnel this morning (14 Sep 2026). The headline is uncomfortable, so I'll lead with it.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Every achievement counter on your homepage renders as zero:
+  0 GW Annual Solar Module Capacity
+  0+ Years of Industry Experience
+  0+ Satisfied Customers Worldwide
+  0+ Dedicated Employees Workforce
+  0+ Countries' Market Presence
+  0 GW Solar Cell Capacity by 2026
 
-- Smart Pursuit
+The count-up script isn't firing. The paragraph directly above it says 3 GW and 13 years, so the page contradicts itself inside one screen - and visitors read the big numbers, not the paragraph. You're running ~24 live creatives into that.
 
-P.S. One flag specific to Navitas Solar: Ads target homeowners while also bidding on C&I keywords - wasted budget
+Three more from the same pass:
+
+1. navitassolar.in doesn't resolve at all - the connection dies at the SSL handshake. Your live site is navitassolar.com. Worth auditing every ad destination and UTM for which domain they actually carry.
+
+2. Your 'Solar Cells (Upcoming)' tile links to '#'. That's a Rs.1,500 crore investment, announced in June, timed to ALMM List-II going operational on 1 June 2026 - the single highest-intent thing a developer could search for right now, pointed at a dead anchor.
+
+3. Your capacity number is 3 GW on the site, 2 GW in your credit rating summary, 1.7 GW on Inc42 and 2.5 GW in Mercom's coverage of the Ahmedabad plant. Four live figures is a diligence problem before it's a marketing one.
+
+FY24 Rs.291 crore to FY26 Rs.1,300 crore, with Indian Oil, ONGC, Tata Power and GAIL as clients, is a genuinely great story. None of it is being told.
+
+15 minutes?
+
+Smart Pursuit
+7095024220 | smartpursuit3@gmail.com
 
 ---
 
-### Subject B (WhatsApp / Loom - 30 sec)
+### WhatsApp / Loom script - 90 seconds
 
-"Hi Navitas Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+Hi Vineet - Smart Pursuit here, we do performance marketing only for solar brands.
+
+Ninety seconds, one screen.
+
+I opened navitassolar.com today and scrolled to your Company Overview band. Zero GW capacity. Zero years of experience. Zero satisfied customers. Zero employees. Zero countries. All six counters stuck at zero, because the animation never fires. You've got 3 gigawatts of module capacity and you did thirteen hundred crore last year.
+
+Also: navitassolar.in, the domain in most of the industry databases, doesn't even connect. And your Solar Cells tile - the fifteen-hundred-crore announcement, the one thing every developer is searching for since ALMM List Two went live in June - links to a hash symbol.
+
+The other half of it is audience. You're bidding on homeowner terms and C and I terms at the same time, but the site serves neither. No subsidy page for a homeowner. No datasheets, no MOQ, no RFQ, no distributor form for a procurement head. Everything funnels into one generic contact form.
+
+Indian Oil, ONGC, Tata Power, GAIL. Two ninety-one crore to thirteen hundred crore in two years. That's the creative, and it's nowhere.
+
+I've got a one-page fix list. Want it?
 
 ---
 
-### Subject C (FOMO): what the top rooftop installers in Surat are doing differently
+### Re: ALMM List-II went live on 1 June. Your cell page links to '#'.
 
-Hi,
+Hi Vineet,
 
-While auditing rooftop solar funnels in Surat, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
+One strategic note, because the window on this is open now and will not stay open.
 
-3 of these can be live in 7 days. Want the 1-page plan?
+MNRE operationalised ALMM List-II for solar cells on 1 June 2026. Government-backed projects now have to source domestically made cells, and every developer and EPC in the country is working out who will actually have Indian cells to sell them in FY27 and FY28.
 
-- Smart Pursuit
+Navitas announced a Rs.1,500 crore investment in June 2026 to enter cell manufacturing with pilot wafer and ingot production. You are one of a small number of companies that can credibly answer that question.
 
-Ref: Navitas Solar (navitassolar.in), Surat - verified in Meta Ad Library India.
+On your website, that answer is a carousel tile labelled 'Solar Cells (Upcoming)' that links to '#'.
+
+Meanwhile the homepage counters show 0 GW and 0 customers, the .in domain is dead, and the awards wall leads with 2022 certificates while burying Solar Module Manufacturer of the Year Chhattisgarh from January 2026.
+
+The fix is not a rebrand. It is one cell-roadmap page with a supply-enquiry form, working counters, a datasheet library, and a LinkedIn ABM layer pointed at EPCs and developers instead of broad Meta - which is where an estimated Rs.20 lakh a month is currently going.
+
+We work with solar brands only. 15 minutes this week?
+
+Smart Pursuit
+7095024220 | smartpursuit3@gmail.com
 
 ---

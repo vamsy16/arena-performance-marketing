@@ -1,0 +1,192 @@
+{
+  "brand": "SunSource Energy",
+  "website": "sunsourceenergy.com - OFFLINE on 14 Sep 2026",
+  "instagram": "@sunsourceenergy",
+  "segment": "C&amp;I / Open Access Distributed Solar (SHV Energy subsidiary)",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "capacity": "100 kW-10 MW C&amp;I / open access",
+  "active_ads": 45,
+  "ads_active": "45",
+  "destination": "WhatsApp",
+  "spend_est": "&lt;1L/mo",
+  "spend": "Under Rs.1 L/mo\nest. (Day-1) - into\nan offline site",
+  "revenue": "~300 MWp sold to\nInox Neo Jan 2026 -\nheadcount 97,\n-38% YoY",
+  "niche": "C&amp;I Distributed Solar\n- Noida, 13 states,\nSHV Energy group",
+  "leak": "No case-study PDF or site-survey scheduler for facility heads",
+  "data_source": "verified-live-2026-09-14",
+  "verify": "URGENT - confirm entity status before any outreach",
+  "score": 2,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=SunSource+Energy",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sunsourceenergy.com",
+  "pm_surya_ghar_vendor_check": "Not applicable - C&amp;I / open access, not residential subsidy",
+  "pitch_fit": "LOW - asset sale + site offline; qualify the entity before pitching",
+  "found_at": "2026-09-14T06:02:34.804935",
+  "day_found": 1,
+  "audit_date": "14 September 2026",
+  "lead_number": 22,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "This is the one audit in the Day-1 set that ends with advice not to pitch yet. SunSource's website is fully offline and its operating portfolio was sold in January 2026. If you want, Smart Pursuit will re-qualify the entity and tell you in 48 hours whether there is a business here to sell to. Reply or WhatsApp 7095024220.",
+  "ad_intro": "<b>This audit reached a different conclusion from every other lead in the Day-1 set, and the recommendation is to pause outreach rather than send it.</b> On 14 Sep 2026 <b>sunsourceenergy.com is completely offline</b> - not slow, not misconfigured, but returning no response at all on https or http. Independently, in <b>January 2026 SunSource sold roughly 300 MWp of its operational solar portfolio to Inox Neo Energies</b>, and headcount is reported at <b>97, down 38% year on year</b>. A funnel audit of a site that does not load is not the useful deliverable here. What follows is what the evidence actually supports: a status assessment, and the conditions under which this becomes a lead again.",
+  "ad_intelligence": [
+    [
+      "Website status",
+      "<b>Fully offline.</b> https://sunsourceenergy.com and the www host both fail at the SSL handshake (SSL_ERROR_SYSCALL, no response); plain http returns an empty reply from server. Independent fetch attempts return HTTP 500. This is not a rendering bug - there is no site to audit."
+    ],
+    [
+      "Day-1 record",
+      "~45 active Meta ads with a WhatsApp destination at an estimated sub-Rs.1 lakh/month. Given the site is down, the ad count must be re-verified in Meta Ad Library India before it is treated as real - the Day-1 figure may be stale, and any creative pointing at the website is pointing at nothing."
+    ],
+    [
+      "Ownership",
+      "Wholly owned subsidiary of <b>SHV Energy</b> (Netherlands), which took a majority stake in May 2021 and committed roughly <b>Rs.1,800 crore</b> to grow capacity from 65 MW to 550 MW. Neev Fund (SBI + UK Government) exited at that point."
+    ],
+    [
+      "Asset sale - the key event",
+      "<b>5 January 2026:</b> Inox Clean Energy's IPP arm <b>Inox Neo Energies acquired ~250 MWp of operational solar projects from SunSource, with a further ~50 MWp pending approvals - ~300 MWp total</b>, across 13 states, held via multiple SPVs, on PPAs averaging ~24 years."
+    ],
+    [
+      "Customers transferred",
+      "The acquired portfolio supplies <b>Britannia Industries, Jubilant Foodworks, Hitachi Energy and Max Healthcare</b>, among others - the marquee C&amp;I logos SunSource built its reputation on now sit with the acquirer."
+    ]
+  ],
+  "scores": {
+    "Subsidy &amp; Scheme Clarity": [
+      1,
+      "#EF4444"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      3,
+      "#EF4444"
+    ],
+    "Social Proof": [
+      2,
+      "#EF4444"
+    ],
+    "Creative Variety": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing / CRO": [
+      1,
+      "#EF4444"
+    ],
+    "Tracking &amp; Attribution": [
+      1,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>1. The website is not slow or broken - it is gone.</b> Every access route tested on 14 Sep 2026 failed: <b>https://sunsourceenergy.com</b> and <b>https://www.sunsourceenergy.com</b> both die at the SSL handshake with SSL_ERROR_SYSCALL and no response; <b>http://sunsourceenergy.com</b> returns 'Empty reply from server'; independent page-fetch attempts return HTTP 500. There is no holding page, no redirect to an SHV Energy property, and no maintenance notice. For a company whose buyers are CFOs and facility heads signing 24-year power purchase agreements, a corporate domain that does not resolve is the most damaging possible signal - it reads as insolvency whether or not that is the case.",
+    "<b>2. The operating portfolio - the thing being advertised - was sold in January 2026.</b> On 5 Jan 2026 Inox Clean Energy announced that <b>Inox Neo Energies had acquired ~250 MWp of SunSource's operational solar projects, with another ~50 MWp in process, totalling ~300 MWp</b> across 13 states including Uttar Pradesh, Karnataka, Tamil Nadu and Maharashtra. Those assets carried long-term PPAs averaging ~24 years with <b>Britannia, Jubilant Foodworks, Hitachi Energy and Max Healthcare</b>. In C&amp;I solar the installed portfolio <i>is</i> the sales pitch - it is the reference list, the credit proof and the case-study library in one. Any campaign still running on those logos is marketing assets that now belong to Inox.",
+    "<b>3. The organisation has contracted sharply.</b> Headcount is reported at <b>97 as of mid-2025, a 38% year-on-year decline</b>, and the company is classified as acquired. Co-founder <b>Kushagra Nandan has left to build LNK Energy</b>, announced in January 2026 with a stated Rs.10,000 crore five-year plan across solar manufacturing, green fuels and renewable power - after an earlier venture, REnergy Dynamics, in 2024. A shrinking team, a departed co-founder and a divested portfolio are three independent signals pointing the same direction.",
+    "<b>4. The Day-1 leak is now unanswerable rather than merely unfixed.</b> The stub flags 'no case-study PDF or site-survey scheduler for facility heads'. That was a fair criticism of a functioning C&amp;I business. Today there is no site on which to host a case study, and the projects that would have populated those case studies belong to another company. The correct response is not to build the asset - it is to establish first whether SunSource is still selling new C&amp;I capacity in India at all, or whether SHV Energy has repositioned it.",
+    "<b>5. Roughly 45 creatives are reportedly live against infrastructure that cannot receive them.</b> If the Day-1 count is accurate, every click is landing on a dead domain. The WhatsApp destination may still be answered - which is the one thing worth testing - but with no site, no pixel, no landing page and no form, there is zero attribution, zero retargeting and zero measurable intent. Even at under Rs.1 lakh a month, that is pure waste, and worse, it is actively broadcasting the dead domain to the market. Recommendation: <b>verify the ad count in Meta Ad Library India and, if live, pause everything until the site is restored.</b>",
+    "<b>6. What genuinely remains, if the entity is still trading.</b> The history is real and it is good: founded 2010 by Adarsh Das and Kushagra Nandan; one of India's first rooftop solar public-private-partnership projects; a <b>21 MWp plant at Ramanathapuram, Tamil Nadu</b> commissioned Aug 2024 with SuperGas as an anchor offtaker; a stated <b>500 MWp portfolio under contract and development</b> at that time; presence across data centres, metals and mining, automotive, chemicals, cement, healthcare and pharmaceuticals; and the backing of SHV Energy, a 125-year-old Dutch multinational. If SunSource is still writing new PPAs under SHV, that parent covenant is the strongest asset it has - a C&amp;I buyer signing for 24 years is buying the balance sheet behind the panels, not the panels.",
+    "<b>7. The honest recommendation: do not send a performance-marketing pitch to this lead yet.</b> Every other audit in this set ends with a 48-hour, 7-day and 14-day plan. This one should not, because the prerequisite is unresolved. Pitching CPL optimisation to a company that may be winding down its India C&amp;I operation wastes the prospect's time and damages the sender's credibility. The correct next action is a <b>qualification call, not a sales call</b> - and if the answer is that SHV is recapitalising SunSource for a new build-out, then this becomes a genuinely attractive account with a parent balance sheet behind it and a website that has to be rebuilt from scratch anyway."
+  ],
+  "competitors": [
+    [
+      "Brand",
+      "Website live",
+      "Portfolio status",
+      "Signal"
+    ],
+    [
+      "SunSource Energy",
+      "No - fully offline",
+      "~300 MWp sold Jan 2026",
+      "Qualify before pitching"
+    ],
+    [
+      "Fourth Partner Energy",
+      "Yes",
+      "Growing C&amp;I book",
+      "Active buyer"
+    ],
+    [
+      "Amplus Solar",
+      "Yes",
+      "Growing, PETRONAS-backed",
+      "Active buyer"
+    ],
+    [
+      "CleanMax",
+      "Yes",
+      "Growing, BP-backed",
+      "Active buyer"
+    ]
+  ],
+  "wins": [
+    [
+      "Step 1 - qualify the entity before spending an hour on creative",
+      "Three checks, all doable in a day. Confirm in Meta Ad Library India whether the ~45 creatives are genuinely live and where they point. Message the WhatsApp number from the ads and see whether a human replies and what they say they sell. Check SHV Energy's own corporate communications for SunSource's current status in India. Until those three come back, this is not a prospect - it is an open question.",
+      "#EF4444",
+      "#FEF2F2"
+    ],
+    [
+      "Step 2 - if the entity is trading, the first deliverable is the website itself",
+      "There is no funnel work to do because there is no funnel. Restoring sunsourceenergy.com, or formally redirecting it to an SHV property, is prerequisite zero - a C&amp;I buyer evaluating a 24-year PPA will Google the counterparty, and right now that search ends in a connection error. Only after the domain resolves is there any point discussing case-study PDFs, a site-survey scheduler or ABM.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "Step 3 - if there is a new build-out, the pitch writes itself",
+      "A restored SunSource under SHV Energy has an unusually strong C&amp;I story: a 125-year-old Dutch multinational parent, 15 years of Indian distributed-solar history, the Ramanathapuram 21 MWp plant, and the credibility of having built a portfolio substantial enough for Inox to buy. Lead with the parent covenant, publish the surviving projects as dated case studies, add a site-survey scheduler for facility heads, and run LinkedIn ABM against CFOs and plant heads rather than broad Meta. That is a real engagement - but only after Steps 1 and 2.",
+      "#059669",
+      "#ECFDF5"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Today (14 Sep 2026)",
+      "Prerequisite"
+    ],
+    [
+      "Website",
+      "Offline - no response",
+      "Restore or redirect"
+    ],
+    [
+      "Operating portfolio",
+      "~300 MWp sold to Inox Neo",
+      "Confirm what remains"
+    ],
+    [
+      "Marquee logos",
+      "Transferred with assets",
+      "Re-establish reference list"
+    ],
+    [
+      "Headcount",
+      "97, down 38% YoY",
+      "Confirm India C&amp;I mandate"
+    ],
+    [
+      "~45 live creatives",
+      "Pointing at a dead domain",
+      "Pause until site is live"
+    ],
+    [
+      "Lead status",
+      "Not pitchable",
+      "Qualification call first"
+    ]
+  ],
+  "outreach": [
+    [
+      "Before you send anything - SunSource needs qualifying, not pitching",
+      "INTERNAL NOTE - Smart Pursuit, 14 September 2026\n\nRecommendation: do not send the standard audit email to SunSource Energy. Qualify first.\n\nWhy:\n\n1. sunsourceenergy.com is completely offline. Not slow - dead. Both https hosts fail at the SSL handshake with no response, plain http returns an empty reply, and page fetches return HTTP 500. No holding page, no redirect.\n\n2. On 5 January 2026, Inox Clean Energy's IPP arm Inox Neo acquired ~250 MWp of SunSource's operational solar projects, with ~50 MWp more pending - about 300 MWp across 13 states, on PPAs averaging 24 years. The marquee customers went with it: Britannia, Jubilant Foodworks, Hitachi Energy, Max Healthcare.\n\n3. Headcount is reported at 97, down 38% YoY. Co-founder Kushagra Nandan has left to build LNK Energy (announced Jan 2026, Rs.10,000 crore five-year plan).\n\nSending a 'we found 3 leaks in your funnel' email to a company in this position reads as careless, and it burns the relationship with SHV Energy - which is the parent worth knowing.\n\nThree checks before any outreach:\n  - Meta Ad Library India: are the ~45 creatives actually live, and where do they point?\n  - Message the WhatsApp number from the ads. Does a human reply? What do they say they sell?\n  - Check SHV Energy corporate comms for SunSource's current India mandate.\n\nIf SHV is recapitalising for a new build-out, this becomes a strong account - parent covenant, 15 years of history, and a website that has to be rebuilt from zero anyway. If not, we save ourselves the cycle.\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "WhatsApp qualification script - send to the number in their own ads",
+      "Hello - I came across SunSource Energy's ads and wanted to reach you directly, since your website at sunsourceenergy.com isn't loading for me today.\n\nTwo quick questions, and I'm asking as someone who works with solar companies rather than as a buyer:\n\n1. Is SunSource still taking on new C&I and open-access solar projects in India?\n\n2. Is the website down temporarily, or has the business moved to a different domain?\n\nI ask because I noticed the Inox Neo acquisition of the operational portfolio in January, and I wanted to understand what the current offering is before assuming anything.\n\nIf you are still building new capacity, I'd like a short conversation with whoever owns marketing - the ads are running while the site is unreachable, which is likely costing you enquiries.\n\nSmart Pursuit\n7095024220"
+    ],
+    [
+      "If they confirm they are still trading - the real opening",
+      "Hi,\n\nThank you for confirming SunSource is still taking on new C&I projects in India.\n\nIn that case there is one thing I would fix before anything else, and it is not a marketing problem yet - it is a credibility problem.\n\nsunsourceenergy.com does not resolve. Both https hosts fail at the SSL handshake, http returns an empty reply. There is no holding page and no redirect to an SHV property.\n\nYour buyer is a CFO or a plant head signing a power purchase agreement that runs roughly 24 years. The first thing they do after a call is search the counterparty. Right now that search ends in a connection error - and because the Inox Neo acquisition of the 300 MWp portfolio is public and well covered, an offline website next to that news invites exactly the wrong conclusion.\n\nOnce the domain is back, the story is genuinely strong and largely untold: SHV Energy as a 125-year-old parent, 15 years of Indian distributed solar since 2010, one of India's first rooftop solar PPP projects, and the 21 MWp Ramanathapuram plant with SuperGas as anchor offtaker. For a 24-year commitment, the parent covenant is the most persuasive asset you have, and it is nowhere in the current funnel.\n\nAfter that: dated case studies for the projects you retained, a site-survey scheduler for facility heads, and LinkedIn ABM against CFOs and plant heads instead of broad Meta - which is where the current spend is going, into a domain that doesn't load.\n\n15 minutes whenever the site is back up?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ]
+  ],
+  "headline": "Status Alert: Site Offline + Portfolio Sold - Qualify Before Pitching"
+}

@@ -1,0 +1,196 @@
+{
+  "brand": "Solex Energy",
+  "website": "solexenergy.com (dead) - live site is solex.in",
+  "instagram": "@solexenergyin (not @solexenergy)",
+  "segment": "Solar Module Manufacturing + EPC (listed, B2B / C&amp;I)",
+  "city": "Surat",
+  "state": "Gujarat",
+  "capacity": "Modules 120W-665W; +2.5 GW under development",
+  "active_ads": 33,
+  "ads_active": "33",
+  "destination": "Lead Form",
+  "spend_est": "Rs.8-20 L/mo",
+  "spend": "Rs.8-20 L/mo est.\n(Day-1) - unverified\nvs B2B order book",
+  "revenue": "FY26 Rs.1,618 Cr\n(+144.3%) - PAT\nRs.98.3 Cr - NSE:\nSOLEX",
+  "niche": "Module Mfg + EPC -\nSurat, 200+ projects,\nRs.4,000 Cr book",
+  "leak": "No LinkedIn ABM layer while running broad Meta",
+  "data_source": "verified-live-2026-09-14",
+  "verify": "check Meta Ad Library before outreach",
+  "score": 6,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Solex+Energy",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=solexenergy.com",
+  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
+  "pitch_fit": "MEDIUM - C&amp;I, longer cycle, needs case-study + ABM angle",
+  "found_at": "2026-09-14T06:02:34.802081",
+  "day_found": 1,
+  "audit_date": "14 September 2026",
+  "lead_number": 21,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "Solex grew revenue 144% to Rs.1,618 crore and carries a Rs.4,000 crore order book - while its homepage stat band reads 0 and its Instagram grid sells 80s nostalgia to a procurement audience. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the broken counters, the dead domain and the missing ABM layer.",
+  "ad_intro": "Solex Energy is the best-performing business in this Day-1 cohort on paper. <b>FY26 revenue Rs.1,618 crore, up 144.3%</b>. <b>Q4 FY26 alone Rs.885.53 crore, up 247.6%</b>. <b>PAT Rs.98.3 crore, up 132.7%</b>. An order book above <b>Rs.4,000 crore</b> as of 31 Mar 2026, <b>200+ EPC projects executed</b>, ALMM-certified TOPCon lines, and FY27 guidance of Rs.2,600 crore. Listed on NSE as SOLEX. On 14 Sep 2026 the marketing layer sitting on top of that business is running an estimated <b>33 Meta creatives</b> against a <b>dead domain</b>, a homepage whose achievement counters display <b>0</b>, and an Instagram feed whose most recent posts are 80s-nostalgia memes.",
+  "ad_intelligence": [
+    [
+      "Live creatives",
+      "~33 active Meta ads (Day-1 estimate, 14 Sep 2026) at an estimated Rs.8-20 L/month. Verify in Meta Ad Library India."
+    ],
+    [
+      "Destination",
+      "Lead Form. The Day-1 domain <b>solexenergy.com does not resolve</b> - SSL handshake failure on both bare and www hosts. The live site is <b>solex.in</b>, so the Google Ads Transparency link in the record tracks nothing."
+    ],
+    [
+      "Real assets on site",
+      "Strong B2B kit: six named module series (Tapi RC, Tapi R, Tapi Trans, Tapi Series, Tapi Black, Ganga) with efficiency, cell count and warranty published; a downloadable 2026 corporate brochure; per-product spec pages; a solar calculator; a live chat widget; and full leadership profiles with a downloadable CMD profile PDF."
+    ],
+    [
+      "Product depth",
+      "N-Type TOPCon Rear Contact at <b>635-665 W and 24.6% efficiency</b>, with a <b>12-year product and 30-year linear performance warranty</b> across the range - genuinely competitive specs that most Indian peers cannot match on a public page."
+    ],
+    [
+      "Corporate context",
+      "CIN L40106GJ2014PLC081036, incorporated 13 Oct 2014, listed via NSE Emerge 2018. CMD Dr. Chetan Shah. Net debt-to-equity 0.57:1, operating cash flow Rs.200.7 crore, zero-defect metrics claimed, Rs.4,000 crore Gujarat MoU and Vision 2030 covering cells, ingots, wafers and BESS."
+    ]
+  ],
+  "scores": {
+    "Subsidy &amp; Scheme Clarity": [
+      3,
+      "#EF4444"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      4,
+      "#F59E0B"
+    ],
+    "Social Proof": [
+      5,
+      "#F59E0B"
+    ],
+    "Creative Variety": [
+      6,
+      "#F59E0B"
+    ],
+    "Landing / CRO": [
+      5,
+      "#F59E0B"
+    ],
+    "Tracking &amp; Attribution": [
+      4,
+      "#F59E0B"
+    ]
+  },
+  "findings": [
+    "<b>1. The Day-1 domain is dead and the live site is a different address entirely.</b> <b>solexenergy.com fails at the SSL handshake</b> on both the bare host and www - no response at all. The live property is <b>solex.in</b>. This is the address in the lead record, the address in the Google Ads Transparency link, and quite possibly the address on older creatives, directory listings and backlinks. Before another rupee is spent, every ad destination, UTM, QR code and trade-directory entry needs auditing for which domain it actually carries - and solexenergy.com should be restored and 301'd to solex.in so a decade of brand equity is not landing on a connection error.",
+    "<b>2. The homepage stat band renders zeros and mangles its own layout.</b> The About Solex band is built from animated counters and on 14 Sep 2026 it reads: <b>'0+ Years of Experience'</b>, <b>'14 Successful Projects'</b>, <b>'M+ 0 Modules Shipped within India Across the World'</b>, and <b>'GW 0 PV Modules Manufacturing Capacity'</b>. Three of the four numbers are zero, the unit labels (M+, GW) have separated from their values, and the one figure that does render - 14 - is almost certainly meant to be years of experience but is displayed against 'Successful Projects', which is wrong by a factor of at least fourteen given the company has publicly executed <b>200+ EPC projects</b>. A visitor from a Rs.8-20 lakh-a-month campaign reads: zero years, zero modules shipped, zero GW capacity, fourteen projects. The truth is a Rs.1,618 crore business with a Rs.4,000 crore order book.",
+    "<b>3. The single best number in Indian solar right now is nowhere in the funnel.</b> FY26 revenue up <b>144.3% to Rs.1,618 crore</b>. Q4 up <b>247.6%</b>. PAT up <b>132.7% to Rs.98.3 crore</b>. Order book over <b>Rs.4,000 crore</b>. FY27 guidance of Rs.2,600 crore revenue and Rs.156-208 crore PAT. Net debt-to-equity of 0.57:1. For a C&amp;I buyer signing a 25-year warranty, the single biggest unspoken fear is whether the manufacturer will still exist to honour it - and audited, exchange-filed, triple-digit growth is the most powerful possible answer to that fear. It appears on the investor page and in press releases, and in none of the marketing.",
+    "<b>4. The Instagram feed is selling the wrong thing to the wrong people.</b> The site embeds a live Instagram feed, and the most recent posts on 14 Sep 2026 are: two 80s-nostalgia trend reels ('Apparently, the 80s are back'), a Janmashtami greeting, a Teacher's Day post, a CMD birthday tribute, and an office-prank reel ('they weren't very am(o)used'). The genuinely valuable posts - <b>a Rs.74.77 crore order win</b>, the Tapi-R TOPCon performance explainer, the Industry 4.0 manufacturing film - are outnumbered by filler. For a company whose buyers are EPC procurement heads, facility managers and distributors, this is a brand-awareness feed pointed at an audience that does not buy on brand awareness. The Day-1 leak reads 'no LinkedIn ABM layer while running broad Meta'; this is what that looks like in practice.",
+    "<b>5. Excellent product specs are published with no path to purchase or quote.</b> The six Tapi series pages carry exactly what a specifier wants - wattage bands, module efficiency to two decimals, half-cut cell configuration, 12-year product and 30-year linear performance warranties. Then the journey stops. There is <b>no RFQ or bulk-quote form, no MOQ, no lead time, no distributor or channel-partner application, no per-product datasheet download alongside each series, and no dealer locator</b>. The corporate brochure is the only downloadable asset. A procurement head who has decided on Tapi RC at 24.6% efficiency has no way to ask for a price on 2 MW of it.",
+    "<b>6. No PM Surya Ghar content, and a rooftop app nobody is told about.</b> There is no subsidy page, no slab table (<b>Rs.30,000 / Rs.60,000 / Rs.78,000</b>), no DCR or ALMM explainer for residential buyers - despite the site explicitly claiming residential as a served segment and despite ALMM certification being one of the CMD's stated competitive advantages. Solex also publishes a <b>'Solex Surya Rooftop' app on both the App Store and Google Play</b>, which is not surfaced anywhere on the homepage. A rooftop app plus ALMM-certified modules plus a solar calculator is a complete residential proposition with no page to sell it.",
+    "<b>7. Attribution and routing are thin for a business of this size.</b> With a Lead Form objective and no on-site conversion architecture, there are no mid-funnel signals to optimise against - no datasheet download, no calculator completion, no brochure download, no RFQ start, no product-series view. The chat widget is generic ('Opens Chat') with no stated response time and no WhatsApp. There is also a naming inconsistency across every channel: the brand advertises as <b>Solex Energy</b>, the site is <b>solex.in</b>, the Day-1 record says <b>solexenergy.com</b>, and every social handle is <b>solexenergyin</b> - four variants for one company, which fragments branded search and makes attribution reporting unreliable."
+  ],
+  "competitors": [
+    [
+      "Brand",
+      "Domain resolves",
+      "Counters render",
+      "RFQ / MOQ path",
+      "ABM layer"
+    ],
+    [
+      "Solex Energy",
+      "solexenergy.com dead",
+      "3 of 4 show 0",
+      "None",
+      "None - broad Meta"
+    ],
+    [
+      "Waaree Energies",
+      "Yes",
+      "Yes",
+      "Yes",
+      "Yes - LinkedIn"
+    ],
+    [
+      "Vikram Solar",
+      "Yes",
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "Navitas Solar",
+      "navitassolar.in dead",
+      "All six show 0",
+      "None",
+      "None"
+    ]
+  ],
+  "wins": [
+    [
+      "48 hours - fix the domain and the zeros",
+      "Restore solexenergy.com and 301 it to solex.in, then audit every creative destination, UTM and directory listing for the dead address. Repair or hard-code the four homepage counters so they read the real figures - and fix the label mismatch so '14' sits against Years of Experience while Successful Projects reads 200+, not 14. Put FY26 revenue of Rs.1,618 crore and the Rs.4,000 crore order book on the homepage as static text.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "7 days - build the quote path and the subsidy page",
+      "Add an RFQ form to every Tapi product page capturing capacity required, timeline and segment, plus MOQ and indicative lead time. Publish a per-series datasheet download next to each module. Launch a distributor and channel-partner application. Separately, ship one PM Surya Ghar page with the correct slabs, an ALMM and DCR explainer, and a link to the Solex Surya Rooftop app - which is live on both app stores and currently invisible on the site.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "14 days - move the B2B budget to ABM and rebuild the creative around audited numbers",
+      "Split the spend. Run a LinkedIn ABM layer against EPC firms, developers, distributors and facility heads using the numbers that actually close C&amp;I deals: 144.3% revenue growth to Rs.1,618 crore, Rs.4,000 crore order book, 200+ projects, 24.6% module efficiency, 12-year product and 30-year performance warranty, ALMM certification, 0.57:1 net debt-to-equity. Keep Meta for the residential and rooftop-app track only. Cut the nostalgia memes from the embedded feed and lead it with the Rs.74.77 crore order win and the Industry 4.0 film. Fire distinct events for RFQ-start, datasheet-download, calculator-complete and brochure-download.",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Today (14 Sep 2026)",
+      "After 30 days"
+    ],
+    [
+      "Day-1 domain",
+      "solexenergy.com dead",
+      "Restored + 301 to solex.in"
+    ],
+    [
+      "Homepage counters",
+      "0 yrs, 0 modules, 0 GW",
+      "Real figures, correct labels"
+    ],
+    [
+      "FY26 growth shown",
+      "Investor page only",
+      "Homepage + every creative"
+    ],
+    [
+      "Quote path",
+      "None",
+      "RFQ + MOQ + datasheets"
+    ],
+    [
+      "B2B channel",
+      "Broad Meta only",
+      "LinkedIn ABM + Meta split"
+    ],
+    [
+      "Rooftop app",
+      "Unlisted on site",
+      "Surfaced + subsidy page"
+    ]
+  ],
+  "outreach": [
+    [
+      "Solex Energy - solexenergy.com is dead and your homepage says 0 GW capacity",
+      "Hi Dr. Shah,\n\nI audited Solex Energy's paid funnel this morning (14 Sep 2026). Congratulations on FY26 - 144.3% revenue growth to Rs.1,618 crore, PAT up 132.7%, and a Rs.4,000 crore order book is the strongest set of numbers I have seen in this sector this year.\n\nWhich is why these three findings are worth ten minutes of your time.\n\n1. solexenergy.com does not resolve. The connection fails at the SSL handshake on both the bare host and www. Your live site is solex.in. Every older creative, backlink, directory listing and QR code carrying the .com address is landing on an error - and the Google Ads Transparency record for your brand is built on that dead domain.\n\n2. Your homepage stat band reads: 0+ Years of Experience, 14 Successful Projects, M+ 0 Modules Shipped, GW 0 PV Modules Manufacturing Capacity. Three of four counters are stuck at zero, the unit labels have detached from the values, and the only number that renders - 14 - is sitting against Successful Projects when you have publicly executed 200+.\n\n3. Your best asset is invisible. A C&I buyer signing a 30-year linear performance warranty is silently asking one question: will this manufacturer still exist in 2056? Audited, exchange-filed, 144% growth answers that better than any creative could. It is on your investor page and nowhere in your marketing.\n\nOne more, gently: the Instagram feed embedded on your homepage currently leads with 80s-nostalgia reels and an office prank. Your buyers are procurement heads.\n\nYou have 24.6% efficiency modules, a 12-year product warranty, ALMM certification and a Rs.4,000 crore book. The funnel is not carrying any of it.\n\n15 minutes?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "WhatsApp / Loom script - 90 seconds",
+      "Hi - Smart Pursuit here, we do performance marketing only for solar brands.\n\nNinety seconds on Solex.\n\nFirst thing I did was type solexenergy.com. Nothing. Dead at the SSL handshake. Your actual site is solex dot in. So every old ad, backlink and listing pointing at the dot com is landing on an error page.\n\nThen I opened solex.in. Your stat band says zero plus years of experience, fourteen successful projects, M plus zero modules shipped, GW zero manufacturing capacity. Three counters stuck at zero, and the fourteen is sitting against the wrong label - you've done two hundred plus EPC projects.\n\nMeanwhile the actual business did sixteen hundred and eighteen crore in FY26, up a hundred and forty-four percent, with a four thousand crore order book. None of that is in the funnel.\n\nAnd you're running about thirty-three Meta ads with no LinkedIn layer at all - selling to procurement heads via a feed whose latest posts are eighties nostalgia memes and a birthday tribute.\n\nThe fix is short: restore the domain, fix the counters, put an RFQ form on the Tapi pages, and move the B2B half of the budget to ABM. I've got it on one page. Want it?"
+    ],
+    [
+      "Re: A 30-year warranty is a promise about 2056. Your site says you have 0 years of experience.",
+      "Hi Dr. Shah,\n\nOne thought, on the thing that actually decides C&I solar deals.\n\nWhen a facility head specifies Tapi RC at 24.6% efficiency with a 12-year product and 30-year linear performance warranty, they are accepting a promise that runs to 2056. The unspoken question in that room is never about the module. It is: will this company still be here to honour it?\n\nSolex has the best possible answer. FY26 revenue Rs.1,618 crore, up 144.3%. Q4 up 247.6%. PAT up 132.7% to Rs.98.3 crore. Order book above Rs.4,000 crore. Net debt-to-equity 0.57:1. Operating cash flow Rs.200.7 crore. ALMM certified. NSE listed. FY27 guidance of Rs.2,600 crore.\n\nAudited. Exchange-filed. Unarguable.\n\nAnd the first thing a visitor to your website reads is '0+ Years of Experience' and '0 GW PV Modules Manufacturing Capacity', because the counters never fire.\n\nThat is the whole pitch, really. You do not need new messaging. You need the site to stop contradicting the balance sheet, a quote path on the product pages, and the B2B budget moved off broad Meta onto LinkedIn ABM where the specifiers actually are.\n\nWe work with solar brands only. 15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ]
+  ]
+}
