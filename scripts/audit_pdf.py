@@ -297,12 +297,16 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     story.append(Spacer(1,1*mm))
 
     # CTA
+    cta_body = lead.get(
+        "cta_body",
+        f"{agency_name} will run a <b>14-day performance sprint</b> for {brand}: "
+        f"Creative refresh, CRO rebuild of top landing pages, CAPI + retargeting setup. "
+        f"We work on a <b>performance-fee model</b> tied to conversion-cost reduction.",
+    )
     cta = [
         [Paragraph("READY TO PLUG THESE LEAKS?", S["CTA_BIG"])],
         [Spacer(1,1*mm)],
-        [Paragraph(f"{agency_name} will run a <b>14-day performance sprint</b> for {brand}: "
-                   f"Creative refresh, CRO rebuild of top landing pages, CAPI + retargeting setup. "
-                   f"We work on a <b>performance-fee model</b> tied to conversion-cost reduction.", S["CTA_SM"])],
+        [Paragraph(cta_body, S["CTA_SM"])],
         [Spacer(1,1*mm)],
         [Paragraph(f"Ph/WhatsApp: <b>{agency_phone}</b> &nbsp;|&nbsp; Email: <b>{agency_email}</b>", S["CTA_SM"])],
         [Spacer(1,1*mm)],
@@ -330,7 +334,7 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     md = [
         f"# {brand} - Outreach Templates ({agency_name} BD team)",
         "",
-        f"> Companion to `audits/{slug}-audit-report.pdf` (Lead score {score}/10). Do NOT attach to the audit PDF - internal BD templates only.",
+        f"> Companion to `{out_pdf.relative_to(ROOT) if ROOT in out_pdf.parents else out_pdf.name}` (Lead score {score}/10). Do NOT attach to the audit PDF - internal BD templates only.",
         "", "---", "",
     ]
     for subj, body in emails:
