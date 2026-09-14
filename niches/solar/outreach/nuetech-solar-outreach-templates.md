@@ -1,46 +1,44 @@
 # Nuetech Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/nuetech-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `niches/solar/audits/nuetech-solar-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Nuetech Solar - Shipping/delivery timeline hidden - key objection unanswered
+### Subject A (Roast-Audit): your ads still will not say when the geyser arrives
 
-Hi,
+Hi Surendra / Ananth / Nuetech growth,
 
-I spent 30 minutes on your Meta ad library and nuetechsolar.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+I spent 40 minutes on Nuetech this morning (14 Sep 2026). 32 years in Sunkadakatte, Lazurite/SUN POT/ROBO, IIM Lucknow on the install list, Rs.42.9 Cr FY23. The funnel is not at that standard.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Five leaks, all live:
+1. Day-1 leak, confirmed: no delivery/install days on nuetechsolar.com or IndiaMART (Shipment = By Road). Racold/V-Guard dealers print 1-2 days. Kamal prints 24-48 hours in Karnataka.
+2. Day-1 dest is Lead Form. Phone 9243144444 exists. Ads do not WhatsApp it.
+3. nuetechsolar.com homepage did not load. Copyright 2024. The priced catalog is IndiaMART Get Quote (and reviews tagged Tata / V-Guard).
+4. Warranty is 2 / 10 / 15 / 20 / 25 years depending which page you open.
+5. PM Surya Ghar Rs.78,000 is rooftop PV. Do not put it on a water-heater ad.
 
-- Smart Pursuit
+3-page confidential audit, 3 fixes (SLA + WhatsApp, priced /swh/ LP, UGC). Shall I WhatsApp it to 9243144444? One message, no call.
 
-P.S. One flag specific to Nuetech Solar: Shipping/delivery timeline hidden - key objection unanswered
+- Smart Pursuit  |  7095024220
 
 ---
 
 ### Subject B (WhatsApp / Loom - 30 sec)
 
-"Hi Nuetech Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+"Hi Nuetech team - 4 minutes on nuetechsolar.com + IndiaMART. First 20 seconds: homepage did not load. Next minute: no delivery days, Get Quote only, 9243144444 not on the ad. Last 90 seconds: warranty 10 vs 20 vs 25 years, and Racold already printing 1-2 day delivery in the same auctions. Want the link on WhatsApp 9243144444? No call."
 
 ---
 
-### Subject C (FOMO): what the top rooftop installers in Bengaluru are doing differently
+### Subject C (FOMO): Kamal is promising 48-hour Karnataka install while your Meta still says Enquire Now
 
 Hi,
 
-While auditing rooftop solar funnels in Bengaluru, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
+Auditing solar-water-heater funnels in Bengaluru this week. Nuetech is the factory. Kamal Solar (KA, 1998) is winning the click with BIS + 24-48 hour install. Racold/V-Guard dealers print 1-2 days.
 
-3 of these can be live in 7 days. Want the 1-page plan?
+Your IndiaMART prices are live (ETC from Rs.17,317). Your ads send people to a form. FY23 revenue already dropped 43% vs FY22 (Tracxn). This is a funnel problem, not a product problem.
 
-- Smart Pursuit
+3 fixes in 7 days: 48-hour SLA on the ad, WhatsApp CTA, priced landing. Want the 1-page plan?
 
-Ref: Nuetech Solar (nuetechsolar.com), Bengaluru - verified in Meta Ad Library India.
+- Smart Pursuit  |  7095024220
 
 ---
