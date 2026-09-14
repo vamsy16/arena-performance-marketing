@@ -1,57 +1,57 @@
 {
   "brand": "V-Guard Solar",
-  "website": "vguard.in/sps (solar) · vguard.com (D2C store)",
+  "website": "vguard.in/sps (solar) \u00b7 vguard.com (D2C store)",
   "instagram": "@vguardindia (corporate; no solar-only handle)",
-  "segment": "C",
+  "segment": "B - V-Guard subsidiary (solar water heaters + rooftop, B2B2C)",
   "city": "Kochi",
   "state": "Kerala",
   "capacity": "1-10 kW rooftop; 545 Wp / 580 W TOPCon modules",
   "active_ads": 22,
-  "ads_active": 22,
+  "ads_active": 0,
   "destination": "Lead Form (vguard.in/sps 'Partner with Us'); no WhatsApp sales CTA",
   "spend_est": "20L+/mo (group); solar share small",
   "spend": "Rs.20 L+/mo group est.",
-  "revenue": "Rs.5,965.78 Cr FY26 · Q1 FY27 Rs.1,810.65 Cr",
-  "niche": "D2C Solar Products + Rooftop SPS · Kerala/Pan-India",
+  "revenue": "Rs.5,965.78 Cr FY26 \u00b7 Q1 FY27 Rs.1,810.65 Cr",
+  "niche": "D2C Solar Products + Rooftop SPS \u00b7 Kerala/Pan-India",
   "leak": "No COD/EMI or subsidy rupee visibility in ads; vguard.in is under 'technical upgradation', /solar 404s, SPS page has no price, no calculator, no WhatsApp sales CTA, zero install UGC",
   "data_source": "seed-real + live site/financial review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
+  "score": 3,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=V-Guard+Solar",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=vguard.in",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (V-Guard states National Vendor status, 2024 - re-verify; never promise subsidy approval)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "pitch_fit": "LOW",
   "found_at": "2026-09-14T06:02:34.804535",
   "day_found": 1,
   "audit_date": "2026-09-14",
   "lead_number": 11,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
   "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for V-Guard SPS: a solar landing page that actually loads and sells (not a 404 plus a 2019 maintenance notice), PM Surya Ghar rupees and DCR/Non-DCR clarity above the fold, WhatsApp instead of a 'How did you find our website?' dropdown, and Kerala/TN terrace UGC instead of studio packshots. Priced against <b>CPL and cost per site survey / kit sold</b>, not impressions.",
-  "ad_intro": "<b>Why a performance-marketing audit includes the website:</b> Meta does not make you money - the click does. You pay CPL on the ad; the conversion happens on the landing page, the form, WhatsApp speed-to-lead and the proof. If the ad says 'Go solar with V-Guard' and the click lands on a page that says <i>'Due to technical upgradation of our system, our website is temporarily not accessible'</i>, you rented the click and lost the lead. That is the whole job of this audit - ads, site, form, creative and tracking as one funnel.<br/><br/>V-Guard Industries Ltd (NSE/BSE <b>VGUARD</b>, founded 1977 by Kochouseph Chittilappilly; MD Mithun K. Chittilappilly; HQ Kochi, Kerala). <b>FY26 revenue Rs.5,965.78 Cr, PAT Rs.308.33 Cr</b>. <b>Q1 FY27 (quarter to 30 Jun 2026): revenue Rs.1,810.65 Cr (+23.5% YoY), PAT Rs.130.25 Cr (+76.4%), EBITDA Rs.190.96 Cr, margin 10.5% vs 8.4%</b> - all segments in double-digit growth (results approved 29 Jul 2026). Solar sits inside 'Inverter, Batteries &amp; Solar Power Systems'. Day-1 file 14 Sep 2026: <b>7/10</b>, ~22 ads, Lead Form dest, pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> vguard.in/solar returns <b>404 Page Not Found</b>. The real solar page is <b>vguard.in/sps</b>. Every vguard.in product page still opens with a maintenance overlay dated <i>'till SUNDAY 10th November 2019'</i>, and the homepage carries a current 'website temporarily not accessible' notice. The SPS page claims <b>National Vendor under PM Surya Ghar Muft Bijli Yojana (2024)</b>, 49 years, 60 mn+ users, 325 service centres, 33 branches, 40,000+ partners - but names <b>no rupee of subsidy, no price, no payback calculator</b>. Modules listed: <b>545 Wp MonoPERC HC (21.10%)</b>, <b>580 TOPCon (22.47%)</b>, 585 (RS) TOPCon N-type GG with 30-yr linear output warranty - most of the catalogue is flagged <b>Non-DCR</b>, with only 540/550 (AX) Bifacial <b>DCR</b> variants. The only WhatsApp number on site, <b>9633503333</b>, is <i>service</i> support. The D2C store vguard.com sells solar <i>inverters</i> (Smart Pro 1200 S Rs.8,199; inverter+battery combos Rs.22,950-27,499, 4.4-4.9 star reviews) - <b>no rooftop kit, no panels</b>.<br/><br/><b>Day-1 leak, confirmed:</b> no COD/EMI or subsidy visibility in the ads, and now also a dead solar URL, a price-less SPS page, a lead form whose first question is 'How did you find our website?', and zero customer install UGC. <i>Ad counts are Day-1 estimates. Never promise subsidy approval.</i>",
+  "ad_intro": "V-Guard is a large Kerala-based consumer electricals brand ( stabilizers, wires, fans, pumps, water heaters). V-Guard Solar primarily sold via dealers; search shows Megha Solar (dealer) and regional dealer pages, not a strong direct brand page. Meta Ad Library \"V-Guard Solar\" returned 0 active ads. Brand heavily distributed via retail network \u2014 D2C pitch not natural fit.",
   "ad_intelligence": [
     [
       "Why website = performance",
-      "Ad Library is 30% of the leak. The other 70%: (1) does the landing match the hook, (2) can a buyer WhatsApp in under 5 minutes, (3) is there proof a neighbour installed, (4) is the form short, (5) does tracking fire on enquire/WhatsApp not just PageView. On 14 Sep 2026 V-Guard fails 1-4 on the live site - /solar is a 404 and /sps has no price, no rupee and no chat. That is why we audit the site, not just the ~22 creatives."
+      "Ad Library is 30% of the leak. The other 70%: (1) does the landing match the hook, (2) can a buyer WhatsApp in under 5 m"
     ],
     [
       "Active platforms",
-      "Meta (FB+IG) primary via corporate handle @vguardindia - no solar-only handle. Google Search/PMax on 'solar inverter price', 'rooftop solar Kerala'. Owned D2C: vguard.com (Shopify, 235 solar-tagged SKUs, EMI + UPI offers). Retail/dealer: 40,000+ partners, 325 service centres. Marketplaces: Amazon, Moglix, IndiaMART, SolarClue."
+      "Meta (FB+IG) primary via corporate handle @vguardindia - no solar-only handle. Google Search/PMax on 'solar inverter pri"
     ],
     [
       "Active ads (est.)",
-      "~22 creatives by Day-1 signature; group spend Rs.20 L+/mo with solar a small slice. Verify in Meta Ad Library India (active filter) + Google Ads Transparency (vguard.in / vguard.com). Do not quote 22 as a hard number - and split appliance/fan/stabiliser creatives out before reading solar ROAS."
+      "~22 creatives by Day-1 signature; group spend Rs.20 L+/mo with solar a small slice. Verify in Meta Ad Library India (act"
     ],
     [
       "Offer / SKUs (14 Sep 2026)",
-      "Rooftop SPS (on-grid + off-grid + battery backup, free Wi-Fi data logger, export-limit support). Panels: 545 Wp MonoPERC HC 21.10%, 580 TOPCon 22.47%, 585 (RS) TOPCon N-type GG - 30-yr linear output / 12-15 yr product warranty; mostly Non-DCR, 540/550 (AX) Bifacial DCR available. On-grid inverter 97.60% peak efficiency. Store: Smart Pro 1200 S solar inverter Rs.8,199 (4.43/5, 21 reviews); combos Rs.22,950 / 26,299 / 27,499. No rooftop kW price anywhere on owned media."
+      "Rooftop SPS (on-grid + off-grid + battery backup, free Wi-Fi data logger, export-limit support). Panels: 545 Wp MonoPERC"
     ],
     [
       "Funnel / CRO (14 Sep 2026)",
-      "Ad -> vguard.in/sps -> 'Partner with Us' form (End Consumer vs Institutional toggle, 'How did you find our website?' dropdown, 240-char message box). Product tiles have 'I am interested' / 'KNOW MORE'. Support: 0120-4850100, 1860-180-3000, 1800-103-1300, customercare@vguard.in, WhatsApp 9633503333 (service). Dealer locator exists; no city solar landing pages; no site-survey scheduler."
+      "Ad -> vguard.in/sps -> 'Partner with Us' form (End Consumer vs Institutional toggle, 'How did you find our website?' dro"
     ],
     [
       "Subsidy vs UGC vs DCR",
-      "PM Surya Ghar is at 50.06 lakh homes / 16,185 MW installed, Rs.28,024 Cr paid by DBT, loans at 5.75%, 34,219 registered vendors (MNRE, Aug 2026) - the biggest demand pump in the category. V-Guard claims National Vendor status but publishes no Rs.30,000/60,000/78,000 math, no DCR-vs-Non-DCR eligibility note, and no terrace UGC. IndiaMART dealers quote V-Guard rooftop anywhere from Rs.26,000 to Rs.1,35,000/kW - the brand has ceded price narration to resellers."
+      "PM Surya Ghar is at 50.06 lakh homes / 16,185 MW installed, Rs.28,024 Cr paid by DBT, loans at 5.75%, 34,219 registered "
     ]
   ],
   "scores": {
@@ -81,12 +81,11 @@
     ]
   },
   "findings": [
-    "<b>The paid click lands on a broken door (confirmed 14 Sep 2026).</b> vguard.in/solar = 404 Page Not Found. vguard.in home shows 'Due to technical upgradation of our system, our website is temporarily not accessible'. Every product page still renders a maintenance overlay dated 'till SUNDAY 10th November 2019' with call-centre numbers. A Rs.5,965 Cr listed brand is sending high-intent solar traffic into that. Fix order: 301 /solar -> /sps, kill the 2019 overlay, then talk about creative.",
-    "<b>Day-1 leak confirmed - no COD/EMI or subsidy rupee in the funnel.</b> The SPS page says 'National Vendor under PM Surya Ghar Muft Bijli Yojana (2024)' and then never mentions Rs.30,000 / Rs.60,000 / Rs.78,000, the 5.75% scheme loan, or net-metering payback. Meanwhile the vguard.com store proves the brand <i>can</i> do commerce messaging - No Cost EMI, 10% EMI saving, 1% UPI saving, MRP strike-throughs - on a Rs.8,199 inverter. That commercial language never reaches the Rs.1.5-3 lakh rooftop buyer.",
-    "<b>No price, no calculator, and resellers own the number.</b> Zero rooftop pricing on owned media, while IndiaMART/TradeIndia dealers publicly quote V-Guard rooftop between Rs.26,000 and Rs.1,35,000 per kW. Buyers who search 'V-Guard solar price' meet a dealer's number, not yours. A from-Rs. band plus a 3-field savings calculator (city, monthly bill, roof type) recovers that search intent and turns it into first-party leads.",
-    "<b>DCR vs Non-DCR is unexplained - and it decides subsidy eligibility.</b> The catalogue is mostly Non-DCR (545 MonoPERC, 580/585 TOPCon), with DCR only on 540/550 (AX) Bifacial. For PM Surya Ghar the household needs ALMM-listed, DCR-compliant modules. Not stating which SKU is subsidy-eligible creates cancelled orders at DISCOM stage and hands the objection to Waaree/Tata dealers. Put an eligibility badge on each module and in the ad copy - without ever promising approval.",
-    "<b>WhatsApp exists, but only for complaints.</b> 9633503333 is service support; the sales path is a form whose first field is 'How did you find our website?' and an 'Institutional/Project (Bulk Purchase)' toggle. A homeowner asking '3 kW kitna?' at 9pm will not fill that. Move to a 3-field form (city, phone, monthly bill) plus a click-to-WhatsApp sales line with a catalogue and auto-greeting; speed-to-lead under 5 minutes is the single biggest CPL lever in Indian residential solar.",
-    "<b>Zero install proof against the strongest tailwind in the category.</b> 49 years, 60 mn+ users, 325 service centres, 40,000+ partners, 30-year output warranty - and not one terrace video, net-meter bill or customer voice in the solar creative. PM Surya Ghar just crossed 50.06 lakh homes and 16,185 MW with 16,328 installs a day (MNRE, Aug 2026); the buyers are being convinced by other brands' UGC. 20 Malayalam/Tamil/Hinglish roof Reels using the existing service network is a two-week job."
+    "<b>The paid click lands on a broken door (confirmed 14 Sep 2026).</b> vguard.in/solar = 404 Page Not Found. vguard.in home shows 'Due to tec",
+    "<b>Day-1 leak confirmed - no COD/EMI or subsidy rupee in the funnel.</b> The SPS page says 'National Vendor under PM Surya Ghar Muft Bijli Y",
+    "<b>No price, no calculator, and resellers own the number.</b> Zero rooftop pricing on owned media, while IndiaMART/TradeIndia dealers public",
+    "<b>DCR vs Non-DCR is unexplained - and it decides subsidy eligibility.</b> The catalogue is mostly Non-DCR (545 MonoPERC, 580/585 TOPCon), w",
+    "<b>WhatsApp exists, but only for complaints.</b> 9633503333 is service support; the sales path is a form whose first field is 'How did you f"
   ],
   "competitors": [
     [
@@ -103,34 +102,24 @@
       "Luminous / Microtek / Okaya",
       "Same D2C shelf as you, but they put kit pages, prices and marketplace links in the ad path.",
       "Your vguard.com store already does EMI/UPI/No-Cost-EMI beautifully on inverters. Extend the same commerce UX to panels and rooftop kits."
-    ],
-    [
-      "SolarSquare / Freyr Energy",
-      "Hero = 'Save Rs.1 Lakh', 3-field calculator, WhatsApp CTA, 15k+ Google ratings, locality install proof.",
-      "They convert the same Kerala/TN click faster with less brand equity. You need the calculator and WhatsApp, not a bigger budget."
-    ],
-    [
-      "Your own vguard.com store",
-      "Prices, reviews (4.4-4.9), EMI banners, working checkout - a real conversion asset.",
-      "Solar rooftop is not on it. The ad sends people to a maintenance-noticed corporate page instead. That is the cheapest fix in this audit."
     ]
   ],
   "wins": [
     [
       "WIN 1 - 48 hours: make the landing page exist, then make it sell",
-      "301 vguard.in/solar to /sps and remove the 2019 maintenance overlay plus the 'temporarily not accessible' notice from all paid landing paths. On /sps first screen: 'Rooftop solar from V-Guard - households may be eligible for up to Rs.78,000 central assistance under PM Surya Ghar (MNRE process; V-Guard does not approve subsidy)', a from-Rs. per-kW band, and a click-to-WhatsApp sales number (not the 9633503333 service line). Cut the form to 3 fields: city, phone, monthly bill. Expected: stop 100% of the dead-click waste; 25-40% more qualified enquiries at the same spend.",
+      "301 vguard.in/solar to /sps and remove the 2019 maintenance overlay plus the 'temporarily not accessible' notice from all paid landing paths. On /sps first screen: 'Rooftop solar from V-Guard - househ",
       "#059669",
       "#ECFDF5"
     ],
     [
       "WIN 2 - 7 days: subsidy + EMI creative, DCR badges, and a savings calculator",
-      "Rebuild the solar ad set around the two things V-Guard already owns and never says: money (No Cost EMI + PM Surya Ghar rupees) and warranty (30-year linear output, 325 service centres, lifetime on-site service). Add a DCR / Non-DCR subsidy-eligibility badge to 545 MonoPERC, 580 and 585 TOPCon, 540/550 AX Bifacial. Ship a 3-field savings calculator that captures the phone number before showing payback. Expected: 1.5-2x form completion and far fewer DISCOM-stage cancellations.",
+      "Rebuild the solar ad set around the two things V-Guard already owns and never says: money (No Cost EMI + PM Surya Ghar rupees) and warranty (30-year linear output, 325 service centres, lifetime on-sit",
       "#F59E0B",
       "#FFFBEB"
     ],
     [
       "WIN 3 - 14 days: 20 terrace UGC Reels + 60-day retargeting + solar-only handle",
-      "Shoot 20 installs across Kochi, Thrissur, Coimbatore and Chennai using the existing service network: before/after roof, net-meter spinning backwards, customer reading the old vs new bill, in Malayalam / Tamil / Hinglish. Launch a solar-focused IG/YouTube destination instead of the corporate @vguardindia feed. Audiences: (i) /sps no-enquiry, (ii) calculator abandoners, (iii) 50% video viewers - 60-day windows, because rooftop is a 30-90 day decision. Expected: cheaper CPL, higher survey-to-order rate, and price narration taken back from IndiaMART dealers.",
+      "Shoot 20 installs across Kochi, Thrissur, Coimbatore and Chennai using the existing service network: before/after roof, net-meter spinning backwards, customer reading the old vs new bill, in Malayalam",
       "#6D28D9",
       "#F5F3FF"
     ]
@@ -165,18 +154,6 @@
       "Form + service WhatsApp",
       "Sales WhatsApp, 3-field form",
       "Speed-to-lead under 5 min"
-    ],
-    [
-      "Install UGC in ads",
-      "None (studio packshots)",
-      "20 terrace Reels, 4 languages",
-      "Day-1 leak closed"
-    ],
-    [
-      "Cost per residential solar lead",
-      "Rs.250-450",
-      "Rs.150-250",
-      "~40% cheaper"
     ]
   ],
   "outreach": [
@@ -192,5 +169,9 @@
       "Subject C (FOMO): SolarSquare says 'Save Rs.1 Lakh'. Your solar ad opens a maintenance notice.",
       "Hi,\n\nAuditing rooftop solar funnels in Kerala and Tamil Nadu this week. V-Guard has what the challengers would kill for - 49 years, 60 million customers, 325 service centres, 40,000+ partners, 30-year panel output warranty, claimed PM Surya Ghar National Vendor status.\n\nWhat the challengers have that you don't, today: a working landing page, the subsidy rupee on the first screen, a 3-field savings calculator, a WhatsApp sales line, and terrace videos in the local language.\n\nPM Surya Ghar is at 50.06 lakh homes and 16,185 MW, adding ~16,328 installs a day. Every week the funnel stays like this, a dealer converts a click that was paid for with V-Guard's money.\n\n3 fixes live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
     ]
-  ]
+  ],
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "V-Guard is a large Kerala-based consumer electricals brand ( stabilizers, wires, fans, pumps, water heaters). V-Guard Solar primarily sold via dealers; search shows Megha Solar (dealer) and regional dealer pages, not a strong direct brand page. Meta Ad Library \"V-Guard Solar\" returned 0 active ads. Brand heavily distributed via retail network \u2014 D2C pitch not natural fit."
 }

@@ -7,67 +7,86 @@
   "state": "Tamil Nadu",
   "capacity": "1-10 kW residential; C&I to 500 kW",
   "active_ads": 16,
-  "ads_active": 16,
+  "ads_active": 0,
   "destination": "Lead Form (site itself is down as of 14 Sep 2026)",
   "spend_est": "1-3L/mo",
   "spend": "Rs.1-3 L/mo",
-  "revenue": "7 MW+ / 1000+ roofs",
-  "niche": "Rooftop Solar · TN",
+  "revenue": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
+  "niche": "Rooftop Solar \u00b7 TN",
   "leak": "Website is a default hosting page; ads still use generic 'Save electricity' copy with no PM Surya Ghar subsidy hook",
   "data_source": "seed-real + live site review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 9,
+  "score": 0,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Sunlit+Future",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sunlitfuture.in",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - owner-led local EPC, lead volume = revenue, fast reply",
+  "pitch_fit": "DNU",
   "found_at": "2026-09-14T06:02:34.805118",
   "day_found": 1,
   "audit_date": "2026-09-14",
   "lead_number": 2,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for Sunlit Future: restore the site, subsidy-first WhatsApp creatives, 3-field calculator, Pixel/CAPI + 60-day retargeting. Priced against <b>cost per site survey</b>, not impressions.",
-  "ad_intro": "Sunlit Future (<b>sunlitfuture.in</b>) is an Auroville rooftop EPC (est. 1999), official <b>SolarEdge</b> distributor, <b>1,000+ rooftops / 7 MW+</b> (Kalasalingam University 503 kW, French Consulate Pondicherry 45 kW, Aravind Eye Care, Hidesign). Day-1 file 14 Sep 2026: <b>9/10 HOT</b>, pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> sunlitfuture.in is a default hosting page (\"Congratulations! You have successfully set up your website!\"). Inner URLs 404. sunlitfuture.com is parked. Wayback: full site Jan 2025, placeholder already live 8 Jun 2026 (~3 months down). Every ad click to the website is wasted.<br/><br/><b>Three leaks:</b> (1) site/form/pixel are dead; (2) even the 2025 homepage never named PM Surya Ghar - hero was \"Save Environment / 5-year payback\" while Freyr leads with \"Save Rs.1 Lakh = Rs.78,000 + Rs.22,000\" (TN added a Rs.22,000 top-up in Aug 2026); (3) ads go to a Lead Form while WhatsApp 6384067020 and 1,000+ install photos sit unused. Fixable in 7-14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library before quoting.</i>",
+  "cta_body": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
+  "ad_intro": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. IG @sunlit.future (1,069 / 143 posts; Day-1 handle @sunlitfuture was wrong). FB /FutureSunlit (1,464 likes). LinkedIn ~537, 11-50 staff. Justdial 4.3-4.5 with WhatsApp 8105196769. Google ~4.2 / 18."],
-    ["Active ads (est.)", "~16 creatives by Day-1 signature, CTA = Lead Form. Verify live count in Meta Ad Library India (active) + Google Ads Transparency before pitching."],
-    ["Funnel / site (14 Sep)", "DOWN - default hosting page; /our-solutions/ = 404; .com parked. Old form: Name*, Email*, Phone optional (5 fields). WhatsApp plugin existed (6384067020) but is not the ad CTA. Contact: Auroshilpam, +91-413-2622992, info@sunlitfuture.in."],
-    ["Budget + unused proof", "Rs.1-3 L/mo est. Owner-led ~15-person EPC. Proof not in ads: 1,000+ roofs, 7 MW, Kalasalingam 503 kW, Consulate 1 lakh kWh / 17 months, 800 solar pumps."]
+    [
+      "Status",
+      "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
+    ]
   ],
   "scores": {
-    "Subsidy & Scheme Clarity": [2, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [4, "#F59E0B"],
-    "Social Proof (Installs)": [3, "#EF4444"],
-    "Creative Variety (Video/Reels)": [3, "#EF4444"],
-    "Landing Page & Form CRO": [1, "#EF4444"],
-    "Tracking & Retargeting": [2, "#EF4444"]
+    "DNU": [
+      0,
+      "#EF4444"
+    ]
   },
   "findings": [
-    "<b>Website leak (critical, 14 Sep 2026):</b> sunlitfuture.in is a default hosting page; inner URLs 404; .com is parked. Down ~3 months (Wayback 8 Jun 2026). Pixel, CAPI and the form resolve to a placeholder - paid traffic is a 100% bounce.",
-    "<b>Subsidy leak:</b> 2025 homepage never named PM Surya Ghar. Hero = 'Save Environment / Save Money / 5-year payback'. Day-1 leak matches: generic 'Save electricity' ads, no Rs.78,000. TN added a Rs.22,000 top-up (18 Aug 2026). Freyr's live hero is 'Save Rs.1 Lakh'.",
-    "<b>WhatsApp + proof leak:</b> Ads go to a Lead Form; old site asked Name+Email before Phone. WhatsApp 6384067020 already exists. 1,000+ rooftops, Kalasalingam 503 kW, Consulate 1 lakh kWh, Google 4.2 / Justdial 4.5 are not in the ads. Instagram: 1,069 followers."
+    "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Sunlit"],
-    ["Freyr Energy", "Live hero: 'Save Rs.1 Lakh' = Rs.78,000 government subsidy + Rs.22,000. 4.7 Google / 4,473 reviews. Calculator + EMI from Rs.1,466 + WhatsApp-first. Site is up.", "Lead with the rupee number, not 'go green'. Restore the site first."],
-    ["SolarSquare", "PM Surya Ghar in the nav. City pages for Chennai / Coimbatore / Madurai / Salem. 4.8 Google / 15,000+ ratings. Calculator + EMI + 'Schedule a FREE Visit' above the fold.", "Pondicherry + Villupuram + Chennai landing pages. Put Google/Justdial ratings on the first screen."],
-    ["Fenice Energy (Chennai)", "Site is live. 1800-889-8457, financing page, calculator, GreenPartners. Hero still says 'Clean energy' - but a working page beats a dead one.", "A 1-page live landing with WhatsApp + subsidy math already wins vs a placeholder."]
+    [
+      "n/a",
+      "Do not pitch",
+      "-"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Put the website back, subsidy on the hero, WhatsApp as CTA", "Restore sunlitfuture.in (a 1-page landing beats the hosting default). Hero: '3 kW rooftop - eligible for up to Rs.78,000. WhatsApp for a site survey in Auroville / Pondicherry / Villupuram.' CTA = click-to-WhatsApp 6384067020. 301 .com to .in. Expected: stop the 100% bounce.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Subsidy-first Meta batch, kill Lead Form as primary", "6 creatives in Tamil + Hinglish: (a) eligible for up to Rs.78,000 + Rs.22,000 TN top-up, (b) roof before/after, (c) Consulate 1 lakh kWh, (d) Google 4.2 / Justdial 4.5. CTA = Send WhatsApp Message. Say 'eligible for up to' - never promise subsidy approval. Expected: 25-40% more qualified enquiries at the same spend.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: 3-field calculator + proof layer + 60-day retargeting", "Replace the 5-field form with city + phone + monthly bill, then show subsidy/EMI. Film 10 clips from the 1,000+ rooftop archive. Rebuild Pixel + CAPI. Sequence: video 50% -> WhatsApp -> site-survey offer (solar is a 30-90 day decision). Expected: lead->survey 15-20% to 28-35%.", "#6D28D9", "#F5F3FF"]
+    [
+      "Do Not Pitch",
+      "Remove from outreach list.",
+      "#EF4444",
+      "#FEE2E2"
+    ]
   ],
   "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Website bounce on ad click", "~100% (site down)", "<40%", "Site restored, WhatsApp CTA"],
-    ["Cost per lead (Meta)", "Rs.250-450", "Rs.150-250", "~40% cheaper"],
-    ["Lead -> site survey", "15-20%", "28-35%", "WhatsApp in <5 min"],
-    ["Cost per installed kW won", "Rs.6,000-9,000", "Rs.3,500-5,500", "Same budget, more installs"]
+    [
+      "Metric",
+      "Current",
+      "After",
+      "Impact"
+    ],
+    [
+      "Status",
+      "DNU",
+      "-",
+      "-"
+    ]
   ],
   "outreach": [
-    ["Subject A (Roast-Audit): sunlitfuture.in is a 'Congratulations, you set up your website' page", "Hi Sunlit Future team,\n\nI opened sunlitfuture.in this morning (14 Sep 2026). It is the default hosting page - 'Congratulations! You have successfully set up your website!'. sunlitfuture.com is parked. Your WordPress site has been down since at least 8 June.\n\nTwo more leaks on top of that:\n1. Even when the site was live, the hero said 'Save Environment / Save Money' - not PM Surya Ghar (up to Rs.78,000 on 3 kW). Freyr's live headline is 'Save Rs.1 Lakh'. Tamil Nadu added a Rs.22,000 top-up in August.\n2. Ads go to a Lead Form. You already have WhatsApp 6384067020, 1,000+ rooftops and the Kalasalingam 503 kW / French Consulate case studies - none of that is the ad.\n\nI wrote a 2-page confidential audit with the 3 fixes (48-hour site restore, subsidy-first WhatsApp ads, 3-field calculator). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi - I recorded 3 minutes on Sunlit Future. First 20 seconds: sunlitfuture.in is a hosting default page. Next minute: your 2025 homepage vs Freyr's 'Save Rs.1 Lakh' hero. Last minute: 1,000+ rooftops and the French Consulate 1-lakh-kWh case that are not in the ads. Want the link on WhatsApp 6384067020? No call.\""],
-    ["Subject C (FOMO): Pondicherry / TN installers are leading with Rs.78,000 - you are not", "Hi,\n\nAuditing rooftop solar funnels around Auroville / Pondicherry / Villupuram this week. The installers pulling site surveys all do 4 things Sunlit currently does not:\n1. A website that loads (yours is a hosting placeholder as of 14 Sep).\n2. Subsidy-first creative - eligible for up to Rs.78,000, plus the new Rs.22,000 TN top-up.\n3. Click-to-WhatsApp as the primary CTA, not a Lead Form.\n4. Install proof in the ad (you have Kalasalingam 503 kW, the French Consulate, Aravind, Hidesign).\n\n3 of these can be live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+    [
+      "Subject A (Roast-Audit): sunlitfuture.in is a 'Congratulations, you set up your website' page",
+      "Hi Sunlit Future team,\n\nI opened sunlitfuture.in this morning (14 Sep 2026). It is the default hosting page - 'Congratulations! You have successfully set up your website!'. sunlitfuture.com is parked. Your WordPress site has been down since at least 8 June.\n\nTwo more leaks on top of that:\n1. Even when the site was live, the hero said 'Save Environment / Save Money' - not PM Surya Ghar (up to Rs.78,000 on 3 kW). Freyr's live headline is 'Save Rs.1 Lakh'. Tamil Nadu added a Rs.22,000 top-up in August.\n2. Ads go to a Lead Form. You already have WhatsApp 6384067020, 1,000+ rooftops and the Kalasalingam 503 kW / French Consulate case studies - none of that is the ad.\n\nI wrote a 2-page confidential audit with the 3 fixes (48-hour site restore, subsidy-first WhatsApp ads, 3-field calculator). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi - I recorded 3 minutes on Sunlit Future. First 20 seconds: sunlitfuture.in is a hosting default page. Next minute: your 2025 homepage vs Freyr's 'Save Rs.1 Lakh' hero. Last minute: 1,000+ rooftops and the French Consulate 1-lakh-kWh case that are not in the ads. Want the link on WhatsApp 6384067020? No call.\""
+    ],
+    [
+      "Subject C (FOMO): Pondicherry / TN installers are leading with Rs.78,000 - you are not",
+      "Hi,\n\nAuditing rooftop solar funnels around Auroville / Pondicherry / Villupuram this week. The installers pulling site surveys all do 4 things Sunlit currently does not:\n1. A website that loads (yours is a hosting placeholder as of 14 Sep).\n2. Subsidy-first creative - eligible for up to Rs.78,000, plus the new Rs.22,000 TN top-up.\n3. Click-to-WhatsApp as the primary CTA, not a Lead Form.\n4. Install proof in the ad (you have Kalasalingam 503 kW, the French Consulate, Aravind, Hidesign).\n\n3 of these can be live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
 }

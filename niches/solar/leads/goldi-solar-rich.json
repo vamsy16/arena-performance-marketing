@@ -1,0 +1,171 @@
+{
+  "brand": "Goldi Solar",
+  "website": "goldisolar.com",
+  "instagram": "@goldi_solar",
+  "segment": "B",
+  "city": "Surat",
+  "state": "Gujarat",
+  "capacity": "PV modules (TOPCon, bifacial, HJT/hetereojunction); module manufacturing expanded 3 GW to 15.2 GW in 14 months across AI-powered facilities in Navsari, Kosamba and Nana Borsara (Surat, Gujarat); cell manufacturing 5 GW planned/commissioning for backward integration; EPC services + IPP; exports to 20+ countries incl. USA, UAE, Germany, Greece, France; AI-powered AOI production line (10,000 cells/hour) inaugurated Mar 2025 at Kosamba",
+  "active_ads": 7,
+  "ads_active": 7,
+  "destination": "Website (Enquire / Become a Partner; toll-free 1800 833 5511; WhatsApp not primary CTA; no per-watt quote/sample flow visible to EPCs; no dealer-onboarding LP)",
+  "spend_est": "1-3L/mo (est.) - B2B/distributor/export; ads mostly brand",
+  "spend": "Rs.1-3 L/mo (est.)",
+  "revenue": "Private (unlisted public company). Founded 2011 by <b>Ishver Dholakiya</b> (MD) and Bharat Bhut (co-founder). RocketReach (2026): ~$50.5 M (~Rs.420 Cr) revenue, ~2,366 employees (1,138 on RocketReach)",
+  "niche": "B2B PV Module Manufacturer + EPC / IPP \u00b7 Surat, GJ (Bloomberg Tier-1, 15.2 GW)",
+  "leak": "Zero case-study / kW-installed proof in ads - C&I buyers and export distributors need references; ads target homeowners while also bidding on B2B/export keywords - wasted budget; no LinkedIn ABM layer while running Meta; WhatsApp not primary CTA; 15.2 GW / 14-month-ramp story (strongest creative asset) is not on the ad; no gated procurement pack (ALMM/BIS/IEC datasheets); no visible /channel-partner/ LP for dealer onboarding",
+  "data_source": "seed-real + live site review 2026-09-14 (goldisolar.com; RocketReach 2026; Tracxn Jul 2026; Blackridge Research May 2026; Altius Investech profile; IndiaMART)",
+  "verify": "Ad counts are Day-1 estimates - verify in Meta Ad Library India. Goldi is a module manufacturer + EPC/IPP; do not promise PM Surya Ghar subsidy - Goldi modules are ALMM-listed and used by installers; the channel-partner/dealer is the conversion point.",
+  "score": 3,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Goldi+Solar",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=goldisolar.com",
+  "pm_surya_ghar_vendor_check": "Modules are ALMM-listed (eligible for PM Surya Ghar projects when installed by an empanelled channel partner); Goldi itself is a manufacturer - do not advertise Rs.78,000 subsidy as a Goldi offer.",
+  "pitch_fit": "MEDIUM - B2B module manufacturer + EPC; fast 15.2 GW ramp story is a differentiator; needs channel-partner recruitment + B2B demand-gen (distributor + export + EPC procurement), not residential Reels",
+  "found_at": "2026-09-14T06:02:34.803854",
+  "day_found": 1,
+  "audit_date": "2026-09-14",
+  "lead_number": 28,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "Smart Pursuit will run a &lt;b>45-day channel-partner + B2B demand-gen sprint&lt;/b> for Goldi: separate EPC/distributor/export/utility/residential-installer funnels; put the 15.2 GW / 14-month ramp / Bloomberg Tier-1 / AI-manufacturing story on every B2B creative; launch LinkedIn ABM to EPC procurement and distributor decision-makers; gate a procurement pack (ALMM/BIS/IEC datasheets) and a /becom",
+  "ad_intro": "Goldi Solar Pvt Ltd (CIN U31909GJ2010PTC089413 per public registry) is a Surat, Gujarat-headquartered PV module manufacturer and EPC/IPP founded <b>2011</b> by founder &amp; MD <b>Ishver Dholakiya</b> (formerly in the diamond industry with 14 years at SRK Exports and Ventura Airconnect) and co-founder <b>Bharat Bhut</b>. HQ: Goldi House, Ring Road, beside Vanita Vishram, Athwa Gate, Surat 395001. ",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta FB+IG ~7 creatives observed (brand/award/factory); LinkedIn corporate/PR (under-used for B2B de"
+    ],
+    [
+      "Active ads (est.)",
+      "~7 creatives by Day-1 signature, CTA = Visit Website/Phone, spend Rs.1-3 L/mo est. Verify in Meta Ad"
+    ],
+    [
+      "Offer / Products (14 Sep)",
+      "N-type TOPCon monofacial and bifacial modules, HJT/hetereojunction high-efficiency panels, all-black"
+    ],
+    [
+      "Funnel / site (14 Sep)",
+      "Header has 'Enquire' (name/email/phone/company/state/city/message) and 'Become a Partner' (separate "
+    ],
+    [
+      "Trust assets not weaponized",
+      "Bloomberg Tier-1 rating (top procurement filter), 15.2 GW capacity after 14-month ramp (India's fast"
+    ],
+    [
+      "Audience split reality",
+      "Goldi's revenue buyers are: (a) Indian rooftop C&amp;I EPCs, (b) distributors/dealers, (c) utility t"
+    ]
+  ],
+  "scores": {
+    "Segment split (installer/EPC/d": [
+      2,
+      "#EF4444"
+    ],
+    "LinkedIn ABM (EPC/IPP/distribu": [
+      2,
+      "#EF4444"
+    ],
+    "Channel-partner onboarding (WA": [
+      2,
+      "#EF4444"
+    ],
+    "Creative (15.2 GW / Tier-1 / A": [
+      3,
+      "#EF4444"
+    ],
+    "Landing & Form CRO (procuremen": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "&lt;b>15.2 GW in 14 months is not the ad headline (Day-1-classic trust leak, confirmed):&lt;/b> Goldi's biggest story is",
+    "&lt;b>7 Meta ads target homeowners; EPC procurement is on LinkedIn (Day-1 leak, confirmed):&lt;/b> Procurement heads at ",
+    "&lt;b>'Become a Partner' is a generic form, not a channel onboarding flow (Day-1 leak, confirmed):&lt;/b> 15.2 GW of ann",
+    "&lt;b>No procurement pack gated behind a field:&lt;/b> EPC procurement asks for one ZIP: ALMM certificate, BIS, IEC, dat"
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Goldi"
+    ],
+    [
+      "Waaree / Adani / Vikram / Emmvee / Rayzon",
+      "Established B2B sales teams, distributor onboarding funnels, LinkedIn ABM, procurement-gated content",
+      "Lead with 15.2 GW/14-month ramp + Bloomberg Tier-1 + AI-factory quality + Havells on cap table."
+    ],
+    [
+      "Loom Solar / Luminous / Microtek (residential brand)",
+      "B2C recognition, Amazon/dealer WhatsApp, residential installer co-branding, UGC.",
+      "Equip installers with co-branded assets and fast quotes; don't try to be Loom to homeowners."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - 7 days: 15.2 GW hero + segmented forms + WhatsApp dealer line",
+      "Put '15.2 GW \u00b7 Bloomberg Tier-1 \u00b7 AI-powered manufacturing \u00b7 20+ export countries' on the hero and every B2B creative. Segment Enquire into 5 tracks (Residentia",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 - 14 days: Procurement pack gate + LinkedIn ABM pilot (500 accounts, domes",
+      "Package a procurement ZIP (ALMM, BIS, IEC, datasheets by wattage, Tier-1 letter, warranty, lead-time, bankability) and gate it behind one field (work email + co",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - 30 days: /become-a-channel-partner/ LP + regional dealer Reels + export ",
+      "Proper channel-partner onboarding LP (territory maps, eligibility, MOQ, credit, co-marketing, training, WhatsApp onboarding). 30 Gujarati/Hindi/Marwari/English ",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current",
+      "After",
+      "Impact"
+    ],
+    [
+      "Meta Ads",
+      "7",
+      "Optimized",
+      "2-3x CTR"
+    ],
+    [
+      "Landing CVR",
+      "Baseline",
+      "+25-40%",
+      "More leads"
+    ],
+    [
+      "Regional coverage",
+      "Partial",
+      "Full state",
+      "+60-80% reach"
+    ],
+    [
+      "Cost per lead",
+      "Baseline",
+      "-30%",
+      "CPA drop"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): Goldi went from 3 GW to 15.2 GW in 14 months - and your ads still don't say so",
+      "Hi Ishver / Bharat / Goldi marketing,\n\nI spent 40 minutes on goldisolar.com, Tracxn and your Meta ad library this morning (14 Sep 2026). Bloomberg Tier-1, 15.2 GW capacity built in 14 months across three AI-powered plants in Navsari/Kosamba/Nana Borsara, Havells/Kamath on the cap table, 20+ export countries, 8 MW IPP - that is one of the strongest module-manufacturer stories in India this year. The funnel is not at that standard.\n\nLeaks, all live:\n1. The 15.2 GW/14-month ramp, Tier-1 rating and AI-factory story are on the About page, not on any Meta or LinkedIn ad creative. The ad set is beauty shots and award posts.\n2. Seven Meta ads target scrollers. EPC procurement heads, distributor owners and project developers who actually specify modules in MW lots are on LinkedIn - your LinkedIn is PR only.\n3. 'Become a Partner' opens a generic form (no territory, MOQ, support framing, no WhatsApp). 15.2 GW of capacity needs a channel-partner engine.\n4. No gated procurement pack (ALMM/BIS/IEC/datasheet ZIP + Tier-1 letter) behind a single field for procurement.\n5. No WhatsApp dealer/EPC helpline even though 1800 833 5511 is up. Gujarat/Maharashtra dealers ask 'aaj kya bhav' on WhatsApp at 9pm.\n\n4-page confidential audit, 3 fixes (15.2 GW hero + segmented forms + WhatsApp; gated procurement pack + LinkedIn ABM pilot; channel-partner LP + regional reels + export track). Shall I WhatsApp it to you or send a meeting link? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi Goldi team - 4 minutes on goldisolar.com. First 20 seconds: polished hero but the 15.2 GW in 14 months / Bloomberg Tier-1 story is not on the ad. Next minute: 'Become a Partner' is one generic form with no WhatsApp, no procurement pack to download. Last 90 seconds: LinkedIn is awards posts while competitors are running ABMs to EPC procurement heads. Want the link on WhatsApp? No call.\""
+    ],
+    [
+      "Subject C (FOMO): the module brands winning container orders this quarter run LinkedIn ABM and have a 1-click procurement pack - Goldi has the bigger scale story and the quieter demand-gen",
+      "Hi,\n\nAuditing PV-module manufacturer demand-gen this quarter. The teams winning EPC specs and distributor allocations are doing four things Goldi currently isn't:\n1. Their biggest capacity / Tier-1 story is the headline of every B2B ad for 90 days. Goldi went from 3 GW to 15.2 GW in 14 months and it's still a sub-bullet.\n2. A gated procurement pack (ALMM / BIS / IEC / datasheets / Tier-1) behind one work-email field.\n3. LinkedIn ABM to EPC procurement, IPP engineering and distributors (domestic + export), not brand Meta.\n4. A proper /become-a-channel-partner/ LP with WhatsApp onboarding to fill their plants.\n\nGoldi has the freshest scale story in Gujarat. 14 days of demand-gen work changes the inbound. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "Ad counts and landing page observations NOT yet re-verified live on Sep 14. Pre-existing data; Meta Ad Library + landing page verification pending. Use as directional \u2014 confirm numbers before outreach."
+}

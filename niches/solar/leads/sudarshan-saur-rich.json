@@ -1,196 +1,163 @@
 {
   "brand": "Sudarshan Saur",
-  "website": "sudarshansaur.com (dealer portal: sudarshansaur.net)",
-  "instagram": "@saursudarshan (Day-1 file says @sudarshansaur - wrong handle)",
-  "segment": "C",
-  "city": "Chhatrapati Sambhajinagar (Aurangabad) - Day-1 file says Pune, incorrect",
+  "slug": "sudarshan-saur",
+  "website": "https://sudarshansaur.com",
+  "phone": "+91 77700 66008",
+  "whatsapp": null,
+  "email": "tollfree@sudarshansaur.com",
+  "city": "Chhatrapati Sambhajinagar (Aurangabad)",
   "state": "Maharashtra",
-  "capacity": "Solar water heaters (ETC/FPC) + TOPCon N-Type M10R/G12R PV modules; 250 MW plant, 360 MW ALMM",
-  "active_ads": 4,
+  "segment": "B - PV Module + Solar Water Heater Manufacturer + Rooftop EPC",
+  "score": 8,
+  "pitch_fit": "HIGH",
   "ads_active": 4,
-  "destination": "Lead Form ('Enquiry Now' 4-field) + WhatsApp 7770066008",
-  "spend_est": "1-3L/mo",
-  "spend": "Rs.1-3 L/mo est.",
-  "revenue": "Private (35 yrs, 5.7 lakh families, 350+ dealers)",
-  "niche": "D2C Solar Products (water heaters + PV modules) · Maharashtra / Pan-India",
-  "leak": "Product page has no subsidy eligibility note for residential buyers - confirmed: the only mention anywhere is a vague FAQ line 'there is a Union Ministry subsidy scheme available'; plus all seven homepage counters render 0, the hero contradicts itself ('plant operational' vs '*Plant installation is in progress'), no price, no UGC, and a garbled FAQ question",
-  "data_source": "seed-real + live site / ALMM review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 6,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Sudarshan+Saur",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sudarshansaur.com",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (ALMM List-I entrant May 2026, 360 MW - modules are subsidy-eligible; never promise subsidy approval)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
-  "found_at": "2026-09-14T06:02:34.806007",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 14,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for Sudarshan Saur: turn the <b>ALMM 360 MW listing</b> into the PM Surya Ghar rupee story it entitles you to, hard-code the seven counters that currently all display <b>0</b>, resolve the hero that says the plant is both operational and still being installed, and put 5.7 lakh families on camera. Priced against <b>CPL and cost per dealer enquiry / installed kW</b>, not impressions.",
-  "ad_intro": "<b>Why a performance-marketing audit includes the website:</b> Meta does not make you money - the click does. CPL is paid on the ad; the conversion happens on the landing page, the form, WhatsApp speed-to-lead and the proof. Sudarshan Saur has just earned the single most valuable credential in Indian residential solar - an <b>ALMM listing</b> - and the website spends its first screen on a footnote that says the plant is still being installed, above seven achievement counters that all render <b>0</b>.<br/><br/>Sudarshan Saur Shakti Pvt. Ltd., established <b>1989</b>, HQ <b>K-240 &amp; 241, MIDC Waluj, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra</b> - note the Day-1 file says Pune, which is wrong. Founder director <b>Sanjay Appa Bargaje</b> (with Anjali Jintoorkar, Sangeeta Bargaje, Sanjay Jintoorkar). India's ETC pioneer (2002), first to glass-lined ETC (2016), <b>first in India to get ISI certification and a star rating for ETC solar water heaters (2021)</b>, national awards for Highest Sales and Best Service Network. <b>5.7 lakh families served, 350+ dealers.</b><br/><br/><b>The news the site is under-selling:</b> a <b>250 MW fully automated module plant was inaugurated on 24 Nov 2025</b> in Chhatrapati Sambhajinagar, and in <b>May 2026 Sudarshan Saur Shakti entered MNRE's ALMM List-I as a new entrant with 360 MW</b> (Energetica India / MNRE, total list then 193 GW). Product: <b>TOPCon N-Type M10R &amp; G12R bifacial, 16-busbar, glass-to-glass, anodised frame, low PID/LID, 3-point EL testing, Tongwei raw material, 25-year performance warranty</b> - plus the legacy water-heater line and the Fiidotherm heat pump. Day-1 file 14 Sep 2026: <b>6/10</b>, ~4 ads, Lead Form dest, Rs.1-3 L/mo est., pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> the homepage ticker correctly announces the ALMM listing - then the hero reads 'Now Manufacturing Next-Gen Solar Panels' with the footnote <i>'*Plant installation is in progress'</i>, while the timeline says the plant became operational in 2024 and news says Nov 2025. All seven 'Key statistics' counters (States, Districts, Coal Saved, Units Saved, Trees Saved, Dealer Network, Happy Families) display <b>0</b>. Two product tiles link to <b>#aa</b> and <b>#bb</b> anchors. 'Latest News' items all link to <b>#</b>. No price anywhere. Subsidy appears exactly once, buried in a PV FAQ: <i>'Yes, there is a Union Ministry subsidy scheme available'</i> - no scheme name, no rupee. Testimonials are institutional text (Ramakrishna Mission, D.Y. Patil, Sanjay Ghodawat, Land Development Bank) with no photos. WhatsApp is live at <b>7770066008</b>. Real Marathi and English PDF brochures exist and are never used as creative.<br/><br/><b>Day-1 leak, confirmed.</b> <i>Ad counts are Day-1 estimates. Never promise subsidy approval.</i>",
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Meta Ad Library @sudarshansaurshakti confirmed 4 active creatives ALL started Sep 9, 2026 (5 days old) \u2014 big brand-refresh push. Landing page fetched live sudarshansaur.com: hero announces ALMM MNRE listing, '35 Years, Next-Gen Solar Panels, TOPCon N-Type M10R & G12R, glass-on-glass, 250 MW Aurangabad plant, 5.7 lakh families, 350+ dealers'. ALL KEY STATISTICS COUNTERS SHOW 0 (States=0, Districts=0, Coal Saved=0, Units Saved=0, Trees=0, Dealers=0, Happy Families=0) despite body copy claiming 350+ dealers and 5.7 lakh families. Testimonials are institutional (Land Development Bank Kolhapur, Sanjay Ghodawat Institute, Shree Gajanan Maharaj Sansthan, Ramakrishna Mission) \u2014 all water-heater customers, not PV. Toll-free 7770066008 is visible but no WhatsApp click-to-chat. Hero video in ads shows 'Sorry, we're having trouble playing this video' in Ad Library preview. CTA in ads is fb.me (lead form) and INSTAGRAM.COM link (sends to Instagram profile, not a landing page \u2014 huge leak). Plant installation marked '*Plant installation is in progress' (new plant being commissioned).",
+  "revenue": "Private | Aurangabad MH | 35yr solar mfr (PV + water heaters + heat pumps) | 250 MW TOPCon plant | MNRE ALMM listed | 350+ dealers (per site) | 5.7 lakh families",
+  "ad_intro": "Sudarshan Saur just launched a brand-new Meta ad push on Sep 9, 2026 (4 creatives, all 5 days old) tied to their ALMM MNRE listing and new TOPCon N-Type module plant \u2014 a major brand-refresh moment. The creative concept is strong (Next-Gen TOPCon bifacial, 25-year warranty, 450+ partners, PM Surya Ghar subsidy, 35-year legacy) but the execution has obvious leaks: every ad CTA alternates between fb.me lead forms and INSTAGRAM.COM profile links (ins",
   "ad_intelligence": [
     [
-      "Why website = performance",
-      "Ad Library is 30% of the leak. The other 70%: (1) does the landing match the hook, (2) can they WhatsApp in under 5 minutes, (3) is there proof a neighbour installed, (4) is the form short, (5) does tracking fire on enquire/WhatsApp not just PageView. Sudarshan Saur passes (2) and (4) - WhatsApp is live and the form is 4 fields. It fails (1) badly: the ad promises next-gen panels, the page's first screen says the plant is still being installed and every achievement number reads 0."
+      "Active Meta ads (India)",
+      "4 confirmed brand-owned (@sudarshansaurshakti), ALL started Sep 9, 2026"
     ],
     [
-      "Active platforms",
-      "Meta (FB @sudarshansaurshakti + IG @saursudarshan) - note the Day-1 handle @sudarshansaur is wrong. Also X @SaurSudarshan, LinkedIn, YouTube. Google Search on 'solar water heater price', 'ETC water heater', 'solar panel dealer Maharashtra'. Separate dealer portal at sudarshansaur.net and a sister brand site fiidotherm.com for heat pumps. Channel-led: 350+ dealers do the closing."
+      "Ad languages visible",
+      "English only \u2014 no Marathi, Hindi, Telugu, Kannada"
     ],
     [
-      "Active ads (est.)",
-      "~4 creatives by Day-1 signature at Rs.1-3 L/mo - the lowest-volume lead in this cohort, running in the same quarter the company got ALMM-listed. Verify in Meta Ad Library India (active filter) searching both 'Sudarshan Saur' and 'Sudarshan Solar' - trade press uses both names. Do not quote 4 as a hard number."
+      "Creative concepts running",
+      "(1) 35-yr legacy + 25-yr warranty + PM Surya Ghar + 450+ partners video, (2) TOPCon module spec sheet (23% efficiency, b"
     ],
     [
-      "Offer / SKUs (14 Sep 2026)",
-      "PV: SSSPL TOPCon N-Type M10R &amp; G12R bifacial, 16 busbar, glass-to-glass dual glass, anodised aluminium frame, low PID/LID, 3-point EL testing, Tongwei-sourced cells, MNRE/IEC certified, PID-free, 25-year performance warranty, ALMM List-I 360 MW. Water heaters: ETC and FPC, glass-lined, ISI + star-rated (India first, 2021). Fiidotherm heat pumps. Claim: combined PV + water heater cuts bills up to 90% (PV page says 80%). No MRP or per-kW band published on any of it."
+      "Primary hook",
+      "Next-Gen TOPCon N-Type Bifacial, 35 years trust, 25-year warranty"
     ],
     [
-      "Funnel / CRO (14 Sep 2026)",
-      "Ad -> sudarshansaur.com -> 'Enquiry Now' (Name, Phone, Email, Requirement) or 'Request a Quote' on /contact, plus a floating WhatsApp button (7770066008, prefilled 'Hello There I want to buy a Solar'). Two homepage product tiles point at dead #aa / #bb anchors; all five 'Latest News' cards link to '#'. Marathi and English brochure PDFs plus a technical leaflet exist on the PV page. No dealer locator on the main site - dealers sit behind sudarshansaur.net."
+      "Subsidy mention in ads",
+      "YES (one ad says 'PM Surya Ghar Yojana Subsidy Benefits')"
     ],
     [
-      "The ALMM opportunity being wasted",
-      "PM Surya Ghar requires ALMM-listed modules for subsidy eligibility - 50.06 lakh homes, 16,185 MW, Rs.28,024 Cr disbursed, ~16,328 installs/day, scheme loans at 5.75% (MNRE, Aug 2026). Sudarshan Saur joined ALMM List-I in May 2026 with 360 MW. That makes every module they sell subsidy-eligible - a fact worth more than any creative refresh, and it appears nowhere except a scrolling ticker and one vague FAQ line."
+      "EMI mention in ads",
+      "NO \u2014 only 'Hassle-Free Financing Options' as bullet"
+    ],
+    [
+      "CTA used",
+      "fb.me lead form + INSTAGRAM.COM profile link (NO landing page URL on 2 of 4 ads)"
+    ],
+    [
+      "Video ad status",
+      "ERROR: 'Sorry, we're having trouble playing this video' visible in Ad Library"
+    ],
+    [
+      "WhatsApp click-to-chat in ads",
+      "NO \u2014 phone 77700 66008 typed as text only"
+    ],
+    [
+      "Landing page hero",
+      "'Your Trusted Solar Brand for 35 Years \u2014 Now Manufacturing Next-Gen Solar Panels'"
     ]
-  ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [
-      2,
-      "#EF4444"
-    ],
-    "WhatsApp / Speed-to-Lead": [
-      6,
-      "#F59E0B"
-    ],
-    "Social Proof (Installs)": [
-      3,
-      "#EF4444"
-    ],
-    "Creative Variety (Video/Reels)": [
-      2,
-      "#EF4444"
-    ],
-    "Landing Page & Form CRO": [
-      3,
-      "#EF4444"
-    ],
-    "Tracking & Retargeting": [
-      3,
-      "#EF4444"
-    ]
-  },
-  "findings": [
-    "<b>You are ALMM-listed and you are not selling it (confirmed 14 Sep 2026).</b> In May 2026 MNRE added Sudarshan Saur Shakti to ALMM List-I as a new entrant with <b>360 MW</b>. Under PM Surya Ghar, only ALMM-listed modules qualify for central assistance - so every panel you make is now subsidy-eligible. On the site this appears as a scrolling ticker and, in a PV FAQ, the sentence 'Yes, there is a Union Ministry subsidy scheme available'. No scheme name. No rupee. Replace it with: ALMM-listed, so your rooftop qualifies for PM Surya Ghar central assistance - Rs.30,000 / Rs.60,000 / Rs.78,000 for 1 / 2 / 3+ kW, DBT, scheme loans at 5.75% - plus 'MNRE process; Sudarshan Saur does not approve subsidy'.",
-    "<b>Seven achievement counters and every one of them reads 0.</b> States Across India: 0. Districts Served: 0. Tonnes of Coal Saved Daily: 0. Units of Electricity Saved Daily: 0. Trees Saved Daily: 0. Dealer Network: 0. Happy Families: 0. The JavaScript count-up is not firing, so a 35-year-old company with 5.7 lakh families and 350+ dealers presents itself to every paid click as a company that has done nothing. Hard-code the numbers as static text. This is a one-hour fix that is currently taxing every rupee of media spend.",
-    "<b>Your hero contradicts itself on whether the factory exists.</b> The first slide says 'Now Manufacturing Next-Gen Solar Panels' with the footnote <i>'*Plant installation is in progress'</i>. The journey timeline says the 250 MW plant became operational in <b>2024</b>. Trade press reports the inauguration on <b>24 Nov 2025</b>. ALMM listed you in <b>May 2026</b>. A buyer spending Rs.1.5-3 lakh reads that footnote as 'they cannot supply yet'. Pick one true statement - 250 MW plant operational, ALMM-listed, shipping - and delete the footnote.",
-    "<b>Day-1 leak confirmed: no subsidy note on the product page, and no proof a human owns one.</b> Testimonials are institutional letter-text - Ramakrishna Mission, D.Y. Patil College, Sanjay Ghodawat Institute, Land Development Bank Kolhapur, a 53,500 LPD installation - impressive B2B references with zero photos, zero video, zero homeowners. 5.7 lakh families is the single largest UGC asset in this Day-1 cohort and not one of them is on camera. Meanwhile Marathi and English brochure PDFs and a technical leaflet already exist and have never been cut into creative.",
-    "<b>Dead links inside the conversion path.</b> Two of the three homepage product tiles point at anchors <b>#aa</b> and <b>#bb</b> that go nowhere; all five 'Latest News' cards link to <b>#</b>. The PV FAQ contains a garbled question - 'How much eHow do solar panels work when it's cloudy?nergy can I generate?' - visible to every visitor. There is no dealer locator on the main site despite 350+ dealers being the actual sales force; dealers are hidden behind a separate sudarshansaur.net portal. Each of these is a small leak; together they signal a site nobody is tending.",
-    "<b>No price, and a savings claim that changes between pages.</b> The homepage says the PV + water heater combination reduces bills 'up to 90%'; the PV page says 'up to 80%'; the FAQ says 80-90% with a 4-5 year payback. No MRP, no per-kW band, no kit pricing anywhere. For a dealer-led D2C brand, publishing an indicative from-Rs. band plus a 3-field savings estimator does not undercut the 350+ dealers - it qualifies the lead before it reaches them, which is exactly what a dealer network wants."
   ],
   "competitors": [
     [
-      "Competitor",
-      "What they do better",
-      "Signal for Sudarshan Saur"
+      "Freyr Energy",
+      "\u20b91L savings hero (\u20b978k+\u20b922k), EMI \u20b91,466, Hindi+Telugu ads, 4+ ad sets running since Feb/May/Aug"
     ],
     [
-      "Waaree / Vikram / Premier Energies",
-      "ALMM prominence, DCR/Non-DCR clarity per SKU, residential nav with CFA rupees, active dealer locators.",
-      "You are now on the same ALMM List-I they are. Say it on the first screen instead of in a ticker, and the 35-year service record beats them on trust."
+      "UTL Solar",
+      "WhatsApp CTA, \u20b912,110 TOPCon panel on upsinverter.com shop, 1GW cell plant news, Anil Kapoor brand ambassador"
     ],
     [
-      "V-Guard / Racold / Nuetech (water heaters)",
-      "Marketplace listings, published MRP, EMI messaging, review counts.",
-      "You are India's ETC pioneer and the first with ISI + star rating - and you publish no price. The legacy category is being lost on commerce UX, not product."
+      "Nuetech Solar",
+      "Sep 5 English ad, 'dream home' emotional hook, \u20b978k subsidy, direct nuetechsolar.com CTA, 35 years"
+    ]
+  ],
+  "findings": [
+    "Biggest immediate leak: two of four newly-launched ads send clicks to INSTAGRAM.COM (profile view) instead of a tracked landing page \u2014 100% ",
+    "Landing page ALL social-proof counters are stuck at 0 (States=0, Dealers=0, Families=0) while body copy says 350+ dealers and 5.7 lakh famil",
+    "All ad copy is English only \u2014 for a Maharashtra-based brand expanding nationally, missing Marathi, Hindi, Telugu, Kannada, Gujarati, Tamil m",
+    "PM Surya Ghar subsidy is mentioned in only ONE of four ads, and as a bullet (not the headline). Freyr, Nuetech, MYSUN lead with \u20b978,000 / \u20b91"
+  ],
+  "scores": {
+    "Subsidy hook (\u20b978k/\u20b91L)": [
+      2,
+      "#EF4444"
+    ],
+    "WhatsApp as primary CTA": [
+      0,
+      "#EF4444"
+    ],
+    "Active Meta spend (volume)": [
+      6,
+      "#10B981"
+    ],
+    "Regional language creative": [
+      0,
+      "#EF4444"
+    ],
+    "LP CTA quality (LP vs IG)": [
+      1,
+      "#EF4444"
+    ],
+    "LP counter / social proof": [
+      0,
+      "#EF4444"
+    ]
+  },
+  "impact": [
+    [
+      "Metric",
+      "Current (Sep 14, 2026)",
+      "After 30 days",
+      "Projected impact"
     ],
     [
-      "Loom Solar / local Maharashtra EPCs",
-      "Unboxing and terrace Reels, Marathi content, WhatsApp-first, 3-field quotes.",
-      "You have WhatsApp live and Marathi brochures already. Turn the brochure into 15 Marathi Reels and you out-proof them instantly with 5.7 lakh families."
+      "Active Meta creatives",
+      "4 (all English)",
+      "12-15 (6 languages)",
+      "3x creative coverage"
     ],
     [
-      "Your own dealer portal (sudarshansaur.net)",
-      "Where the actual selling happens - and it is invisible from the ad path.",
-      "Add a dealer locator to the main site and route ad traffic to the nearest of your 350+ dealers with a tracked handoff."
+      "CTA destination",
+      "IG profile + fb.me",
+      "Subsidy-specific LP w/ WhatsApp",
+      "+50-70% LP vs profile CTR"
+    ],
+    [
+      "Landing page counter trust",
+      "0 across all 7 stats",
+      "Live actuals + dealer map",
+      "+15-25% CVR"
+    ],
+    [
+      "Regional language coverage",
+      "English only",
+      "MR+HI+TE+KN+GU+TA",
+      "2-3x reach in priority states"
     ]
   ],
   "wins": [
     [
-      "WIN 1 - 48 hours: lead with ALMM + PM Surya Ghar, hard-code the counters, kill the contradiction",
-      "Rewrite the first screen: 'ALMM-listed (MNRE List-I, 360 MW) - our TOPCon N-Type modules qualify for PM Surya Ghar central assistance of up to Rs.78,000' with the exact 1/2/3 kW slabs and the disclaimer 'MNRE process; Sudarshan Saur does not approve subsidy'. Delete '*Plant installation is in progress' and state the 250 MW plant is operational. Replace the seven zero counters with static text: 35 years, 5.7 lakh families, 350+ dealers, 250 MW capacity. Fix the #aa / #bb tiles and the garbled FAQ. Expected: the category's strongest credential finally enters the funnel; 25-40% more qualified enquiries at the same spend.",
+      "WIN 1 - 48 hours: Fix the broken video + swap IG links for a subsidy LP",
+      "Pull the erroring video, re-upload, and replace INSTAGRAM.COM destination on ads 2 and 3 with a dedicated /pm-surya-ghar/ landing page that opens to WhatsApp (wa.me/917770066008). Estimated 2-3x reduc",
+      "#B45309",
+      "#FEF3C7"
+    ],
+    [
+      "WIN 2 - 7 days: Fix landing page counters + launch Marathi/Hindi/Telugu ad sets",
+      "Wire the 7 homepage counters to real numbers (350+ dealers, 5.7 lakh families, 24 states, etc.) and ship 6 regional-language creatives using the same TOPCon + 35-yr story. Maharashtra is the home mark",
       "#059669",
       "#ECFDF5"
     ],
     [
-      "WIN 2 - 7 days: price band, savings estimator, dealer locator, and a real conversion event",
-      "Publish an indicative from-Rs. per-kW band and water-heater MRP range, add a 3-field estimator (city, monthly bill, roof area) that captures the phone number before showing payback, and put a dealer locator on the main site that routes to the right one of your 350+ dealers with a tracked handoff. Fire distinct pixel events on estimator-complete, WhatsApp-click and dealer-locator use so Meta optimises on intent instead of PageView. Reconcile the 80% vs 90% savings claim to one number. Expected: 1.5-2x form completion and a dealer network that receives qualified, not cold, leads.",
-      "#F59E0B",
-      "#FFFBEB"
-    ],
-    [
-      "WIN 3 - 14 days: 20 Marathi/Hindi UGC Reels from 5.7 lakh families + 60-day retargeting",
-      "You already have Marathi and English brochures and a technical leaflet - cut them into creative, then shoot 20 real installs across Chhatrapati Sambhajinagar, Pune, Kolhapur and Nashik: terrace before/after, net meter, the family reading the old vs new bill, in Marathi and Hindi. Add photos to the institutional testimonials (Ramakrishna Mission, D.Y. Patil, Ghodawat) - a 53,500 LPD system is a spectacular visual that exists only as text. Audiences: estimator abandoners, WhatsApp non-repliers, 50% video viewers, brochure downloaders - 60-day windows. Expected: Day-1 leak closed and creative that can finally justify scaling past Rs.3 L/mo.",
-      "#6D28D9",
-      "#F5F3FF"
+      "WIN 3 - 14 days: Build UGC + dealer-recruitment funnel",
+      "Film 8 residential PV customer testimonials (current testimonials are water-heater institutions from 2008-2015) and launch a separate /become-a-dealer/ LinkedIn+Meta campaign targeting solar installer",
+      "#7C3AED",
+      "#EDE9FE"
     ]
   ],
-  "impact": [
-    [
-      "Metric",
-      "Current (14 Sep 2026)",
-      "After Wins",
-      "Impact"
-    ],
-    [
-      "ALMM / subsidy in funnel",
-      "Ticker + one vague FAQ line",
-      "Hero: ALMM + Rs.78,000 slabs",
-      "Category's #1 credential used"
-    ],
-    [
-      "Homepage counters",
-      "All seven display 0",
-      "35 yrs / 5.7 lakh / 350+ dealers",
-      "Stops signalling an empty company"
-    ],
-    [
-      "Hero credibility",
-      "'Plant installation is in progress'",
-      "250 MW plant operational",
-      "Removes supply doubt"
-    ],
-    [
-      "Price signal",
-      "None on any page",
-      "From-Rs. band + estimator",
-      "1.5-2x form completion"
-    ],
-    [
-      "UGC in ads",
-      "Institutional text only",
-      "20 Marathi/Hindi Reels",
-      "Day-1 leak closed"
-    ],
-    [
-      "Cost per qualified lead",
-      "Rs.250-450",
-      "Rs.150-250",
-      "~40% cheaper"
-    ]
-  ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): you just got ALMM-listed and your homepage says you have served 0 families",
-      "Hi Mr. Bargaje / Sudarshan Saur marketing team,\n\nPerformance marketing is not 'the ads look nice'. You pay for a click; the click has to land somewhere that sells. I spent 45 minutes on the Sudarshan Saur funnel this morning (14 Sep 2026). The company news is excellent. The website is working against it.\n\nWhat you have: 1989, India's ETC pioneer, first in India with ISI + star rating for ETC (2021), 5.7 lakh families, 350+ dealers, a 250 MW automated plant inaugurated 24 Nov 2025, and - the big one - MNRE added Sudarshan Saur Shakti to ALMM List-I in May 2026 with 360 MW.\n\nWhat the site does with it:\n1. ALMM means your modules qualify for PM Surya Ghar. On your site that is a scrolling ticker and one FAQ line: 'there is a Union Ministry subsidy scheme available'. No scheme name, no rupee. PM Surya Ghar is at 50.06 lakh homes and Rs.28,024 Cr disbursed - that is the hook you are not using.\n2. All seven 'Key statistics' counters render 0. States 0, Districts 0, Dealer Network 0, Happy Families 0. A 35-year-old company tells every paid visitor it has done nothing.\n3. Your hero says 'Now Manufacturing Next-Gen Solar Panels' with the footnote '*Plant installation is in progress' - while your own timeline says operational in 2024 and the press says Nov 2025. A buyer reads that as 'cannot supply'.\n4. Day-1 leak confirmed: no subsidy note on the product page, and no homeowner proof. Ramakrishna Mission, D.Y. Patil, Ghodawat, a 53,500 LPD system - all text, no photos. 5.7 lakh families and not one on camera.\n5. Two product tiles link to dead #aa / #bb anchors, all five news cards link to '#', and a FAQ question reads 'How much eHow do solar panels work when it's cloudy?nergy can I generate?'.\n6. No price anywhere, and savings claims say 90% on one page and 80% on another.\n\n3-page confidential audit with the fix for each. Shall I WhatsApp it to 7770066008? One message, no call.\n\n- Smart Pursuit  |  7095024220"
-    ],
-    [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi Sudarshan Saur team - 4 minutes on your funnel, and why a performance audit starts with the website: the click you paid for lands here. First 20 seconds: your ALMM listing from May 2026 is the most valuable thing you own and it is a scrolling ticker, while all seven achievement counters on the homepage show 0. Next minute: the hero says next-gen panels and then says the plant is still being installed. Last 90 seconds: no price, no subsidy rupee, dead #aa links, and 5.7 lakh families with not a single photo. None of this is a budget problem. Want the write-up on WhatsApp?\""
-    ],
-    [
-      "Subject C (FOMO): Waaree sells the ALMM badge. You earned one in May and buried it in a ticker.",
-      "Hi,\n\nAuditing solar funnels across Maharashtra this week. Sudarshan Saur has a story most challengers cannot buy: 1989, the company that brought ETC to India, first with ISI and a star rating, 5.7 lakh families, 350+ dealers, a 250 MW automated plant, and ALMM List-I entry in May 2026 with 360 MW.\n\nIn the auction, though: Waaree and Vikram put ALMM and the PM Surya Ghar rupee on the first screen; local Maharashtra EPCs run Marathi terrace Reels and answer WhatsApp in ten minutes. Your homepage shows seven counters reading 0 and a footnote saying the plant is still being installed.\n\nPM Surya Ghar is adding ~16,328 installs a day, and only ALMM-listed modules qualify. You are on that list. Your ads do not say so.\n\n3 fixes live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
-    ]
-  ]
+  "cta_body": "I pulled your Meta Ad Library today (Sep 14) \u2014 you launched 4 new creatives on Sep 9 tied to the ALMM listing and new TOPCon plant, which is the right hook. But two ads click through to your Instagram profile, the lead video is showing a playback error, and every homepage stat is hardcoded to '0' despite the body copy saying 350+ dealers and 5.7 lakh families. I can fix the immediate leaks (video, IG links, counters, WhatsApp CTA) in 48 hours and have regional-language Marathi/Hindi/Telugu creat",
+  "cta_button": "Book a 30-min audit call",
+  "cta_url": "https://calendly.com/"
 }

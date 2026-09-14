@@ -1,80 +1,168 @@
 {
   "brand": "Freyr Energy",
-  "website": "freyrenergy.com",
-  "instagram": "@freyr_energy",
-  "segment": "R",
+  "slug": "freyr-energy",
+  "website": "https://freyrenergy.com",
+  "phone": null,
+  "whatsapp": null,
+  "email": null,
   "city": "Hyderabad",
   "state": "Telangana",
-  "capacity": "3-10 kW residential; C&I to 727 kW",
-  "active_ads": 23,
-  "ads_active": 23,
-  "destination": "WhatsApp (Day-1) vs 8-field website quote form (live site)",
-  "spend_est": "3-8L/mo",
-  "spend": "Rs.3-8 L/mo",
-  "revenue": "20k+ customers / 150+ MW",
-  "niche": "Rooftop Solar · TS",
-  "leak": "Ungated savings calculator; 8-field quote vs WhatsApp; homepage counters at 0; India-wide ads vs 6-state footprint; post-sale Google 1-stars",
-  "data_source": "seed-real + live site review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Freyr+Energy",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=freyrenergy.com",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - owner-led local EPC, lead volume = revenue, fast reply",
-  "found_at": "2026-09-14T06:02:34.801995",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 5,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for Freyr Energy: gate the calculator, WhatsApp-first CTA, geo-split the 6-state footprint, fix the 0+ counters, and a review/ops retargeting layer. Priced against <b>cost per site survey and cost per install</b>, not impressions.",
-  "ad_intro": "Freyr Energy Services Pvt Ltd (KKR Square, Kavuri Hills, Hyderabad) is one of India's best-run residential rooftop brands. Founded 2014 by Saurabh Marda and Radhika Choudary. Series B, <b>~$13.8M across 7 rounds</b> (Schneider, C4D, DOEN; venture debt Jun 2026). ~497 staff (Jul 2026). Tracxn FY25 revenue band Rs.100-500 Cr. Claims <b>20,000-21,000+ customers, 150+ MW, 12 years, top-3 organised residential rooftop (Jun 2026)</b>, #1 Telangana. MNRE-empanelled (vendor code HYB2405060804). Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~23 ads, WhatsApp destination, Rs.3-8 L/mo est., pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> freyrenergy.com is up and, unlike Fenice / Sunlit / Arka, the hero already does the hard thing: <b>'Save Rs.1 Lakh' = Rs.78,000 government subsidy + Rs.22,000 Freyr discount</b>, 4.7 Google / 4,473-4,628 reviews, EMI from Rs.1,466, self-cleaning sprinklers, app, 1-year insurance to Rs.3 L. Hyderabad city page prices 3 kW at Rs.2.30-2.40 L before subsidy. Phone +91 90008 28333, info@freyrenergy.com. WhatsApp plugin exists on /contact-us/.<br/><br/><b>This is not a 'you forgot Rs.78,000' audit.</b> The leaks are downstream of a working offer: (1) the mid-page calculator gives price, subsidy and EMI with no phone capture - Day-1 leak confirmed; (2) the quote is an 8-field 3-step form (name, mobile, property, bill, email, state, city, financing) while Day-1 ads are WhatsApp; (3) homepage counters render <b>0+</b> on a brand that claims 21,000 customers; (4) the form only serves 6 states (TS, AP, MH, MP, UP, Kerala) so India-wide Meta buys unservable clicks; (5) 235 one-star Google reviews (~5%) in Jul 2026 cite DISCOM feasibility after 100% payment (Kerala/KSEB) and delivery/cash issues (Anantapur) - ads are winning the click, ops is taxing the 4.7. All five are fixable in 14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library before quoting.</i>",
+  "segment": "A - Residential Rooftop EPC (strong subsidy/EMI funnel)",
+  "score": 6,
+  "pitch_fit": "MEDIUM-HIGH",
+  "ads_active": 4,
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Meta Ad Library @FREYRSOLAR confirmed 4+ visible brand-owned creatives running (Lib 2258818104899526 Aug 12 with 11 ad versions, Hindi; Lib 1574740220269390 Feb 27 Telugu VIDEO; Lib 2061908924398691 May 25 with 17 ad versions, Hindi VIDEO EMI; Lib 1083121247563118 Aug 30 Telugu). All ads lead with \u20b978,000 subsidy + \u20b922,000 Freyr discount = \u20b91 lakh savings, EMI \u20b91,466/mo. CTA is fb.me (Facebook lead form/Messenger) NOT tracked website LP. Languages: Hindi + Telugu only (no English creatives in first page). Landing page freyrenergy.com fetched live: hero IS 'Save \u20b91 Lakh - \u20b922,000 Freyr Discount + \u20b978,000 Govt Subsidy', 3-step quote form (name+phone+segment+bill+state+city+financing), on-page solar calculator shows 1kW = \u20b946,769 effective price after subsidy+delivery, \u20b91,466 EMI 6-120 months, 1-yr free insurance up to \u20b93L, self-cleaning sprinkler system, Freyr App with AI energy insights, 4473 Google reviews 4.7\u2605, MNRE empanelled, 21,000+ customers. SOCIAL PROOF COUNTERS STUCK AT 0 (Happy Customers 0+, Projects 0+ MW, Solar Experience 0+ Years, Saved \u20b90 Cr, CO2 0 Tons). Freyr Inverter with 10-yr warranty, 3D shadow design, 24x7 support, EMI from \u20b9604-6,512. States served: TS, AP, MH, MP, UP, KL.",
+  "revenue": "Private, VC-backed | Hyderabad | Founded 2014 by Radhika Choudary & Saurabh Marda | 21,000+ customers | MNRE empanelled | 4.7\u2605 on 4,473 Google reviews | Freyr Inverter (10-yr warranty) | Freyr App AI monitoring | Self-cleaning sprinkler system | 1-yr",
+  "ad_intro": "Freyr Energy is the best-optimized funnel we audited today (Sep 14, 2026): hero leads with \u20b91 lakh savings (\u20b978k + \u20b922k), EMI from \u20b91,466, a 3-step quote form, an on-page solar calculator showing \u20b946,769 effective price, insurance, sprinklers, app, and 4473 Google reviews. They're running 4+ active Meta ads across Hindi and Telugu, with one Hindi EMI creative (May 25) carrying 17 ad versions and one Hindi subsidy creative (Aug 12) carrying 11 versions. But there are real leaks to fix: (1) ZERO E",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. Day-1 destination = WhatsApp. Live site is form-first (hero 3-step quote + contact form). IG @freyr_energy. FB facebook.com/FREYRSOLAR. LinkedIn /company/freyr-energy-services. YouTube channel UC-QaO6foJa_WzztM6DF1bCw. X @FreyrEnergy ~259 followers, quiet. App: Play Store com.sunpro.freyrenergycx + iOS Freyr Energy App."],
-    ["Active ads (est.)", "~23 creatives by Day-1 signature, spend Rs.3-8 L/mo est. (likely low for Series B + 23 ads - verify). Check Meta Ad Library India (active) + Google Ads Transparency (freyrenergy.com) before pitching. Do not quote 23 as a hard number."],
-    ["Offer (this is working)", "Hero: Save Rs.1 Lakh = Rs.78,000 CFA + Rs.22,000 Freyr discount on 3 kW+. EMI from Rs.1,466, tenure 6-120 months. Self-cleaning sprinklers. App + AI optimiser. 1-year insurance to Rs.3 L. 4.7 / 4,473+ Google. '1 in 3 customers is a referral.' Experience centres: Karimnagar, Vizag, Bhopal, Nellore, Khammam, Rajahmundry, Aurangabad, Vijayawada, Tirupati, Indore."],
-    ["Funnel / calculator (14 Sep)", "HERO form: name + 10-digit mobile first, then property type, bill band, email, state, city, financing (8 fields). MID-PAGE calculator: bill or kW -> Calculate Now with NO phone. Default 1 kW shows Rs.98,769 list, Rs.30,000+Rs.22,000 off, effective Rs.46,769, down payment Rs.9,354, EMI Rs.604 / 120 mo. Then 'Get a Free Quote Now'. That is the Day-1 leak: number without a lead."],
-    ["Geo / serviceable", "Quote form states: Telangana, Andhra Pradesh, Maharashtra, Madhya Pradesh, Uttar Pradesh, Kerala (contact form also lists Odisha). No Karnataka, Tamil Nadu, Gujarat. Official comparison page (11 Sep 2026) admits the 6-state footprint. India-wide Meta will buy KA/TN/GJ clicks they cannot install."],
-    ["Proof + 2026 delivery", "Allu Cinemas Kokapet 727 kW (May 2026) with sprinklers. CHIREC International School 550+ kWp. IOCL Varanasi + Guwahati 275 kW (Jul 2026). Trusted-by strip: REC, SECI, NHPC, Axis Bank, HP, Indian Oil, Shree Cement, APEPDCL. None of this is the residential ad. Hyderabad page copy error: 'Subsidy for solar panels in Andhra Pradesh' under Hyderabad price factors."]
-  ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [8, "#10B981"],
-    "WhatsApp / Speed-to-Lead": [5, "#F59E0B"],
-    "Social Proof (Installs)": [6, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [5, "#F59E0B"],
-    "Landing Page & Form CRO": [4, "#EF4444"],
-    "Tracking & Retargeting": [5, "#F59E0B"]
-  },
-  "findings": [
-    "<b>Calculator leak (Day-1, confirmed 14 Sep 2026):</b> The hero quote captures name+mobile. The mid-page 'Calculate Your Savings' widget does not. A user can see list price, subsidy+discount, effective cost and a 120-month EMI without giving a phone number, then leave. In rooftop solar that is the highest-intent moment ('kitna padega?'). Gate the result: 3 fields (city, phone, monthly bill) THEN the number. Keep the hero form; stop the ungated widget from being a self-serve bounce.",
-    "<b>WhatsApp vs 8-field form:</b> Day-1 lists destination = WhatsApp. Live primary path is a 3-step quote (name, mobile, property, bill, email*, state, city, financing). Email is required. Contact page repeats it and adds Odisha. A click-to-WhatsApp chip exists only on /contact-us/ (9000828333 / 7032541991). 9pm TSSPDCL questions will not finish an 8-field form. Make Send WhatsApp Message the ad CTA; keep the form as a secondary capture.",
-    "<b>0+ counters on a 21,000-customer homepage:</b> Happy Customers / Projects Executed / MW / years / Rs. Cr saved all render 0+ (JS counters not firing). Same bug Fenice has. On a paid landing this reads as a dead brand. Hard-code 20,000+ / 150+ MW / 12 years or fix the script. The 4.7 badge is above; the zeros are below - they cancel each other.",
-    "<b>Geo waste:</b> Serviceable form = TS, AP, MH, MP, UP, Kerala. India-wide Meta (23 creatives est.) will pay for Bangalore / Chennai / Ahmedabad clicks that the form cannot even select. Geo-split campaigns to the 6 states + exclude the rest. Experience-centre cities (Karimnagar, Vizag, Bhopal, Nellore, Khammam, Rajahmundry, Aurangabad, Vijayawada, Tirupati, Indore) should each have a city landing, not one homepage.",
-    "<b>Ops / review leak (this is the expensive one):</b> 4.7 from 4,473-4,628 reviews is an asset. 235 one-stars (~5%) are a campaign. Jul 2026 Google: (a) Kerala - KSEB transformer full, site 'not feasible' AFTER 100% payment and install; (b) Anantapur - Rs.15k token 11 May, Rs.1,59,599 cash 3 Jun, material 15 Jul vs promised 10 days, incomplete install photographed as complete; (c) app hid payment history after pay-in-full. You claim 1-in-3 is referral. One-stars kill that. Feasibility with DISCOM before collecting 100% is a process fix that also becomes a trust ad ('we confirm TSSPDCL/KSEB slot before you pay').",
-    "<b>Copy / compliance nicks:</b> 'Save Rs.1 Lakh' stacks Rs.78,000 CFA with a Rs.22,000 Freyr discount - say which is government. Never promise subsidy approval/timeline. Hyderabad city page lists 'Subsidy for solar panels in Andhra Pradesh' as a price factor - TSSPDCL buyers will bounce. Homepage duplicates 'Why Choose Us' three times and typos 'quotaions' / 'Anantapu'. Insurance hero is 1 year / Rs.3 L on a 25-year plant - fine if labelled, misleading if not."
+    [
+      "Active Meta ads (India)",
+      "4+ brand-owned (@FREYRSOLAR), oldest running since Feb 27 2026"
+    ],
+    [
+      "Ad languages visible",
+      "Hindi + Telugu only (no English in first page)"
+    ],
+    [
+      "Creative concepts",
+      "(1) \u20b978k+\u20b922k=\u20b91L Hindi, 11 ad versions; (2) Telugu video subsidy; (3) Hindi EMI video \u20b91,466, 17 versions; (4) Telugu s"
+    ],
+    [
+      "Primary hook",
+      "\u20b91 lakh savings (\u20b978k subsidy + \u20b922k Freyr discount)"
+    ],
+    [
+      "EMI in ads",
+      "YES \u2014 \u20b91,466/mo highlighted in dedicated EMI creative"
+    ],
+    [
+      "CTA used",
+      "fb.me shortlinks (Facebook lead form/Messenger, NOT tracked LP)"
+    ],
+    [
+      "WhatsApp CTA",
+      "Not visible in ads (fb.me only)"
+    ],
+    [
+      "Self-cleaning / App / Ins.",
+      "Listed as bullets, not the primary hook"
+    ],
+    [
+      "Landing page hero",
+      "'Save \u20b91 Lakh On Rooftop Solar \u2014 \u20b922,000 Freyr Discount + \u20b978,000 Govt Subsidy'"
+    ],
+    [
+      "Lead form on site",
+      "3-step: name + phone + segment + bill + state + city + financing Y/N"
+    ]
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Freyr"],
-    ["SolarSquare", "4.8 Google / 15,000+ ratings. Savings-guarantee (GoodZero). City pages including markets Freyr does not serve (KA, TN, GJ). PM Surya Ghar in the nav. 1,092 Bangalore properties on the national portal (21 Apr 2026).", "You already beat them on the Rs.1 Lakh hero. They beat you on review volume, city pages and a guarantee. Gate the calculator and add city landings in the 6 states before they take TS/AP."],
-    ["Tata Power Solar / Solaroof", "Brand-level DISCOM trust. Pan-India. Buyers who fear 'startup installer' default here after a 1-star Google thread.", "Lead with MNRE code HYB2405060804 + TSSPDCL feasibility-before-pay. That is the Tata objection."],
-    ["Local TS/AP EPCs", "WhatsApp in &lt;5 min, 3-field quote, owner on the survey. They lose on brand and lose on EMI; they win the 9pm 'kitna kharcha' that your 8-field form drops.", "Ad CTA = WhatsApp. Form = 3 fields. Calculator result behind the phone."],
-    ["Freyr vs Freyr (ops)", "Your own Jul 2026 1-stars are the competitor. Ads promise 4 weeks roof-to-solar (Hindu/AP interview). Delivery and DISCOM slots are the gap.", "A 'feasibility confirmed before 100% pay' creative is both a fix and a moat."]
+    [
+      "MYSUN",
+      "Delhi/NCR/UP-only ads, \u20b9999 booking, aged creatives since May 2025, '67% subsidy increase' hook"
+    ],
+    [
+      "Sudarshan Saur",
+      "Sep-9 fresh batch, TOPCon N-Type, 25-yr warranty, 35 years legacy, video broken"
+    ],
+    [
+      "Nuetech Solar",
+      "Single English ad Sep-5, 'dream home' hook, \u20b978k, website CTA (good), no regional yet"
+    ]
+  ],
+  "findings": [
+    "All ad CTAs go to fb.me/lead forms instead of a tracked website LP \u2014 no UTM, no LP pixel, no retargeting audience built; leads get lost in M",
+    "ZERO English creatives visible \u2014 operating in 6 states but ads are only Hindi+Telugu, missing English-speaking urban/affluent segments in MH",
+    "Homepage social counters stuck at 0 despite 4,473 Google reviews and 21,000+ customers \u2014 destroys trust on the exact LP you'd route paid tra",
+    "Zero UGC/customer testimonial video ads despite 4,473 reviews and real customer stories; Freyr App + self-cleaning sprinklers aren't primary",
+    "No WhatsApp click-to-chat CTA (fb.me/Messenger only) \u2014 WhatsApp converts 2-3x Messenger for Indian residential solar."
+  ],
+  "scores": {
+    "Subsidy hook (\u20b978k/\u20b91L)": [
+      9,
+      "#10B981"
+    ],
+    "EMI in creative": [
+      9,
+      "#10B981"
+    ],
+    "On-site calculator": [
+      8,
+      "#10B981"
+    ],
+    "WhatsApp CTA": [
+      1,
+      "#EF4444"
+    ],
+    "English creative segment": [
+      0,
+      "#EF4444"
+    ],
+    "LP tracking / retargeting": [
+      2,
+      "#EF4444"
+    ],
+    "Homepage counters": [
+      0,
+      "#EF4444"
+    ]
+  },
+  "impact": [
+    [
+      "Metric",
+      "Current (Sep 14, 2026)",
+      "After 30 days",
+      "Projected impact"
+    ],
+    [
+      "Ad CTA destination",
+      "fb.me lead form only",
+      "Split fb.me + tracked LP + WhatsApp",
+      "+25-35% measurable leads"
+    ],
+    [
+      "English creative coverage",
+      "0 ads visible",
+      "4 English creative sets",
+      "New segment unlocked"
+    ],
+    [
+      "Homepage counters",
+      "Stuck at 0",
+      "Live API-fed (21,000+ cust, 4473 reviews)",
+      "+10-15% LP\u2192form CVR"
+    ],
+    [
+      "UGC/testimonial ads",
+      "0",
+      "8 Reels (customer stories)",
+      "+20-30% hook rate in feed"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Gate the calculator, WhatsApp as ad CTA, 3-field quote", "Lock Calculate Now behind city + phone + monthly bill, then show subsidy + EMI (the number is the magnet - do not give it away). Hero stays 'Save Rs.1 Lakh' but spell out Rs.78,000 CFA + Rs.22,000 Freyr discount. Ad primary CTA = Send WhatsApp Message to 9000828333, not the 8-field form. Collapse the quote to 3 fields; email optional. Hard-code 20,000+ / 150+ MW so the 0+ counters die. Expected: recapture calculator bounces; 25-40% more qualified chats at the same spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Geo-split + city landings + Hyderabad copy fix", "Restrict Meta to TS, AP, MH, MP, UP, Kerala (plus Odisha if you actually install). Exclude KA/TN/GJ. Ship landings for Hyderabad, Karimnagar, Vizag, Vijayawada, Pune, Lucknow, Kochi using the experience-centre photos you already shot. Fix the Hyderabad page line that cites Andhra subsidy. Kill the triplicated Why Choose Us block and the 'quotaions' typo. Expected: cheaper CPL from unservable geos; higher quote-to-survey in centre cities.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: DISCOM-first ops creative + UGC + 60-day retargeting", "Process: confirm TSSPDCL / APSPDCL / MSEDCL / KSEB feasibility before 100% collection (the Jul 2026 Kerala 1-star). Creative: 15 UGC Reels from the 4.7 pool + Allu Cinemas 727 kW / CHIREC 550 kWp as commercial proof. Audiences: (i) calculator start no phone, (ii) quote no survey, (iii) survey no order - 60 days. Never promise subsidy approval or DISCOM timeline. Expected: lead->survey 15-20% to 28-35%; stop the 4.7 from drifting; protect the 1-in-3 referral engine.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48 hours: Fix homepage counters + add WhatsApp CTA alongside fb.me",
+      "Patch the counter bug (0 \u2192 live values from your CRM/GA) and add a wa.me CTA variant to ad sets. 10-25% lift with no creative changes.",
+      "#B45309",
+      "#FEF3C7"
+    ],
+    [
+      "WIN 2 - 7 days: Route 30% of ad traffic to a tracked subsidy LP with pixel",
+      "Build a /subsidy/ landing page with the \u20b946,769 calculator embedded, fire CAPI events, build retargeting audiences. Stop losing leads in Messenger.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 3 - 14 days: Launch English creatives + UGC testimonial Reels",
+      "Ship English ads for MH/MP/UP/KA urban segments; film 8 customer testimonial Reels (one per major city) to replace the generic studio creatives.",
+      "#7C3AED",
+      "#EDE9FE"
+    ]
   ],
-  "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Calculator -> lead", "Low (ungated result)", "Phone before number", "Stop self-serve bounce"],
-    ["Unservable geo clicks", "IN-wide Meta", "6-state only", "CPL down, junk leads out"],
-    ["Cost per lead (Meta)", "Rs.250-450", "Rs.150-250", "~40% cheaper"],
-    ["Lead -> site survey", "15-20%", "28-35%", "WhatsApp in <5 min"],
-    ["Google 1-star rate", "~5% (235/4.6k)", "Process + reply", "Protect 4.7 and referrals"]
-  ],
-  "outreach": [
-    ["Subject A (Roast-Audit): your calculator gives the price away - and the homepage still says 0 customers", "Hi Saurabh / Radhika / Freyr growth,\n\nI spent 40 minutes on freyrenergy.com this morning (14 Sep 2026). You already do the thing most TN/KA installers do not: the hero is Save Rs.1 Lakh (Rs.78,000 CFA + Rs.22,000 Freyr discount), 4.7 from 4,473+ Google reviews, EMI from Rs.1,466. That is not the audit.\n\nFive leaks, all on the live site:\n1. Mid-page Calculate Your Savings shows list price, subsidy and a 120-month EMI with no phone. Day-1 leak, confirmed. The number is the magnet - you are giving it away.\n2. Day-1 ads are WhatsApp. The site is an 8-field 3-step form (email required). WhatsApp 9000828333 is a chip on /contact-us/ only.\n3. Counters render 0+ on a 21,000-customer brand.\n4. The form only lists 6 states. India-wide Meta buys Bangalore/Chennai clicks you cannot install.\n5. Jul 2026 1-stars: KSEB feasibility after 100% pay; Anantapur cash + late delivery. Ads are winning. Ops is taxing the 4.7.\n\n3-page confidential audit, 3 fixes (gate calculator + WhatsApp CTA, geo-split, DISCOM-before-pay creative). Shall I WhatsApp it to 9000828333? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Freyr team - 4 minutes on freyrenergy.com. First 30 seconds: hero is excellent (Rs.1 Lakh). Next minute: the calculator giving EMI without a phone, and the 0+ counters. Last 90 seconds: 6-state form vs India-wide ads, and two Jul 2026 Google 1-stars (KSEB after 100% pay, Anantapur delivery) sitting next to a 4.7 badge. Want the link on WhatsApp 9000828333? No call.\""],
-    ["Subject C (FOMO): SolarSquare is city-paging KA/TN while your Meta still buys those clicks", "Hi,\n\nAuditing rooftop solar funnels this week. Freyr is the only Day-1 HIGH lead whose homepage already names Rs.78,000. The gap is not the offer.\n\nSolarSquare has city pages + 15,000 Google ratings and a savings guarantee. Your form cannot even select Karnataka or Tamil Nadu - but India-wide Meta will still buy those clicks. Meanwhile the calculator on your own homepage lets a Hyderabad villa owner see Rs.46,769 effective cost and leave.\n\n3 fixes in 7 days: gate the calculator, WhatsApp as ad CTA, geo-split to the 6 states you actually install. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+  "cta_body": "I pulled your Meta Ad Library and site live today (Sep 14). Your subsidy+EMI funnel is the strongest I've seen across 29 brands \u2014 \u20b91L hero, \u20b946,769 calculator, \u20b91,466 EMI, 21,000 customers. But every ad routes to fb.me (no tracked LP, no pixel retargeting), there are zero English creatives despite being in 6 states, homepage counters are stuck at 0, and your 4,473 Google reviews aren't in any ad. I can fix counters + WhatsApp CTA in 48h, ship tracked LPs + retargeting in 7 days, and English+UGC ",
+  "cta_button": "Book a 30-min audit call",
+  "cta_url": "https://calendly.com/"
 }

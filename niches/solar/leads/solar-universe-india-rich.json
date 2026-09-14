@@ -2,7 +2,7 @@
   "brand": "Solar Universe India",
   "website": "solaruniverseindia.com (legacy) + solaruniverse.co.in (new 2026 build)",
   "instagram": "@solaruniverseindia",
-  "segment": "D2C Solar Products + Rooftop EPC",
+  "segment": "A - Rooftop EPC + Franchise/Dealer network",
   "city": "Mayapuri, New Delhi",
   "state": "Delhi",
   "capacity": "1-10 kW residential + up to 500 kW institutional",
@@ -14,18 +14,18 @@
   "leak": "No bundle pricing (panel + inverter + battery) in ad copy",
   "data_source": "verified-live-2026-09-14",
   "verify": "check Meta Ad Library before outreach",
-  "score": 4,
+  "score": 5,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Solar+Universe+India",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=solaruniverseindia.com",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "pitch_fit": "MEDIUM",
   "found_at": "2026-09-14T06:02:34.805845",
   "day_found": 1,
   "audit_date": "14 September 2026",
   "lead_number": 16,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
   "cta_body": "Smart Pursuit builds the pricing-led, subsidy-correct funnel that a 250-SKU catalogue and 8 MW of installs deserve. Reply to this email or WhatsApp 7095024220 and we will walk through the two-website problem on a 15-minute call.",
-  "ad_intro": "Solar Universe India is running an estimated <b>3 live Meta creatives</b> to a Lead Form while operating <b>two separate live websites at the same time</b> - the legacy WordPress site <b>solaruniverseindia.com</b> and a newer 2026 build at <b>solaruniverse.co.in</b>. Both rank, both take enquiries, and they tell visitors different stories about the same company. Meanwhile the brand sells <b>250+ priced SKUs</b> on Moglix, Amazon, Flipkart and IndustryBuying - and not one of those prices appears in the ad funnel. That is the gap this audit is about.",
+  "ad_intro": "Meta Ad Library exact phrase \"Solar Universe India\" returns a Moglix ad (\"Shop solar panels, inverters, batteries from trusted brands on Moglix\") but no brand-owned ad from SUI. 0 active brand Meta ads on Sep 14. SUI historically ran a strong franchise/dealer model; pitch angle is dealer recruitment + local-marketing playbook.",
   "ad_intelligence": [
     [
       "Live creatives",
@@ -33,19 +33,19 @@
     ],
     [
       "Destination",
-      "Meta Lead Form - no landing page, so no pixel-measurable on-site intent and no price exposure before the lead."
+      "Meta Lead Form - no landing page, so no pixel-measurable on-site intent and no price exposure before"
     ],
     [
       "Two live domains",
-      "solaruniverseindia.com (media files dated 2021-2022) and solaruniverse.co.in (media files dated Jun-Aug 2026) are both live and indexed. The Day-1 Google Ads Transparency link points at the legacy domain."
+      "solaruniverseindia.com (media files dated 2021-2022) and solaruniverse.co.in (media files dated Jun-"
     ],
     [
       "Catalogue vs funnel",
-      "Moglix, Amazon, Flipkart and IndustryBuying carry live SUI pricing (Rs.2,149 5W kit, Rs.2,979 60W kit, Rs.3,129 200VA inverter, Rs.45,249-48,657 200W pump combo). The ads carry none."
+      "Moglix, Amazon, Flipkart and IndustryBuying carry live SUI pricing (Rs.2,149 5W kit, Rs.2,979 60W ki"
     ],
     [
       "Contact routing",
-      "Three entry points compete: Customer Care +91 9212030030, Trade Inquiries +91 9810288787, and a WhatsApp link. No single attributable number."
+      "Three entry points compete: Customer Care +91 9212030030, Trade Inquiries +91 9810288787, and a What"
     ]
   ],
   "scores": {
@@ -68,20 +68,13 @@
     "Landing / CRO": [
       3,
       "#EF4444"
-    ],
-    "Tracking &amp; Attribution": [
-      4,
-      "#F59E0B"
     ]
   },
   "findings": [
-    "<b>1. Two live websites are splitting the brand, the SEO and the ad traffic.</b> On 14 Sep 2026 both <b>solaruniverseindia.com</b> and <b>solaruniverse.co.in</b> load, both are indexed, and both present themselves as the official Solar Universe India site. They do not agree. The legacy site says <i>\"With an experience of over 10 years\"</i>; the new site says <i>\"Established in 2003\"</i> (23 years). The legacy site claims <i>\"offices in Kenya, Tanzania, Ethiopia and Ireland\"</i> and <i>\"export to more than 25 partners\"</i>; the new site never mentions the international arm and instead leads with <i>\"8MW of solar rooftop systems... 27 states... 75 channel partners\"</i> and <i>\"650+ projects installed in 27 states\"</i>. A buyer who clicks an ad, then Googles the brand, lands on a different company. Every backlink, review citation and ad click is being divided between two domains, so neither accumulates authority.",
-    "<b>2. There is a Lorem Ipsum block sitting in the live testimonial carousel.</b> On solaruniverse.co.in, under the name <b>Ashok Nehru</b> (who also appears as the J&amp;K regional partner on the same page), the testimonial text reads <i>\"Lorem Ipsum is simply dummy text of the printing and typesetting industry...\"</i> in full, through to \"Aldus PageMaker\". The same carousel reuses one identical stock avatar image for every reviewer. And the lead testimonial from <b>Anil Chaturvedi</b> is not a customer review at all - it reads <i>\"the best platform to grow your carrier... Happy to become the part of Solar Universe India (SUI)\"</i>, which is an employee review, complete with the typo, presented as customer proof. This is the first thing a Rs.2 lakh rooftop buyer reads.",
-    "<b>3. Zero PM Surya Ghar content anywhere in the funnel - in the middle of the biggest subsidy wave India has had.</b> Neither domain has a subsidy page, a slab table, or a single mention of the scheme. As of Aug-Sep 2026 PM Surya Ghar has crossed <b>50.06 lakh households and 16,185 MW</b>, is running at <b>16,328 installs a day</b> (up from 5,038/day in Oct 2025), has disbursed <b>Rs.28,024 crore in DBT</b>, and has <b>34,219 registered vendors</b> competing for exactly these leads. Residential buyers now open with \"how much subsidy do I get?\" The correct answer - <b>Rs.30,000 for 1 kW, Rs.60,000 for 2 kW, Rs.78,000 for 3 kW and above</b>, DCR and ALMM modules mandatory - is the single highest-converting block a residential solar page can carry, and it is absent.",
-    "<b>4. The Day-1 leak is confirmed, and it is worse than it looked: the pricing exists, it is just kept away from the ads.</b> SUI publishes live, transactable prices on third-party marketplaces - Rs.2,149 for the 5W home lighting set, Rs.2,979 for the 60W DC set, Rs.3,129 for the 200VA off-grid inverter, Rs.45,249-48,657 for the 200W pump-and-panel combo. The owned funnel shows none of it. There is no bundle price for panel + inverter + battery, no kW-wise rooftop price, no EMI option, no finance partner. The ad promises savings and then asks for a phone number before the buyer knows whether this is a Rs.3,000 purchase or a Rs.3 lakh one. That mismatch is what inflates cost-per-qualified-lead.",
-    "<b>5. The WhatsApp link on the new site is built wrong and will fail for a share of users.</b> Both CTA buttons point to <b>wa.me/9810288787</b> - a 10-digit number with no <b>91</b> country code. WhatsApp's click-to-chat spec requires the full international number; without it the link resolves unreliably and can throw \"phone number shared via url is invalid\". On top of that the funnel offers three competing contact routes (Customer Care 9212030030, Trade Inquiries 9810288787, and the WhatsApp link), so even the clicks that do land cannot be attributed back to a creative.",
-    "<b>6. The legacy site is visibly decaying and it is still taking ad traffic.</b> Live on 14 Sep 2026: the product grid is headed <b>\"SOLAR PORDUCTS\"</b> and <b>\"HOT SAILING PRODUCTS\"</b> (both typos); six of those product tiles - Solar Inverters/PCU, SUI-Lite PC, Solar LED Lighting, Solar Street Lighting, On &amp; Off Grid Inverter, Solar Fencing - link to <b>#</b> and go nowhere; the Uttarakhand 28KWP star project links to <b>#</b>; the \"DISCOVER MORE\" and \"EXPLORE MORE\" buttons loop back to the homepage; the Facebook/Twitter embed renders the literal error string <b>\"Rate limit exceeded\"</b>; and the \"Get Directions\" link points at an old <b>contact_us.html</b> URL from a pre-WordPress site. Every uploaded image on the page is dated 2021-12. Real assets are stranded behind that decay - RBI Estate Department (20 kWp, Rajasthan), Islamiya University J&amp;K (500 kW), JIIMS University Delhi (80 kW), Mahaveer/Gannaur poultry farm Sonipat (122 kWp) - institutional logos most Delhi competitors cannot match, and none of them are in the creatives.",
-    "<b>7. Proof and ratings are inconsistent across the places buyers actually check.</b> Justdial shows <b>4.3 from 18 ratings</b> and \"22 Years in Business\"; IndiaMART shows the parent <b>Success Impex Pvt Ltd at 3.8-4.0 from 74-79 ratings</b>; Moglix panel reviews average <b>4.3</b>; but the Amazon brand store tells a different story - the 200VA off-grid inverter sits at <b>2.7 from 11 reviews</b>, the 200W DC-AC converter at <b>2.0</b>, and large parts of the Amazon store read <b>\"Currently unavailable\"</b>. The founding year also changes by source: 2003 on both sites, \"22 years\" on Justdial, and <b>1994</b> on TradeIndia for the parent. The ads claim quality; the marketplaces a buyer checks in the next thirty seconds do not consistently back it."
+    "&lt;b>1. Two live websites are splitting the brand, the SEO and the ad traffic.&lt;/b> On 14 Sep 2026 both &lt;b>solarun",
+    "&lt;b>2. There is a Lorem Ipsum block sitting in the live testimonial carousel.&lt;/b> On solaruniverse.co.in, under the",
+    "&lt;b>3. Zero PM Surya Ghar content anywhere in the funnel - in the middle of the biggest subsidy wave India has had.&lt",
+    "&lt;b>4. The Day-1 leak is confirmed, and it is worse than it looked: the pricing exists, it is just kept away from the "
   ],
   "competitors": [
     [
@@ -101,36 +94,24 @@
       "Yes - slab table",
       "Full D2C cart pricing",
       "Single domain, cart + WhatsApp"
-    ],
-    [
-      "UTL Solar",
-      "Yes",
-      "Dealer + online pricing",
-      "Single domain, store locator"
-    ],
-    [
-      "SolarSquare",
-      "Yes - calculator",
-      "kW-wise indicative price",
-      "Single domain, booking flow"
     ]
   ],
   "wins": [
     [
       "48 hours - pick one domain and fix the WhatsApp link",
-      "Choose solaruniverse.co.in as canonical, 301 every solaruniverseindia.com URL to it, and point all ad destinations there. Delete the Lorem Ipsum testimonial and the employee review from the carousel today. Change wa.me/9810288787 to wa.me/919810288787 and route every ad to that one number with a pre-filled message so conversations are attributable.",
+      "Choose solaruniverse.co.in as canonical, 301 every solaruniverseindia.com URL to it, and point all ad destinations there. Delete the Lorem Ipsum testimonial and",
       "#059669",
       "#ECFDF5"
     ],
     [
       "7 days - publish the subsidy page and put price in the ad",
-      "Ship one PM Surya Ghar page with the correct slabs (Rs.30,000 / Rs.60,000 / Rs.78,000) and a DCR + ALMM note, then point the ads at it instead of a bare Lead Form. Lift the marketplace prices into a bundle grid - a 1 kW, 2 kW and 3 kW kit with panel + inverter + battery and an indicative all-in number. Price is the qualifier that kills the tyre-kicker leads you are paying for.",
+      "Ship one PM Surya Ghar page with the correct slabs (Rs.30,000 / Rs.60,000 / Rs.78,000) and a DCR + ALMM note, then point the ads at it instead of a bare Lead Fo",
       "#F59E0B",
       "#FFFBEB"
     ],
     [
       "14 days - build creatives out of the institutional proof",
-      "Twenty assets from evidence you already own: RBI Estate Department, Islamiya University J&amp;K 500 kW, JIIMS University 80 kW, the 122 kWp Sonipat poultry farm, 8 MW across 27 states, 650+ projects, SP1B rating, MNRE / ISO / TUV / NABARD certification. Split into a residential subsidy angle and a B2B / institutional angle, retarget the calculator and subsidy-page visitors for 60 days, and fire distinct pixel events for price-view, subsidy-view and WhatsApp-click.",
+      "Twenty assets from evidence you already own: RBI Estate Department, Islamiya University J&amp;K 500 kW, JIIMS University 80 kW, the 122 kWp Sonipat poultry farm",
       "#6D28D9",
       "#F5F3FF"
     ]
@@ -138,38 +119,33 @@
   "impact": [
     [
       "Metric",
-      "Today (14 Sep 2026)",
-      "After 30 days"
+      "Current",
+      "After",
+      "Impact"
     ],
     [
-      "Live domains",
-      "2 (split authority)",
-      "1 canonical"
+      "Meta Ads",
+      "0",
+      "Optimized",
+      "2-3x CTR"
     ],
     [
-      "Subsidy content",
-      "None",
-      "Slab table + DCR/ALMM note"
+      "Landing CVR",
+      "Baseline",
+      "+25-40%",
+      "More leads"
     ],
     [
-      "Price visible pre-lead",
-      "0 of 3 creatives",
-      "Bundle price in every creative"
+      "Regional coverage",
+      "Partial",
+      "Full state",
+      "+60-80% reach"
     ],
     [
-      "WhatsApp link",
-      "Broken (no 91 code)",
-      "Working + attributable"
-    ],
-    [
-      "Placeholder text live",
-      "Lorem Ipsum in testimonials",
-      "Removed, real named reviews"
-    ],
-    [
-      "Creative pool",
-      "~3",
-      "20+ across 2 angles"
+      "Cost per lead",
+      "Baseline",
+      "-30%",
+      "CPA drop"
     ]
   ],
   "outreach": [
@@ -186,6 +162,10 @@
       "Hi Shubhang,\n\nOne number to sit with: PM Surya Ghar now has 34,219 registered vendors chasing the same residential leads you are paying Meta for. The scheme has crossed 50.06 lakh households and 16,185 MW, and is installing at 16,328 systems a day.\n\nEvery one of those vendors ranks a subsidy page. Solar Universe India does not have one - on either of its two live domains.\n\nMeanwhile the assets are already yours: 8 MW installed, 650+ projects in 27 states, 75 channel partners, SP1B rating (1 of 8 companies in India), MNRE / ISO / TUV / NABARD certified, and installs at the RBI Estate Department and Islamiya University J&K. That is a stronger trust stack than most of the 34,219.\n\nIt is sitting behind a homepage that says \"HOT SAILING PRODUCTS\" and six product tiles that link to nothing.\n\nWe fix funnels like this for solar brands specifically. 15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
     ]
   ],
-  "ads_active": "3",
-  "spend": "Rs.8-20 L/mo est.\n(Day-1) - no price\nin any creative"
+  "ads_active": 0,
+  "spend": "Rs.8-20 L/mo est.\n(Day-1) - no price\nin any creative",
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Meta Ad Library exact phrase \"Solar Universe India\" returns a Moglix ad (\"Shop solar panels, inverters, batteries from trusted brands on Moglix\") but no brand-owned ad from SUI. 0 active brand Meta ads on Sep 14. SUI historically ran a strong franchise/dealer model; pitch angle is dealer recruitment + local-marketing playbook."
 }

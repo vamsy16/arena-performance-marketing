@@ -1,73 +1,168 @@
 {
   "brand": "Fenice Energy",
-  "website": "feniceenergy.com",
-  "instagram": "@feniceenergy",
-  "segment": "R",
+  "slug": "fenice-energy",
+  "website": "https://feniceenergy.com",
+  "phone": "1800 889 8457",
+  "whatsapp": null,
+  "email": null,
   "city": "Chennai",
   "state": "Tamil Nadu",
-  "capacity": "3-5 kW residential; C&I via GreenPartners",
-  "active_ads": 23,
-  "ads_active": 23,
-  "destination": "Website (homepage form + 1800 number; no WhatsApp CTA)",
-  "spend_est": "3-8L/mo",
-  "spend": "Rs.3-8 L/mo",
-  "revenue": "Rs.47.8 Cr (FY24)",
-  "niche": "Rooftop Solar · TN",
-  "leak": "No EMI or subsidy explainer above the fold; toll-free not WhatsApp; calculator is a 6-field form",
-  "data_source": "seed-real + live site review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Fenice+Energy",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=feniceenergy.com",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - owner-led local EPC, lead volume = revenue, fast reply",
-  "found_at": "2026-09-14T06:02:34.804423",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 4,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for Fenice Energy: subsidy + EMI on the hero, click-to-WhatsApp, 3-field calculator above the fold, Pixel/CAPI + 60-day retargeting. Priced against <b>cost per site survey</b>, not impressions.",
-  "ad_intro": "Fenice Energy (SILRES Energy Solutions Pvt Ltd, RA Puram, Chennai; formerly SunEdison; CEO Pashupathy Gopalan) is a 25-year distributed-solar brand: <b>30,000+ projects, 100+ cities</b>, microinverters, Fenice Care app, GreenPartners. Tracxn: <b>Rs.47.8 Cr FY24</b>, ~148 staff (Aug 2025). Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~23 ads, Rs.3-8 L/mo, pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> feniceenergy.com loads. Hero = '<b>Clean energy for your home &amp; business</b>'. Primary CTA = Call 1800 889 8457 + a 3-option estimate form. No WhatsApp. No Rs.78,000 / PM Surya Ghar / TANGEDCO on the first screen. Homepage counters are stuck at <b>0 +</b> (installations / TWh / years). Footer still says Copyright 2023. The 'calculator' at /solar-rooftop-calculator/ is a 6-field lead form (Name, Pin, Phone, Area, Email*, bill) - not an instant savings widget. Financing (SBI/HDFC/BoB/SIDBI) exists one click down, with no EMI rupee on the hero.<br/><br/><b>Three leaks:</b> (1) subsidy and EMI are buried - Freyr's live hero is 'Save Rs.1 Lakh' and TN added a Rs.22,000 top-up in Aug 2026; Fenice's Rs.78,000 copy lives on a 2024 blog, not the ad or homepage; (2) 1800 number, not WhatsApp 9513246686; (3) 30,000+ projects, NTPC/Wipro/Railways logos and customer videos sit on /about-us/, not in the ads. Fixable in 7-14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library before quoting.</i>",
+  "segment": "A - Residential Rooftop EPC + Battery + EV",
+  "score": 9,
+  "pitch_fit": "HIGH",
+  "ads_active": 0,
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Meta Ad Library exact-phrase search 'Fenice Energy' returned 0 active ads in India (confirmed live 14 Sep 2026). Landing page fetched live: hero is generic 'Clean energy for your home & business', CTA is 1800-889-8457 call + small form (segment dropdown + privacy checkbox), counters stuck at default 0 (100+ Cities / 0+ installations / 0 TWh lifetime / 0 years / 0M trees), site copyright 2023, footer address SILRES Energy Solutions Pvt Ltd, 30/5 First Floor, 1st Cross Street, RA Puram, Chennai 600028. Segments expanded to include Solar Battery, EV Chargers, GreenPartners (channel partner program), GreenAmbassadors (referral) but no dedicated paid-acquisition LP for any of these. No WhatsApp click-to-chat anywhere on hero or primary nav. No PM Surya Ghar \u20b978,000 subsidy hook on hero despite offering residential rooftop.",
+  "revenue": "Private (SILRES Energy Solutions Pvt Ltd). Chennai-based residential + commercial rooftop EPC under brand 'Fenice Energy'; also markets microinverters, solar battery storage, EV chargers, and runs GreenPartners dealer + GreenAmbassadors referral prog",
+  "ad_intro": "Fenice Energy is running 0 active ads on Meta in India as of Sep 14, 2026 (verified via Meta Ad Library exact-phrase search). The entire paid-social funnel is dark. The landing page at feniceenergy.com opens to a generic 'Clean energy for your home & business' hero with a toll-free number (1800 889 8457) and a tiny segment-check-box form; no WhatsApp click-to-chat, no \u20b978,000 PM Surya Ghar hook, no EMI calculator, no UGC, and the social-proof counters have been stuck showing '0+' for installatio",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary (IN), destination = Website. FB facebook.com/Feniceenergy (92% recommend / 7 reviews, +91 95132 46686, sales@feniceenergy.com). IG @feniceenergy. YouTube @feniceenergy. LinkedIn /company/feniceenergy. X @FeniceEnergy ~127 followers, quiet. Blog at blog.feniceenergy.com."],
-    ["Active ads (est.)", "~23 creatives by Day-1 signature, CTA = Website, spend Rs.3-8 L/mo est. Verify live count in Meta Ad Library India (active) + Google Ads Transparency (feniceenergy.com) before pitching."],
-    ["Funnel / site (14 Sep)", "Hero 'Clean energy for your home &amp; business'. Call 1800 889 8457. Homepage form: Residential / Apartment / Commercial + Get an Estimate popup. Calculator URL is 6 required-ish fields including Email. Long landing /solar-rooftop-solutions-by-fenice-energy/ asks 10+ fields including 'interested in PM Surya Ghar?' - subsidy is a form question, not the headline."],
-    ["Assets sitting unused", "30,000+ projects; clients NTPC, BHEL, Wipro, Indian Railways, Intel, MRF, Airtel, Hero. Customer videos on /about-us/. Financing partners SBI, HDFC, Bank of Baroda, SIDBI. GreenPartners (Rs.10k deposit) + GreenAmbassadors. Microinverters + Fenice Care app. None of this is above the fold."]
-  ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [3, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [2, "#EF4444"],
-    "Social Proof (Installs)": [4, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
-  },
-  "findings": [
-    "<b>Subsidy / EMI leak (matches Day-1):</b> Homepage hero is 'Clean energy for your home &amp; business'. No Rs.78,000, no 300 free units, no TANGEDCO, no EMI rupee. PM Surya Ghar copy exists on blog.feniceenergy.com (Apr 2024) and as a yes/no field on a long landing - not the ad. Tamil Nadu added a Rs.22,000 state top-up (18 Aug 2026). Freyr's live hero is 'Save Rs.1 Lakh'. Financing page has bank logos but no 'EMI from Rs.X' on the first screen.",
-    "<b>WhatsApp leak:</b> Primary CTA is a toll-free 1800 number. Solar questions ('kitna kharcha?', 'TANGEDCO net-meter kab?') arrive at 9pm - those users do not call. FB already lists +91 95132 46686. No click-to-WhatsApp on the homepage or as the ad CTA (Day-1 destination = Website).",
-    "<b>CRO / proof leak:</b> The 'calculator' is a 6-field form that requires email before it shows a number. Homepage stat widgets render 0. Copyright 2023. 30,000+ projects, NTPC/Wipro logos and 4 customer videos live on /about-us/ and are not the ad. Counters-at-zero on a paid landing is a trust killer."
+    [
+      "Active Meta ads (India)",
+      "0 confirmed brand-owned (Meta Ad Library, Sep 14 2026)"
+    ],
+    [
+      "Ad languages visible",
+      "None \u2014 no ads running"
+    ],
+    [
+      "Primary hook in ads",
+      "None running; last visible creative appears to have gone dark"
+    ],
+    [
+      "Primary CTA in ads",
+      "n/a"
+    ],
+    [
+      "Landing page hero copy",
+      "'Clean energy for your home & business | Rooftop Solar | Solar Battery | EV Charging'"
+    ],
+    [
+      "Hero CTA",
+      "Call 1800-889-8457 + 1-field segment form (no WhatsApp, no Get Quote)"
+    ],
+    [
+      "WhatsApp click-to-chat",
+      "Not visible on hero / nav / footer"
+    ],
+    [
+      "PM Surya Ghar \u20b978k on hero",
+      "NO \u2014 hero does not mention subsidy at all"
+    ],
+    [
+      "EMI calculator on site",
+      "Not on hero; 'Financing Options' page exists but not promoted"
+    ],
+    [
+      "Social proof counters",
+      "STUCK AT DEFAULTS (0+ installs, 0 TWh, 0 years, 0M trees)"
+    ]
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Fenice"],
-    ["Freyr Energy", "Live hero: 'Save Rs.1 Lakh' = Rs.78,000 subsidy + Rs.22,000. WhatsApp-first, on-page calculator, EMI from Rs.1,466. 4.7 Google / 4,473 reviews.", "Put the rupee number and EMI on the first screen. Stop leading with 'go green'."],
-    ["SolarSquare", "PM Surya Ghar in the nav. City pages for Chennai / Coimbatore / Madurai / Salem. 4.8 Google / 15,000+ ratings. 'Schedule a FREE Visit' above the fold.", "Chennai + Coimbatore landings with TANGEDCO + subsidy math. Move customer videos into the ad."],
-    ["Local TN EPCs", "Glyde / Synergy / Kamal-style installers lead WhatsApp with 'eligible for up to Rs.78,000' and 3-field forms. They win the 9pm enquiry Fenice sends to 1800.", "Click-to-WhatsApp as primary CTA. 3 fields (city, phone, bill), then the calculator."]
+    [
+      "Freyr Energy",
+      "\u20b91L savings hero (\u20b978k+\u20b922k), EMI \u20b91,466, Hindi+Telugu ads, WhatsApp quote \u2014 running 4+ ad sets"
+    ],
+    [
+      "MYSUN",
+      "Delhi/NCR/UP subsidy ads, \u20b9999 booking, call 8448380218 \u2014 running aged creatives"
+    ],
+    [
+      "Sudarshan Saur",
+      "Sep 9 2026 launch batch of 4+ creatives, TOPCon N-Type, 25-yr warranty, 450+ partners"
+    ]
+  ],
+  "findings": [
+    "ZERO active Meta ads in India right now (confirmed live) \u2014 entire paid-social acquisition is dark while competitors Freyr/MYSUN/UTL/Sudarsha",
+    "Hero lead-gen is a toll-free call (1800-889-8457) and a 1-field checkbox form with no WhatsApp, no quote flow, no subsidy hook \u2014 leaks 60%+ ",
+    "Homepage social-proof counters (installations, TWh, years, trees) are hardcoded to 0/0+/0M \u2014 looks broken to any prospect who lands there; a",
+    "PM Surya Ghar \u20b978,000 subsidy is the single biggest buyer trigger in residential solar right now and is NOT on the hero or any primary CTA, ",
+    "Site footer stuck on Copyright 2023 \u2014 signals the brand hasn't invested in digital for ~3 years even though they added Solar Battery, EV Cha"
+  ],
+  "scores": {
+    "Subsidy hook (\u20b978k/\u20b91L)": [
+      0,
+      "#EF4444"
+    ],
+    "WhatsApp as primary CTA": [
+      0,
+      "#EF4444"
+    ],
+    "Active Meta spend (volume)": [
+      0,
+      "#EF4444"
+    ],
+    "Regional language creative": [
+      0,
+      "#EF4444"
+    ],
+    "Lead form / LP quality": [
+      2,
+      "#EF4444"
+    ],
+    "UGC / testimonial creative": [
+      1,
+      "#EF4444"
+    ],
+    "Retargeting / pixel setup": [
+      1,
+      "#EF4444"
+    ]
+  },
+  "impact": [
+    [
+      "Metric",
+      "Current (Sep 14, 2026)",
+      "After 30 days",
+      "Projected impact"
+    ],
+    [
+      "Active Meta ads (India)",
+      "0 (verified)",
+      "8-12 live creatives",
+      "100% channel activation"
+    ],
+    [
+      "Subsidy mention on hero",
+      "None",
+      "\u20b978k PM Surya Ghar",
+      "+40-60% ad-to-LP CTR"
+    ],
+    [
+      "Primary CTA",
+      "1800-call + checkbox form",
+      "WhatsApp + 3-field quote",
+      "+25-35% lead capture"
+    ],
+    [
+      "Homepage counters",
+      "Stuck at 0/0TWh/0M trees",
+      "Live API-fed proof",
+      "+10-15% LP\u2192form CVR"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Subsidy + EMI on the hero, WhatsApp as CTA, kill the zeros", "Homepage hero: '3 kW rooftop - eligible for up to Rs.78,000 (PM Surya Ghar) + Rs.22,000 TN top-up. WhatsApp for a Chennai site survey.' Primary CTA = click-to-WhatsApp 9513246686 (number already on Facebook). Fix the 0+ counters or remove them. 3-field calculator (city, phone, monthly bill) above the fold - not a 6-field email form. Expected: stop 1800 bounce and put the strongest hook on the first screen.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Tamil + Hinglish Meta batch, kill Website as primary CTA", "6 creatives: (a) eligible for up to Rs.78,000 + TN Rs.22,000, (b) customer video from /about-us/, (c) 'EMI via SBI/HDFC - number on screen', (d) NTPC/Wipro/Railways as trust, not the hero. CTA = Send WhatsApp Message, not Visit Website. Never promise subsidy approval. Expected: 25-40% more qualified enquiries at the same Rs.3-8 L spend.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: Chennai landing + Pixel/CAPI + 60-day retargeting + GreenPartner ads", "Dedicated /rooftop-solar/chennai/ with TANGEDCO + subsidy math (you already have /delhi/). Rebuild events on quote + WhatsApp click. Sequence: video 50% -> WhatsApp -> site-survey (30-90 day cycle). Run a paid GreenPartner recruitment track - the programme already exists. Expected: lead->survey 15-20% to 28-35%.", "#6D28D9", "#F5F3FF"]
+    [
+      "Multi-segment portfolio (Rooftop + Battery + EV + Dealer + Referral)",
+      "More upsell surface than single-product EPCs; GreenPartners + EV + Battery are new edges competitors do not all have.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "100+ city footprint already established",
+      "Geography is not the bottleneck \u2014 creative + paid + CTA is the unlock, which is the fastest thing to fix.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "Clean Energy brand + microinverter positioning",
+      "Differentiated tech story vs generic panel installers \u2014 if brought into ads with real proof.",
+      "#059669",
+      "#ECFDF5"
+    ]
   ],
-  "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Hero names Rs.78,000", "No (Clean energy)", "Yes, above the fold", "Match Freyr / SolarSquare"],
-    ["Cost per lead (Meta)", "Rs.250-450", "Rs.150-250", "~40% cheaper"],
-    ["Lead -> site survey", "15-20%", "28-35%", "WhatsApp in <5 min"],
-    ["Cost per installed kW won", "Rs.6,000-9,000", "Rs.3,500-5,500", "Same budget, more installs"]
-  ],
-  "outreach": [
-    ["Subject A (Roast-Audit): your homepage still says Clean energy - not Rs.78,000", "Hi Fenice Energy team,\n\nI opened feniceenergy.com this morning (14 Sep 2026). The product stack is strong - microinverters, Fenice Care, SBI/HDFC financing, GreenPartners, 30,000+ projects. The first screen is not.\n\nThree leaks:\n1. Hero is 'Clean energy for your home & business'. PM Surya Ghar (up to Rs.78,000 on 3 kW) is on a 2024 blog, not the homepage. Freyr's live headline is 'Save Rs.1 Lakh'. Tamil Nadu added a Rs.22,000 top-up in August.\n2. CTA is 1800 889 8457. Solar questions arrive at 9pm on WhatsApp. You already list 9513246686 on Facebook.\n3. The 'calculator' asks Name, Pin, Phone, Area, Email before it shows a number. Homepage counters are stuck at 0. Copyright still says 2023.\n\n2-page confidential audit, 3 fixes (48-hour hero + WhatsApp, subsidy/EMI ads, Chennai landing). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Fenice team - 3 minutes on feniceenergy.com. First 20 seconds: hero says Clean energy, not Rs.78,000. Next minute: 1800 number vs Freyr's WhatsApp, and your calculator is a 6-field email form. Last minute: NTPC/Wipro logos and customer videos sitting on /about-us/ instead of the ad. Want the link on WhatsApp 9513246686? No call.\""],
-    ["Subject C (FOMO): Chennai installers are leading with Rs.78,000 - you have the assets and are not using them", "Hi,\n\nAuditing rooftop solar funnels in Chennai this week. The installers pulling site surveys all do 4 things Fenice currently does not on the first screen:\n1. Subsidy-first creative - eligible for up to Rs.78,000, plus the new Rs.22,000 TN top-up.\n2. Click-to-WhatsApp as the primary CTA, not a toll-free number.\n3. A 3-field quote (city, phone, bill) - not Name+Email before the number.\n4. Install proof in the ad (you have 30,000+ projects and the videos already).\n\nYou are 7 days from this. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+  "cta_body": "I did a live Meta Ad Library + landing page check today (Sep 14). You're at zero active ads, your social counters are frozen at 0, and your hero still leads with 'Clean energy' while every competitor leads with \u20b978,000 subsidy. I can turn on your first properly-measured campaign in 7 days \u2014 subsidy-led creative in Tamil/Telugu/Hindi, WhatsApp CTA, retargeting, and a dealer-recruitment funnel for GreenPartners. 30-min call this week?",
+  "cta_button": "Book a 30-min audit call",
+  "cta_url": "https://calendly.com/"
 }

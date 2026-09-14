@@ -2,79 +2,176 @@
   "brand": "Microtek Solar",
   "website": "microtekdirect.com -> microtek.in",
   "instagram": "@microtekofficial",
-  "segment": "C",
+  "segment": "B - Broad Power-Backup Brand (solar is one category)",
   "city": "New Delhi",
   "state": "Delhi",
   "capacity": "1-10 kW D2C (GTI to 250 kW)",
   "active_ads": 27,
-  "ads_active": 27,
+  "ads_active": 0,
   "destination": "WhatsApp (Day-1) vs 7-field Enquire Now (live site)",
   "spend_est": "20L+/mo",
   "spend": "Rs.20 L+/mo",
   "revenue": "Rs.250-500 Cr (EasyLeadz Feb 2025)",
-  "niche": "D2C Solar Products · DL",
+  "niche": "D2C Solar Products \u00b7 DL",
   "leak": "Amazon/Flipkart listings not linked from ads or solar PDPs; solar ads land on a UPS homepage; Bajaj EMI filter excludes solar",
   "data_source": "seed-real + live site review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
+  "score": 3,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Microtek+Solar",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=microtekdirect.com",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "pitch_fit": "LOW-MEDIUM",
   "found_at": "2026-09-14T06:02:34.803397",
   "day_found": 1,
   "audit_date": "2026-09-14",
   "lead_number": 6,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
   "cta_body": "Smart Pursuit will run a <b>14-day solar D2C sprint</b> for Microtek: Amazon/Flipkart buy buttons on ads and PDPs, a solar landing (not the UPS homepage), WhatsApp sales CTA, Bajaj EMI on solar SKUs, and UGC instead of ChatGPT product art. Priced against <b>CPL and ROAS</b>, not impressions.",
-  "ad_intro": "Microtek International Pvt Ltd (H-57 Udyog Nagar, Rohtak Road, Delhi 110041) is India's #1 Home UPS brand (founded 1986, N.K. Aggarwal). Claims <b>15 crore customers, 4 plants, 29+ countries, 2,000+ staff, 150 own service centres / 355+ points</b>. EasyLeadz (Feb 2025): revenue Rs.250-500 Cr. Solar SKU range: hybrid inverters, Mono PERC / TOPCon bifacial panels (BIS+IEC, 25-yr), PCU, SMU (turns a home UPS into solar), GTI 1-5 kW single-phase / 5.5-250 kW three-phase (10-yr, BIS, live app), solar batteries. Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~27 ads, WhatsApp dest, Rs.20 L+/mo est., pitch_fit HIGH (D2C / CPL-ROAS).<br/><br/><b>Live check 14 Sep 2026:</b> microtekdirect.com 301s to microtek.in. Homepage carousel is Bajaj Finance, I-Lithium UPS, lithium combo, line-interactive, next-gen inverters - <b>not solar</b>. Solar is a nav category. Enquire Now is 7 fields (name, mobile, email*, pincode, state, city, category). WhatsApp 7283838383 exists - positioned as warranty/AMC ('Hi' to register), not sales (9711666444). IG live is @microtekofficial (36k / 1,812 posts) - Day-1 handle @microtek_india is stale. Hybrid inverter hero files are named <b>ChatGPT-Image-Jun-23-2026</b>. Bajaj Finance filter = Battery / Inverter / Combo only - <b>no Solar category</b>. E-shop 'Solar Solution' banner points to /product/product/enquire-now (broken).<br/><br/><b>This is not an EPC audit.</b> Microtek sells boxes. The Day-1 leak is still live: Amazon and Flipkart already stock Microtek solar (M-SUN, GTI, Hybrid) and the ads/PDPs do not send the click there. Plus: UPS homepage for solar spend, 7-field form vs WhatsApp, subsidy only on a Jan 2026 blog, ChatGPT art, Bajaj EMI not on solar. All fixable in 14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library before quoting. Never promise subsidy approval on a component sale.</i>",
+  "ad_intro": "Primary site is microtek.in (NOT microtekdirect.com). Founded 1989 by N.K. Aggarwal; H-57 Udyog Nagar Delhi; 15 crore customers; 4 mfg units; 2000+ employees; 29 countries; phone 011-71255500 / 7283838383. Products span home UPS, inverter batteries, combos, lithium, online UPS, stabilizers, electrical wires \u2014 Solar Solutions is one category (hybrid inverter, panels, PCU, grid-tied, SMU, solar battery). Bajaj Finance offers. Meta Ad Library \"Microtek Solar\" returned no visible brand ads in India;",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. Day-1 dest = WhatsApp. Live site: Enquire Now form + WA widget 7283838383 (customer care, not sales). FB facebook.com/MicrotekOfficial. IG @microtekofficial (36k). X @MicrotekOfcl. LinkedIn /company/microtekofficial. YouTube @microtekinternationalp.ltd9753. E-shop on microtek.in (cart). Amazon + Flipkart + Moglix + IndiaMART listings exist independently."],
-    ["Active ads (est.)", "~27 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency (microtekdirect.com and microtek.in) before pitching. Do not quote 27 as a hard number."],
-    ["Offer / SKUs (14 Sep)", "Hybrid inverter: 5-yr, digital, 'Battery Capacity: KVA' (copy unfinished). GTI 1-5 kW / 5.5-250 kW, 10-yr, BIS, IEC, live monitoring. Panels: poly 50-165 W and Mono PERC / TOPCon bifacial, 25-yr, BIS+IEC. PCU (solar mode vs normal). SMU converts existing Microtek UPS to solar. Solar tubular batteries (C10/C20). Bajaj EMI live on UPS/battery combos only."],
-    ["Funnel / CRO (14 Sep)", "Solar ad -> UPS homepage (Bajaj / lithium / inverter banners). Solar 'Buy Now' on category pages goes to JS listings that scrape empty (no SKU/price in HTML). E-shop solar banner = broken /product/product/enquire-now. Enquire Now: 7 required fields including email. Load calculator = UPS watt backup for 1-4 BHK, not kW + subsidy. No Amazon/Flipkart button on solar PDPs."],
-    ["Marketplace (Day-1 leak, confirmed)", "Amazon.in: Microtek Hybrid 1875 ~3.6/137; SMU ~3.3/42; NXG/solar SKUs live. Flipkart: M-SUN-1235/12V ~3.8/20, Jan 2026 review 'Auto triping'. Moglix: GTI 5.5-50 kW and PCU price list. IndiaMART dealer mesh. None of these URLs sit on the ad or the PDP. Buyer who wants marketplace checkout + reviews has to Google the SKU."],
-    ["Subsidy / compliance", "PM Surya Ghar lives on blogs (16 Jan 2026 'Muft Bijli'; Dec 2025 subsidy guide) not on GTI/panel PDPs. GTI FAQ says 'eligible for government incentives' with no rupee. Subsidy is on a rooftop *system* via an MNRE vendor, not on buying an inverter off Amazon. BIS/IEC on panels + GTI is the honest hook. Never promise Rs.78,000 as a product discount."]
+    [
+      "Active platforms",
+      "Meta primary. Day-1 dest = WhatsApp. Live site: Enquire Now form + WA widget 7283838383 (customer care, not sales). FB f"
+    ],
+    [
+      "Active ads (est.)",
+      "~27 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency"
+    ],
+    [
+      "Offer / SKUs (14 Sep)",
+      "Hybrid inverter: 5-yr, digital, 'Battery Capacity: KVA' (copy unfinished). GTI 1-5 kW / 5.5-250 kW, 10-yr, BIS, IEC, liv"
+    ],
+    [
+      "Funnel / CRO (14 Sep)",
+      "Solar ad -> UPS homepage (Bajaj / lithium / inverter banners). Solar 'Buy Now' on category pages goes to JS listings tha"
+    ],
+    [
+      "Marketplace (Day-1 leak, confirmed)",
+      "Amazon.in: Microtek Hybrid 1875 ~3.6/137; SMU ~3.3/42; NXG/solar SKUs live. Flipkart: M-SUN-1235/12V ~3.8/20, Jan 2026 r"
+    ],
+    [
+      "Subsidy / compliance",
+      "PM Surya Ghar lives on blogs (16 Jan 2026 'Muft Bijli'; Dec 2025 subsidy guide) not on GTI/panel PDPs. GTI FAQ says 'eli"
+    ]
   ],
   "scores": {
-    "Subsidy & Scheme Clarity": [3, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [5, "#F59E0B"],
-    "Social Proof (Installs)": [4, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [3, "#EF4444"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
+    "Subsidy & Scheme Clarity": [
+      3,
+      "#EF4444"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      5,
+      "#F59E0B"
+    ],
+    "Social Proof (Installs)": [
+      4,
+      "#F59E0B"
+    ],
+    "Creative Variety (Video/Reels)": [
+      3,
+      "#EF4444"
+    ],
+    "Landing Page & Form CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking & Retargeting": [
+      4,
+      "#F59E0B"
+    ]
   },
   "findings": [
-    "<b>Marketplace leak (Day-1, confirmed 14 Sep 2026):</b> Amazon, Flipkart, Moglix and IndiaMART already sell Microtek solar. Solar ads and PDPs do not link them. Own e-shop is UPS-first; the solar banner 404s to /product/product/enquire-now. D2C buyers compare reviews and checkout on Amazon. Sending them to a 7-field Enquire form is a trust and conversion leak. Put official Buy-on-Amazon / Buy-on-Flipkart on every solar ad and PDP. Syndicate 4-star reviews back onto microtek.in.",
-    "<b>Wrong landing for solar spend:</b> microtekdirect.com 301s to microtek.in. Hero carousel = Bajaj, I-Lithium UPS, lithium combo, line-interactive, next-gen home inverter. Solar is buried in the nav. Rs.20 L+/mo of 'Microtek Solar' clicks are paying for a UPS homepage. Ship /solar/ as the ad destination: hybrid vs GTI vs SMU vs panel, price, BIS/IEC, 3-field WhatsApp.",
-    "<b>WhatsApp is service, not sales:</b> Day-1 dest = WhatsApp. Widget 7283838383 is 'send Hi to register warranty/AMC'. Sales number is 9711666444. Enquire Now asks name, mobile, email*, pincode, state, city, category. 9pm 'hybrid vs GTI?' will not finish that. Ad CTA = Send WhatsApp Message to a *sales* line; collapse Enquire to 3 fields (pincode, phone, SKU).",
-    "<b>Bajaj EMI excludes solar:</b> Homepage leads with Bajaj Finance. Eligible categories on /bajaj-finance = Battery Combo / Inverter / Battery / Inverter Battery Combo. No Solar. A Rs.70k GTI or panel set is an EMI product. Add solar SKUs to Bajaj (or a solar NBFC) and put 'EMI from Rs.X' on the solar landing. Load calculator is a UPS watt tool - add a solar kW + bill widget (phone before the number).",
-    "<b>Creative / proof:</b> Hybrid inverter heroes are filename ChatGPT-Image-Jun-23-2026. Studio product shots, no unboxing, no roof, no net-meter. MouthShut Microtek inverter 2.95 / 5,416. Amazon solar SKUs sit at ~3.3-3.6. Claim is 15 crore customers. The ad still looks like a UPS catalogue. 10 UGC Reels (install + app + SMU retrofit) replace the ChatGPT art.",
-    "<b>Subsidy copy is a blog, not a PDP:</b> Jan 2026 blog explains PM Surya Ghar; GTI page only says 'government incentives'. Do not print Rs.78,000 as a Microtek discount - CFA is on the installed system via an MNRE vendor. Honest line: 'BIS/IEC GTI + panels that an empanelled installer can put in a PM Surya Ghar system. We do not approve subsidy.' About-page counters look like dummy JS (3456 patents / 6789 copyrights) - same trust leak as Fenice/Freyr zeros."
+    "<b>Marketplace leak (Day-1, confirmed 14 Sep 2026):</b> Amazon, Flipkart, Moglix and IndiaMART already sell Microtek solar. Solar ads and PD",
+    "<b>Wrong landing for solar spend:</b> microtekdirect.com 301s to microtek.in. Hero carousel = Bajaj, I-Lithium UPS, lithium combo, line-inte",
+    "<b>WhatsApp is service, not sales:</b> Day-1 dest = WhatsApp. Widget 7283838383 is 'send Hi to register warranty/AMC'. Sales number is 97116",
+    "<b>Bajaj EMI excludes solar:</b> Homepage leads with Bajaj Finance. Eligible categories on /bajaj-finance = Battery Combo / Inverter / Batte",
+    "<b>Creative / proof:</b> Hybrid inverter heroes are filename ChatGPT-Image-Jun-23-2026. Studio product shots, no unboxing, no roof, no net-m"
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Microtek"],
-    ["Luminous Solar", "Amazon/Flipkart brand stores with review volume. Wider service (3,000-4,000+ points). Stronger ALMM/hybrid-lithium story (Jul-Aug 2026 comparisons). Solar is a first-class category, not a UPS afterthought.", "You win on price (Rs.1-3k cheaper / Rs.10-15k on 3 kW). You lose on marketplace CTA and solar-first landing. Link Amazon. Make /solar/ the ad URL."],
-    ["Livguard / Okaya / Smarten", "D2C solar+inverter brands with SKU ads to marketplace or 3-field forms. Lithium + app as the hook.", "Match their ATC path. Your SMU (UPS -> solar) is a unique SKU - it is not in the ads."],
-    ["Growatt / Solis / Loom", "Solar-native brands. Efficiency and monitoring as the ad. Loom runs UGC unboxing. Growatt/Solis win the 'best inverter 2026' lists Microtek is filed under 'budget / off-grid'.", "GTI 10-yr + BIS + live app is the on-grid answer. Put it on the creative. Stop leading solar ads with Home UPS."],
-    ["Amazon itself", "The default checkout. 3.6 stars on Hybrid 1875 is the review the buyer will read even if your ad is beautiful.", "Official brand store + review replies + 'Buy on Amazon' in the ad. Own the PDP you already pay for."]
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Microtek"
+    ],
+    [
+      "Luminous Solar",
+      "Amazon/Flipkart brand stores with review volume. Wider service (3,000-4,000+ points). Stronger ALMM/hybrid-lithium story (Jul-Aug 2026 comparisons). Solar is a first-class category, not a UPS afterthought.",
+      "You win on price (Rs.1-3k cheaper / Rs.10-15k on 3 kW). You lose on marketplace CTA and solar-first landing. Link Amazon. Make /solar/ the ad URL."
+    ],
+    [
+      "Livguard / Okaya / Smarten",
+      "D2C solar+inverter brands with SKU ads to marketplace or 3-field forms. Lithium + app as the hook.",
+      "Match their ATC path. Your SMU (UPS -> solar) is a unique SKU - it is not in the ads."
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Marketplace CTA + solar landing + sales WhatsApp", "Every solar ad and PDP: Buy on Amazon + Buy on Flipkart (official listings) + WhatsApp sales (9711666444), not only Enquire. New /solar/ landing (hybrid vs GTI vs SMU vs panel) as the Meta destination - stop dumping solar clicks on the UPS homepage. Fix the e-shop solar banner (/product/product/enquire-now). Collapse Enquire to pincode + phone + SKU; email optional. Expected: recapture marketplace-intent clicks; 20-35% more ATC / chat at the same Rs.20 L+ spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Bajaj/EMI on solar SKUs + honest subsidy module + kill ChatGPT art", "Add Solar to /bajaj-finance (or a solar NBFC) and print EMI from Rs.X on GTI/panel PDPs. PDP module: 'BIS/IEC - usable in a PM Surya Ghar system by an MNRE installer. Microtek does not approve subsidy.' Pull the Jan 2026 blog rupee onto GTI, not as a product discount. Replace ChatGPT-Image-Jun-23-2026 heroes with product + roof photos. Load calculator: add solar kW + monthly bill, phone before the number. Expected: higher AOV via EMI; fewer subsidy-confused returns.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: UGC + SMU retrofit ads + 60-day DPA retargeting", "10 Reels: unboxing, SMU-on-existing-UPS (unique to Microtek), GTI app screenshot, dealer install. Reply to Amazon 3-star threads (tripping / service). Audiences: (i) solar LP no ATC, (ii) Amazon click no purchase, (iii) Enquire no order - 60 days, DPA of live SKUs. Split UPS ads vs solar ads so solar budget cannot buy inverter-only traffic. Expected: cheaper solar CPL; ROAS up from marketplace + DPA; stop MouthShut/Amazon 3.x from being the only review the buyer sees.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48 hours: Marketplace CTA + solar landing + sales WhatsApp",
+      "Every solar ad and PDP: Buy on Amazon + Buy on Flipkart (official listings) + WhatsApp sales (9711666444), not only Enquire. New /solar/ landing (hybrid vs GTI vs SMU vs panel) as the Meta destination",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 - 7 days: Bajaj/EMI on solar SKUs + honest subsidy module + kill ChatGPT art",
+      "Add Solar to /bajaj-finance (or a solar NBFC) and print EMI from Rs.X on GTI/panel PDPs. PDP module: 'BIS/IEC - usable in a PM Surya Ghar system by an MNRE installer. Microtek does not approve subsidy",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - 14 days: UGC + SMU retrofit ads + 60-day DPA retargeting",
+      "10 Reels: unboxing, SMU-on-existing-UPS (unique to Microtek), GTI app screenshot, dealer install. Reply to Amazon 3-star threads (tripping / service). Audiences: (i) solar LP no ATC, (ii) Amazon click",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
   ],
   "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Ad -> Amazon/Flipkart", "No (Enquire / UPS home)", "Buy buttons on ad + PDP", "Trust + checkout"],
-    ["Solar click landing", "UPS homepage", "/solar/ SKU landing", "Stop wasted solar spend"],
-    ["Enquire fields", "7 (email required)", "3 + WhatsApp sales", "CVR up"],
-    ["Cost per lead (Meta)", "Rs.150-350", "Rs.90-180", "~40% cheaper"],
-    ["Solar ROAS (Meta+mktplace)", "Diluted by UPS traffic", "Solar-only + DPA", "Spend on SKUs that sell"]
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "Ad -> Amazon/Flipkart",
+      "No (Enquire / UPS home)",
+      "Buy buttons on ad + PDP",
+      "Trust + checkout"
+    ],
+    [
+      "Solar click landing",
+      "UPS homepage",
+      "/solar/ SKU landing",
+      "Stop wasted solar spend"
+    ],
+    [
+      "Enquire fields",
+      "7 (email required)",
+      "3 + WhatsApp sales",
+      "CVR up"
+    ],
+    [
+      "Cost per lead (Meta)",
+      "Rs.150-350",
+      "Rs.90-180",
+      "~40% cheaper"
+    ]
   ],
   "outreach": [
-    ["Subject A (Roast-Audit): your solar ads still dump people on a UPS homepage - and skip Amazon", "Hi Microtek growth / e-com team,\n\nI spent 40 minutes on microtek.in this morning (14 Sep 2026). India's #1 Home UPS brand, 15 crore customers, GTI 10-year, BIS/IEC panels, Bajaj on the hero. The solar funnel is not at that standard.\n\nFive leaks, all live:\n1. Day-1 leak, confirmed: Amazon and Flipkart already sell Microtek solar (Hybrid 1875, M-SUN, GTI). Ads and PDPs do not link them. E-shop solar banner 404s to /product/product/enquire-now.\n2. microtekdirect.com 301s to a UPS homepage (Bajaj, I-Lithium, line-interactive). Solar is a nav item. Rs.20 L+/mo of solar clicks are buying inverter traffic.\n3. Enquire Now is 7 fields including email. WhatsApp 7283838383 is warranty/AMC, not sales (9711666444).\n4. Bajaj Finance filter has no Solar category.\n5. Hybrid inverter heroes are ChatGPT-Image-Jun-23-2026. PM Surya Ghar is a January blog, not the GTI PDP.\n\n3-page confidential audit, 3 fixes (marketplace CTA + /solar/ landing, EMI on solar SKUs, UGC/DPA). Shall I WhatsApp it to 9711666444? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Microtek team - 4 minutes on microtek.in. First 20 seconds: solar ads land on a UPS homepage. Next minute: no Amazon/Flipkart button, Enquire is 7 fields, e-shop solar link is broken. Last 90 seconds: Bajaj EMI excludes solar, and the hybrid hero is a ChatGPT image from June. Want the link on WhatsApp 9711666444? No call.\""],
-    ["Subject C (FOMO): Luminous is winning the Amazon PDP while your Meta still sells UPS", "Hi,\n\nAuditing D2C solar funnels this week. Microtek is the price winner vs Luminous (Rs.1-3k cheaper, Rs.10-15k on 3 kW). Luminous still wins the click that wants to check out on Amazon with reviews.\n\nYour Hybrid 1875 already has ~137 Amazon ratings. The ad does not send anyone there. The site sends them to Enquire Now. Meanwhile Growatt/Solis own the 'best inverter 2026' lists and Loom runs unboxing.\n\n3 fixes in 7 days: Buy-on-Amazon on the ad, a /solar/ landing, Bajaj on solar SKUs. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+    [
+      "Subject A (Roast-Audit): your solar ads still dump people on a UPS homepage - and skip Amazon",
+      "Hi Microtek growth / e-com team,\n\nI spent 40 minutes on microtek.in this morning (14 Sep 2026). India's #1 Home UPS brand, 15 crore customers, GTI 10-year, BIS/IEC panels, Bajaj on the hero. The solar funnel is not at that standard.\n\nFive leaks, all live:\n1. Day-1 leak, confirmed: Amazon and Flipkart already sell Microtek solar (Hybrid 1875, M-SUN, GTI). Ads and PDPs do not link them. E-shop solar banner 404s to /product/product/enquire-now.\n2. microtekdirect.com 301s to a UPS homepage (Bajaj, I-Lithium, line-interactive). Solar is a nav item. Rs.20 L+/mo of solar clicks are buying inverter traffic.\n3. Enquire Now is 7 fields including email. WhatsApp 7283838383 is warranty/AMC, not sales (9711666444).\n4. Bajaj Finance filter has no Solar category.\n5. Hybrid inverter heroes are ChatGPT-Image-Jun-23-2026. PM Surya Ghar is a January blog, not the GTI PDP.\n\n3-page confidential audit, 3 fixes (marketplace CTA + /solar/ landing, EMI on solar SKUs, UGC/DPA). Shall I WhatsApp it to 9711666444? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi Microtek team - 4 minutes on microtek.in. First 20 seconds: solar ads land on a UPS homepage. Next minute: no Amazon/Flipkart button, Enquire is 7 fields, e-shop solar link is broken. Last 90 seconds: Bajaj EMI excludes solar, and the hybrid hero is a ChatGPT image from June. Want the link on WhatsApp 9711666444? No call.\""
+    ],
+    [
+      "Subject C (FOMO): Luminous is winning the Amazon PDP while your Meta still sells UPS",
+      "Hi,\n\nAuditing D2C solar funnels this week. Microtek is the price winner vs Luminous (Rs.1-3k cheaper, Rs.10-15k on 3 kW). Luminous still wins the click that wants to check out on Amazon with reviews.\n\nYour Hybrid 1875 already has ~137 Amazon ratings. The ad does not send anyone there. The site sends them to Enquire Now. Meanwhile Growatt/Solis own the 'best inverter 2026' lists and Loom runs unboxing.\n\n3 fixes in 7 days: Buy-on-Amazon on the ad, a /solar/ landing, Bajaj on solar SKUs. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Primary site is microtek.in (NOT microtekdirect.com). Founded 1989 by N.K. Aggarwal; H-57 Udyog Nagar Delhi; 15 crore customers; 4 mfg units; 2000+ employees; 29 countries; phone 011-71255500 / 7283838383. Products span home UPS, inverter batteries, combos, lithium, online UPS, stabilizers, electrical wires \u2014 Solar Solutions is one category (hybrid inverter, panels, PCU, grid-tied, SMU, solar battery). Bajaj Finance offers. Meta Ad Library \"Microtek Solar\" returned no visible brand ads in India; \"Microtek\" search returns country selector only (possible ads under different page, but no visible solar-specific push). Solar is a small part of broader portfolio \u2014 enterprise pitch cycle, not easy close."
 }

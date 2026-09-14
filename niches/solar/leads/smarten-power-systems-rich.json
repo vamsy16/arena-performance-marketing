@@ -1,80 +1,160 @@
 {
   "brand": "Smarten Power Systems",
-  "website": "smarten.in -> smartenpowersystems.in",
-  "instagram": "@smartenpowersystems",
-  "segment": "C",
-  "city": "Gurugram",
-  "state": "Haryana",
-  "capacity": "1-20 kVA PCU; 1-25 kW on-grid",
-  "active_ads": 30,
-  "ads_active": 30,
-  "destination": "Lead Form (Talk to us: name, email*, phone; WhatsApp unused as ad CTA)",
-  "spend_est": "20L+/mo",
-  "spend": "Rs.20 L+/mo",
-  "revenue": "Rs.203 Cr FY25",
-  "niche": "D2C Solar Products · HR",
-  "leak": "Shipping/delivery timeline hidden; Lead Form not WhatsApp; brand site has no prices (Amazon does); on-grid 3 kW has no CFA; smarten.in dead",
-  "data_source": "seed-real + live site review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Smarten+Power+Systems",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=smartenpowersystems.in",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (on-grid only; PCU/off-grid is not CFA. Never promise subsidy approval.)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
-  "found_at": "2026-09-14T06:02:34.804032",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 9,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar D2C sprint</b> for Smarten: delivery SLA on the ad, WhatsApp 9319299240 instead of email-required Talk to us, priced PDPs + Amazon ATC, on-grid 3 kW CFA module (never as a product discount), and UGC instead of distributor quotes. Priced against <b>CPL and ROAS</b>, not impressions.",
-  "ad_intro": "Smarten Power Systems Ltd (CIN L31401HR2014PLC052897, NSE SME <b>SMARTEN</b>, listed 14 Jul 2025, IPO Rs.50 Cr at Rs.100). Plot 374, Pace City-II, Sector 37, Gurugram 122001. Promoters: MD Arun Bhardwaj, CEO Rajnish Sharma, Tirath Singh Khaira, Ravi Dutt (Su-Kam / Delta alumni). Design + assemble Home UPS, solar PCU, charge controllers; <b>trade</b> panels and batteries. 23 states + 2 UTs, 17-18 export countries. IPO numbers: <b>Rs.203 Cr FY25 revenue, Rs.16.9 Cr EBITDA, Rs.12.8 Cr PAT</b> (FY24 Rs.195 / 13.5 / 11.3 Cr). ~249-259 staff (mid-2025). Homepage claims 210+ distributors, 27+ service points, 195 SKUs. Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~30 ads, Lead Form dest, Rs.20 L+/mo est., pitch_fit HIGH (D2C / CPL-ROAS).<br/><br/><b>Live check 14 Sep 2026:</b> smarten.in did not load. Brand is smartenpowersystems.in (WP). Hero carousel (Sep 2026 files): Helio, Helix, hybrid, on-grid, Everon, become-a-partner - several banners link to <b>#</b>. WhatsApp chip wa.me/919319299240. Talk to us: sales WA 9319299240, service 9319699755, info@smartenpowersystems.com. Form = Name, Email*, Phone, Message. /contact-us/ = 404. No prices, no cart, no delivery days. Amazon already sells Superb/Helix (Superb 2675 ~Rs.15,900 / 3.9 stars / 429 ratings; Superb+ 3600VA ~Rs.21,930 / 4.1/44; 5500VA ~Rs.53,999). Industrybuying: same 2500VA 'ships within 10 days' and '30 days' depending on SKU - that is the Day-1 leak. IG live @smartenpowersystems (1,337 / 977 posts) - Day-1 @smartensolar is stale. FB facebook.com/smartenpowersystems (84% recommend / 15 reviews).<br/><br/><b>Day-1 leak, confirmed:</b> zero install/ship SLA on brand PDPs. Plus: email-required Lead Form vs WhatsApp, dead smarten.in, no rupee on category pages, on-grid 3 kW page has no PM Surya Ghar (and PCU ads must not steal that hook), distributor testimonials not end-user UGC, typos (ON Grod, 5550KVA, hybrid-inerter), 27 service points across 23 states. All fixable in 14 days. <i>Ad counts are Day-1 estimates. Never promise subsidy approval. Do not put Rs.78,000 on a PCU/off-grid ad.</i>",
+  "slug": "smarten-power-systems",
+  "website": "https://smartenpowersystems.in",
+  "phone": "9319299240",
+  "whatsapp": null,
+  "email": null,
+  "city": "New Delhi",
+  "state": "Delhi",
+  "segment": "B - Inverter/PCU/Battery/Panel Manufacturer (B2B2C)",
+  "score": 5,
+  "pitch_fit": "MEDIUM",
+  "ads_active": 2,
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "smartensmarin.in is dead; smartenpowersystems.in is live. Ads: 1 English brand ad Sep 3 + 1 Punjab distributor-recruitment ad Jun 16. B2B distributor/product brand.",
+  "revenue": "Private | Delhi/NCR | Est. 2014 | Manufacturer of solar PCU/hybrid/on-grid inverters, UPS, lithium, tubular batteries, panels | BIS-certified | Distributor testimonials on site",
+  "ad_intro": "Smarten is a Delhi-based solar product manufacturer running 2 Meta ads as of Sep 14: 1 generic English brand-awareness ad (Sep 3, 'Powering a Smarter & Greener Future' with product catalog list) and 1 Punjab distributor-recruitment ad (Jun 16). Both ads are English-only, generic product lists, no price, no EMI, no WhatsApp, no consumer subsidy hook. The consumer site has a Become-a-Partner CTA, BIS awards wall, and 4 named distributor testimonials, but all stat counters show broken default value",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. Day-1 dest = Lead Form. Live: smartenpowersystems.in (no cart). WA 9319299240 sales / 9319699755 service. Amazon.in Superb/Helix/Shine listings. Industrybuying + IndiaMART. IG @smartenpowersystems (1.3k). FB /smartenpowersystems. LinkedIn company page. NSE SME SMARTEN investor IR on the same WP nav as product."],
-    ["Active ads (est.)", "~30 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency (smartenpowersystems.in; smarten.in is dead). Do not quote 30 as a hard number. Split Home UPS vs PCU vs on-grid before quoting ROAS."],
-    ["Offer / SKUs (14 Sep)", "Helio (900-1500 VA, inbuilt Li-ion + MPPT). Helix (to 1250 VA, wall-mount MPPT, 24V panel). Superb MPPT PCU 1100 VA-20 kVA (Amazon 2675 ~Rs.15,900; 3600VA ~Rs.21,930; 4kVA ~Rs.38,000; 5500VA ~Rs.53,999; 3-yr typical). PWM PCU. Star on-grid 1-6 kW 1-ph / 5-25 kW 3-ph (97.5-98.5%, WiFi). Hybrid. Prime/Savior/Tejas/Kranti charge controllers (inverter-to-solar). Mono 100-545 W / poly 40-355 W (traded). Tubular + Li-ion batteries. BIS awards on homepage."],
-    ["Funnel / CRO (14 Sep)", "Ad -> Lead Form. Talk to us requires email. Hero SKUs (Helio/Helix/On-Grid/Hybrid) often href=#. Category pages = features + PDF spec, no MRP, no ATC, no days. /contact-us/ 404. Become-a-partner is a first-class banner (distributor brand). End-user who wants a Superb 2675 already checks out on Amazon."],
-    ["Delivery leak (Day-1, confirmed)", "Brand site: no shipping, no install days, Policies = SEBI IPO PDFs not a delivery policy. Industrybuying: Superb 2500VA 'ships within 10 days' AND '30 days' on sibling SKUs; some charge controllers 24 hrs. Amazon is the de-facto SLA. Racold/V-Guard/Okaya shop print free delivery. Hide the date and the click goes to Amazon or a dealer who prints one."],
-    ["Proof + 2026", "Homepage 'Happy Client' quotes are distributors (SB Enterprises, Ganesh Battery, Bhardwaj Trading). Google 4.5 / 1,148 on a 2026 aggregator listing (verify on Maps before quoting). Amazon 3.5-4.1 on solar PCUs. 27+ service points vs 23 states is thin vs Luminous. IPO / Rs.203 Cr is unused in consumer ads."]
-  ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [3, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [4, "#F59E0B"],
-    "Social Proof (Installs)": [4, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
-  },
-  "findings": [
-    "<b>Delivery SLA leak (Day-1, confirmed 14 Sep 2026):</b> smartenpowersystems.in product pages have no ship/install days. Policies nav is insider-trading and RPT PDFs. Industrybuying already exposes the gap: Superb 2500VA '10 days' vs '30 days'. Amazon is where the buyer learns the wait. Put a real SLA on every PCU ad and LP ('dispatched in X days / installed via dealer in Y') only if ops can hold it. 'Kal aayega?' is the first objection after price.",
-    "<b>Lead Form vs WhatsApp:</b> Day-1 dest = Lead Form. Talk to us requires Email. Sales WhatsApp 9319299240 already exists ('Say Hi on Whatsapp') and a sitewide chip. 9pm '2675 vs 3600VA?' will not type an email. Ad CTA = Send WhatsApp Message 9319299240. Form = pincode + phone + SKU; email optional. Fix /contact-us/ 404.",
-    "<b>Dead domain + no rupee on the brand:</b> smarten.in did not load. Category pages have no MRP. Amazon does: Superb 2675 Rs.15,900, Superb+ 3600VA Rs.21,930, 5500VA Rs.53,999. Hero banners Helio/Helix/On-Grid/Hybrid href=#. Rs.20 L+/mo cannot land on a hash or a timeout. Ship SKU PDPs with price + ATC or Buy-on-Amazon + 3-year warranty.",
-    "<b>On-grid 3 kW has no CFA; PCU must not steal it:</b> Star Series 1-ph page talks 3 kW, 97.5%, WiFi - zero PM Surya Ghar. CFA (up to Rs.78,000) is rooftop PV via an MNRE installer, not a Superb PCU. Split campaigns: (a) PCU/Helio/Helix = bill cut + backup, Amazon ATC; (b) on-grid 3 kW = DCR/BIS + 'usable in a PM Surya Ghar system by an MNRE installer. Smarten does not approve subsidy.' Mixing them burns both.",
-    "<b>Proof is B2B while ads buy B2C:</b> Testimonials are distributors. Become-a-partner is a hero banner. 210+ distributors is a wholesale story. Consumer ads need terrace UGC, Amazon 3.9/429 on Superb 2675, and a Maps review engine (aggregator 4.5/1,148 - verify). 27 service points across 23 states is a 'call the dealer' objection vs Luminous.",
-    "<b>Copy / listed-company nicks:</b> ON Grod, solar-pcu-hybrid-inerter, SUPERB 5550KVA, 'It's is packed'. About: we assemble UPS/PCU and trade panels/batteries - do not advertise 'we manufacture panels' if you trade them. Investor nav (annual reports, material creditors) sits next to Helix - fine for SMARTEN ticker, confusing for a Meta click. Sexual Harrassment typo on Policies. Catalogue/PDF specs exist - they are not the landing."
+    [
+      "Active Meta ads",
+      "2 brand-owned: Sep 3 generic brand (EN), Jun 16 Punjab distributor (EN)"
+    ],
+    [
+      "Ad languages",
+      "English only"
+    ],
+    [
+      "Primary hook",
+      "Generic product catalog + distributor recruitment"
+    ],
+    [
+      "CTA",
+      "'Call now' on brand ad; no click-to-call or WhatsApp"
+    ],
+    [
+      "Consumer subsidy/EMI",
+      "None \u2014 brand is B2B2C, not a rooftop installer"
+    ],
+    [
+      "Landing page stats",
+      "BROKEN defaults: 2+ distributors, 1+ service points, 2 SKUs"
+    ],
+    [
+      "Become a Partner CTA",
+      "YES in carousel"
+    ],
+    [
+      "Dead domain",
+      "smarten.in is dead; smartenpowersystems.in is primary"
+    ]
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Smarten"],
-    ["Luminous / Microtek / Okaya", "Amazon brand stores, printed delivery, 3-field or ATC. Okaya has shop.okaya.in with MRP. Microtek has 15 Cr customers as trust. Service networks in the thousands.", "You are the price/MPPT PCU player (Superb 2675 ~Rs.15,900). Print SLA + Amazon CTA. 27 service points cannot win a service war - win on dispatch days and WhatsApp."],
-    ["Growatt / Solis", "Solar-native on-grid. Subsidy + monitoring on the first screen. Own 'best 3 kW 2026' lists.", "Star 1-ph 3 kW exists. Put BIS + MNRE-installer CFA module on that LP only. Do not put Rs.78,000 on Helio/Superb."],
-    ["Amazon itself", "Where your prices and 429 Superb 2675 reviews live. 10-30 day Industrybuying lead times are the review the buyer will read.", "Official brand store + Buy-on-Amazon on the ad. Reply to 3-star threads (tripping / delay). Own the PDP you already pay for."],
-    ["Your distributors", "They close 9pm WhatsApp and quote a delivery date. Your ads send email forms. Become-a-partner is competing with your own D2C click.", "Two funnels: D2C Amazon/WA for Superb/Helix; dealer ads for 10-20 kVA and on-grid. Stop one Lead Form for both."]
+    [
+      "Microtek",
+      "India's #1 home UPS brand, 15 crore customers, Bajaj Finance offers, E-Shop"
+    ],
+    [
+      "UTL Solar",
+      "WhatsApp CTA, \u20b912,110 TOPCon on shop, Anil Kapoor, 5,546 dealers"
+    ],
+    [
+      "Luminous",
+      "Listed on Moglix/Amazon, heavy retail distribution"
+    ]
+  ],
+  "findings": [
+    "Running 2 English-only ads; neither has WhatsApp CTA, price, EMI, or regional language.",
+    "Stat counters on site show clearly broken defaults (2 distributors, 2 SKUs) which erodes distributor trust.",
+    "smarten.in is a dead domain leaking branded search traffic.",
+    "New lithium battery launch has zero dedicated creative.",
+    "Distributor ad targets Punjab only \u2014 missing MH/GJ/HR/UP expansion markets."
+  ],
+  "scores": {
+    "Consumer D2C pitch fit": [
+      1,
+      "#EF4444"
+    ],
+    "B2B distributor funnel": [
+      6,
+      "#10B981"
+    ],
+    "WhatsApp CTA": [
+      0,
+      "#EF4444"
+    ],
+    "Regional creative": [
+      0,
+      "#EF4444"
+    ],
+    "Stat counter/social proof": [
+      0,
+      "#EF4444"
+    ],
+    "Dead domain / SEO": [
+      0,
+      "#EF4444"
+    ],
+    "Product breadth": [
+      7,
+      "#10B981"
+    ]
+  },
+  "impact": [
+    [
+      "Metric",
+      "Current (Sep 14, 2026)",
+      "After 30 days",
+      "Projected impact"
+    ],
+    [
+      "Active creatives",
+      "2 English generic",
+      "8-10 (distributor+consumer, HI/PB/PA/MH)",
+      "4-5x reach"
+    ],
+    [
+      "WhatsApp for distributors",
+      "None",
+      "wa.me dealer inquiry",
+      "+30-40% distributor leads"
+    ],
+    [
+      "Stat counters",
+      "Broken defaults",
+      "Live distributor/product counts",
+      "+15-25% trust"
+    ],
+    [
+      "Dead domain smarten.in",
+      "Dead",
+      "Redirect to smartenpowersystems.in",
+      "Recover branded search"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Dispatch SLA + WhatsApp + Amazon on Superb/Helix", "Print a real dispatch SLA on every PCU ad (only if ops signs it). CTA = WhatsApp 9319299240 + Buy on Amazon (Superb 2675 / 3600VA). Kill email-required Talk to us as the ad dest; 3 fields (pincode, phone, VA). Point Helio/Helix/On-Grid banners at SKU URLs, not #. 301 smarten.in -> smartenpowersystems.in. Fix /contact-us/ 404. Expected: stop 'kal aayega?' bounce; 25-40% more chats/ATC at the same Rs.20 L+ spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Priced PDPs + split PCU vs on-grid + honest CFA", "Category pages get MRP aligned to Amazon. Bundle Helio (Li-ion inbuilt) as the urban SKU. On-grid 3 kW LP: BIS + WiFi + 'usable in a PM Surya Ghar system by an MNRE installer. We do not approve subsidy.' PCU ads: never Rs.78,000. Fix ON Grod / 5550KVA / inerter. Separate Meta: Home UPS (Bravo/Nova) vs Solar PCU vs On-grid vs Dealer. Expected: ROAS you can read; fewer mixed-intent leads.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: End-user UGC + 60-day DPA + Maps", "10 Reels: Superb install, Helio Li-ion, Kranti 'inverter to solar', dealer unboxing. Move distributor quotes to /become-a-partner/. Reply on Amazon 3-stars. Audiences: (i) LP no WA, (ii) Amazon click no buy, (iii) Talk-to-us no order - 60 days, DPA of live SKUs. Verify and grow the 4.5 Maps listing. Expected: cheaper PCU CPL; listed-company story in B2B dealer ads, not the consumer hero.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48h: Fix counters + redirect smarten.in + add WhatsApp",
+      "Low-effort trust fixes.",
+      "#B45309",
+      "#FEF3C7"
+    ],
+    [
+      "WIN 2 - 7 days: Regional distributor-recruitment creatives",
+      "Launch PB/HR/MH/GJ/UP distributor ads in local languages.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 3 - 14 days: Lithium battery launch campaign + installer demo Reels",
+      "Push new lithium SKU with demo/installer content.",
+      "#7C3AED",
+      "#EDE9FE"
+    ]
   ],
-  "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Delivery SLA on ad/LP", "None (10-30d on IB)", "Printed dispatch days", "Kill Day-1 objection"],
-    ["Ad destination", "Email Lead Form", "WhatsApp + Amazon", "Speed-to-lead"],
-    ["Brand site prices", "No MRP / href=#", "SKU PDP + ATC", "Own the click"],
-    ["PCU vs on-grid mix", "One form", "Split campaigns", "CFA only on on-grid"],
-    ["Cost per solar lead", "Rs.150-350", "Rs.90-180", "~40% cheaper"]
-  ],
-  "outreach": [
-    ["Subject A (Roast-Audit): your ads still will not say when the PCU ships - and smarten.in is dead", "Hi Rajnish / Arun / Smarten growth,\n\nI spent 45 minutes on Smarten this morning (14 Sep 2026). NSE SME SMARTEN, Rs.203 Cr FY25, Helio/Helix/Superb, WhatsApp 9319299240, Amazon already selling Superb 2675 at ~Rs.15,900. The funnel is not at that standard.\n\nLeaks, all live:\n1. Day-1 leak, confirmed: no dispatch/install days on smartenpowersystems.in. Industrybuying lists the same 2500VA as 10 days and 30 days. Policies are SEBI PDFs, not a shipping policy.\n2. Day-1 dest is Lead Form. Talk to us requires email. WhatsApp 9319299240 is a chip. /contact-us/ is 404. smarten.in did not load.\n3. Category pages have no MRP. Hero Helio/Helix/On-Grid banners go to #. Amazon has the prices and 429 reviews.\n4. On-grid 3 kW has no PM Surya Ghar module. Do not put Rs.78,000 on a Superb PCU.\n5. Homepage testimonials are distributors. Consumer ads need terrace UGC.\n\n3-page-plus confidential audit, 3 fixes (SLA + WhatsApp + Amazon, priced PDPs + split PCU/on-grid, UGC/DPA). Shall I WhatsApp it to 9319299240? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Smarten team - 4 minutes on smartenpowersystems.in. First 20 seconds: smarten.in dead, Helio banner goes to hash, no delivery days. Next minute: Talk to us wants email, 9319299240 is a chip, Amazon already has Superb 2675 at Rs.15,900. Last 90 seconds: on-grid 3 kW has no Rs.78,000, testimonials are distributors. Want the link on WhatsApp 9319299240? No call.\""],
-    ["Subject C (FOMO): Okaya and Luminous print delivery; your Meta still says Enquire", "Hi,\n\nAuditing D2C solar-PCU funnels this week. Smarten is the MPPT price player (Superb 2675 ~Rs.15,900, 3-year). Okaya has shop.okaya.in with MRP. Luminous prints service. Amazon already owns your reviews (3.9/429).\n\nYour ads send an email form. Industrybuying is already telling buyers 10-30 days. That is the leak, not the product. Listed Rs.203 Cr FY25 does not show up in the consumer funnel.\n\n3 fixes in 7 days: dispatch SLA on the ad, WhatsApp + Buy-on-Amazon, priced PDPs. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+  "cta_body": "Live audit Sep 14: You're running 2 generic English ads, your homepage counters show 2 distributors (broken), smarten.in is dead, and your new lithium battery has zero creative. Fixes in 48h, distributor campaign in 7 days. 30-min call?",
+  "cta_button": "Book a 30-min audit call",
+  "cta_url": "https://calendly.com/"
 }

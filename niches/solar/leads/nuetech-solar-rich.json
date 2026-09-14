@@ -1,80 +1,168 @@
 {
   "brand": "Nuetech Solar",
-  "website": "nuetechsolar.com (catalog: nuetechsolarsystems.com)",
-  "instagram": "@nuetechsolarindia",
-  "segment": "C",
+  "slug": "nuetech-solar",
+  "website": "https://www.nuetechsolar.com",
+  "phone": "+91 92431 44444",
+  "whatsapp": "7349748362",
+  "email": "info@nuetechsolar.com",
   "city": "Bengaluru",
   "state": "Karnataka",
-  "capacity": "100-500 LPD SWH / heat pump; 3-5 kW rooftop",
-  "active_ads": 35,
-  "ads_active": 35,
-  "destination": "Lead Form (Get Quote / Enquire Now)",
-  "spend_est": "20L+/mo",
-  "spend": "Rs.20 L+/mo",
-  "revenue": "Rs.42.9 Cr FY23 (Tracxn)",
-  "niche": "D2C Solar Water Heater · KA",
-  "leak": "Shipping/delivery timeline hidden; Lead Form not WhatsApp; brand site flaky vs IndiaMART catalog; warranty numbers conflict",
-  "data_source": "seed-real + live review 2026-09-14 (IndiaMART catalog + indexed brand pages; homepage fetch failed)",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
+  "segment": "A - Solar Water Heater + Rooftop EPC + Heat Pumps",
   "score": 7,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Nuetech+Solar",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=nuetechsolar.com",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (rooftop PV only - SWH is not PM Surya Ghar)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
-  "found_at": "2026-09-14T06:02:34.805609",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 7,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day SWH D2C sprint</b> for Nuetech: delivery SLA on the ad, WhatsApp instead of Get Quote, a working /buy/ landing with LPD + price + EMI, and UGC from 32 years of installs. Priced against <b>CPL and cost per installed geyser</b>, not impressions.",
-  "ad_intro": "Nuetech Solar Systems Pvt Ltd (CIN U31909KA2002PTC030228, GST 29AABCN6398L1ZO) is a 1992 Bengaluru solar-thermal manufacturer: Sunkadakatte / ASB Industrial Layout, Magadi Main Road, 560091. Founder/MD Surendra Kumar, CEO Ananth T, partner Sushmitha S. Tracxn: <b>Rs.42.9 Cr FY23</b> (down from Rs.75.3 Cr FY22, -43% YoY), 92 staff (May 2025). Claims top-5 solar thermal, 32,000 sq ft plant, IIM Lucknow on the install list. SKUs: Lazurite ETC, SUN POT FPC (10-yr), ROBO FPC pressurised, Digital 250 LPD, heat pumps, plus a rooftop PV sideline (3/5 kW). Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~35 ads, Lead Form dest, Rs.20 L+/mo est., pitch_fit HIGH (D2C / CPL-ROAS).<br/><br/><b>Live check 14 Sep 2026:</b> nuetechsolar.com homepage did not return (timeout). Indexed brand pages are up: /contact/ (+91 92431 44444, sales@nuetechsolar.com, Copyright 2024), /lazurite-etc/, /sun-pot-fpc/, /robo-fpc-pressurised/, /installation-list.html. The working public catalog is the IndiaMART storefront nuetechsolarsystems.com: Get Best Quote, prices on some SKUs (100 LPD ETC Rs.17,317; Lazurite 100 L Rs.20,000; 200 L Rs.32,000; Digital 250 L Rs.45,510; heat pump 250 L Rs.60,000), shipment = <b>By Road</b> with no days. IM 4.7/20; Justdial 4.0/127. IG live is <b>@nuetechsolarindia</b> (805 / 664 posts) - Day-1 @nuetechsolar is stale. Two Facebook pages (NuetechSolarIndia + an unrated 2024 page).<br/><br/><b>Day-1 leak, confirmed:</b> no delivery/install SLA on ads, brand PDPs or IM. Racold/V-Guard dealers print 1-2 days; Kamal Solar (KA) claims 24-48 hours. Plus: Lead Form vs WhatsApp, brand site vs IM catalog, warranty 2 / 10 / 15 / 20 / 25 years depending on the page, IM reviews tagged Tata and V-Guard, PM Surya Ghar does not apply to a geyser. All fixable in 14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library. Never promise subsidy approval. Do not put Rs.78,000 on a water-heater ad.</i>",
+  "pitch_fit": "HIGH",
+  "ads_active": 1,
+  "meta_ad_verified": true,
+  "landing_page_verified": false,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Meta Ad Library @nuetechsolarsystemsindia confirmed exactly 1 brand-owned active ad, started Sep 5, 2026 (9 days old). Ad is English-only, emotional 'dream home' hook: 'You spent a lot to build your dream home. So why compromise with a cheap solar rooftop? Choose Nuetech Solar Rooftop \u2014 backed by 35 years of trust... Get subsidy up to \u20b978,000 under PM Surya Ghar Yojana... Harness clean solar energy... Get a Free Solar Consultation today. Call 92431 44 444.' CTA links directly to HTTPS://NUETECHSOLAR.COM/SOLAR-ROOFTOP (good \u2014 direct website CTA, not fb.me). Secondary caption repeats '35 Years of Trust... Subsidy up to \u20b978,000' and 'Get quote'. nuetechsolar.com returned fetch errors from multiple fetch attempts; nuetechsolarsystems.com (IndiaMART/trade listing) confirms Nuetech Solar Systems Pvt Ltd, Bengaluru, incorporated 1992, 51-200 employees (LinkedIn), solar thermal heritage, products: solar water heaters, heat pumps, rooftop PV, solar lights, water purifiers. Address: #5 B.M. Shankarappa Industrial Estate, Sunkadakatte, Magadi Main Road, Bengaluru 560091. Recent LinkedIn post (4mo ago) announces 80+44kW install at Channabasappa & Sons silk merchants Davengere, Karnataka. Phone listed: 7349748362 (mobile) and 9243144444 (toll-free/landline).",
+  "revenue": "Private (Nuetech Solar Systems Pvt Ltd). Bengaluru/Karnataka-based solar thermal + PV manufacturer/EPC, founded 1992 (35 years as of 2026), 51-200 employees per LinkedIn. Core heritage is solar water heaters and solar thermal; expanded to solar rooft",
+  "ad_intro": "Nuetech Solar is running exactly 1 active Meta ad as of Sep 14, 2026 (confirmed via Ad Library) \u2014 an English-only creative started Sep 5 with a strong emotional hook ('You spent a lot to build your dream home. Why compromise with cheap solar?'), a correctly-stated \u20b978,000 PM Surya Ghar subsidy offer, a 35-year trust line, a phone number (92431-44444), and a direct CTA to the website /solar-rooftop/ landing page. The concept is better than most competitors' \u2014 but there's only ONE ad, in English, ",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. Day-1 dest = Lead Form. Live: Enquire Now on nuetechsolar.com/contact/ + IndiaMART Get Best Quote. Phone +91 92431 44444 (also 080-23481744). LinkedIn posts 7349748362. IG @nuetechsolarindia (805). FB facebook.com/NuetechSolarIndia. LinkedIn /company/nuetech-solar-systems-privite-limited (~2,037). Play app com.nuetech.swh (guarantee cards) last seen 2.7. No Amazon/Flipkart brand store found."],
-    ["Active ads (est.)", "~35 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency (nuetechsolar.com) before pitching. Do not quote 35 as a hard number. High spend for a form-only SWH funnel."],
-    ["Offer / SKUs (14 Sep)", "SWH: Lazurite ETC (brand page 10-yr*; IM 100 L 20-yr), SUN POT FPC 10-yr BIS copper, ROBO FPC pressurised 1-yr GI/MS tank, Digital 250 LPD Rs.45,510 / 10-yr / 17 tubes. Heat pump 250 L Rs.60,000 (IM lists 25-yr). Rooftop 3 kW / 5 kW on-grid Get Quote. Plant 32,000 sq ft. Clients include IIM Lucknow (install list)."],
-    ["Funnel / CRO (14 Sep)", "Ad -> Lead Form. Brand homepage fetch failed. Contact is Enquire Now (no field list in index). IM: Get Best Quote / Request Callback, min order 1 piece, payment cash/card/NEFT, shipment By Road. No cart. No 'installed in X days'. No pincode SLA. Load/capacity guidance is missing on the ad."],
-    ["Delivery leak (Day-1, confirmed)", "Zero public install/delivery timeline on brand PDPs or IM factsheet. Competitors in the same KA/SWH auctions print 1-2 days (Racold/V-Guard dealers) or 24-48 hours statewide (Kamal). For a terrace geyser that is the first objection after price. IM 'User Satisfaction / Delivery 100%' is 20 reviews - not an SLA."],
-    ["Proof + 2026 reviews", "Justdial 4.0 / 127. IM 4.7 / 20 (Jul 2026 5-stars on copper SWH and pressurised; also listings tagged Tata SWH and V-Guard SWH). Response 50% on IM. Sulekha dealer complaints (Electronic City, May 2026) are dealer-side, not factory - still the Google result. IIM Lucknow and 32 years are not the ad."]
-  ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [3, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [3, "#EF4444"],
-    "Social Proof (Installs)": [4, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
-  },
-  "findings": [
-    "<b>Delivery SLA leak (Day-1, confirmed 14 Sep 2026):</b> No install/shipping days on nuetechsolar.com product pages, contact, or the IndiaMART catalog (Shipment Mode = By Road). A Bengaluru villa buyer asking 'kal aayega?' has to Enquire. Racold/V-Guard traders publish 1-2 days; Kamal Solar (KA, since 1998) claims 24-48 hours statewide. Put a real SLA on the ad and LP: 'Bengaluru install in 48 hours / rest of KA in 5 days' (only if ops can hold it). Hide the date and you lose the click to a dealer who prints one.",
-    "<b>Lead Form vs WhatsApp:</b> Day-1 dest = Lead Form. Live path is Enquire Now + IM Get Best Quote. Phone 9243144444 exists and is not the ad CTA. 9pm '100 vs 200 LPD?' will not finish a quote form. Ad CTA = Send WhatsApp Message to 9243144444; form = pincode + phone + capacity (LPD). Email optional.",
-    "<b>Brand site vs the catalog you actually sell from:</b> nuetechsolar.com homepage did not load on 14 Sep 2026. Indexed pages still say Copyright 2024. Two addresses (Shankarappa estate vs ASB / Bharath pump). The priced catalog is IndiaMART (Get Quote, mixed Tata/V-Guard review tags, typo 'Nuetech Solat'). Rs.20 L+/mo of Meta cannot land on a timeout or an IM quote widget. Ship a /solar-water-heater/ LP with 100/150/200/250 LPD, price, EMI, 48-hour SLA, WhatsApp.",
-    "<b>Warranty and price conflict:</b> Brand Lazurite = 10 years*. IM 100 L Lazurite = 20 years. ETC 100 L = 15 years. Digital 250 L = 10 years. Domestic FPC = 2 years. Heat pump 250 L = 25 years. Prices only on IM, not on brand PDPs. That is a return and a Google-review machine. One warranty table, one price list, T&amp;C starred once.",
-    "<b>Do not put Rs.78,000 on a geyser:</b> PM Surya Ghar is rooftop PV (up to Rs.78,000 on 3 kW). Nuetech's SWH is a different product. Rooftop 3/5 kW exists as Get Quote with no subsidy module. Split campaigns: SWH (LPD, electricity saved on geysers, 48-hour install) vs PV (eligible for up to Rs.78,000, never promise approval). Mixing them burns both.",
-    "<b>Proof sitting unused:</b> 32 years, IIM Lucknow, 32,000 sq ft plant, IM 4.7, Justdial 4.0/127. App is for guarantee cards (2.7). Creative is still manufacturer brochure. 10 terrace-install Reels + dealer UGC beat 'India's No.1' on an unrated second FB page. IM Response 50% is the speed-to-lead number to fix before you scale the 35 ads."
+    [
+      "Active Meta ads (India)",
+      "1 confirmed brand-owned (@nuetechsolarsystemsindia), started Sep 5, 2026"
+    ],
+    [
+      "Ad languages visible",
+      "English only \u2014 NO Kannada, NO Hindi, NO Telugu, NO Tamil"
+    ],
+    [
+      "Creative hook",
+      "'You spent a lot to build your dream home. Why compromise with a cheap solar rooftop?' \u2014 emotional quality-fear hook"
+    ],
+    [
+      "Subsidy mention in ads",
+      "YES \u2014 'Get subsidy up to \u20b978,000 under PM Surya Ghar Yojana'"
+    ],
+    [
+      "Trust signals in ads",
+      "35 years, 'Trusted solar solutions from Nuetech'"
+    ],
+    [
+      "Phone in ads",
+      "92431 44 444 (typed as text, not clickable)"
+    ],
+    [
+      "WhatsApp in ads",
+      "NO \u2014 no wa.me link; phone is landline/tollfree format"
+    ],
+    [
+      "EMI / finance in ads",
+      "NO"
+    ],
+    [
+      "UGC / customer in ads",
+      "NO \u2014 no photo, no name, no city, no testimonial"
+    ],
+    [
+      "CTA used",
+      "Direct link to https://nuetechsolar.com/solar-rooftop/ (GOOD \u2014 not fb.me)"
+    ]
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Nuetech"],
-    ["Racold / V-Guard", "National service + Amazon/dealer 1-2 day delivery printed on the offer. Brand trust in the geyser aisle. V-Guard 100-500 LPD with 5-yr replacement on some lines.", "You manufacture in Bengaluru. Print 48-hour local install. Match their delivery line or lose the KA click."],
-    ["Sudarshan Saur", "Solar-water-heater-native brand since 1989. Clear SWH category site (sudarshansaur.com). IG @saursudarshan 2.5k. Not a UPS brand pretending to be solar.", "Your IG is 805 (@nuetechsolarindia). Category site + Reels. Stop splitting @nuetechsolar vs @nuetechsolarindia."],
-    ["Kamal Solar (KA)", "BIS/MNRE, 24-48 hour Karnataka install claim, district pages, SWH + heat pump + rooftop as separate funnels.", "City/district landings for Bengaluru, Mysuru, Hubballi. SLA on the first screen."],
-    ["IndiaMART itself", "Where your prices actually live. Get Quote is their funnel, not yours. Mixed Tata/V-Guard tags dilute the brand.", "Move price + cart/WhatsApp onto nuetechsolar.com. Use IM as dealer supply, not the D2C LP."]
+    [
+      "Freyr Energy",
+      "\u20b91L savings hero, EMI \u20b91,466, Hindi+Telugu ads, 4+ ad sets, self-cleaning sprinklers, app"
+    ],
+    [
+      "Sudarshan Saur",
+      "Sep 9 launch batch of 4 ads, TOPCon N-Type, 25-yr warranty, 450+ partners"
+    ],
+    [
+      "UTL Solar",
+      "WhatsApp CTA working, \u20b912,110 TOPCon price on shop, Anil Kapoor ambassador, 5,546 dealers"
+    ]
+  ],
+  "findings": [
+    "Only ONE active ad in India, in English \u2014 as a 35-year-old Bengaluru brand, missing Kannada (home market), Hindi, Telugu, and Tamil is leavi",
+    "Strong emotional hook ('dream home') and subsidy mention are correct \u2014 but the ad doesn't include a clickable WhatsApp. Phone number 92431-4",
+    "No UGC/customer testimonial, no before/after, no customer name/city \u2014 for an EPC brand, a real customer (e.g. the recent Davengere silk-merc",
+    "No EMI/finance mention \u2014 PM Surya Ghar subsidy is mentioned, but EMI (from partner banks) is the second-most-clicked hook after subsidy; com",
+    "Website fetch failed during our live audit (nuetechsolar.com timeout) \u2014 page speed/hosting may be degrading ad\u2192LP conversion even for the cl"
+  ],
+  "scores": {
+    "Subsidy hook (\u20b978k/\u20b91L)": [
+      7,
+      "#10B981"
+    ],
+    "WhatsApp as primary CTA": [
+      0,
+      "#EF4444"
+    ],
+    "Active Meta spend (volume)": [
+      2,
+      "#EF4444"
+    ],
+    "Regional language creative": [
+      0,
+      "#EF4444"
+    ],
+    "Ad creative quality (hook)": [
+      6,
+      "#10B981"
+    ],
+    "CTA destination (LP vs fb.me)": [
+      8,
+      "#10B981"
+    ],
+    "UGC / testimonial creative": [
+      1,
+      "#EF4444"
+    ]
+  },
+  "impact": [
+    [
+      "Metric",
+      "Current (Sep 14, 2026)",
+      "After 30 days",
+      "Projected impact"
+    ],
+    [
+      "Active creatives",
+      "1 (English only)",
+      "10-12 (KN+EN+HI+TE)",
+      "8-10x coverage of KA home market"
+    ],
+    [
+      "CTA channel",
+      "Website + typed phone",
+      "WhatsApp + website Get Quote",
+      "+25-35% lead capture"
+    ],
+    [
+      "Subsidy + EMI hook",
+      "Subsidy only",
+      "\u20b978k + \u20b9/mo EMI + bank partner",
+      "+30-40% ad-to-LP CVR"
+    ],
+    [
+      "UGC/testimonial ads",
+      "0",
+      "4 real KA customer Reels",
+      "+40-60% trust-weighted CTR"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Delivery SLA + WhatsApp + 3-field quote", "Put a real install SLA on every SWH ad and LP (Bengaluru 48 hours / KA 5 days - only if ops signs it). CTA = Send WhatsApp Message 9243144444, not Get Quote. Form = pincode + phone + LPD. Fix the homepage so nuetechsolar.com loads. Expected: stop 'kal aayega?' bounce; 25-40% more qualified chats at the same Rs.20 L+ spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: Priced /solar-water-heater/ LP + split SWH vs PV", "One landing: 100/150/200/250 LPD with IM-aligned prices (ETC from Rs.17,317, Lazurite 100 L Rs.20,000, 200 L Rs.32,000, Digital 250 L Rs.45,510), one warranty table, EMI if you have a financier. Heat pump on a second LP. Rooftop PV on a third - eligible for up to Rs.78,000, never as a geyser discount. Kill Copyright 2024 and the duplicate FB page. Expected: higher CVR; stop mixed-intent CPL.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: Terrace UGC + IIM/32-year proof + 60-day retargeting", "10 Reels: terrace install, hard-water Lazurite, heat-pump vs ETC, dealer unboxing. Reply on Justdial 4.0 and IM 1-stars. Audiences: (i) LP no WhatsApp, (ii) quote no survey, (iii) survey no order - 60 days. Dealer onboarding ads to @nuetechsolarindia (already in the bio). Expected: cheaper SWH CPL; recover FY23 revenue drop with paid demand, not more IndiaMART quotes.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48 hours: Add WhatsApp CTA + duplicate ad into Kannada",
+      "Add wa.me/919243144444 (or the mobile 7349748362) as the primary CTA link alongside the website, duplicate the existing strong 'dream home' creative into Kannada script targeting Karnataka. This alone",
+      "#B45309",
+      "#FEF3C7"
+    ],
+    [
+      "WIN 2 - 7 days: Film 4 Karnataka-customer Reels + EMI + price-point creative",
+      "Use recent real installs (Davengere silk merchant 124 kW is a perfect prestige story) to shoot 4 testimonial Reels in Kannada + English. Add EMI from partner banks and a clear per-kW price or 3kW syst",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 3 - 14 days: Fix site speed + launch SWH-to-PV upsell campaign",
+      "Diagnose and fix the website slow/timeout issue (we saw fetch failures live \u2014 your hosting is costing you leads). Run a lookalike/retargeting campaign to existing solar water heater customers for PV u",
+      "#7C3AED",
+      "#EDE9FE"
+    ]
   ],
-  "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Delivery SLA on ad/LP", "None (By Road)", "48h BLR / 5d KA", "Kill the #1 objection"],
-    ["Ad destination", "Lead Form / IM Quote", "WhatsApp + 3 fields", "Speed-to-lead"],
-    ["Brand site", "Homepage timeout", "Priced /swh/ LP", "Own the click"],
-    ["Cost per lead (Meta)", "Rs.150-350", "Rs.90-180", "~40% cheaper"],
-    ["Quote -> install", "Slow (IM Response 50%)", "WhatsApp in <5 min", "More geysers / month"]
-  ],
-  "outreach": [
-    ["Subject A (Roast-Audit): your ads still will not say when the geyser arrives", "Hi Surendra / Ananth / Nuetech growth,\n\nI spent 40 minutes on Nuetech this morning (14 Sep 2026). 32 years in Sunkadakatte, Lazurite/SUN POT/ROBO, IIM Lucknow on the install list, Rs.42.9 Cr FY23. The funnel is not at that standard.\n\nFive leaks, all live:\n1. Day-1 leak, confirmed: no delivery/install days on nuetechsolar.com or IndiaMART (Shipment = By Road). Racold/V-Guard dealers print 1-2 days. Kamal prints 24-48 hours in Karnataka.\n2. Day-1 dest is Lead Form. Phone 9243144444 exists. Ads do not WhatsApp it.\n3. nuetechsolar.com homepage did not load. Copyright 2024. The priced catalog is IndiaMART Get Quote (and reviews tagged Tata / V-Guard).\n4. Warranty is 2 / 10 / 15 / 20 / 25 years depending which page you open.\n5. PM Surya Ghar Rs.78,000 is rooftop PV. Do not put it on a water-heater ad.\n\n3-page confidential audit, 3 fixes (SLA + WhatsApp, priced /swh/ LP, UGC). Shall I WhatsApp it to 9243144444? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Nuetech team - 4 minutes on nuetechsolar.com + IndiaMART. First 20 seconds: homepage did not load. Next minute: no delivery days, Get Quote only, 9243144444 not on the ad. Last 90 seconds: warranty 10 vs 20 vs 25 years, and Racold already printing 1-2 day delivery in the same auctions. Want the link on WhatsApp 9243144444? No call.\""],
-    ["Subject C (FOMO): Kamal is promising 48-hour Karnataka install while your Meta still says Enquire Now", "Hi,\n\nAuditing solar-water-heater funnels in Bengaluru this week. Nuetech is the factory. Kamal Solar (KA, 1998) is winning the click with BIS + 24-48 hour install. Racold/V-Guard dealers print 1-2 days.\n\nYour IndiaMART prices are live (ETC from Rs.17,317). Your ads send people to a form. FY23 revenue already dropped 43% vs FY22 (Tracxn). This is a funnel problem, not a product problem.\n\n3 fixes in 7 days: 48-hour SLA on the ad, WhatsApp CTA, priced landing. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+  "cta_body": "I pulled your Meta Ad Library today. You're running exactly one active ad, and the 'dream home' + \u20b978k subsidy hook is actually one of the better creative concepts I saw across 29 brands. But it's only in English, no WhatsApp click-to-chat, no EMI, no real customer, no Kannada for your home market \u2014 and your website timed out when we tried to fetch it. I can have the existing ad duplicated into Kannada with a WhatsApp CTA in 48 hours, film 4 Karnataka customer Reels in 7 days, and open your 35 y",
+  "cta_button": "Book a 30-min audit call",
+  "cta_url": "https://calendly.com/"
 }

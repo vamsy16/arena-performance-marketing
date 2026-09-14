@@ -12,7 +12,7 @@
   "spend_est": "20L+/mo",
   "spend": "Rs.20 L+/mo",
   "revenue": "Rs.657 Cr FY26 consol.",
-  "niche": "Solar Modules + Rooftop · TN",
+  "niche": "Solar Modules + Rooftop \u00b7 TN",
   "leak": "Zero UGC/unboxing - studio/factory shots; corporate hero not Rs.78,000; NUMERGY kit has no price/WhatsApp; swelect.com 500; homepage counters broken",
   "data_source": "seed-real + live site review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
@@ -26,55 +26,151 @@
   "audit_date": "2026-09-14",
   "lead_number": 10,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for SWELECT: why the website is in the audit (ad spend dies on the landing), NUMERGY + CFA on the first screen, WhatsApp instead of 1800, UGC instead of factory stills. Priced against <b>CPL and cost per kit / site survey</b>, not impressions.",
-  "ad_intro": "<b>Why a performance-marketing audit includes the website:</b> Meta does not make you money. The click does. CPL is paid on the ad; conversion happens on the landing, the form, WhatsApp speed-to-lead, and proof. If the ad is 'solar for home' and the page is 'Powering the World Responsibly' with broken counters and no UGC, you rented the click and lost the kit. That is the whole job of this audit - ads, site, form, creative, tracking as one funnel. Teaching cut: fix the page or the Rs.20 L+/mo is a brand video, not performance.<br/><br/>SWELECT Energy Systems Ltd (NSE/BSE <b>SWELECTES</b>, formerly Numeric Power, 1984). SWELECT House, 5 Sir P.S. Sivasamy Salai, Mylapore, Chennai 600004. CEO-MD Dr. Arulkumar Shanmugasundaram. FY26 consol. <b>Rs.657 Cr revenue (+5.7%), PAT Rs.57.6 Cr, EBITDA ~Rs.187 Cr</b> (PV-Magazine India / ScanX, May-Jul 2026). 1 GW+ SHPV Coimbatore (ALMM, BIS, IEC/UL; Nexora TOPCon to 23.32%, Celestia, TeSirius Mono PERC). Salem MMS 750 MW+. Claims 10,700+ installs, 1 GW+ project experience, 41+ years. IPP goal 1 GW. Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~25 ads, Website dest, Rs.20 L+/mo est., pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> swelect.com returns HTTP 500. Brand is swelectes.com. Hero = 'Powering the World Responsibly'. Stat widgets render <b>16 / 2 / 9 / 1</b> (years / Experience / PV GW / MMS) - JS not firing. Nav typo knwoledge-hub. Products are factory stills (Nexora/Celestia/TeSirius). NUMERGY HOME SPGS kits (1-10 kW, PM Surya Ghar + non-subsidy) exist on /products/spgs-kit.php with <b>no MRP, no WhatsApp, no unboxing</b>. Full CFA table lives on /solutions/residential.php (Rs.30k/kW, Rs.18k, cap Rs.78,000) - not the homepage, not the ad. CTA = enquiry form (Dealership/Queries/Complaints + Lead Source incl. Intersolar Feb 2025) or tel 9176001012 / 1800 425 9600. Residential channel: Deepa, 9543644255, channels@swelectes.com. IG live <b>@swelect_energy_systems</b> (746 / 480, 'Now launching NUMERGY') - Day-1 @swelectenergy is stale. No sitewide WhatsApp.<br/><br/><b>Day-1 leak, confirmed:</b> zero customer UGC / unboxing / roof Reels - studio + factory journey blog. Plus: corporate hero vs buried CFA, dead swelect.com, 0-ish counters, SPGS with no price, Website not WhatsApp. All fixable in 14 days. <i>Ad counts are Day-1 estimates. Never promise subsidy approval.</i>",
+  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for SWELECT: why the website is in the audit (ad spend dies on the landing), NUMERGY + CFA on the first screen, WhatsApp instead of 1800, UGC instead of factory stills. Priced against <b>CPL and cost per kit / site survey</b>, not impressions.\n\nNote: This audit is based on pre-existing lead data and has not yet been fully re-verified on the live Meta Ad Library as of Sep 14, 2026. We recommend confirming live ad counts and landing page copy bef",
+  "ad_intro": "<b>Why a performance-marketing audit includes the website:</b> Meta does not make you money. The click does. CPL is paid on the ad; conversion happens on the landing, the form, WhatsApp speed-to-lead, and proof. If the ad is 'solar for home' and the page is 'Powering the World Responsibly' with broken counters and no UGC, you rented the click and lost the kit. That is the whole job of this audit - ads, site, form, creative, tracking as one funnel. Teaching cut: fix the page or the Rs.20 L+/mo is",
   "ad_intelligence": [
-    ["Why website = performance", "Ad Library is 30% of the leak. The other 70% is: (1) does the landing match the hook, (2) can they WhatsApp in <5 min, (3) is there proof a neighbour installed, (4) does the form ask too much, (5) is tracking on kit/enquire not just PageView. SWELECT fails 1-4 on the live site. That is why we audit swelectes.com, not only the 25 creatives."],
-    ["Active platforms", "Meta primary. Day-1 dest = Website. Live: swelectes.com (corporate PHP). No shop/cart. Toll-free 1800 425 9600, sales 9176001012, enquiries@swelectes.com, info@swelectes.com, marcom@swelectes.com. IG @swelect_energy_systems (746). LinkedIn/FB/X/YouTube linked from footer. Knowledge hub = factory blogs (Jun 19 'Journey of a Solar Panel')."],
-    ["Active ads (est.)", "~25 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency (swelectes.com; swelect.com is 500). Do not quote 25 as a hard number. Split module/EPC/C&I vs NUMERGY residential before quoting ROAS."],
-    ["Offer / SKUs (14 Sep)", "Nexora G12R TOPCon 132X 16BB, up to 23.32%. Celestia M10R 144/156X, 22.45-22.54%. TeSirius M10 PERC 21.29%. ALMM + BIS. NUMERGY HOME SPGS 1-10 kW kits (modules + inverter + MMS + BOS + monitoring) for PM Surya Ghar and non-subsidy. Solar pumps, BESS, wind-solar hybrid, servo/transformers. No public kit MRP."],
-    ["Funnel / CRO (14 Sep)", "Ad -> Website. Hero corporate. Rooftop block 'Read more' goes to EPC contracts (C&I language), not residential.php. SPGS on homepage has no Learn More. Enquiry: Purpose + Lead Source (stale Intersolar Feb 2025). reCAPTCHA. Contact offices: Chennai, CBE, Trichy, Madurai, BLR, HYD, Tirupati, Mumbai, Delhi, Noida, US, SG. Deepa 9543644255 is the residential closer - not the ad CTA."],
-    ["Subsidy vs UGC", "residential.php has a correct CFA table and a 'without subsidy' path + solar home loan. SPGS page names the scheme with no rupee. Homepage names neither. Day-1 leak is creative: factory/studio, not terrace UGC. 10,700+ installs and Coimbatore line are unused as Reels. Justdial CBE 3.5/12. NUMERGY IG bio is the only consumer hook."]
+    [
+      "Why website = performance",
+      "Ad Library is 30% of the leak. The other 70% is: (1) does the landing match the hook, (2) can they WhatsApp in &lt;5 min, ("
+    ],
+    [
+      "Active platforms",
+      "Meta primary. Day-1 dest = Website. Live: swelectes.com (corporate PHP). No shop/cart. Toll-free 1800 425 9600, sales 91"
+    ],
+    [
+      "Active ads (est.)",
+      "~25 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency"
+    ],
+    [
+      "Offer / SKUs (14 Sep)",
+      "Nexora G12R TOPCon 132X 16BB, up to 23.32%. Celestia M10R 144/156X, 22.45-22.54%. TeSirius M10 PERC 21.29%. ALMM + BIS. "
+    ],
+    [
+      "Funnel / CRO (14 Sep)",
+      "Ad -> Website. Hero corporate. Rooftop block 'Read more' goes to EPC contracts (C&I language), not residential.php. SPGS"
+    ],
+    [
+      "Subsidy vs UGC",
+      "residential.php has a correct CFA table and a 'without subsidy' path + solar home loan. SPGS page names the scheme with "
+    ]
   ],
   "scores": {
-    "Subsidy & Scheme Clarity": [5, "#F59E0B"],
-    "WhatsApp / Speed-to-Lead": [2, "#EF4444"],
-    "Social Proof (Installs)": [3, "#EF4444"],
-    "Creative Variety (Video/Reels)": [2, "#EF4444"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
+    "Subsidy & Scheme Clarity": [
+      5,
+      "#F59E0B"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      2,
+      "#EF4444"
+    ],
+    "Social Proof (Installs)": [
+      3,
+      "#EF4444"
+    ],
+    "Creative Variety (Video/Reels)": [
+      2,
+      "#EF4444"
+    ],
+    "Landing Page & Form CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking & Retargeting": [
+      4,
+      "#F59E0B"
+    ]
   },
   "findings": [
-    "<b>Why we audit the website (performance, not branding):</b> You pay Meta for a click. If that URL is a 41-year corporate story with counters at 16/2/9/1, the rupee left the building. Performance marketing = hook in the ad, same hook above the fold, one CTA, proof, speed-to-lead, event firing on enquire/WhatsApp. SWELECT's listed-company site is built for investors and EPC RFPs. NUMERGY is a D2C kit. Those are two landings. Mixing them is why Website-destination ads look expensive.",
-    "<b>UGC leak (Day-1, confirmed 14 Sep 2026):</b> PV module page is packshot Nexora/Celestia/TeSirius. Knowledge hub is 'Journey of a Solar Panel: From Factory to Installation'. SPGS is a kit still. IG 746 followers launching NUMERGY with no roof unboxing volume. 10,700+ installs and a Coimbatore 1 GW line are the UGC engine - they are not the ad. Waaree/Tata/Loom win residential auctions with terrace Reels. Shoot 15 NUMERGY roofs in Chennai/CBE (before/after, net-meter, Tamil/Hinglish).",
-    "<b>CFA is one click down, not the ad:</b> /solutions/residential.php has the full PM Surya Ghar table (Rs.30,000/kW, Rs.18,000, cap Rs.78,000, GHS/RWA) and a non-subsidy + home-loan path - good, and it hedges MNRE. Homepage is 'Powering the World Responsibly'. SPGS names the scheme with no rupee. Rooftop 'Read more' on home goes to EPC contracts (LCOE, utility farms). Put NUMERGY + 'eligible for up to Rs.78,000 via an MNRE path; SWELECT does not approve subsidy' on the first screen of the residential ad URL. TN state top-up exists in 2026 conversations - only if you can document it; never promise.",
-    "<b>No WhatsApp, long form, dead domain:</b> Day-1 dest = Website. 1800 425 9600 + 9176001012 + enquiry (Dealership/Queries/Complaints). Deepa 9543644255 is buried on residential.php. 9pm '3 kW NUMERGY kitna?' will not call Mylapore. Ad CTA = WhatsApp 9543644255 or 9176001012. Form = city + phone + kW. 301 swelect.com (HTTP 500) to swelectes.com. Kill Feb 2025 expo in Lead Source.",
-    "<b>Broken counters + no kit price:</b> Hero stats 16 / 2 Experience / 9 / 1 - same JS leak as Fenice/Freyr/Okaya. About page has 41+ years, 1 GW+, 10,700 installs - hard-code those. SPGS 1-10 kW 'ready to install' with zero MRP. A listed manufacturer can publish a from-Rs. band (modules + kit) without being Amazon. knwoledge-hub typo. SPGS homepage card has no link.",
-    "<b>Two businesses, one URL:</b> Module/ALMM/C&I/IPP (Rs.657 Cr) vs NUMERGY home kits. One Website campaign buys both. Split: (a) residential NUMERGY + CFA + UGC + WhatsApp, (b) C&I EPC/BESS, (c) module/channel. Investor ODR/Saksham Niveshak blocks on the consumer path are noise. Justdial 3.5 is the Maps problem 10,700 installs should have killed."
+    "<b>Why we audit the website (performance, not branding):</b> You pay Meta for a click. If that URL is a 41-year corporate story with counter",
+    "<b>UGC leak (Day-1, confirmed 14 Sep 2026):</b> PV module page is packshot Nexora/Celestia/TeSirius. Knowledge hub is 'Journey of a Solar Pa",
+    "<b>CFA is one click down, not the ad:</b> /solutions/residential.php has the full PM Surya Ghar table (Rs.30,000/kW, Rs.18,000, cap Rs.78,00",
+    "<b>No WhatsApp, long form, dead domain:</b> Day-1 dest = Website. 1800 425 9600 + 9176001012 + enquiry (Dealership/Queries/Complaints). Deep",
+    "<b>Broken counters + no kit price:</b> Hero stats 16 / 2 Experience / 9 / 1 - same JS leak as Fenice/Freyr/Okaya. About page has 41+ years, "
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for SWELECT"],
-    ["Waaree / Tata Power Solar / RenewSys", "Residential nav, CFA in the first screen, dealer + D2C, UGC roofs. Tata is the DISCOM-trust default after a 1-star.", "You have ALMM + 1 GW Coimbatore + NUMERGY. Lead with that kit, not 'responsible power'. DCR/ALMM is the Tata objection."],
-    ["Fenice / Freyr / SolarSquare", "Freyr hero is Save Rs.1 Lakh. SolarSquare city pages + 15k Google ratings. Fenice at least has customer videos on /about-us/.", "You bury CFA on residential.php. They put rupees on the ad. WhatsApp vs your 1800."],
-    ["Loom / local TN EPCs", "Unboxing Reels, 3-field WhatsApp, 48-hour survey. They cannot match 1 GW ALMM; they win the 9pm click.", "NUMERGY UGC + WhatsApp Deepa's number. Factory footage is B2B."],
-    ["Your own residential.php", "The CFA table already exists. The ad does not send anyone there. Homepage sends rooftop clicks to EPC contracts.", "Residential ad URL = /solutions/residential.php or a /numergy/ kit LP. Not the corporate home."]
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for SWELECT"
+    ],
+    [
+      "Waaree / Tata Power Solar / RenewSys",
+      "Residential nav, CFA in the first screen, dealer + D2C, UGC roofs. Tata is the DISCOM-trust default after a 1-star.",
+      "You have ALMM + 1 GW Coimbatore + NUMERGY. Lead with that kit, not 'responsible power'. DCR/ALMM is the Tata objection."
+    ],
+    [
+      "Fenice / Freyr / SolarSquare",
+      "Freyr hero is Save Rs.1 Lakh. SolarSquare city pages + 15k Google ratings. Fenice at least has customer videos on /about-us/.",
+      "You bury CFA on residential.php. They put rupees on the ad. WhatsApp vs your 1800."
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: NUMERGY landing = the ad URL, CFA + WhatsApp, kill the zeros", "Why website: the click must land on the hook. New/primary residential URL: NUMERGY 1-10 kW, 'eligible for up to Rs.78,000 (PM Surya Ghar) via MNRE installer/path. SWELECT does not approve subsidy.' CTA = WhatsApp 9543644255 (Deepa) or 9176001012, not 1800. 3 fields (city, phone, kW). Hard-code 10,700+ / 1 GW+ / 41 years. 301 swelect.com. Point rooftop Read more to residential.php, not EPC. Expected: stop corporate bounce; 25-40% more qualified chats at the same spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: 15 Tamil/Hinglish UGC Reels + kit price band + split campaigns", "Day-1 leak: shoot terrace installs (Chennai, CBE, Madurai - you have offices). Before/after, net-meter, NUMERGY unboxing. From-Rs. kit band on SPGS (even a range). Separate Meta: NUMERGY residential vs C&I EPC vs module/channel. Fix knwoledge-hub, Lead Source expo date, SPGS missing link. Never promise CFA timeline. Expected: creative that can compete with Loom/Freyr; ROAS you can read by funnel.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: Maps/UGC proof + 60-day retargeting + channel ads", "Reply Justdial 3.5; ask 10,700 installs for Google reviews. Audiences: (i) residential LP no WA, (ii) SPGS no enquire, (iii) video 50% - 60 days. Channel/dealer ads for NUMERGY (Aarthi owns channels). C&I keeps the corporate site. Expected: cheaper residential CPL; listed-company story stays on /investors, not the home-kit ad.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48 hours: NUMERGY landing = the ad URL, CFA + WhatsApp, kill the zeros",
+      "Why website: the click must land on the hook. New/primary residential URL: NUMERGY 1-10 kW, 'eligible for up to Rs.78,000 (PM Surya Ghar) via MNRE installer/path. SWELECT does not approve subsidy.' CT",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 - 7 days: 15 Tamil/Hinglish UGC Reels + kit price band + split campaigns",
+      "Day-1 leak: shoot terrace installs (Chennai, CBE, Madurai - you have offices). Before/after, net-meter, NUMERGY unboxing. From-Rs. kit band on SPGS (even a range). Separate Meta: NUMERGY residential v",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - 14 days: Maps/UGC proof + 60-day retargeting + channel ads",
+      "Reply Justdial 3.5; ask 10,700 installs for Google reviews. Audiences: (i) residential LP no WA, (ii) SPGS no enquire, (iii) video 50% - 60 days. Channel/dealer ads for NUMERGY (Aarthi owns channels).",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
   ],
   "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["Why site is in the audit", "Corporate home = ad URL", "NUMERGY LP = ad URL", "Clicks match the hook"],
-    ["Hero names CFA", "No (Responsible world)", "Rs.78,000 + NUMERGY", "Match Freyr / SolarSquare"],
-    ["UGC in ads", "Factory/studio", "15 terrace Reels", "Day-1 leak closed"],
-    ["Ad CTA", "Website / 1800", "WhatsApp Deepa", "Speed-to-lead"],
-    ["Cost per residential lead", "Rs.250-450", "Rs.150-250", "~40% cheaper"]
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "Why site is in the audit",
+      "Corporate home = ad URL",
+      "NUMERGY LP = ad URL",
+      "Clicks match the hook"
+    ],
+    [
+      "Hero names CFA",
+      "No (Responsible world)",
+      "Rs.78,000 + NUMERGY",
+      "Match Freyr / SolarSquare"
+    ],
+    [
+      "UGC in ads",
+      "Factory/studio",
+      "15 terrace Reels",
+      "Day-1 leak closed"
+    ],
+    [
+      "Ad CTA",
+      "Website / 1800",
+      "WhatsApp Deepa",
+      "Speed-to-lead"
+    ]
   ],
   "outreach": [
-    ["Subject A (Roast-Audit): we audit the website because that is where your Meta rupees die", "Hi Arulkumar / Aarthi (channels) / SWELECT growth,\n\nPerformance marketing is not 'the ads look nice'. You pay for a click. The click opens swelectes.com. If that page is not the offer, the spend is a brand video.\n\nI spent 45 minutes on SWELECT this morning (14 Sep 2026). NSE SWELECTES, Rs.657 Cr FY26, 1 GW Coimbatore ALMM, NUMERGY 1-10 kW kits, CFA table already written on /solutions/residential.php. The funnel is not at that standard.\n\nLeaks, all live:\n1. Why the site is in this audit: hero is 'Powering the World Responsibly'. Counters show 16 / 2 / 9 / 1. Rooftop Read more goes to EPC contracts. NUMERGY has no MRP and no WhatsApp. The ad cannot convert there.\n2. Day-1 leak, confirmed: zero UGC/unboxing. Factory stills + 'Journey of a Solar Panel' blog. 10,700+ roofs are not the creative.\n3. CFA (Rs.78,000) is on residential.php, not the homepage or (from Day-1) the ads. Never promise approval.\n4. dest = Website. 1800 / enquiry form. Deepa 9543644255 is buried. swelect.com returns 500.\n5. IG is @swelect_energy_systems launching NUMERGY (746) - Day-1 @swelectenergy is stale.\n\n3-page-plus confidential audit, 3 fixes (NUMERGY LP + WhatsApp, UGC Reels, split residential vs EPC). Shall I WhatsApp it to 9543644255? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi SWELECT team - 4 minutes on swelectes.com, and why we audit the website in performance marketing: the click you paid for lands here. First 20 seconds: Powering the World, counters 16/2/9/1, swelect.com is 500. Next minute: NUMERGY kit has no price, CFA is on residential.php not the home, no WhatsApp. Last 90 seconds: factory photos, no terrace UGC, Deepa 9543644255 buried. Want the link on WhatsApp 9543644255? No call.\""],
-    ["Subject C (FOMO): Freyr's hero is Save Rs.1 Lakh; your Meta still opens a listed-company homepage", "Hi,\n\nAuditing solar funnels in Tamil Nadu this week. SWELECT has ALMM 1 GW and a NUMERGY kit. Freyr leads with Save Rs.1 Lakh. SolarSquare city-pages. Loom runs unboxing. Your residential.php already has the CFA table - the ads do not send anyone there.\n\nPerformance lesson: the website is the conversion asset. A 41-year Numeric legacy page will not sell a 3 kW home kit at 9pm.\n\n3 fixes in 7 days: NUMERGY as ad URL, WhatsApp CTA, 15 Tamil roof Reels. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+    [
+      "Subject A (Roast-Audit): we audit the website because that is where your Meta rupees die",
+      "Hi Arulkumar / Aarthi (channels) / SWELECT growth,\n\nPerformance marketing is not 'the ads look nice'. You pay for a click. The click opens swelectes.com. If that page is not the offer, the spend is a brand video.\n\nI spent 45 minutes on SWELECT this morning (14 Sep 2026). NSE SWELECTES, Rs.657 Cr FY26, 1 GW Coimbatore ALMM, NUMERGY 1-10 kW kits, CFA table already written on /solutions/residential.php. The funnel is not at that standard.\n\nLeaks, all live:\n1. Why the site is in this audit: hero is 'Powering the World Responsibly'. Counters show 16 / 2 / 9 / 1. Rooftop Read more goes to EPC contracts. NUMERGY has no MRP and no WhatsApp. The ad cannot convert there.\n2. Day-1 leak, confirmed: zero UGC/unboxing. Factory stills + 'Journey of a Solar Panel' blog. 10,700+ roofs are not the creative.\n3. CFA (Rs.78,000) is on residential.php, not the homepage or (from Day-1) the ads. Never promise approval.\n4. dest = Website. 1800 / enquiry form. Deepa 9543644255 is buried. swelect.com returns 500.\n5. IG is @swelect_energy_systems launching NUMERGY (746) - Day-1 @swelectenergy is stale.\n\n3-page-plus confidential audit, 3 fixes (NUMERGY LP + WhatsApp, UGC Reels, split residential vs EPC). Shall I WhatsApp it to 9543644255? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi SWELECT team - 4 minutes on swelectes.com, and why we audit the website in performance marketing: the click you paid for lands here. First 20 seconds: Powering the World, counters 16/2/9/1, swelect.com is 500. Next minute: NUMERGY kit has no price, CFA is on residential.php not the home, no WhatsApp. Last 90 seconds: factory photos, no terrace UGC, Deepa 9543644255 buried. Want the link on WhatsApp 9543644255? No call.\""
+    ],
+    [
+      "Subject C (FOMO): Freyr's hero is Save Rs.1 Lakh; your Meta still opens a listed-company homepage",
+      "Hi,\n\nAuditing solar funnels in Tamil Nadu this week. SWELECT has ALMM 1 GW and a NUMERGY kit. Freyr leads with Save Rs.1 Lakh. SolarSquare city-pages. Loom runs unboxing. Your residential.php already has the CFA table - the ads do not send anyone there.\n\nPerformance lesson: the website is the conversion asset. A 41-year Numeric legacy page will not sell a 3 kW home kit at 9pm.\n\n3 fixes in 7 days: NUMERGY as ad URL, WhatsApp CTA, 15 Tamil roof Reels. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "Ad counts and landing page observations NOT yet re-verified live on Sep 14. Pre-existing data; Meta Ad Library + landing page verification pending. Use as directional \u2014 confirm numbers before outreach."
 }
