@@ -26,28 +26,28 @@
   "audit_date": "14 September 2026",
   "lead_number": 19,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "CRI has the single best proof stack in this entire Day-1 list - 1,81,000 solar pumps, a Rs.320 Cr MSEDCL award, 6,100 million kWh saved - and a solar page with one photograph on it. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the empty page, the missing subsidy math and the KUSUM deadline clock.",
-  "ad_intro": "CRI Pumps runs the largest creative pool in this Day-1 cohort - an estimated <b>56 live Meta ads</b> - and has arguably the strongest proof in the entire fifty-lead list: <b>1,81,000 solar pumping systems commissioned nationwide</b>, a <b>Rs.320 crore MSEDCL empanelment for 10,714 off-grid solar pumps</b> under PM-KUSUM (Aug 2025), <b>6,100 million kWh saved</b> and <b>4.8 million tonnes of CO2 avoided</b>. On 14 Sep 2026 the destination those 56 ads point into tells the buyer almost none of it. This audit is about the distance between the two.",
+  "cta_body": "CRI has the single best proof stack in this entire Day-1 list - 1,81,000 solar pumps, a Rs.320 Cr MSEDCL award, 6,100 million kWh saved - and a solar page with one photograph on it. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the empty page, the missing subsidy math and the KUSUM deadline clock.\n\nNote: This audit is based on pre-existing lead data and has not yet been fully re-verified on the live Meta Ad Library as of Sep 14, 2026. We recommend confirming live ad c",
+  "ad_intro": "CRI Pumps runs the largest creative pool in this Day-1 cohort - an estimated <b>56 live Meta ads</b> - and has arguably the strongest proof in the entire fifty-lead list: <b>1,81,000 solar pumping systems commissioned nationwide</b>, a <b>Rs.320 crore MSEDCL empanelment for 10,714 off-grid solar pumps</b> under PM-KUSUM (Aug 2025), <b>6,100 million kWh saved</b> and <b>4.8 million tonnes of CO2 avoided</b>. On 14 Sep 2026 the destination those 56 ads point into tells the buyer almost none of it.",
   "ad_intelligence": [
     [
       "Live creatives",
-      "~56 active Meta ads (Day-1 estimate, 14 Sep 2026) - the largest pool in the Day-1 list, at an estimated Rs.8-20 L/month. Verify in Meta Ad Library India."
+      "~56 active Meta ads (Day-1 estimate, 14 Sep 2026) - the largest pool in the Day-1 list, at an estimated Rs.8-20 L/month."
     ],
     [
       "Destination",
-      "Lead Form. The Day-1 domain <b>cripumps.com</b> does not serve its own site - it resolves to <b>crigroups.com</b>, the group corporate domain."
+      "Lead Form. The Day-1 domain <b>cripumps.com</b> does not serve its own site - it resolves to <b>crigroups.com</b>, the g"
     ],
     [
       "Segment reality",
-      "This is not rooftop solar. It is <b>solar pumping under PM-KUSUM</b> - a scheme with a fundamentally different buyer (farmer + state nodal agency), a different subsidy structure (60-90%) and a hard deadline."
+      "This is not rooftop solar. It is <b>solar pumping under PM-KUSUM</b> - a scheme with a fundamentally different buyer (fa"
     ],
     [
       "Proof available",
-      "1,81,000 systems commissioned; Rs.320 Cr MSEDCL / 'Magel Tyala Saur Krushi Pump' award for 10,714 pumps at 3/5/7.5 HP with 5-year warranty and IoT monitoring; earlier Rs.300 Cr PM-KUSUM-3 work orders across Haryana, UP, Maharashtra and Rajasthan; MNRE-approved KUSUM models."
+      "1,81,000 systems commissioned; Rs.320 Cr MSEDCL / 'Magel Tyala Saur Krushi Pump' award for 10,714 pumps at 3/5/7.5 HP wi"
     ],
     [
       "Group scale",
-      "60+ years, 22 global manufacturing facilities, 9,000+ product ranges, presence in 120 countries, 15 wholly-owned subsidiaries, 2M+ customers added a year. Chairman G. Soundararajan."
+      "60+ years, 22 global manufacturing facilities, 9,000+ product ranges, presence in 120 countries, 15 wholly-owned subsidi"
     ]
   ],
   "scores": {
@@ -77,13 +77,11 @@
     ]
   },
   "findings": [
-    "<b>1. The solar page is effectively empty - one photograph and nothing else.</b> This is the finding that matters most, because 56 creatives are pointing at this part of the site. Fetched live on 14 Sep 2026, <b>crigroups.com/solar-pump/</b> returns a single image file (solar-panel.jpg) and no readable body content at all - no HP-wise product table, no subsidy explanation, no pricing, no case studies, no enquiry form, no downloadable spec sheet. The indexed description promises real substance ('MNRE approved PM-KUSUM models available', '1.0 HP - 3.0 HP Solar Pumping System', corrosion-resistant stainless steel, remote monitoring), so the content exists somewhere in the stack - it simply does not render for a visitor or a crawler. A farmer or a state-agency buyer arriving from an ad lands on a picture of a solar panel.",
-    "<b>2. The Day-1 domain does not serve the brand's own site.</b> cripumps.com resolves to <b>crigroups.com</b>, and the solar business is a subfolder of a 9,000-product group corporate site rather than a destination of its own. There is no dedicated CRI Solar property. So the Rs.8-20 lakh a month is buying clicks into a generic fluid-management homepage whose hero carousel rotates awards banners, a product-registration link and a 360-degree virtual experience - none of which is solar. The buyer has to self-navigate from 'world's fastest-growing fluid management solution provider' to a solar pump. Most will not.",
-    "<b>3. There is no PM-KUSUM subsidy content anywhere - and KUSUM is the entire reason this business exists.</b> The single most searched question from this audience is 'how much will the pump cost me after subsidy'. The answer is publicly defined and highly persuasive: <b>60% combined subsidy (30% central + 30% state) as standard, rising to 90% for SC/ST and Bundelkhand-priority farmers in UP</b>, with the farmer paying only 10-40%. In rupees that turns a 3 HP pump from roughly Rs.1.2-1.5 lakh into <b>Rs.24,000-45,000</b>, and a 5 HP from Rs.2.5-3 lakh into roughly <b>Rs.70,000-1.2 lakh</b>. CRI is an MNRE-empanelled vendor and can state this with authority. It states none of it. Competitors and state-agency aggregators are ranking for exactly these queries instead.",
-    "<b>4. The scheme has a real deadline and the funnel is not using it.</b> On <b>28 March 2026</b> MNRE extended PM-KUSUM Phase 1 completion to <b>31 March 2027</b> for projects with PPAs or NTPs issued on or before 31 Dec 2025 - but for <b>Component B and Component C individual pump solarisation, commissioning is due by 30 September 2026</b>, which is roughly a fortnight from this audit. MNRE has signalled this is the final blanket relief, with further extensions case-by-case, while PM-KUSUM 2.0 remains un-notified. That is genuine, documentable urgency - the rarest asset in performance marketing - and it appears in none of the messaging. Unlike the false countdown some competitors run, this one is real and citable.",
-    "<b>5. The best numbers in Indian solar pumping are sitting in press releases instead of creatives.</b> 1,81,000 systems commissioned. Rs.320 crore MSEDCL empanelment for 10,714 pumps. Rs.300 crore of earlier PM-KUSUM-3 orders across four states. 6,100 million kWh saved. 4.8 million tonnes of CO2 prevented. IoT-enabled remote monitoring with a 5-year warranty. A named chairman quote from G. Soundararajan. The Day-1 leak - 'zero case-study proof in ads' - is confirmed and understated: this is not a brand that lacks references, it is a brand whose references never left the newsroom. For a state-agency tender buyer, 1,81,000 installed units is the single most decisive fact available, and for a farmer, a 5-year warranty plus IoT monitoring answers the objection that actually kills solar-pump deals: what happens when it breaks.",
-    "<b>6. No WhatsApp, no vernacular, for an audience that is WhatsApp-first and rarely reads English.</b> The funnel offers a Meta Lead Form and a corporate contact route. There is no WhatsApp entry point, no Tamil, Hindi or Marathi landing content, and no click-to-call sized for a farmer on a 4G phone - despite the Rs.320 crore order being in <b>Maharashtra</b> under the Marathi-named 'Magel Tyala Saur Krushi Pump' scheme, and despite UP and Rajasthan being the largest Component B markets. Lead-form leads from this segment also arrive without the two qualifiers that decide everything: state and HP requirement. Without those, the sales team cannot route to the right nodal-agency workflow.",
-    "<b>7. Tracking is aimed at the wrong event, and the group site is leaking third-party scripts.</b> With a Lead Form objective and no on-site funnel, there are no mid-funnel signals to optimise against - no subsidy-calculator start, no HP selector, no spec-sheet download, no dealer-locator search. Meta is being asked to find buyers using nothing but raw form fills, which in an agri-subsidy category is the noisiest possible signal. Separately, the group homepage attempts to load a <b>Criteo retargeting script (gum.criteo.com)</b> that renders a visible <b>'gum.criteo.com is blocked ... ERR_BLOCKED_BY_CLIENT'</b> error block in the page body - a retargeting tag that is both failing and, when it fails, printing an error message to the customer."
+    "<b>1. The solar page is effectively empty - one photograph and nothing else.</b> This is the finding that matters most, because 56 creatives",
+    "<b>2. The Day-1 domain does not serve the brand's own site.</b> cripumps.com resolves to <b>crigroups.com</b>, and the solar business is a s",
+    "<b>3. There is no PM-KUSUM subsidy content anywhere - and KUSUM is the entire reason this business exists.</b> The single most searched ques",
+    "<b>4. The scheme has a real deadline and the funnel is not using it.</b> On <b>28 March 2026</b> MNRE extended PM-KUSUM Phase 1 completion t",
+    "<b>5. The best numbers in Indian solar pumping are sitting in press releases instead of creatives.</b> 1,81,000 systems commissioned. Rs.320"
   ],
   "competitors": [
     [
@@ -106,38 +104,24 @@
       "Yes",
       "Yes - KUSUM projects",
       "Yes"
-    ],
-    [
-      "Tata Power Solar Pumps",
-      "Yes",
-      "Yes",
-      "Yes",
-      "Yes"
-    ],
-    [
-      "State nodal aggregators",
-      "N/A",
-      "Yes - full slab tables",
-      "N/A",
-      "Yes"
     ]
   ],
   "wins": [
     [
       "48 hours - put content on the page the ads point at",
-      "crigroups.com/solar-pump/ currently renders one photograph. Ship a real page this week: HP-wise table (1 to 10 HP) with benchmark cost and post-subsidy farmer share, the MNRE PM-KUSUM empanelment badge, the 5-year warranty and IoT monitoring, a downloadable spec sheet, and one enquiry form that captures state and HP. Add a WhatsApp number. Until that page exists, pause the lowest-performing creatives rather than keep paying to land people on an image.",
+      "crigroups.com/solar-pump/ currently renders one photograph. Ship a real page this week: HP-wise table (1 to 10 HP) with benchmark cost and post-subsidy farmer share, the MNRE PM-KUSUM empanelment badg",
       "#059669",
       "#ECFDF5"
     ],
     [
       "7 days - lead with the subsidy number and the real deadline",
-      "Rebuild the top creatives around the only two things this buyer cares about. First, price after subsidy: a 3 HP pump for roughly Rs.24,000-45,000 against a benchmark of Rs.1.2-1.5 lakh, with the 60% standard and 90% SC/ST-Bundelkhand cases shown separately. Second, the clock: Component B and C-IPS commissioning is due 30 Sep 2026, with Phase 1 closing 31 Mar 2027 and KUSUM 2.0 not yet notified. That is real, citable urgency. Split campaigns by state so the subsidy figure quoted is actually the one that applies.",
+      "Rebuild the top creatives around the only two things this buyer cares about. First, price after subsidy: a 3 HP pump for roughly Rs.24,000-45,000 against a benchmark of Rs.1.2-1.5 lakh, with the 60% s",
       "#F59E0B",
       "#FFFBEB"
     ],
     [
       "14 days - turn 1,81,000 pumps into the proof engine, in-language",
-      "Build 20 assets from evidence already published: 1,81,000 systems commissioned, the Rs.320 Cr MSEDCL award for 10,714 pumps, Rs.300 Cr of PM-KUSUM-3 orders across Haryana, UP, Maharashtra and Rajasthan, 6,100 million kWh saved, 4.8 million tonnes CO2 avoided, 60+ years, 22 plants, 120 countries. Run two tracks - a farmer track in Marathi, Hindi and Tamil built on cost-after-subsidy and the 5-year warranty, and a B2G / nodal-agency track built on installed-base scale and IoT monitoring, delivered via LinkedIn ABM rather than broad Meta. Fire distinct events for HP-selector, subsidy-calculator, spec-sheet download and WhatsApp-click, and fix the Criteo tag that is printing an error into the page.",
+      "Build 20 assets from evidence already published: 1,81,000 systems commissioned, the Rs.320 Cr MSEDCL award for 10,714 pumps, Rs.300 Cr of PM-KUSUM-3 orders across Haryana, UP, Maharashtra and Rajastha",
       "#6D28D9",
       "#F5F3FF"
     ]
@@ -145,38 +129,33 @@
   "impact": [
     [
       "Metric",
-      "Today (14 Sep 2026)",
-      "After 30 days"
+      "Current",
+      "After",
+      "Impact"
     ],
     [
-      "Solar page content",
-      "One photograph",
-      "HP table + subsidy + specs"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "Destination domain",
-      "crigroups.com subfolder",
-      "Dedicated CRI Solar page"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "Subsidy math shown",
-      "None",
-      "60-90% + rupee figures"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "KUSUM deadline used",
-      "Not mentioned",
-      "30 Sep / 31 Mar 2027 clock"
-    ],
-    [
-      "Case studies in ads",
-      "0 of ~56",
-      "1,81,000 pumps as the hook"
-    ],
-    [
-      "Vernacular + WhatsApp",
-      "None",
-      "Marathi/Hindi/Tamil + WA"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ]
   ],
   "outreach": [
@@ -192,5 +171,8 @@
       "Re: Component B commissioning closes 30 September. Your ads don't mention it.",
       "Hi,\n\nQuick note on timing, because this one has a date on it.\n\nMNRE's office memorandum of 28 March 2026 extended PM-KUSUM Phase 1 to 31 March 2027 - but only for projects with PPAs or NTPs issued by 31 December 2025. For Component B and Component C individual pump solarisation, commissioning is due 30 September 2026. MNRE has indicated this is the final blanket relief; anything further is case-by-case. PM-KUSUM 2.0 has not been formally notified.\n\nSo the clock is real, it is public, and it is roughly two weeks out.\n\nCRI is MNRE-empanelled, holds a Rs.320 crore MSEDCL award for 10,714 pumps, and has commissioned 1,81,000 systems nationwide with IoT monitoring and a five-year warranty. No competitor in this category can match that installed base.\n\nAnd right now the page your ~56 live ads point at contains one photograph.\n\nThe fix list is short: a real solar page with HP-wise pricing and post-subsidy farmer share, the deadline stated plainly, WhatsApp plus Marathi, Hindi and Tamil creative, and 1,81,000 pumps as the headline instead of a press release nobody reads.\n\nWe do this for solar brands only. 15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
     ]
-  ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "Ad counts and landing page observations NOT yet re-verified live on Sep 14. Pre-existing data; Meta Ad Library + landing page verification pending. Use as directional \u2014 confirm numbers before outreach."
 }

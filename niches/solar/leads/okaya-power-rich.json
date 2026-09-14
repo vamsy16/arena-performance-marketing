@@ -2,80 +2,176 @@
   "brand": "Okaya Power",
   "website": "okaya.co.in -> okaya.in / shop.okaya.in",
   "instagram": "@okayapowerofficial",
-  "segment": "C",
+  "segment": "B - Battery/Inverter/Solar manufacturer (broad power backup)",
   "city": "New Delhi",
   "state": "Delhi",
   "capacity": "1-30 kW GTI; 550 Wp DCR panels; off-grid PCU",
   "active_ads": 36,
-  "ads_active": 36,
+  "ads_active": 0,
   "destination": "Website (shop + Enquire; WhatsApp widget unused as ad CTA)",
   "spend_est": "20L+/mo",
   "spend": "Rs.20 L+/mo",
   "revenue": "Rs.500-1,000 Cr FY25",
-  "niche": "D2C Solar Products · DL",
+  "niche": "D2C Solar Products \u00b7 DL",
   "leak": "3 kW GTI and DCR panel PDPs have no Rs.78,000 / PM Surya Ghar note; solar ads land on a UPS homepage; shop warranty 30 months vs brand 144",
   "data_source": "seed-real + live site review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
+  "score": 4,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Okaya+Power",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=okaya.in",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (DCR panels can sit in a scheme system; Okaya does not approve subsidy)",
-  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "pitch_fit": "MEDIUM",
   "found_at": "2026-09-14T06:02:34.804091",
   "day_found": 1,
   "audit_date": "2026-09-14",
   "lead_number": 8,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
   "cta_body": "Smart Pursuit will run a <b>14-day solar D2C sprint</b> for Okaya: Rs.78,000 + DCR badge on the 3 kW GTI and 550 Wp PDPs (never as a product discount), solar landing not UPS homepage, WhatsApp 9818909090 as ad CTA, shop vs brand warranty fix, Amazon/DPA. Priced against <b>CPL and ROAS</b>, not impressions.",
-  "ad_intro": "Okaya Power Pvt Ltd (CIN U74899HR1987PTC125247; D-8 Udyog Nagar, Rohtak Road, Delhi 110041) is a 1987/2002 Gupta-family power-backup manufacturer. CEO Akshay Gupta (Tracxn). Claims <b>110M+ customers, 32k dealers, 24+ years, 700+ sales/service, 4 plants / 17 lakh sq ft, 25 regional warehouses, 45+ export countries</b>. Tracxn FY25: <b>Rs.500-1,000 Cr</b> (Tofler ~Rs.750-1,000 Cr, -7% YoY); 1,210 staff (31 May 2026). Solar SKUs: GTI 1-6 kW 1-ph / 5-30 kW 3-ph (10-yr, BIS, up to 98.6%), 550 Wp Mono PERC bifacial DCR + non-DCR, 180 Wp TOPCon, off-grid PWM/MPPT PCUs, ST solar tubulars. Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~36 ads, Website dest, Rs.20 L+/mo est., pitch_fit HIGH (D2C / CPL-ROAS).<br/><br/><b>Live check 14 Sep 2026:</b> okaya.co.in did not load. Brand is okaya.in; cart is shop.okaya.in. Homepage carousel is shop / Power Pair combo / XBD / CBH / then solar (5th banner) / June shop / warranty. WhatsApp 9818909090 and care@okaya.in float on every page. Contact form is a country-code novel; counters on /contact-us/ render <b>0k+ / 0+</b> while /about-us/ has 110M+. IG live is @okayapowerofficial (24k / 1,369) - Day-1 @okayapower is stale. LinkedIn /company/okayapowergroup ~38k. YouTube UC6-AG5NH1wnXA7u56JE6Lgg ~7.8k.<br/><br/><b>Day-1 leak, confirmed on the SKU the ads should sell:</b> /solar-solution hub FAQ Q6 names PM Surya Ghar (Rs.30k/kW, Rs.18k/kW, cap Rs.78,000) and hedges MNRE/DISCOM - good. The 3 kW GTI PDP (Rs.86,400, the subsidy sweet-spot inverter) has <b>zero subsidy copy</b>. Shop DCR 550 Wp (Rs.18,750) says 'tenders / government' not PM Surya Ghar. GTI listing FAQ is efficiency/warranty, not CFA. Plus: UPS homepage for solar spend, Enquire # not WhatsApp, shop warranty 30 months vs brand 144/12-year, TOPCon 28.8% claim vs 180 Wp FAQ, 3 kW and 3.4 kW same price, related products labelled '3kW (Ah)'. All fixable in 14 days. <i>Ad counts are Day-1 estimates. Never promise subsidy approval on a component sale.</i>",
+  "ad_intro": "Correct domain is okaya.in (NOT okaya.co.in or okayapower.com \u2014 both returned fetch errors). Okaya Power Pvt Ltd founded 2002, D-8 Udyog Nagar Rohtak Road Delhi, phone 9818909090, care@okaya.in, 4 mfg plants 17 lakh sq ft, CBH-certified backup, XBD+ batteries, solar solutions (off-grid/on-grid inverters, panels, solar batteries, solar tubbies), E-Rickshaw batteries. Awards: Most Desired Brand 2020, IESA Emerging Co 2019, Most Trusted Brand 2025-26. FB page @OkayaPowerOfficial. E-commerce shop (s",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary. Day-1 dest = Website. Live: okaya.in (content) + shop.okaya.in (Magento cart, 33 solar SKUs). WA widget 9818909090 on every page, not the ad CTA. Amazon inverter/battery combos (ATSW 1175 combo ~4.4/165). LinkedIn posts amzn.to. IG @okayapowerofficial. FB/X @OkayaPowerGroup. YouTube Okaya Power Official ~7.8k."],
-    ["Active ads (est.)", "~36 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency for okaya.in (okaya.co.in is dead). Do not quote 36 as a hard number. Split UPS vs solar before quoting ROAS."],
-    ["Offer / SKUs (14 Sep)", "GTI 3 kW / 3.4 kW both Rs.86,400; 5 kW 1-ph Rs.1,34,400; 5 kW 3-ph Rs.1,56,000; 8 kW Rs.2,40,000; 10 kW Rs.2,59,200; 15 kW Rs.3,49,200. 10-yr / BIS / IP65. 550 Wp DCR Rs.18,750 vs non-DCR Rs.37,400 (shop). 180 Wp TOPCon Rs.10,000. Off-grid PCU 13 SKUs. ST solar batteries from Rs.5,690 (40 Ah). Shop: Fast & Free Delivery, Free Installation = No on DCR panel."],
-    ["Funnel / CRO (14 Sep)", "Solar ad -> UPS-first homepage (shop, combo, XBD, CBH). Solar hub /solar-solution is copy+FAQ. SKU listing has prices. PDP CTA = Enquire now (#, no form). Shop = Add to Cart + pincode gate + 0 reviews on DCR panel. Contact = General/Product/Distributor/Dealer + full country list. Load calculator lives on shop, UPS-style."],
-    ["Subsidy (Day-1 leak, confirmed on PDP)", "Hub Q6: full CFA table + DCR + 'confirm with MNRE/DISCOM'. Panel FAQ Q2: DCR required for PM Surya Ghar, no rupee. GTI 3 kW PDP: no scheme, no Rs.78,000, no DCR pairing (6 x 550 Wp). Shop DCR badge = tenders, not residential CFA. Honest line: 'DCR 550 Wp + 3 kW GTI can sit in a PM Surya Ghar system via an MNRE installer. Okaya does not approve subsidy.'"],
-    ["Copy / trust nicks", "Contact 0k+ dealers vs About 32k. Shop DCR warranty 30 months vs brand 144 months / 12-yr product + 30-yr performance. TOPCon 'up to 28.8%' on category vs 180 Wp / 5-yr in FAQ. 'ost-effective', 'Experrience', 'Okaya'sTOPCon'. Related GTI cards say '3kW (Ah)'. Homepage link /solar-solutions vs live /solar-solution. Catalogue Download Now = #."]
+    [
+      "Active platforms",
+      "Meta primary. Day-1 dest = Website. Live: okaya.in (content) + shop.okaya.in (Magento cart, 33 solar SKUs). WA widget 98"
+    ],
+    [
+      "Active ads (est.)",
+      "~36 creatives by Day-1 signature, spend Rs.20 L+/mo est. Verify Meta Ad Library India (active) + Google Ads Transparency"
+    ],
+    [
+      "Offer / SKUs (14 Sep)",
+      "GTI 3 kW / 3.4 kW both Rs.86,400; 5 kW 1-ph Rs.1,34,400; 5 kW 3-ph Rs.1,56,000; 8 kW Rs.2,40,000; 10 kW Rs.2,59,200; 15 "
+    ],
+    [
+      "Funnel / CRO (14 Sep)",
+      "Solar ad -> UPS-first homepage (shop, combo, XBD, CBH). Solar hub /solar-solution is copy+FAQ. SKU listing has prices. P"
+    ],
+    [
+      "Subsidy (Day-1 leak, confirmed on PDP)",
+      "Hub Q6: full CFA table + DCR + 'confirm with MNRE/DISCOM'. Panel FAQ Q2: DCR required for PM Surya Ghar, no rupee. GTI 3"
+    ],
+    [
+      "Copy / trust nicks",
+      "Contact 0k+ dealers vs About 32k. Shop DCR warranty 30 months vs brand 144 months / 12-yr product + 30-yr performance. T"
+    ]
   ],
   "scores": {
-    "Subsidy & Scheme Clarity": [4, "#F59E0B"],
-    "WhatsApp / Speed-to-Lead": [5, "#F59E0B"],
-    "Social Proof (Installs)": [4, "#F59E0B"],
-    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
-    "Landing Page & Form CRO": [3, "#EF4444"],
-    "Tracking & Retargeting": [4, "#F59E0B"]
+    "Subsidy & Scheme Clarity": [
+      4,
+      "#F59E0B"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      5,
+      "#F59E0B"
+    ],
+    "Social Proof (Installs)": [
+      4,
+      "#F59E0B"
+    ],
+    "Creative Variety (Video/Reels)": [
+      4,
+      "#F59E0B"
+    ],
+    "Landing Page & Form CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking & Retargeting": [
+      4,
+      "#F59E0B"
+    ]
   },
   "findings": [
-    "<b>Subsidy leak on the actual product page (Day-1, confirmed 14 Sep 2026):</b> /solar-solution FAQ Q6 is one of the better CFA write-ups in this lead list (Rs.30,000/kW, Rs.18,000/kW, cap Rs.78,000, GHS/RWA, DCR, confirm MNRE/DISCOM). Nobody who clicked a 3 kW GTI ad sees it. okaya.in/product/solar-gti-3kw-p1 is Rs.86,400, 10-year, MPPT, Enquire # - zero scheme copy. Shop DCR 550 Wp (the panel that makes a 3 kW kit subsidy-eligible) says 'tenders and government projects', not PM Surya Ghar. Put a DCR + 'usable in a PM Surya Ghar system by an MNRE installer' badge on GTI 3 kW, GTI 3.4 kW and OP144MHB550W-DCR. Never print Rs.78,000 as an Okaya discount.",
-    "<b>Wrong landing for solar spend:</b> okaya.co.in is dead. okaya.in hero is shop, inverter-battery combo, XBD, CBH, then solar. Shop featured grid is ST batteries and OPTT tubulars. Rs.20 L+/mo of 'Okaya Power' / solar clicks are buying UPS traffic. Destination = Website. WhatsApp 9818909090 already floats. Make /solar-solution or shop/solar-solution.html the ad URL; CTA = Send WhatsApp Message or Add to Cart, not Enquire #.",
-    "<b>Shop vs brand is a return machine:</b> Brand listing: 550 Wp warranty 144 months. Shop DCR PDP: Warranty (In Months) = 30. Brand FAQ: 12-year product + 30-year performance. Shop 180 Wp TOPCon: 15 months. Free Installation = No. 3 kW and 3.4 kW GTI are the same Rs.86,400. Related products labelled capacity '3kW (Ah)'. Align one warranty table or the first Amazon/shop review will do it for you.",
-    "<b>0+ counters and a 110M claim on the same domain:</b> /contact-us/ renders 0k+ dealer network, 0+ years of Experrience (typo), 0+ sales team, 0+ warehouses. /about-us/ has 110M+, 32k dealers, 24+ years, 700+. Paid landings that show zeros read as a dead brand (same Fenice/Freyr leak). Hard-code the about numbers or drop the widgets.",
-    "<b>WhatsApp is a chip, not the funnel:</b> Day-1 dest = Website. Widget is 'Chat with us' / wa.me/9818909090. PDP Enquire now is a hash. Contact is Product Enquiry + state + international dial codes. 9pm '3 kW kit kitna?' will WhatsApp a dealer. Ad CTA = sales WhatsApp; 3-field (pincode, phone, SKU); shop ATC for batteries/PCUs that actually ship.",
-    "<b>Amazon and UGC unused on solar:</b> Inverter+battery combos already sell on Amazon at ~4.4. LinkedIn already dumps to amzn.to. Solar GTI/DCR panel on shop have 'Be the first to review'. Corporate video and CBH/XBD ads are UPS. 10 rooftop Reels (DCR 6-panel 3 kW kit, app monitoring, dealer install) + Buy-on-Amazon for SKUs that exist there. Split UPS budget from solar budget so solar ROAS is not diluted by OPTT clicks.",
-    "<b>Spec / claim nicks:</b> Category copy 'TOPCon up to 28.8%' is cell-lab territory, not a 180 Wp module. FAQ contradicts itself (TOPCon = 180 Wp compact vs 550 Wp Mono PERC). 'ost-effective'. Catalogue buttons go to #. Homepage /solar-solutions vs /solar-solution. DCR Rs.18,750 vs non-DCR Rs.37,400 needs a one-line why or it looks like a pricing error."
+    "<b>Subsidy leak on the actual product page (Day-1, confirmed 14 Sep 2026):</b> /solar-solution FAQ Q6 is one of the better CFA write-ups in ",
+    "<b>Wrong landing for solar spend:</b> okaya.co.in is dead. okaya.in hero is shop, inverter-battery combo, XBD, CBH, then solar. Shop feature",
+    "<b>Shop vs brand is a return machine:</b> Brand listing: 550 Wp warranty 144 months. Shop DCR PDP: Warranty (In Months) = 30. Brand FAQ: 12-",
+    "<b>0+ counters and a 110M claim on the same domain:</b> /contact-us/ renders 0k+ dealer network, 0+ years of Experrience (typo), 0+ sales te",
+    "<b>WhatsApp is a chip, not the funnel:</b> Day-1 dest = Website. Widget is 'Chat with us' / wa.me/9818909090. PDP Enquire now is a hash. Con"
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Okaya"],
-    ["Luminous / Microtek / Livguard", "Solar is a first-class Amazon + dealer category. Microtek's leak was no marketplace CTA; they still out-rank you on 'solar inverter' search. Luminous wins service-network comparisons.", "You already have shop.okaya.in and Amazon combos. Put Buy-on-Amazon + DCR badge on the 3 kW GTI ad. Stop sending solar to a UPS homepage."],
-    ["Growatt / Solis / Sungrow", "Solar-native. 'Best 3 kW inverter 2026' lists are subsidy + warranty + monitoring. Okaya is not on those lists.", "Your 3 kW GTI is priced (Rs.86,400) and 10-year. That is the list. Lead the ad with 3 kW + DCR 550 Wp kit, not XBD tubular."],
-    ["Waaree / Tata Power Solar", "Brand-level DCR + PM Surya Ghar in the nav. City installers. Buyers who fear 'inverter company doing solar' default here.", "Lead with DCR OP144MHB550W + MNRE-installer pairing. Do not pretend Okaya approves CFA."],
-    ["Okaya vs Okaya (shop)", "Brand site says 12-year / 144 months. Shop says 30 months. Zero reviews. Pincode gate. That PDP is the competitor.", "One warranty number. One DCR story. Reviews on the 3 kW and 550 Wp SKUs before you scale the 36 ads."]
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Okaya"
+    ],
+    [
+      "Luminous / Microtek / Livguard",
+      "Solar is a first-class Amazon + dealer category. Microtek's leak was no marketplace CTA; they still out-rank you on 'solar inverter' search. Luminous wins service-network comparisons.",
+      "You already have shop.okaya.in and Amazon combos. Put Buy-on-Amazon + DCR badge on the 3 kW GTI ad. Stop sending solar to a UPS homepage."
+    ],
+    [
+      "Growatt / Solis / Sungrow",
+      "Solar-native. 'Best 3 kW inverter 2026' lists are subsidy + warranty + monitoring. Okaya is not on those lists.",
+      "Your 3 kW GTI is priced (Rs.86,400) and 10-year. That is the list. Lead the ad with 3 kW + DCR 550 Wp kit, not XBD tubular."
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: DCR + Rs.78,000 module on 3 kW GTI / 550 Wp PDPs, solar landing, WhatsApp CTA", "On solar-gti-3kw-p1, 3.4 kW, and OP144MHB550W-DCR: 'DCR panel + 3 kW GTI can sit in a PM Surya Ghar system (eligible for up to Rs.78,000 via an MNRE installer). Okaya does not approve subsidy.' Hero of solar ads = that kit, not XBD. Ad URL = /solar-solution or shop/solar-solution.html. CTA = WhatsApp 9818909090 or Add to Cart. Fix contact 0+ counters. Expected: stop FAQ-only subsidy; 20-35% more qualified solar chats at the same spend.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: One warranty table, kit SKU, split UPS vs solar", "Align shop 30-month vs brand 144-month / 12+30 year. Explain DCR Rs.18,750 vs non-DCR Rs.37,400 in one line. Bundle: 6 x 550 Wp DCR + 3 kW GTI as a 3 kW residential kit with EMI. Kill 3 kW (Ah), ost-effective, Experrience, 28.8% TOPCon, /solar-solutions 404, catalogue #. Separate Meta campaigns: Power Pair/UPS vs Solar. Expected: fewer returns; solar ROAS you can actually read.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: Amazon + rooftop UGC + 60-day DPA", "Syndicate Amazon 4.4 combo proof; get first reviews on shop GTI/DCR (login-wall is killing them). 10 Reels: 6-panel DCR roof, GTI app, dealer install, CBH is UPS-only so do not mix. Audiences: (i) solar LP no ATC/WA, (ii) 3 kW PDP no enquire, (iii) cart no buy - 60 days, DPA of live solar SKUs. Dealer ads to the 32k network for PM Surya Ghar installs (they close CFA, you sell the box). Expected: cheaper solar CPL; shop conversion; stop 110M claim being the only social proof on a 0-review PDP.", "#6D28D9", "#F5F3FF"]
+    [
+      "WIN 1 - 48 hours: DCR + Rs.78,000 module on 3 kW GTI / 550 Wp PDPs, solar landing, WhatsApp CTA",
+      "On solar-gti-3kw-p1, 3.4 kW, and OP144MHB550W-DCR: 'DCR panel + 3 kW GTI can sit in a PM Surya Ghar system (eligible for up to Rs.78,000 via an MNRE installer). Okaya does not approve subsidy.' Hero o",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 - 7 days: One warranty table, kit SKU, split UPS vs solar",
+      "Align shop 30-month vs brand 144-month / 12+30 year. Explain DCR Rs.18,750 vs non-DCR Rs.37,400 in one line. Bundle: 6 x 550 Wp DCR + 3 kW GTI as a 3 kW residential kit with EMI. Kill 3 kW (Ah), ost-e",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - 14 days: Amazon + rooftop UGC + 60-day DPA",
+      "Syndicate Amazon 4.4 combo proof; get first reviews on shop GTI/DCR (login-wall is killing them). 10 Reels: 6-panel DCR roof, GTI app, dealer install, CBH is UPS-only so do not mix. Audiences: (i) sol",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
   ],
   "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["3 kW PDP names CFA/DCR", "No (FAQ on hub only)", "Badge on GTI + DCR SKU", "Day-1 leak closed"],
-    ["Solar click landing", "UPS homepage", "/solar-solution + shop", "Stop wasted solar spend"],
-    ["Ad CTA", "Website / Enquire #", "WhatsApp + ATC", "Speed-to-lead"],
-    ["Shop vs brand warranty", "30 mo vs 144 mo", "One table", "Fewer returns"],
-    ["Cost per solar lead", "Diluted by UPS", "Solar-only + DPA", "ROAS you can defend"]
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "3 kW PDP names CFA/DCR",
+      "No (FAQ on hub only)",
+      "Badge on GTI + DCR SKU",
+      "Day-1 leak closed"
+    ],
+    [
+      "Solar click landing",
+      "UPS homepage",
+      "/solar-solution + shop",
+      "Stop wasted solar spend"
+    ],
+    [
+      "Ad CTA",
+      "Website / Enquire #",
+      "WhatsApp + ATC",
+      "Speed-to-lead"
+    ],
+    [
+      "Shop vs brand warranty",
+      "30 mo vs 144 mo",
+      "One table",
+      "Fewer returns"
+    ]
   ],
   "outreach": [
-    ["Subject A (Roast-Audit): your 3 kW inverter page still will not say Rs.78,000", "Hi Akshay / Okaya growth / e-com team,\n\nI spent 45 minutes on okaya.in and shop.okaya.in this morning (14 Sep 2026). 110M customers, 32k dealers, GTI 10-year, DCR 550 Wp, WhatsApp 9818909090 on every page. The solar SKU pages are not at that standard.\n\nLeaks, all live:\n1. Day-1 leak, confirmed: /solar-solution FAQ Q6 has the full PM Surya Ghar table (cap Rs.78,000, DCR, confirm MNRE). The 3 kW GTI PDP (Rs.86,400) has none of it. Shop DCR 550 Wp says 'tenders', not residential CFA.\n2. okaya.co.in did not load. okaya.in hero is UPS/combo/XBD/CBH. Solar is the fifth banner. Day-1 dest = Website. WhatsApp is a chip.\n3. Shop DCR warranty = 30 months. Brand listing = 144 months / 12-year product. Contact counters = 0k+ / 0+ next to a 110M claim.\n4. 3 kW and 3.4 kW are the same price. Related cards say '3kW (Ah)'. TOPCon '28.8%'. Catalogue buttons go to #.\n5. Do not print Rs.78,000 as an Okaya discount. DCR + MNRE installer is the honest line.\n\n3-page-plus confidential audit, 3 fixes (DCR badge + solar landing + WhatsApp, one warranty/kit SKU, Amazon/UGC/DPA). Shall I WhatsApp it to 9818909090? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi Okaya team - 4 minutes on okaya.in. First 20 seconds: solar FAQ has Rs.78,000, the 3 kW GTI page does not. Next minute: homepage is UPS, Enquire is a hash, WhatsApp 9818909090 is a chip. Last 90 seconds: shop says 30-month warranty, brand says 144, contact page says 0 dealers. Want the link on WhatsApp 9818909090? No call.\""],
-    ["Subject C (FOMO): Growatt/Solis own the 3 kW subsidy lists while your Meta still sells XBD tubulars", "Hi,\n\nAuditing D2C solar funnels this week. Okaya already has the 3 kW SKU (Rs.86,400, 10-year, BIS) and a DCR 550 Wp at Rs.18,750. That is the PM Surya Ghar kit. Growatt/Solis/Sungrow own the 'best 3 kW 2026' roundups because they put subsidy + warranty on the first screen.\n\nYour hub FAQ is good. Your PDP is a blank. Your ads still land on Power Pair. Luminous/Microtek will take the Amazon click.\n\n3 fixes in 7 days: DCR badge on the 3 kW page, solar landing, WhatsApp as ad CTA. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+    [
+      "Subject A (Roast-Audit): your 3 kW inverter page still will not say Rs.78,000",
+      "Hi Akshay / Okaya growth / e-com team,\n\nI spent 45 minutes on okaya.in and shop.okaya.in this morning (14 Sep 2026). 110M customers, 32k dealers, GTI 10-year, DCR 550 Wp, WhatsApp 9818909090 on every page. The solar SKU pages are not at that standard.\n\nLeaks, all live:\n1. Day-1 leak, confirmed: /solar-solution FAQ Q6 has the full PM Surya Ghar table (cap Rs.78,000, DCR, confirm MNRE). The 3 kW GTI PDP (Rs.86,400) has none of it. Shop DCR 550 Wp says 'tenders', not residential CFA.\n2. okaya.co.in did not load. okaya.in hero is UPS/combo/XBD/CBH. Solar is the fifth banner. Day-1 dest = Website. WhatsApp is a chip.\n3. Shop DCR warranty = 30 months. Brand listing = 144 months / 12-year product. Contact counters = 0k+ / 0+ next to a 110M claim.\n4. 3 kW and 3.4 kW are the same price. Related cards say '3kW (Ah)'. TOPCon '28.8%'. Catalogue buttons go to #.\n5. Do not print Rs.78,000 as an Okaya discount. DCR + MNRE installer is the honest line.\n\n3-page-plus confidential audit, 3 fixes (DCR badge + solar landing + WhatsApp, one warranty/kit SKU, Amazon/UGC/DPA). Shall I WhatsApp it to 9818909090? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi Okaya team - 4 minutes on okaya.in. First 20 seconds: solar FAQ has Rs.78,000, the 3 kW GTI page does not. Next minute: homepage is UPS, Enquire is a hash, WhatsApp 9818909090 is a chip. Last 90 seconds: shop says 30-month warranty, brand says 144, contact page says 0 dealers. Want the link on WhatsApp 9818909090? No call.\""
+    ],
+    [
+      "Subject C (FOMO): Growatt/Solis own the 3 kW subsidy lists while your Meta still sells XBD tubulars",
+      "Hi,\n\nAuditing D2C solar funnels this week. Okaya already has the 3 kW SKU (Rs.86,400, 10-year, BIS) and a DCR 550 Wp at Rs.18,750. That is the PM Surya Ghar kit. Growatt/Solis/Sungrow own the 'best 3 kW 2026' roundups because they put subsidy + warranty on the first screen.\n\nYour hub FAQ is good. Your PDP is a blank. Your ads still land on Power Pair. Luminous/Microtek will take the Amazon click.\n\n3 fixes in 7 days: DCR badge on the 3 kW page, solar landing, WhatsApp as ad CTA. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Correct domain is okaya.in (NOT okaya.co.in or okayapower.com \u2014 both returned fetch errors). Okaya Power Pvt Ltd founded 2002, D-8 Udyog Nagar Rohtak Road Delhi, phone 9818909090, care@okaya.in, 4 mfg plants 17 lakh sq ft, CBH-certified backup, XBD+ batteries, solar solutions (off-grid/on-grid inverters, panels, solar batteries, solar tubbies), E-Rickshaw batteries. Awards: Most Desired Brand 2020, IESA Emerging Co 2019, Most Trusted Brand 2025-26. FB page @OkayaPowerOfficial. E-commerce shop (shop.okaya.in). Banners include CBH, XBD, warranty registration, combo offers. Solar is one category; no dedicated solar push visible in ads (0 visible via Meta \"Okaya Solar\" search)."
 }

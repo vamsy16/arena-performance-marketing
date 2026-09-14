@@ -7,67 +7,86 @@
   "state": "Karnataka",
   "capacity": "2.4-4.3 kW PowerGazebo; PowerRoof residential",
   "active_ads": 27,
-  "ads_active": 27,
+  "ads_active": 0,
   "destination": "Lead Form (India site HTTP 500 as of 14 Sep 2026)",
   "spend_est": "8-20L/mo",
   "spend": "Rs.8-20 L/mo",
-  "revenue": "Rs.25 Cr (FY23)",
-  "niche": "Premium solar · BLR",
+  "revenue": "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch.",
+  "niche": "Premium solar \u00b7 BLR",
   "leak": "India ads run off a US gazebo site; arkaenergy.in is HTTP 500; no PM Surya Ghar hook; thin India brand page",
   "data_source": "seed-real + live site review 2026-09-14",
   "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 7,
+  "score": 0,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Arka+Energy",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=arkaenergy.com",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "HIGH - owner-led local EPC, lead volume = revenue, fast reply",
+  "pitch_fit": "DNU",
   "found_at": "2026-09-14T06:02:34.805516",
   "day_found": 1,
   "audit_date": "2026-09-14",
   "lead_number": 3,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for Arka Energy India: fix arkaenergy.in, geo-split IN vs US traffic, subsidy-first WhatsApp creatives for Bengaluru villas, Pixel/CAPI + 60-day retargeting. Priced against <b>cost per site survey</b>, not impressions.",
-  "ad_intro": "Arka Energy (INDARKA ENERGY Pvt Ltd, Koramangala) is a Bengaluru-founded (2021, CEO Surya Potharaju) premium solar-structures brand: <b>PowerGazebo</b> (2.4-4.3 kW) and <b>PowerRoof</b> glass tiles. Tracxn: <b>85 staff (Apr 2026)</b>, <b>Rs.25 Cr FY23</b>. Day-1 file 14 Sep 2026: <b>7/10 HOT</b>, ~27 ads, Rs.8-20 L/mo, pitch_fit HIGH.<br/><br/><b>Live check 14 Sep 2026:</b> <font face='Courier'>arkaenergy.in</font> returns <b>HTTP 500</b> (homepage and /products/powergazebo/). <font face='Courier'>arkaenergy.com</font> is a live <b>US</b> Webflow site - hero 'favourite among home owners across the US', 30% Federal tax credit, $2,400-2,500/year, Michigan testimonials, CTA = Book a Call. India IG handle in the Day-1 file (@arkaenergy) is not the brand; live IG is <b>@arkaenergy.inc</b> (9,134 followers) - 'America's Favourite Backyard Upgrade'.<br/><br/><b>Three leaks:</b> (1) India Meta spend is feeding a US-dollar funnel or a 500ing .in domain; (2) neither site names PM Surya Ghar / Rs.78,000 / BESCOM - India FAQ only said 'various subsidies'; (3) no India brand page, Lead Form not WhatsApp 9611049389, Justdial 4.3/20 vs 85 staff. Fixable in 7-14 days. <i>Ad counts are Day-1 estimates - verify in Meta Ad Library before quoting.</i>",
+  "cta_body": "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch.",
+  "ad_intro": "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch.",
   "ad_intelligence": [
-    ["Active platforms", "Meta primary (IN). IG @arkaenergy.inc is US-positioned (9,134 / 191 posts). FB facebook.com/arkaenergy.inc. LinkedIn ~2,060. YouTube @arkaenergy ~200 subs. Justdial 4.3 / 20, WhatsApp on listing. Day-1 IG @arkaenergy was wrong."],
-    ["Active ads (est.)", "~27 creatives by Day-1 signature, CTA = Lead Form, spend Rs.8-20 L/mo est. Verify live count in Meta Ad Library India (active) + Google Ads Transparency (arkaenergy.com) before pitching."],
-    ["Funnel / site (14 Sep)", "arkaenergy.in = HTTP 500. Cached India page (Jul 2025): PowerGazebo + PowerRoof, Get a Quote, FAQ 'various subsidies' with no rupee number. .com = US Book-a-Call form, 30% ITC, $ savings. Phone +91 9611049389, info_india@arkaenergy.com, 230/A 18th Main Koramangala 560095."],
-    ["Product + unused proof", "PowerGazebo SKUs: Riviera 2.4 kW / Laguna 3.0 / Malibu 3.7 / Daytona 4.3. 25-yr tile warranty, 150-175 MPH. Proof not paid in IN: Sarjapur villa (SunEdison 2022), Hyderabad gazebos, Shalabh Kumar 42 Mark One Bengaluru testimonial, GST 29AAFCI8867F1Z0."]
+    [
+      "Status",
+      "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch."
+    ]
   ],
   "scores": {
-    "Subsidy & Scheme Clarity": [2, "#EF4444"],
-    "WhatsApp / Speed-to-Lead": [3, "#EF4444"],
-    "Social Proof (Installs)": [3, "#EF4444"],
-    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
-    "Landing Page & Form CRO": [2, "#EF4444"],
-    "Tracking & Retargeting": [3, "#EF4444"]
+    "DNU": [
+      0,
+      "#EF4444"
+    ]
   },
   "findings": [
-    "<b>Geo / domain leak (critical, 14 Sep 2026):</b> arkaenergy.in is HTTP 500. arkaenergy.com is a US backyard-gazebo site (Federal ITC, $, Michigan reviews). India ads that land on .com ask a BESCOM villa owner to 'claim a 30% federal tax credit'. Day-1 leak matches: no dedicated India brand page - the live IG/FB are @arkaenergy.inc (US).",
-    "<b>Subsidy leak:</b> Cached India FAQ: 'Yes, various subsidies and incentives are available. Our team will guide you.' No PM Surya Ghar, no Rs.78,000, no BESCOM net-meter. SolarSquare's Karnataka page leads with the number and shows 1,092 Bangalore properties on the national portal (21 Apr 2026). A 3.0 kW Laguna gazebo is subsidy-eligible in size - the hook is unused.",
-    "<b>WhatsApp + proof leak:</b> Ads go to a Lead Form; .com CTA is Book a Call. India WhatsApp 9611049389 sits on Justdial only. 85 staff and Rs.25 Cr, but JD 4.3/20 and YT 200. Sarjapur / Mark One / Hyderabad installs are not the ad."
+    "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch."
   ],
   "competitors": [
-    ["Competitor", "What they do better", "Signal for Arka"],
-    ["SolarSquare (Bengaluru)", "PM Surya Ghar in the nav. Karnataka city pages. 1,092 Bangalore properties / 4,050 kWp on the national portal as of 21 Apr 2026. 4.8 Google / 15,000+ ratings.", "India landing must name Rs.78,000 + BESCOM. Put Mark One / Sarjapur proof above the fold."],
-    ["Freyr Energy", "Live hero: 'Save Rs.1 Lakh' = Rs.78,000 subsidy + Rs.22,000. WhatsApp-first, calculator, EMI from Rs.1,466. Site is up.", "Lead with the rupee number even on a premium gazebo. Do not send IN traffic to a US ITC page."],
-    ["BESCOM-empanelled EPCs", "Kamal Solar / Eco Solar win the 'solar panel for home Bangalore' auction with subsidy + WhatsApp + 3-field forms. They are not competing on design - they are competing on the query Arka may be bidding.", "Split campaigns: lifestyle/villa vs commodity 3 kW. Premium creative, subsidy math, WhatsApp CTA."]
+    [
+      "n/a",
+      "Do not pitch",
+      "-"
+    ]
   ],
   "wins": [
-    ["WIN 1 - 48 hours: Fix .in, geo-split traffic, subsidy on the India hero", "Restore arkaenergy.in (stop the 500). India hero: 'Bengaluru villas - PowerRoof / PowerGazebo. 3 kW+ eligible for up to Rs.78,000 (PM Surya Ghar). WhatsApp for a site survey.' CTA = click-to-WhatsApp 9611049389. Geo-split Meta: IN -> .in, US -> .com. Expected: stop IN clicks dying on a US tax-credit page.", "#059669", "#ECFDF5"],
-    ["WIN 2 - 7 days: India brand page + subsidy/villa Meta batch, kill Lead Form as primary", "Stand up an India FB/IG (not only @arkaenergy.inc). 6 creatives in English + Kannada: (a) eligible for up to Rs.78,000 on 3 kW+, (b) Mark One / Sarjapur before-after, (c) Laguna 3.0 kW gazebo as outdoor room + bill offset, (d) Justdial 4.3. CTA = Send WhatsApp Message. Never promise subsidy approval. Expected: 25-40% more qualified villa enquiries at the same Rs.8-20 L spend.", "#F59E0B", "#FFFBEB"],
-    ["WIN 3 - 14 days: 3-field quote + Pixel on .in + 60-day retargeting", "Replace Book-a-Call / Lead Form with city + phone + monthly bill (then gazebo vs roof). Rebuild Pixel + CAPI on arkaenergy.in. Sequence: video 50% -> WhatsApp -> site-survey (30-90 day villa cycle). Push 30 Google reviews. Expected: lead->survey 15-20% to 28-35%; cheaper cost per installed kW.", "#6D28D9", "#F5F3FF"]
+    [
+      "Do Not Pitch",
+      "Remove from outreach list.",
+      "#EF4444",
+      "#FEE2E2"
+    ]
   ],
   "impact": [
-    ["Metric", "Current (est.)", "After Wins", "Impact"],
-    ["IN click -> relevant page", "US site or HTTP 500", ">90% to .in", "Geo-split + site restore"],
-    ["Cost per lead (Meta)", "Rs.250-450", "Rs.150-250", "~40% cheaper"],
-    ["Lead -> site survey", "15-20%", "28-35%", "WhatsApp in <5 min"],
-    ["Cost per installed kW won", "Rs.6,000-9,000", "Rs.3,500-5,500", "Same budget, more installs"]
+    [
+      "Metric",
+      "Current",
+      "After",
+      "Impact"
+    ],
+    [
+      "Status",
+      "DNU",
+      "-",
+      "-"
+    ]
   ],
   "outreach": [
-    ["Subject A (Roast-Audit): arkaenergy.in is HTTP 500 and .com is a US tax-credit page", "Hi Arka Energy team,\n\nI opened arkaenergy.in this morning (14 Sep 2026). It returns HTTP 500. arkaenergy.com is a live US site - 30% Federal tax credit, $2,400/year, Michigan reviews. If your India Meta ads (Day-1 file: ~27 creatives, Rs.8-20 L/mo est.) touch either URL, a BESCOM villa owner is being asked to claim a US tax credit.\n\nTwo more leaks:\n1. Neither site names PM Surya Ghar (up to Rs.78,000 on 3 kW). Your Laguna gazebo is 3.0 kW - the number fits. SolarSquare's Karnataka page leads with it.\n2. Ads go to a Lead Form. India WhatsApp 9611049389 and the Mark One / Sarjapur installs are not the ad. IG is @arkaenergy.inc ('America's Favourite Backyard Upgrade') - no India brand page.\n\n2-page confidential audit, 3 fixes (48-hour .in restore + geo-split, subsidy/villa WhatsApp ads, 3-field quote). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"],
-    ["Subject B (WhatsApp / Loom - 30 sec)", "\"Hi - 3 minutes on Arka Energy India. First 20 seconds: arkaenergy.in is HTTP 500. Next minute: arkaenergy.com asking Indians for a 30% US federal tax credit. Last minute: Mark One Bengaluru + Sarjapur villa proof that is not in the ads, and SolarSquare naming Rs.78,000. Want the link on WhatsApp 9611049389? No call.\""],
-    ["Subject C (FOMO): SolarSquare has 1,092 Bangalore properties on the PM Surya Ghar portal - you have a US Instagram", "Hi,\n\nAuditing rooftop solar funnels in Bengaluru this week. The installers pulling villa surveys all do 4 things Arka currently does not:\n1. An India website that loads (arkaenergy.in is 500 as of 14 Sep).\n2. Subsidy-first creative - eligible for up to Rs.78,000 - not a US ITC headline.\n3. Click-to-WhatsApp as the primary CTA, not a Lead Form / Book a Call.\n4. A dedicated India brand page (your live IG is @arkaenergy.inc, US).\n\n3 of these can be live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"]
-  ]
+    [
+      "Subject A (Roast-Audit): arkaenergy.in is HTTP 500 and .com is a US tax-credit page",
+      "Hi Arka Energy team,\n\nI opened arkaenergy.in this morning (14 Sep 2026). It returns HTTP 500. arkaenergy.com is a live US site - 30% Federal tax credit, $2,400/year, Michigan reviews. If your India Meta ads (Day-1 file: ~27 creatives, Rs.8-20 L/mo est.) touch either URL, a BESCOM villa owner is being asked to claim a US tax credit.\n\nTwo more leaks:\n1. Neither site names PM Surya Ghar (up to Rs.78,000 on 3 kW). Your Laguna gazebo is 3.0 kW - the number fits. SolarSquare's Karnataka page leads with it.\n2. Ads go to a Lead Form. India WhatsApp 9611049389 and the Mark One / Sarjapur installs are not the ad. IG is @arkaenergy.inc ('America's Favourite Backyard Upgrade') - no India brand page.\n\n2-page confidential audit, 3 fixes (48-hour .in restore + geo-split, subsidy/villa WhatsApp ads, 3-field quote). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi - 3 minutes on Arka Energy India. First 20 seconds: arkaenergy.in is HTTP 500. Next minute: arkaenergy.com asking Indians for a 30% US federal tax credit. Last minute: Mark One Bengaluru + Sarjapur villa proof that is not in the ads, and SolarSquare naming Rs.78,000. Want the link on WhatsApp 9611049389? No call.\""
+    ],
+    [
+      "Subject C (FOMO): SolarSquare has 1,092 Bangalore properties on the PM Surya Ghar portal - you have a US Instagram",
+      "Hi,\n\nAuditing rooftop solar funnels in Bengaluru this week. The installers pulling villa surveys all do 4 things Arka currently does not:\n1. An India website that loads (arkaenergy.in is 500 as of 14 Sep).\n2. Subsidy-first creative - eligible for up to Rs.78,000 - not a US ITC headline.\n3. Click-to-WhatsApp as the primary CTA, not a Lead Form / Book a Call.\n4. A dedicated India brand page (your live IG is @arkaenergy.inc, US).\n\n3 of these can be live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "DNU \u2014 arkaenergy.com is Arka Energy US (solar gazebos/carports), not an Indian residential EPC. Do not pitch."
 }

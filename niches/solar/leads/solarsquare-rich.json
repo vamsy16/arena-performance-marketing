@@ -2,12 +2,12 @@
   "brand": "SolarSquare",
   "website": "solarsquare.in",
   "instagram": "@solarsquare_india",
-  "segment": "Residential Rooftop Solar (full-stack)",
+  "segment": "A - Premium Residential Rooftop EPC (multi-state, well-funded)",
   "city": "Mumbai",
   "state": "Maharashtra",
   "capacity": "3-10 kW residential + housing societies + C&amp;I",
   "active_ads": 13,
-  "ads_active": "13",
+  "ads_active": 0,
   "destination": "Phone Call",
   "spend_est": "Rs.3-8 L/mo",
   "spend": "Rs.3-8 L/mo est.\n(Day-1) - likely low\npost Series C",
@@ -16,38 +16,38 @@
   "leak": "Landing page loads 4s+ on mobile 4G",
   "data_source": "verified-live-2026-09-14",
   "verify": "check Meta Ad Library before outreach",
-  "score": 6,
+  "score": 3,
   "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=SolarSquare",
   "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=solarsquare.in",
   "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "MEDIUM-HIGH - funded category leader, buys on CAC efficiency not ideas",
+  "pitch_fit": "LOW",
   "found_at": "2026-09-14T06:02:34.803687",
   "day_found": 1,
   "audit_date": "14 September 2026",
   "lead_number": 17,
   "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
   "cta_body": "SolarSquare does not need a new marketing story - the story is already the best in the category. It needs the homepage to stop printing zeros over it. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the render bug, the countdown risk and the city-page waste.",
-  "ad_intro": "SolarSquare is the strongest brand in this Day-1 cohort by a distance - <b>$53M Series C led by B Capital (16 Jun 2026)</b>, <b>$100M+ raised</b>, <b>~50,000 homes</b>, <b>Rs.1,000 Cr+ revenue run-rate</b>, <b>4.8 on Google from 15,000+ ratings</b>. Which is exactly why the findings below matter: this is not a brand that lacks proof, it is a brand whose <b>live homepage is printing its proof as the number zero</b>. Everything here was observed on solarsquare.in on 14 Sep 2026.",
+  "ad_intro": "Landing page fetched live: \"Bharat ki #1 Home Rooftop Solar\", GoodZero\u2122 \u20b98/unit money-back guarantee, 4.8\u2605 15,000+ Google ratings, WindPro Mount\u2122 IIT-Bombay approved 170 kmph, 1000+ employees, 10+ states, phone 983000-3000, FREE consultation. Meta Ad Library exact phrase \"SolarSquareEnergy\" returned no visible brand ads in India on Sep 14. Founders: IIT Bombay; investors Good Capital + Lowercarbon Capital. Brand is professionally run with strong product differentiators \u2014 pitch angle limited.",
   "ad_intelligence": [
     [
       "Live creatives",
-      "~13 active Meta ads (Day-1 estimate, 14 Sep 2026) - the largest creative pool in this cohort. Verify in Meta Ad Library India."
+      "~13 active Meta ads (Day-1 estimate, 14 Sep 2026) - the largest creative pool in this cohort. Verify in Meta Ad Library "
     ],
     [
       "Destination",
-      "Phone Call objective - strong for a full-stack closer, but it bypasses the on-site calculator and the 3D-design hook that actually differentiate the brand."
+      "Phone Call objective - strong for a full-stack closer, but it bypasses the on-site calculator and the 3D-design hook tha"
     ],
     [
       "Funnel assets",
-      "Genuinely best-in-class: pincode + bill solar calculator, free 3D rooftop design, Experience Centre booking, real-time monitoring app on Play Store, Refer &amp; Earn, webinars, Solar Pro partner programme, and ~60 city landing pages."
+      "Genuinely best-in-class: pincode + bill solar calculator, free 3D rooftop design, Experience Centre booking, real-time m"
     ],
     [
       "Positioning",
-      "GoodZero - 'India's only Guaranteed Solar Savings Plan' with generation guarantee or Rs.8/unit money back, Rs.0 repair and replacement, WindPro Mount tested to 170 kmph and approved by IIT Bombay."
+      "GoodZero - 'India's only Guaranteed Solar Savings Plan' with generation guarantee or Rs.8/unit money back, Rs.0 repair a"
     ],
     [
       "Scale",
-      "31 cities across 10 states. Founded 2015 by Shreya Mishra, Neeraj Jain and Nikhil Nahar. Backers: B Capital, Lightspeed, Elevation, Lowercarbon, Rainmatter by Zerodha, Good Capital."
+      "31 cities across 10 states. Founded 2015 by Shreya Mishra, Neeraj Jain and Nikhil Nahar. Backers: B Capital, Lightspeed,"
     ]
   ],
   "scores": {
@@ -77,13 +77,11 @@
     ]
   },
   "findings": [
-    "<b>1. The homepage social-proof counters render as 0 - all four of them.</b> This is the single most expensive bug on the site. Under 'Powering Homes Across India', the live page on 14 Sep 2026 shows <b>'0 +' Homes Solarized</b>, <b>'0 + MW' Power Installed</b>, <b>'0 + Cr' Subsidy Delivered</b>, and <b>'0 Home Solar On National Portal'</b>. These are odometer widgets that animate on scroll and are failing to populate, so a visitor arriving from a Rs.500-a-click ad sees a solar company advertising that it has solarized zero homes. The true numbers - ~50,000 homes, Rs.1,000 Cr+ run-rate, India's largest residential rooftop portfolio - are the company's entire competitive moat, and the hero section of the site is actively contradicting them. Every rupee of paid traffic is landing on this.",
-    "<b>2. The subsidy page runs a countdown clock that misrepresents the scheme - and it is a compliance risk, not just a CRO one.</b> The PM Surya Ghar page opens with <b>'Hurry Up! This Scheme Ends Soon'</b> and a live ticking timer reading <b>198 days, 15 hours, 56 mins</b> to a 'Last day to Avail the offer: March 31, 2027'. PM Surya Ghar is a Rs.75,021 crore central scheme targeting one crore households; 31 Mar 2027 is a fiscal-year boundary for the current sanction, not an announced closure of the subsidy. Presenting a government scheme as expiring in 198 days to manufacture urgency is the kind of claim that draws ASCI complaints and Meta ad rejections - and for a category-leading, VC-backed brand heading toward an IPO narrative, that is a disproportionate risk for a few extra leads. The rest of the page is excellent (correct Rs.78,000 ceiling, DBT explained, 'no agents, no commissions, no hidden deductions'), which makes the countdown the one thing worth deleting.",
-    "<b>3. The Day-1 leak is real but has moved: the page is heavy, and the calculator is a dead end for most visitors.</b> The homepage pulls large .webp hero assets from two different CDN hosts (cdn.solarsquare.in and dn5z2jafg7hv0.cloudfront.net), loads separate desktop and mobile heroes, an embedded YouTube testimonial, an animated map, an app preview and an odometer library - which is where the 4s+ mobile 4G load originates. Worse, the pincode calculator's failure state is a hard stop: <b>'Oh! We haven't reached your location yet'</b>. With 31 cities live, a large share of the paid traffic from a national campaign hits that wall and leaves with nothing - no waitlist capture, no email, no notify-me. You pay for the click, discover the lead is out of area, and then let them go without capturing the data.",
-    "<b>4. The city navigation has cities filed under the wrong state - twice, in the primary menu.</b> Under <b>Maharashtra</b>, the live dropdown lists <b>Bhopal</b> and <b>Gwalior</b> as the first two entries. Both are Madhya Pradesh cities, and both are also correctly listed under the Madhya Pradesh dropdown on the same menu. This is a copy-paste error in the highest-traffic navigation element on a site with roughly 60 city landing pages, and it damages exactly the local-intent SEO those pages exist to win.",
-    "<b>5. There is no WhatsApp anywhere in the funnel, in a category where WhatsApp is the default channel.</b> The site offers Phone Call ads, a 'Get a FREE Consultation' form, 'Schedule a FREE Visit' and 'Book My Visit' - all of which require the customer to commit to a scheduled interaction with a salesperson. There is no low-friction chat option. Every other brand in this cohort has a WhatsApp entry point; a homeowner researching a Rs.2-4 lakh purchase at 10pm has no way to ask one question. Phone-call-only also means speed-to-lead is capped by call-centre hours, and it forfeits the cheapest re-engagement channel available in India.",
-    "<b>6. The proof that is displayed is thin next to the proof that exists.</b> The homepage carries three text testimonials (Santosh Singh, Dr. Sudhakar Shukla, Samir Patil) and one YouTube video (Mahendra Thakre, 'bills down from Rs.4000 to Rs.300'). That is four customers shown out of ~50,000 served and 15,000+ Google ratings. The strongest quantified line on the page - 'bills dropped from Rs.18,000 to Rs.0, 50-55 units generated daily' - is buried in a carousel rather than being the creative. The '90% of our customers recommend us' stat has no source or sample attached to it.",
-    "<b>7. Two claims need a visible substantiation line before a competitor forces one.</b> The page title asserts <b>'Bharat ki #1 Home Rooftop Solar Company'</b> and the trust block asserts <b>'India's only solar company that offers a Savings Guarantee with a money-back promise'</b>. Both are defensible given the company's scale and the GoodZero structure - but neither carries a footnote, a basis, or a dated source on the page. Superlative and exclusivity claims of this kind are the most commonly challenged under ASCI, and the fix is a one-line asterisk, not a retreat from the positioning."
+    "<b>1. The homepage social-proof counters render as 0 - all four of them.</b> This is the single most expensive bug on the site. Under 'Power",
+    "<b>2. The subsidy page runs a countdown clock that misrepresents the scheme - and it is a compliance risk, not just a CRO one.</b> The PM Su",
+    "<b>3. The Day-1 leak is real but has moved: the page is heavy, and the calculator is a dead end for most visitors.</b> The homepage pulls la",
+    "<b>4. The city navigation has cities filed under the wrong state - twice, in the primary menu.</b> Under <b>Maharashtra</b>, the live dropdo",
+    "<b>5. There is no WhatsApp anywhere in the funnel, in a category where WhatsApp is the default channel.</b> The site offers Phone Call ads, "
   ],
   "competitors": [
     [
@@ -106,38 +104,24 @@
       "Yes - savings report",
       "Two numbers",
       "OK"
-    ],
-    [
-      "ZunRoof / Zunsolar",
-      "Yes - 40% error",
-      "Yes",
-      "Yes",
-      "OK"
-    ],
-    [
-      "Solar Universe India",
-      "None",
-      "None",
-      "Broken link",
-      "N/A"
     ]
   ],
   "wins": [
     [
       "48 hours - fix the zeros and kill the countdown",
-      "Repair the odometer so the homepage prints 50,000+ homes, the real MW figure and the real subsidy crore figure - or hard-code them as static text until the script is fixed. A static number always beats an animated zero. Delete the 'This Scheme Ends Soon' countdown from the PM Surya Ghar page and replace it with 'Subsidy is first-come, first-served against a national target' which is both true and urgent. Move Bhopal and Gwalior out of the Maharashtra menu.",
+      "Repair the odometer so the homepage prints 50,000+ homes, the real MW figure and the real subsidy crore figure - or hard-code them as static text until the script is fixed. A static number always beat",
       "#059669",
       "#ECFDF5"
     ],
     [
       "7 days - add WhatsApp and stop losing out-of-area traffic",
-      "Put one attributable WhatsApp number on the site and in every creative with a pre-filled message carrying the city and ad ID. Change the calculator's out-of-area state from a dead end into a capture: 'We are not in your city yet - leave your number and we will tell you the week we launch.' Those numbers become the launch list for cities 32 through 45, paid for by budget you have already spent. Add a static substantiation footnote under the #1 and 'only savings guarantee' claims.",
+      "Put one attributable WhatsApp number on the site and in every creative with a pre-filled message carrying the city and ad ID. Change the calculator's out-of-area state from a dead end into a capture: ",
       "#F59E0B",
       "#FFFBEB"
     ],
     [
       "14 days - convert the asset library into creative and cut national waste",
-      "You are sitting on the best raw material in the category and showing four customers. Build 20 assets: the Rs.18,000-to-Rs.0 bill story, the Rs.8/unit money-back guarantee, WindPro Mount at 170 kmph with the IIT Bombay approval, the free 3D design, the monitoring app, the Experience Centre walkthrough. Then geo-fence every campaign to the 31 live cities only, point ads at the city landing pages instead of a phone-call objective, and fire distinct events for calculator-start, calculator-complete, 3D-design-request and Experience-Centre-booking so the Series C money is optimising against mid-funnel intent rather than raw calls.",
+      "You are sitting on the best raw material in the category and showing four customers. Build 20 assets: the Rs.18,000-to-Rs.0 bill story, the Rs.8/unit money-back guarantee, WindPro Mount at 170 kmph wi",
       "#6D28D9",
       "#F5F3FF"
     ]
@@ -145,38 +129,33 @@
   "impact": [
     [
       "Metric",
-      "Today (14 Sep 2026)",
-      "After 30 days"
+      "Current",
+      "After",
+      "Impact"
     ],
     [
-      "Homepage counters",
-      "All four render 0",
-      "50,000+ homes, real MW"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "Subsidy urgency",
-      "False 198-day countdown",
-      "Accurate, compliant framing"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "Out-of-area visitors",
-      "Dead end, no capture",
-      "Waitlist for next 14 cities"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ],
     [
-      "WhatsApp",
-      "None",
-      "One attributable number"
-    ],
-    [
-      "Customers shown",
-      "4",
-      "20+ across 2 angles"
-    ],
-    [
-      "Menu accuracy",
-      "Bhopal/Gwalior under MH",
-      "Correct state mapping"
+      "See PDF",
+      "-",
+      "-",
+      "-"
     ]
   ],
   "outreach": [
@@ -192,5 +171,9 @@
       "Re: 1 lakh Indian homes go solar every 10 days. Your counter says 0.",
       "Hi Shreya,\n\nYou said it yourself in the Series C announcement: the category has inflected, and 1 lakh homes now go solar in India every 10 days.\n\nThat's the tailwind. Here's the tax on it.\n\nPM Surya Ghar now has 34,219 registered vendors, 50.06 lakh households done, 16,185 MW installed and 16,328 installs a day. Every one of those vendors is bidding on the same residential intent you are. The only durable defence is that a homeowner comparing four quotes instantly sees why you are the safe Rs.2-4 lakh decision.\n\nRight now, at that exact moment, your homepage shows them: 0 Homes Solarized.\n\nThe fix list is short - restore the counters, drop the false scheme countdown before someone screenshots it, add one attributable WhatsApp number, capture the out-of-area pincodes as a launch waitlist, and turn your 50,000 installs into 20 creatives instead of 4 testimonials.\n\nYou have already paid for all of this. It just isn't showing up.\n\n15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
     ]
-  ]
+  ],
+  "meta_ad_verified": true,
+  "landing_page_verified": true,
+  "verify_date": "2026-09-14",
+  "verify_notes": "Landing page fetched live: \"Bharat ki #1 Home Rooftop Solar\", GoodZero\u2122 \u20b98/unit money-back guarantee, 4.8\u2605 15,000+ Google ratings, WindPro Mount\u2122 IIT-Bombay approved 170 kmph, 1000+ employees, 10+ states, phone 983000-3000, FREE consultation. Meta Ad Library exact phrase \"SolarSquareEnergy\" returned no visible brand ads in India on Sep 14. Founders: IIT Bombay; investors Good Capital + Lowercarbon Capital. Brand is professionally run with strong product differentiators \u2014 pitch angle limited."
 }

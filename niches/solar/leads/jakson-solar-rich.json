@@ -1,0 +1,176 @@
+{
+  "brand": "Jakson Solar",
+  "website": "jakson.com (solar: jakson-solar.com)",
+  "instagram": "@solarbyjakson",
+  "segment": "B",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "capacity": "Rooftop EPC, 1.2 GW module manufacturing, C&amp;I / floating / carport / residential",
+  "active_ads": 26,
+  "ads_active": 26,
+  "destination": "Phone Call (1800 103 2600) + Website form (name, phone, email, pincode, capacity)",
+  "spend_est": "8-20L/mo",
+  "spend": "Rs.8-20 L/mo (est. - cross-check with Jakson; mixed diesel-gen + solar)",
+  "revenue": "Private; ~Rs.2,500-3,500 Cr group (est.); 2,000+ employees; 1.2 GW module plant",
+  "niche": "Solar EPC + Modules \u00b7 Noida (Jakson Group, since 1947)",
+  "leak": "No LinkedIn ABM layer while running broad Meta; residential + C&amp;I + diesel-gen ads mixed in one feed; no downloadable case study for facility heads; CTA is toll-free rather than WhatsApp/meeting-scheduler",
+  "data_source": "seed-real + live site review 2026-09-14",
+  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number. Verify the split between diesel-gen ads and solar ads.",
+  "score": 4,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Jakson+Solar",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=jakson.com",
+  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (residential channel partner - verify before quoting subsidy)",
+  "pitch_fit": "MEDIUM - C&amp;I, longer cycle, needs case-study + ABM angle",
+  "found_at": "2026-09-14T06:02:34.806208",
+  "day_found": 1,
+  "audit_date": "2026-09-14",
+  "lead_number": 23,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "Smart Pursuit will run a <b>30-day C&amp;I solar sprint</b> for Jakson: split diesel-gen / C&amp;I solar / residential solar into separate funnels, put downloadable kW-case-studies behind a one-field form, launch a LinkedIn ABM track against facility / finance heads in NCR/MH/GJ, and price against <b>qualified site surveys for 100 kW+ rooftops</b>, not impressions.\n\nNote: This audit is based on pre-existing lead data and has not yet been fully re-verified on the live Meta Ad Library as of Sep 14",
+  "ad_intro": "Jakson Group (Jaksons Ltd, CIN U31100UP1947PLC002707) is a Noida-based energy &amp; industrial group founded in 1947 by Jai Kishan Gupta and Satish Kumar Gupta; chairman Sameer Gupta, vice-chairman Sundeep Gupta. A-43, Yakubpur Rd, Hosiery Complex, Phase-2, Noida 201305. Four businesses: Powergen &amp; Distribution (diesel / gas generators - historically the flagship), Solar (modules + EPC), EPC (wider infra), Defence. ~2,000 employees (LinkedIn). Solar: 1.2 GW module manufacturing facility, Hel",
+  "ad_intelligence": [
+    [
+      "Active platforms",
+      "Meta FB+IG mixed diesel-gen + solar; LinkedIn for corporate/recruiting (under-used for C&amp;I demand-gen); Google Searc"
+    ],
+    [
+      "Active ads (est.)",
+      "~26 creatives by Day-1 signature, CTA = Phone Call / Visit Website, spend Rs.8-20 L/mo est. (estimate covers group spend"
+    ],
+    [
+      "Offer / SKUs (14 Sep)",
+      "Modules: Helia Plus bifacial, Helia NXT TOPCon (per jakson-solar.com). EPC: residential rooftop 3-10 kW, C&amp;I rooftop"
+    ],
+    [
+      "Funnel / site (14 Sep)",
+      "jakson.com opens with group hero (generators + solar + defence). /solar and jakson-solar.com outline modules/EPC. CTA = "
+    ],
+    [
+      "Audience / creative leak (Day-1)",
+      "Day-1 flagged 'No LinkedIn ABM layer while running broad Meta'. Confirmed: LinkedIn feed is corporate/PR/recruiting, not"
+    ],
+    [
+      "Proof assets sitting unused",
+      "77-year group, 1.2 GW module line, Helia bifacial/TOPCon, floating + carport portfolio, 2,000+ employees, large C&amp;I "
+    ]
+  ],
+  "scores": {
+    "Subsidy &amp; Scheme Clarity (residential)": [
+      4,
+      "#F59E0B"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      3,
+      "#EF4444"
+    ],
+    "C&amp;I Case-Study Proof": [
+      2,
+      "#EF4444"
+    ],
+    "Creative Variety &amp; Segment Split": [
+      3,
+      "#EF4444"
+    ],
+    "Landing Page &amp; Form CRO": [
+      3,
+      "#EF4444"
+    ],
+    "ABM (LinkedIn) &amp; Retargeting": [
+      2,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>No LinkedIn ABM while running broad Meta (Day-1 leak, confirmed):</b> A 500 kW factory rooftop in Greater Noida is not closed off an Inst",
+    "<b>Zero downloadable case studies by sector:</b> C&amp;I buyers ask three things before a site survey: who else in my industry have you done",
+    "<b>Diesel-gen and solar share one feed / one CTA:</b> jakson.com opens with generators. 1800 103 2600 answers both solar and DG. A Meta clic",
+    "<b>Calls (1800) instead of WhatsApp + a scheduler:</b> For residential 3-10 kW, 9pm enquiries do not call 1800. For C&amp;I, facility heads ",
+    "<b>Subsidy messaging is a content page, not the residential hero:</b> PM Surya Ghar (up to Rs.78,000 on 3 kW) is in residential content bloc"
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Jakson"
+    ],
+    [
+      "Fourth Partner Energy / CleanMax / Amp Energy",
+      "C&amp;I pure-plays with open-access and OPEX models; gated case studies; strong LinkedIn ABM to facility/finance heads.",
+      "Beat them with hybrid solar+DG wedge and the 77-year Noida trust."
+    ],
+    [
+      "Sunsure Energy / Ayana / Amplus",
+      "C&amp;I IPPs publish MW-by-sector reference sheets on their site and run LinkedIn lead-gen forms.",
+      "Publish kW-sector PDFs; LinkedIn ABM to the same titles."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - 7 days: Split diesel-gen vs solar funnels; WhatsApp + scheduler as CTA",
+      "Separate paid: diesel-gen campaigns -> /powergen; solar campaigns -> jakson-solar.com. 1800 stays; add WhatsApp (residential) and a /book-site-assessment Calendly (C&amp;I). Kill mixed creatives. Add ",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 - 14 days: 4 gated C&amp;I case studies + LinkedIn ABM pilot (NCR, 500 accounts)",
+      "Produce 4 PDFs: Auto Ancillary (Manesar 500 kW), Warehouse (Chakan 1.2 MW), Cold Storage (Rajkot 800 kW), School/Hospital (Noida 300 kW). Behind one field (work email). LinkedIn ABM: job titles Facili",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - 30 days: Hybrid solar+DG wedge campaign + retargeting + residential dealer layer",
+      "Launch a dedicated hybrid solar+DG playbook for the existing DG install base (10,000+ customers across India - cross-sell list): creative = 'DG running 8+ hours/day? Hybrid solar cuts runtime 60%'. Ru",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After Wins",
+      "Impact"
+    ],
+    [
+      "C&amp;I case studies gated",
+      "0 downloadable PDFs",
+      "4 sector PDFs + 1-field gate",
+      "Faculty-head trust asset"
+    ],
+    [
+      "LinkedIn ABM",
+      "PR/hiring only",
+      "Title-targeted, 500 NCR/MH/GJ accts",
+      "Reach the decision unit"
+    ],
+    [
+      "Diesel/solar split",
+      "Shared feed + 1800",
+      "Two funnels + WA + scheduler",
+      "Higher lead quality"
+    ],
+    [
+      "C&amp;I lead -> site survey",
+      "Low (cold call 1800)",
+      "Calendly + SDR &lt;24h",
+      "5-10 surveys/mo at 100 kW+"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A (Roast-Audit): Jakson has 77 years and 1.2 GW - and your Meta still sends solar buyers to a generator homepage",
+      "Hi Sameer / Sundeep / Jakson Solar marketing,\n\nI spent 40 minutes on jakson.com, jakson-solar.com and your Meta ad library this morning (14 Sep 2026). 77 years, 1.2 GW modules, Helia bifacial/TOPCon, floating + carport + C&amp;I, 2,000+ people - the trust is there. The C&amp;I funnel is not.\n\nLeaks, all live:\n1. No LinkedIn ABM while running broad Meta. A 500 kW Greater Noida factory does not close off an Instagram Reel; the facility + finance + plant heads are on LinkedIn, and your feed there is PR/hiring.\n2. Zero downloadable sector case studies. C&amp;I buyers ask 'who else in my industry and at what kW saving?' before letting you on site. There is no PDF behind a form.\n3. Diesel-gen and solar share one brand feed and one 1800 number. A Meta click from a solar search lands on the generator hero half the time.\n4. CTA is a toll-free call. Residential 9pm won't phone; C&amp;I facility heads will book a calendar before they cold-call.\n\n4-page confidential audit, 3 fixes (funnel split + WhatsApp/scheduler, 4 gated case studies + LinkedIn ABM pilot, hybrid solar+DG wedge). Shall I WhatsApp it to you or send a calendar link? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+    ],
+    [
+      "Subject B (WhatsApp / Loom - 30 sec)",
+      "\"Hi Jakson Solar team - 4 minutes on jakson-solar.com. First 20 seconds: group hero with generators, not solar. Next minute: no gated case studies, no Calendly, 1800 is the CTA. Last 90 seconds: LinkedIn is PR/hiring while Meta runs broad solar ads, and there is a 77-year + 1.2 GW story not being used against Fourth Partner / CleanMax. Want the link? No call.\""
+    ],
+    [
+      "Subject C (FOMO): the C&amp;I solar deals closing in Noida are won on LinkedIn case studies - Jakson is buying Meta and skipping the decision unit",
+      "Hi,\n\nAuditing C&amp;I rooftop-solar funnels this quarter. The teams winning 100 kW+ surveys in NCR are doing 4 things Jakson currently is not:\n1. LinkedIn ABM to facility + finance + works heads at 500-1,000 target accounts, not broad Meta.\n2. 4-6 downloadable sector PDFs (auto, pharma, warehouse, cold storage, school) behind a one-field gate.\n3. Separate funnels for diesel gen vs solar (no shared hero / no shared CTA).\n4. Hybrid solar+DG cross-sell into the existing install base instead of only cold Meta.\n\nJakson has the legacy and the module factory to execute all four inside 30 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+    ]
+  ],
+  "meta_ad_verified": false,
+  "landing_page_verified": false,
+  "verify_notes": "Ad counts and landing page observations NOT yet re-verified live on Sep 14. Pre-existing data; Meta Ad Library + landing page verification pending. Use as directional \u2014 confirm numbers before outreach."
+}
