@@ -1,0 +1,22 @@
+{
+  "brand": "Su-Kam Power Systems",
+  "website": "sukam.com",
+  "instagram": "@sukampower",
+  "segment": "C",
+  "city": "Gurugram",
+  "state": "Haryana",
+  "capacity": "1-10 kW",
+  "active_ads": 35,
+  "destination": "Lead Form",
+  "spend_est": "<1L/mo",
+  "leak": "No retargeting for cart abandoners (solar products have 30-60 day cycle)",
+  "data_source": "seed-real",
+  "verify": "check Meta Ad Library before outreach",
+  "score": 7,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Su-Kam+Power+Systems",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sukam.com",
+  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
+  "pitch_fit": "HIGH - D2C performance-led, judges you on CPL/ROAS",
+  "found_at": "2026-09-14T05:21:15.927974",
+  "day_found": 1
+}
