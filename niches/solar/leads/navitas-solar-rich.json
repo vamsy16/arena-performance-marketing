@@ -1,0 +1,196 @@
+{
+  "brand": "Navitas Solar",
+  "website": "navitassolar.in (dead) - live site is navitassolar.com",
+  "instagram": "@navitasgreen (not @navitassolar)",
+  "segment": "Solar Module Manufacturing + EPC (B2B / C&amp;I)",
+  "city": "Surat",
+  "state": "Gujarat",
+  "capacity": "3 GW p.a. modules, 40W-720W; 3 GW cell plant planned",
+  "active_ads": 24,
+  "ads_active": "24",
+  "destination": "Lead Form",
+  "spend_est": "Rs.20 L+/mo",
+  "spend": "Rs.20 L+/mo est.\n(Day-1) - unverified\nvs B2B funnel",
+  "revenue": "~Rs.1,300 Cr FY26\n(company-stated) -\nRs.1,500 Cr cell\ninvestment planned",
+  "niche": "Module Mfg + EPC -\nSurat / Ahmedabad,\n1,000+ clients",
+  "leak": "Ads target homeowners while also bidding on C&amp;I keywords - wasted budget",
+  "data_source": "verified-live-2026-09-14",
+  "verify": "check Meta Ad Library before outreach",
+  "score": 4,
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Navitas+Solar",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=navitassolar.in",
+  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
+  "pitch_fit": "MEDIUM - C&amp;I, longer cycle, needs case-study + ABM angle",
+  "found_at": "2026-09-14T06:02:34.803463",
+  "day_found": 1,
+  "audit_date": "14 September 2026",
+  "lead_number": 20,
+  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
+  "cta_body": "Navitas is about to put Rs.1,500 crore into solar cell manufacturing while its homepage tells visitors it has 0 GW of capacity and 0 customers. Reply to this email or WhatsApp 7095024220 for a 15-minute walkthrough of the counter bug, the dead domain and the B2B funnel that has no B2B in it.",
+  "ad_intro": "Navitas Solar is a genuine Indian manufacturing success story - founded 2013 in Surat, now <b>3 GW of annual module capacity</b>, roughly <b>Rs.1,300 crore of FY26 revenue</b> (up from Rs.291 crore in FY24), a <b>Rs.1,500 crore investment announced in Jun 2026</b> to enter solar cell manufacturing with pilot wafer-ingot production, and clients including <b>Indian Oil, ONGC, Tata Power, GAIL and HP</b>. On 14 Sep 2026 its homepage displays those achievements as: <b>0 GW capacity, 0 years of experience, 0 satisfied customers, 0 employees, 0 countries</b>. An estimated 24 live creatives are pointing at it.",
+  "ad_intelligence": [
+    [
+      "Live creatives",
+      "~24 active Meta ads (Day-1 estimate, 14 Sep 2026) at an estimated Rs.20 L+/month. Verify in Meta Ad Library India - and verify the spend, which looks high for a B2B module maker with no on-site conversion path."
+    ],
+    [
+      "Destination",
+      "Lead Form. The Day-1 domain <b>navitassolar.in fails to connect entirely</b> (SSL handshake error, no response); the live site is <b>navitassolar.com</b>. The Day-1 Google Ads Transparency link is therefore also pointed at a dead domain."
+    ],
+    [
+      "Instagram mismatch",
+      "The Day-1 record lists @navitassolar. The handle actually linked from the live site footer is <b>@navitasgreen</b> - a different name from the brand being advertised."
+    ],
+    [
+      "Real proof available",
+      "3 GW module capacity; Mono PERC, TOPCon, Bifacial and Multi-crystalline lines (40W-720W); subsidiary Navitas Alpha Renewables making encapsulants (backward integration); EPC arm Navitas Planet; energy storage via Renon India; 1,000+ clients; carbon-neutral organisation."
+    ],
+    [
+      "Corporate trajectory",
+      "FY22 Rs.161 Cr, FY23 Rs.202 Cr, FY24 Rs.291 Cr, FY25 ~Rs.643 Cr, FY26 ~Rs.1,300 Cr company-stated. Parishi Capital invested $4.7M for the Ahmedabad 2.5 GW plant. ALMM List-II for cells operationalised 1 Jun 2026 - the reason the cell investment matters."
+    ]
+  ],
+  "scores": {
+    "Subsidy &amp; Scheme Clarity": [
+      2,
+      "#EF4444"
+    ],
+    "WhatsApp / Speed-to-Lead": [
+      3,
+      "#EF4444"
+    ],
+    "Social Proof": [
+      3,
+      "#EF4444"
+    ],
+    "Creative Variety": [
+      5,
+      "#F59E0B"
+    ],
+    "Landing / CRO": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking &amp; Attribution": [
+      4,
+      "#F59E0B"
+    ]
+  },
+  "findings": [
+    "<b>1. Every single achievement counter on the homepage renders as zero.</b> The 'Company Overview' band is built from six animated odometers and on 14 Sep 2026 all six display <b>0</b>: <b>0 GW Annual Solar Module Capacity</b>, <b>0+ Years of Industry Experience</b>, <b>0+ Satisfied Customers Worldwide</b>, <b>0+ Dedicated Employees Workforce</b>, <b>0+ Countries' Market Presence</b>, and <b>0 GW Solar Cell Capacity by 2026</b>. The script that should count them up is not firing. The paragraph directly above says 3 GW and 13 years - so the page contradicts itself within one screen, and the contradiction resolves in favour of zero, because numbers in a stat band are what visitors actually read. For a manufacturer whose entire B2B pitch is scale, this is the worst possible failure mode.",
+    "<b>2. The domain in the Day-1 record is dead, and the ads may be pointing at it.</b> <b>navitassolar.in does not resolve</b> - the connection fails at the SSL handshake, with no response from either the bare host or the www subdomain. The live property is <b>navitassolar.com</b>. The Google Ads Transparency link in the lead record is built on the dead .in domain, which means any Google activity tracked against it is invisible. Before another rupee is spent, every creative destination, every UTM and every listing needs to be audited for which domain it actually carries.",
+    "<b>3. The Day-1 leak is confirmed, and the deeper problem is that the funnel serves neither audience.</b> The stub flags homeowner-targeted ads running alongside C&amp;I keyword bidding. The site makes that worse rather than resolving it: there is no residential path (no PM Surya Ghar page, no kW calculator, no subsidy slabs, no rooftop pricing) and no true B2B path either (no downloadable datasheets or IEC/BIS certificates on the homepage, no distributor or dealer application, no RFQ or bulk-quote form, no MOQ or lead-time information, no project case studies). Every route ends at the same generic 'Contact Us Now' button into a Lead Form. A homeowner cannot buy and a procurement head cannot specify.",
+    "<b>4. A 'Solar Cells (Upcoming)' tile links to nothing, in the middle of the company's biggest announcement.</b> In the Core Offerings carousel, the Solar Cells card points at <b>navitassolar.com/#</b> - a dead anchor. This is the single most newsworthy thing about Navitas right now: a <b>Rs.1,500 crore</b> investment announced in June 2026 to enter cell manufacturing with pilot wafer and ingot production, timed to <b>ALMM List-II for cells becoming operational on 1 June 2026</b>, which forces government-backed projects toward domestic cells. Developers are actively searching for who will have Indian cells. Navitas has the answer, has funded it, and links it to a hash.",
+    "<b>5. The capacity number changes depending on where you look - including inside the company's own materials.</b> The homepage says <b>3 GW</b>. The credit-rating summary for Navitas Green Solutions says <b>2 GW</b>. Inc42's profile still says <b>500 MW expanding to 1.7 GW</b>. Mercom reports the Ahmedabad plant going to <b>2.5 GW</b>. Revenue is similarly split: the company told the press about <b>Rs.1,300 crore in FY26</b>, while an unlisted-share research note projects <b>Rs.2,387 crore</b> for the same year. For a business courting institutional buyers, distributors and quite possibly public markets, having four live capacity figures in circulation is a due-diligence problem before it is a marketing one. Pick one, date it, and publish it as the canonical number.",
+    "<b>6. The awards wall is the largest element on the page and the least usable.</b> There are roughly twenty award images stacked with <b>no filtering, no dates in the layout, no explanatory text and no ordering</b> - and several are duplicated (the same MSME Excellence award twice, Gold Award June 2022 twice, the Suryacon Youth Leadership award three times). Their filenames are stored with <b>Unicode bold-math characters</b> and some carry a <b>double .jpg.jpg extension</b>, which means alt text is effectively unreadable and the images are invisible to search. Most of the awards are from 2022 and 2023; the strongest and most recent - <b>Solar Module Manufacturer of the Year, Chhattisgarh, January 2026</b> and <b>Best Solar Product Innovation Award, Global Solar Expo, November 2025</b> - are buried in the middle of the pile rather than leading it.",
+    "<b>7. Speed-to-lead and attribution are both unmanaged.</b> One phone number (+91 70 690 70 990) and one email sit in the header; there is <b>no WhatsApp</b>, no chat, no callback scheduler and no stated response time - for a category where a distributor enquiry or a 500 kW rooftop RFQ is worth lakhs and goes to whoever answers first. With a Lead Form objective and no on-site funnel, there are no mid-funnel events to optimise against: no datasheet download, no product-series view, no EPC enquiry, no distributor-application start. Meta is being handed raw form fills as its only signal, on an estimated Rs.20 lakh a month."
+  ],
+  "competitors": [
+    [
+      "Brand",
+      "Counters render",
+      "Datasheets on site",
+      "Cell roadmap page",
+      "Distributor path"
+    ],
+    [
+      "Navitas Solar",
+      "All six show 0",
+      "No",
+      "Links to '#'",
+      "None"
+    ],
+    [
+      "Waaree Energies",
+      "Yes",
+      "Yes - full library",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "Vikram Solar",
+      "Yes",
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "Goldi Solar",
+      "Yes",
+      "Yes",
+      "Yes",
+      "Yes"
+    ]
+  ],
+  "wins": [
+    [
+      "48 hours - fix the zeros, fix the domain, fix the dead link",
+      "Repair or hard-code the six counters so the page reads 3 GW, 13+ years and the real customer, employee and country figures - a static number beats an animated zero every time. Audit every ad destination and UTM for navitassolar.in and repoint to navitassolar.com, or restore the .in domain and 301 it. Point the 'Solar Cells (Upcoming)' tile at a real page instead of '#'. Correct the Instagram handle discrepancy between @navitassolar and @navitasgreen.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "7 days - build the cell-manufacturing page and split the two audiences",
+      "ALMM List-II went live on 1 June 2026 and developers are hunting for domestic cells right now. Ship one page on the Rs.1,500 crore cell and wafer-ingot investment with a timeline, target capacity and an 'early supply enquiry' form - that is the highest-intent B2B traffic available to you this quarter. Then separate the funnels: a B2B track with downloadable datasheets, IEC/BIS certificates, MOQ and lead times, a distributor application and an RFQ form; and a residential track with PM Surya Ghar slabs (Rs.30,000 / Rs.60,000 / Rs.78,000) and a kW calculator, routed through Navitas Planet. Stop paying for homeowner clicks that land on a module-manufacturer homepage.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "14 days - turn the client list and the growth curve into creative",
+      "Build 20 assets from proof you already own: Indian Oil, ONGC, Tata Power, GAIL and HP as clients; 3 GW capacity; revenue from Rs.291 Cr in FY24 to ~Rs.1,300 Cr in FY26; full integration from encapsulants (Navitas Alpha) through modules to EPC (Navitas Planet) and storage (Renon); Solar Module Manufacturer of the Year Chhattisgarh Jan 2026; carbon-neutral status. Lead the awards wall with the two 2026 and late-2025 wins and cut the duplicates. Run the B2B track on LinkedIn ABM against EPC firms, developers and distributors rather than broad Meta, add WhatsApp with a stated response time, and fire distinct events for datasheet-download, distributor-application and cell-enquiry.",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Today (14 Sep 2026)",
+      "After 30 days"
+    ],
+    [
+      "Homepage counters",
+      "All six render 0",
+      "3 GW, 13+ yrs, real figures"
+    ],
+    [
+      "Day-1 domain",
+      "navitassolar.in dead",
+      "Canonical .com everywhere"
+    ],
+    [
+      "Solar cell page",
+      "Tile links to '#'",
+      "Live page + supply enquiry"
+    ],
+    [
+      "B2B assets",
+      "No datasheets or RFQ",
+      "Datasheets, MOQ, distributor form"
+    ],
+    [
+      "Capacity claim",
+      "4 conflicting figures",
+      "One dated canonical number"
+    ],
+    [
+      "WhatsApp / response time",
+      "None stated",
+      "WA + published SLA"
+    ]
+  ],
+  "outreach": [
+    [
+      "Navitas Solar - your homepage says 0 GW capacity and 0 customers",
+      "Hi Vineet,\n\nI audited Navitas Solar's paid funnel this morning (14 Sep 2026). The headline is uncomfortable, so I'll lead with it.\n\nEvery achievement counter on your homepage renders as zero:\n  0 GW Annual Solar Module Capacity\n  0+ Years of Industry Experience\n  0+ Satisfied Customers Worldwide\n  0+ Dedicated Employees Workforce\n  0+ Countries' Market Presence\n  0 GW Solar Cell Capacity by 2026\n\nThe count-up script isn't firing. The paragraph directly above it says 3 GW and 13 years, so the page contradicts itself inside one screen - and visitors read the big numbers, not the paragraph. You're running ~24 live creatives into that.\n\nThree more from the same pass:\n\n1. navitassolar.in doesn't resolve at all - the connection dies at the SSL handshake. Your live site is navitassolar.com. Worth auditing every ad destination and UTM for which domain they actually carry.\n\n2. Your 'Solar Cells (Upcoming)' tile links to '#'. That's a Rs.1,500 crore investment, announced in June, timed to ALMM List-II going operational on 1 June 2026 - the single highest-intent thing a developer could search for right now, pointed at a dead anchor.\n\n3. Your capacity number is 3 GW on the site, 2 GW in your credit rating summary, 1.7 GW on Inc42 and 2.5 GW in Mercom's coverage of the Ahmedabad plant. Four live figures is a diligence problem before it's a marketing one.\n\nFY24 Rs.291 crore to FY26 Rs.1,300 crore, with Indian Oil, ONGC, Tata Power and GAIL as clients, is a genuinely great story. None of it is being told.\n\n15 minutes?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "WhatsApp / Loom script - 90 seconds",
+      "Hi Vineet - Smart Pursuit here, we do performance marketing only for solar brands.\n\nNinety seconds, one screen.\n\nI opened navitassolar.com today and scrolled to your Company Overview band. Zero GW capacity. Zero years of experience. Zero satisfied customers. Zero employees. Zero countries. All six counters stuck at zero, because the animation never fires. You've got 3 gigawatts of module capacity and you did thirteen hundred crore last year.\n\nAlso: navitassolar.in, the domain in most of the industry databases, doesn't even connect. And your Solar Cells tile - the fifteen-hundred-crore announcement, the one thing every developer is searching for since ALMM List Two went live in June - links to a hash symbol.\n\nThe other half of it is audience. You're bidding on homeowner terms and C and I terms at the same time, but the site serves neither. No subsidy page for a homeowner. No datasheets, no MOQ, no RFQ, no distributor form for a procurement head. Everything funnels into one generic contact form.\n\nIndian Oil, ONGC, Tata Power, GAIL. Two ninety-one crore to thirteen hundred crore in two years. That's the creative, and it's nowhere.\n\nI've got a one-page fix list. Want it?"
+    ],
+    [
+      "Re: ALMM List-II went live on 1 June. Your cell page links to '#'.",
+      "Hi Vineet,\n\nOne strategic note, because the window on this is open now and will not stay open.\n\nMNRE operationalised ALMM List-II for solar cells on 1 June 2026. Government-backed projects now have to source domestically made cells, and every developer and EPC in the country is working out who will actually have Indian cells to sell them in FY27 and FY28.\n\nNavitas announced a Rs.1,500 crore investment in June 2026 to enter cell manufacturing with pilot wafer and ingot production. You are one of a small number of companies that can credibly answer that question.\n\nOn your website, that answer is a carousel tile labelled 'Solar Cells (Upcoming)' that links to '#'.\n\nMeanwhile the homepage counters show 0 GW and 0 customers, the .in domain is dead, and the awards wall leads with 2022 certificates while burying Solar Module Manufacturer of the Year Chhattisgarh from January 2026.\n\nThe fix is not a rebrand. It is one cell-roadmap page with a supply-enquiry form, working counters, a datasheet library, and a LinkedIn ABM layer pointed at EPCs and developers instead of broad Meta - which is where an estimated Rs.20 lakh a month is currently going.\n\nWe work with solar brands only. 15 minutes this week?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+    ]
+  ]
+}
