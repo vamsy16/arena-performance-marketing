@@ -268,7 +268,7 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     story.append(Spacer(1,1*mm))
 
     # Quick wins
-    story.append(Paragraph("7. 3 QUICK WINS (Implement in 7 Days)", S["H2"]))
+    story.append(Paragraph(lead.get("wins_title", "7. 3 QUICK WINS (Implement in 7 Days)"), S["H2"]))
     wins = lead.get("wins", [
         ("WIN 1 - Creative: Deploy 15 UGC Reels", "Shoot 15 fifteen-second UGC/customer testimonials; replace 30% of stale creatives.", GREEN, GREEN_LIGHT),
         ("WIN 2 - CRO: Build a dedicated landing page", "Route ad traffic to a campaign-specific page with sticky CTA, social proof, and clear offer.", ORANGE, ORANGE_LIGHT),
