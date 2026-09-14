@@ -1,14 +1,14 @@
-# Amplus Solar - Outreach Templates (Smart Pursuit BD team)
+# Luminous Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/amplus-solar-audit-report.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/luminous-solar-audit-report.pdf` (Lead score 5/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Amplus Solar - Zero case-study / kW-installed proof in ads - C&I buyers need references
+### Subject A (Roast-Audit): Luminous Solar - No COD / EMI visibility in ads
 
 Hi,
 
-I spent 30 minutes on your Meta ad library and amplussolar.com. I found 3 leaks that are costing you enquiries:
+I spent 30 minutes on your Meta ad library and luminousindia.com. I found 3 leaks that are costing you enquiries:
 1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
 2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
 3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
@@ -17,13 +17,13 @@ I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to
 
 - Smart Pursuit
 
-P.S. One flag specific to Amplus Solar: Zero case-study / kW-installed proof in ads - C&I buyers need references
+P.S. One flag specific to Luminous Solar: No COD / EMI visibility in ads
 
 ---
 
 ### Subject B (WhatsApp / Loom - 30 sec)
 
-"Hi Amplus Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+"Hi Luminous Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
 
 ---
 
@@ -41,6 +41,6 @@ While auditing rooftop solar funnels in Gurugram, I found the fastest-growing in
 
 - Smart Pursuit
 
-Ref: Amplus Solar (amplussolar.com), Gurugram - verified in Meta Ad Library India.
+Ref: Luminous Solar (luminousindia.com), Gurugram - verified in Meta Ad Library India.
 
 ---
