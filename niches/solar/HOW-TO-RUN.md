@@ -59,6 +59,11 @@ discovered. If you enrich one (like `fenice-energy.json`) and later run `--reset
 finder will overwrite it on re-discovery — so save enriched versions as
 `<brand>-rich.json`. `solar_audit.py` accepts any filename.
 
+### Readable lead list
+
+`niches/solar/DAY-1-LEADS.md` — all 50 Day-1 leads in a clickable table (Ad Library + website
+links), grouped into PITCH FIRST (18) / SECOND WAVE (12) / SKIP (20).
+
 ### Curated starting shortlist
 
 `niches/solar/START-HERE-10-leads.csv` — the 10 `pitch_fit = HIGH` leads from Day 1,

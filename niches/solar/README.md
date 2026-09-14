@@ -11,6 +11,7 @@ root is untouched and keeps running in parallel.
 | **Full commands** | [`HOW-TO-RUN.md`](HOW-TO-RUN.md) |
 | **Strategy** | [`SOLAR-PLAYBOOK.md`](SOLAR-PLAYBOOK.md) |
 | **Templates** | [`templates/`](templates) — outreach, audit checklist, real-lead CSV |
+| **Day 1 leads** | [`DAY-1-LEADS.md`](DAY-1-LEADS.md) — all 50, clickable, grouped by pitch priority |
 
 ## What's in here
 
