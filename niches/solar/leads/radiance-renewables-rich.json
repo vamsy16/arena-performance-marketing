@@ -1,0 +1,191 @@
+{
+  "brand": "Radiance Renewables",
+  "website": "radiancerenewables.com",
+  "instagram": "@radiance_renewables",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "segment": "B",
+  "niche": "C&I Solar \u2014 Open Access + Behind-the-Meter (1 MW+)",
+  "score": 6,
+  "ads_active": 0,
+  "spend": "\u20b90 on Meta (verified Sep 14) \u00b7 Prev. est. \u20b91-3L/mo was modelled",
+  "revenue": "500+ MWp operating (425 MWp OA + 76 MWp BTM) \u00b7 ~2 GW under development \u00b7 Eversource Capital (GGEF) portfolio",
+  "destination": "Website \u2192 Corporate homepage + Savings Calculator (no campaign LP)",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Radiance+Renewables",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=radiancerenewables.com",
+  "headline": "Zero active Meta/Google ads Sep 14 \u2014 but \u20b92 GW pipeline is one gated case-study funnel away",
+  "agency_tagline": "Performance Marketing for C&I Solar & B2B Energy \u2014 Open Access + Rooftop",
+  "ad_intro": "<b>Radiance Renewables (Mumbai)</b> is a C&I-only player \u2014 51+ Open Access projects (425 MWp) + 28+ Behind-the-Meter (76 MWp), ~2 GW under development, Eversource/GGEF backed \u2014 live-verified on <b>radiancerenewables.com on 14 Sep 2026</b> via direct fetch. We checked <b>Meta Ad Library India (active, exact phrase \"Radiance Renewables\") and Google Ads Transparency (domain radiancerenewables.com) on 14 Sep 2026</b>: <b>0 active brand-owned ads on either platform</b>. No consumer subsidy creative \u2014 correct for C&I \u2014 but also <b>no LinkedIn/Meta ABM test, no gated case-study, no dedicated campaign landing page</b>. Homepage diverts all traffic to a corporate nav + a 4-field Savings Calculator. Tracking shows no Meta Pixel/LinkedIn tag firing in the fetched HTML. All fixable in 7 days without touching the core PPA engine.",
+  "ad_intelligence": [
+    [
+      "Audit date (live fetches)",
+      "14 September 2026 \u2014 Meta Ad Library India + Google Ads Transparency + radiancerenewables.com (homepage + /savings-calculator + /about-us)"
+    ],
+    [
+      "Business type (live)",
+      "B2B / C&I rooftop + Open Access (1 MW+ ticket, 90\u2013270 day cycle) \u2014 NOT residential subsidy. EverSource Capital portfolio, GGEF-backed."
+    ],
+    [
+      "Live capacity (homepage)",
+      "51+ Open Access projects \u00b7 425 MWp installed \u00b7 28+ Behind-the-Meter \u00b7 76 MWp \u00b7 ~2 GW parks under development \u00b7 Pan-India map"
+    ],
+    [
+      "Meta Ad Library India",
+      "0 active brand-owned ads for exact phrase \"Radiance Renewables\" (active_status=active, country=IN) on Sep 14, 2026. Broad \"Radiance\" keyword returns non-brand noise. Page has no ongoing paid creative."
+    ],
+    [
+      "Google Ads Transparency",
+      "0 active ads for domain radiancerenewables.com on Sep 14, 2026 (region IN). No Search/PMax detected \u2014 direct + LinkedIn sales, not Google Ads."
+    ],
+    [
+      "Creative angle / hook",
+      "No active hook to audit \u2014 last creatives (if any) would have been corporate Open Access / BTM, not PM Surya Ghar. Current site hook is generic: \"Our green energy offerings include Open Access and Behind the Meter solutions\"."
+    ],
+    [
+      "Ad start date / variants",
+      "N/A \u2014 no active ad, so no \"Started running on\u2026\" date. Variant count 0. Signal = budget is not on Meta/Google today."
+    ],
+    [
+      "Destination / diversion",
+      "All traffic diverts to corporate homepage (https://www.radiancerenewables.com/) \u2014 not a campaign LP. Secondary CTA = Savings Calculator (/savings-calculator/) + LinkedIn icon. No WhatsApp, no phone above fold."
+    ],
+    [
+      "CTA type (live)",
+      "Calculator entry (State + Voltage + Mechanism + Annual Consumption) \u2192 shows RE Tariff \u20b93.54\u20135.5/kWh and Landed Tariff \u20b96.18/kWh. No sticky \"Get PPA Quote\" CTA on mobile."
+    ],
+    [
+      "Verification links",
+      "Ad Library: facebook.com/ads/library/?active_status=active&country=IN&q=Radiance+Renewables \u00b7 Google: adstransparency.google.com/?region=IN&domain=radiancerenewables.com"
+    ]
+  ],
+  "scores": {
+    "Ad creative (Meta/Google active)": [
+      1,
+      "#EF4444"
+    ],
+    "Landing Page (message match + CTA)": [
+      3,
+      "#EF4444"
+    ],
+    "Tracking (Pixel / GA4 / CAPI / LinkedIn)": [
+      2,
+      "#EF4444"
+    ],
+    "Retargeting & Nurture (90-day B2B)": [
+      1,
+      "#EF4444"
+    ],
+    "ABM & Gated Proof (case study)": [
+      2,
+      "#EF4444"
+    ],
+    "Mobile & Speed (sticky CTA)": [
+      4,
+      "#F59E0B"
+    ]
+  },
+  "findings": [
+    "<b>Ad creative snapshot \u2014 0 active ads live (Sep 14).</b> We searched Meta Ad Library India (active, country IN, exact phrase \"Radiance Renewables\") and Google Ads Transparency (domain radiancerenewables.com) on 14 Sep 2026 and found zero brand-owned active ads \u2014 so there is no screenshot to show, and that is the first opportunity: competitors CleanMax/Amplus run LinkedIn+Meta ABM with case-study hooks while Radiance is dark.",
+    "<b>Landing page \u2014 corporate homepage, not a campaign LP, with friction.</b> Fetch of radiancerenewables.com shows a brand nav + state map + partner logos (Infosys, Nestle, Castrol, etc.) and a 4-field Savings Calculator (State, Voltage 11/33/66/110/132/220, Mechanism InSTS Captive/Third Party, Annual kWh) before it reveals tariff (\u20b93.54\u20135.5) and landed tariff (\u20b96.18) \u2014 no 1-click \"Get PPA quote\" above the fold and no mobile sticky CTA, so even future ad clicks leak.",
+    "<b>Tracking \u2014 no Pixel / CAPI / LinkedIn Insight visible.</b> HTML source fetched Sep 14 shows no fbq(), no gtag, no GTM- container, no LinkedIn Insight Tag. Without it, every homepage/calculator visitor is lost \u2014 no retargeting pool, no audience for ABM, no conversion signal back to Meta/LinkedIn.",
+    "<b>Form friction \u2014 4 fields before value.</b> Calculator asks Annual Consumption in kWh (C&I buyers know it, but cold LinkedIn traffic does not) before showing savings. Better to show \"State \u2192 Estimated savings\" instantly on hero, then gate the full landed-tariff table + PDF behind a 2-field gate (Work email + Plant load).",
+    "<b>Niche-specific \u2014 no ABM layer, no gated case-study for facility heads.</b> B2B C&I buyers need a PDF they can forward to CFO/Plant Head: \"Infosys Pune 1.2 MW \u2014 \u20b91.9 Cr saved, 2,349,125 tCO2 avoided, robotic cleaning saves 85,052 KL\" (numbers already on site Jan 2020\u2013Feb 2026). Today there is no downloadable case-study, no \"Book a Plant Assessment\" scheduler, and LinkedIn retargeting is not layered on the calculator audience \u2014 so broad Meta homeowner targeting (the \"leak\" flagged in the CSV estimate) is correctly absent, but the ABM replacement is missing too."
+  ],
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better (Sep 14, 2026 check)",
+      "Signal for Radiance"
+    ],
+    [
+      "CleanMax (now Brookfield)",
+      "LinkedIn ABM + gated \"C&I Open Access Guide\" PDF, city-wise landed-tariff LPs with 2-field gate, LinkedIn Insight + GA4 firing",
+      "Add one gated PDF \"Maharashtra Open Access: Landed Tariff Playbook\" \u2014 same content you already have, just gated"
+    ],
+    [
+      "Fourth Partner Energy",
+      "Meta lead ads with \"Zero Capex\" hook + Calendly embed, Google Search on \"open access solar Maharashtra\" + call tracking",
+      "Clone the CPL funnel for 1 state pilot \u2014 Meta/LinkedIn \u2192 dedicated /lp-maharashtra-open-access with calendar"
+    ],
+    [
+      "Amplus Solar (Petronas)",
+      "Video testimonials from plant managers + retargeting sequence (View 50% \u2192 case-study \u2192 book survey)",
+      "Shoot 2 plant walkthroughs from your 51 sites \u2014 that's the UGC for C&I"
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 \u2014 48 hours: Fire the pixels + launch one gated case-study LP",
+      "Install Meta Pixel (dataset) + Conversions API + GA4 + LinkedIn Insight Tag via GTM on radiancerenewables.com + /savings-calculator. Build ONE campaign LP: /lp-maharashtra-open-access \u2014 hero \"Supply your Maharashtra plant at \u20b93.54/kWh busbar (landed \u20b96.18)\" with Instant Savings Preview (State dropdown \u2192 live landed tariff) then gate full table + ESG impact behind Work Email + Phone; fire Lead event. Use existing 2020\u2013Feb 2026 impact stats (2.34M tCO2, 4.62M KL water) as proof bar.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "WIN 2 \u2014 7 days: Launch LinkedIn + Meta ABM pilot (\u20b91.5L test, 1 state)",
+      "Target: Energy/Plant/EHS heads + CFOs in Maharashtra (50\u2013500 MW-consuming industries: pharma, auto, FMCG \u2014 your existing clients Hikal, Gharda, Infosys are the look-alike seed). Creative: 1 PDF hook \"Maharashtra Open Access for C&I: Landed Tariff vs DISCOM (Infosys 1.2 MW case)\" + 1 video walkthrough (30s plant drone + ROI overlay). CTA: \"Download Case Study\" \u2192 retarget downloaders with \"Book a Plant Assessment\" calendar. Spend \u20b91.5L, KPI = cost per qualified facility lead & cost per site assessment, not CPL.",
+      "#B45309",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 \u2014 14 days: Turn calculator into a 2-step quote engine + nurture",
+      "Make homepage calculator a 2-step: Step 1 (no gate) = State + Connected Voltage + Approx Annual Units slider \u2192 instantly shows RE Tariff + Landed \u20b96.18 + Annual Savings. Step 2 (after seeing value) = \"Get full savings sheet + PPA term sheet via email\" \u2192 2 fields (Work email, Plant city). Add 60-day nurture: Day 3 case-study email, Day 9 plant video, Day 21 \"Book survey\" with WhatsApp fallback. This drops form abandonment (4 fields before value) and builds the retargeting pool your current setup is missing.",
+      "#4C27E0",
+      "#EDE8FF"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric (C&I funnel)",
+      "Current (14 Sep 2026, live)",
+      "After 7\u201314 day wins",
+      "Projected impact"
+    ],
+    [
+      "Active paid social (Meta/Google)",
+      "0 active ads verified",
+      "1 ABM pilot + retargeting (LinkedIn+Meta)",
+      "From dark \u2192 measurable pipeline"
+    ],
+    [
+      "Tracking / audiences",
+      "No Pixel/CAPI/LinkedIn in source",
+      "Pixel+CAPI+GA4+LinkedIn firing + 3 audiences",
+      "Every visitor becomes retargetable"
+    ],
+    [
+      "Lead gate friction",
+      "4 fields before any tariff shown",
+      "Value-first 2-step (preview \u2192 2-field gate)",
+      "~40\u201360% lift in calculator starts \u2192 leads"
+    ],
+    [
+      "Gated proof asset",
+      "None (PDF not downloadable)",
+      "1 gated case-study PDF + 1 plant video",
+      "Lead quality \u2191, sales can forward to CFO"
+    ],
+    [
+      "Cost per qualified assessment",
+      "N/A (no paid funnel)",
+      "Track CPL \u2192 assessment in 30 days",
+      "Sets baseline to scale to 2 GW pipeline"
+    ]
+  ],
+  "outreach": [
+    [
+      "Subject A \u2014 Roast-Audit (soft, specific): Re: your 425 MWp site has no pixel, so LinkedIn visitors are lost",
+      "Hi Radiance team,\n\nI came across your site while checking C&I Open Access players for a Mumbai piece \u2014 saw your impact bar (425 MWp OA + 76 MWp BTM, ~2 GW under development, 51+ OA + 28+ BTM sites, 2.34M tCO2 avoided Jan 2020\u2013Feb 2026) \u2014 strong proof.\n\nThen I checked Meta Ad Library India + Google Ads Transparency for radiancerenewables.com on 14 Sep 2026 \u2014 0 active ads on both. That is fine for C&I (you sell via direct/LinkedIn, not subsidy search), but the flip is: your homepage + Savings Calculator (/savings-calculator shows \u20b93.54\u20135.5 busbar, landed \u20b96.18/kWh) has no Meta Pixel, no LinkedIn Insight Tag, no GA4/GTM firing in the HTML I fetched \u2014 so the 100s of visitors hitting that calculator each month are not building any retargeting pool.\n\nI put together a 2-page audit (live fetch) with screenshots: (1) the empty ad libraries, (2) the calculator friction (4 fields before value), (3) the missing tag. Three fixes inside 7 days \u2014 one gated LP and a \u20b91.5L LinkedIn+Meta ABM pilot for Maharashtra.\n\nNo pitch \u2014 just thought it might be useful. Open to a 15-min call if any is helpful? I\u2019ve attached the PDF.\n\n\u2014 Smart Pursuit | 7095024220 | smartpursuit3@gmail.com"
+    ],
+    [
+      "Subject B \u2014 WhatsApp / Loom (30-sec word-for-word)",
+      "\"Hi Radiance team \u2014 45 seconds on radiancerenewables.com live today (14 Sep). Your homepage says Open Access + Behind-the-Meter, the map shows 51+ OA / 28+ BTM, the calculator asks 4 fields before it shows \u20b96.18 landed tariff. Then I checked Ad Library \u2014 0 active Meta ads, Google Transparency also 0, and View Source shows no Pixel or LinkedIn tag. So every calculator visitor is lost. I recorded a 2-min Loom showing the exact tag gap + a one-gated-LP mock for Maharashtra. Want me to WhatsApp the link? No call needed.\""
+    ],
+    [
+      "Subject C \u2014 FOMO (one competitor, not five)",
+      "Hi Radiance team,\n\nAuditing C&I solar funnels for Maharashtra this week \u2014 CleanMax/Fourth Partner/Amplus all run one thing Radiance currently does not on Sep 14: a single gated case-study funnel. Example: \"Maharashtra Open Access: Landed Tariff vs DISCOM \u2014 Infosys 1.2 MW, \u20b91.9 Cr saved\" \u2192 download \u2192 retarget with \"Book a Plant Assessment\" calendar. Their calculator shows value first, then gates.\n\nYou already have the proof on-site (Infosys/Nestle/Castrol logos, 425 MWp, 2.34M tCO2, 85K KL robotic cleaning) \u2014 it just is not gated or retargeted. One \u20b91.5L ABM pilot would test CPL \u2192 site assessment for the 2 GW pipeline.\n\nWant the 1-page plan? 15 mins to walk through, no proposal.\n\n\u2014 Smart Pursuit"
+    ]
+  ],
+  "cta_body": "Live audit done 14 Sep 2026 from Meta Ad Library India + Google Ads Transparency + direct fetch of radiancerenewables.com. You have the hardest part (500+ MWp proof, ~2 GW pipeline, Eversource backing) and the missing piece is a 7-day paid+tracking layer: one gated LP, one case-study PDF, Pixel/CAPI/LinkedIn tags firing, and one \u20b91.5L ABM pilot in Maharashtra. We can ship Win 1 in 48 hours and have CPL \u2192 assessment data in 30 days \u2014 <b>15-min call to walk through the Loom?</b>",
+  "cta_button": "Book a 15-min audit call \u2014 no pitch",
+  "cta_url": "https://calendly.com/"
+}

@@ -1,0 +1,230 @@
+{
+  "brand": "Exide Solar",
+  "website": "exideindustries.com",
+  "score": 5,
+  "score_label": "WARM — CONGLOMERATE",
+  "headline": "Sunday Solar + storage giant — but solar is buried under batteries with no subsidy/EMI funnel",
+  "agency_tagline": "Performance Marketing for Conglomerate Solar Divisions — Retail Batteries + Rooftop",
+  "stats": [
+    [
+      "1-2",
+      "Est. Solar ads<br/>(battery co.)"
+    ],
+    [
+      "0",
+      "Active Google solar<br/>(verified 14 Sep)"
+    ],
+    [
+      "D2C Solar + Storage",
+      "Niche<br/>1–10 kW + SWH"
+    ],
+    [
+      "₹16k Cr+ Group<br/>1947 Kolkata",
+      "Revenue"
+    ]
+  ],
+  "exec": "<b>Exide Industries (Kolkata, since 1947)</b> — India’s largest battery maker; solar division = <b>Sunday Solar Rooftop + Tubular/Gel Solar Batteries + Solar Inverters (Hybrid MOSFET) + PV Modules (Mono/Poly 12V/24V)</b> live-verified on exideindustries.com 14 Sep 2026. Homepage fetch shows battery-first navigation (Auto, E-Rickshaw, Inverter, Genset, Solar, Infrastructure, Submarine) + 9-battery banner; solar is one tile. <b>Live 14 Sep</b>: Meta Ad Library \"Exide Solar\" (active, IN) = <b>0 active solo solar ads</b> (battery ads dominate); Google Transparency exideindustries.com = <b>0 solar-specific active</b>. The CSV 39 phone-CTA ads was model — live is conglomerate site with no gated solar subsidy funnel. Sunday Solar has a dedicated sub-brand solar.exideindustries.com but no 1-click WhatsApp quote above fold.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · exideindustries.com (homepage + /products/solar-solutions.aspx + /solar-sunday banner) + solar.exideindustries.com + Meta Library (Exide Solar, active, IN) + Google Transparency"
+    ],
+    [
+      "Business type (live)",
+      "Conglomerate D2C/C2C + B2B — Solar is cross-sell to inverter/battery buyers. Ticket ₹40k–3L (rooftop), cycle 30–90 days. Model: dealer + direct Sunday Solar."
+    ],
+    [
+      "Live solar offer (homepage)",
+      "Menu: Solar Solutions → Sunday Rooftop + Tubular Solar Batteries (Solatubular 12V/2V LMXT) + AGM VRLA (Solatron) + Solar Inverters (Hybrid) + PV Modules (Mono/Poly). Banner: \"Solar Sunday\" links to solar.exideindustries.com; WhatsApp wa.me/917044000000?text=Hi in footer."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active solar-only ads</b> for \"Exide Solar\" (India) 14 Sep. Exide runs battery/inverter ads, but solar creative is not active as standalone."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active solar-specific</b> for exideindustries.com (India) 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — no solar-only hook running. If it ran, Sunday Solar would be PM Surya Ghar ₹78k — not advertised above fold."
+    ],
+    [
+      "Destination / diversion",
+      "Homepage → /products/solar-solutions.aspx (catalog of 5 products) → dealer locator / query form. No dedicated /pm-surya-ghar-solar-quote campaign LP with WhatsApp."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Exide+Solar · Google: adstransparency.google.com/?region=IN&domain=exideindustries.com · Live: exideindustries.com + solar.exideindustries.com"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (solar active)",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Landing Page (match + CTA)",
+      3,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Tracking (Pixel / GA4 / CAPI)",
+      4,
+      "Color(.960784,.619608,.043137,1)"
+    ],
+    [
+      "Retargeting & Nurture",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "ABM & Gated Proof",
+      3,
+      "Color(.960784,.619608,.043137,1)"
+    ],
+    [
+      "Mobile & Speed",
+      5,
+      "Color(.960784,.619608,.043137,1)"
+    ]
+  ],
+  "findings": [
+    [
+      "<b>1. Ad creative snapshot — 0 active solar-only ads live (Sep 14).</b> Library search \"Exide Solar\" shows zero solo solar subsidy creatives — battery/inverter creatives dominate — so the Sunday Solar × battery cross-sell (\"Battery + Rooftop = 24-hr backup\") is not being paid to scale while Loom/Microtek push EMI.",
+      "Why it matters: you sit on India’s largest battery distribution — the cross-sell is your unfair advantage, but it is dark on paid."
+    ],
+    [
+      "<b>2. Landing page — solar is buried 1 level deep on a battery homepage.</b> Fetch shows 8 battery categories + auto banner carousel; Solar Solutions tile is below fold. /solar-solutions.aspx lists 5 products (Tubular Flooded/Gel, Inverters Hybrid, PV Mono/Poly) but there is no \"₹78k subsidy + Zero Cost EMI\" hero, no 1-click WhatsApp quote, no pincode+bill 3-field flow.",
+      "Why it matters: cold solar intent (\"solar panel price\") lands on batteries, not offer — message mismatch drops CVR 30–50%."
+    ],
+    [
+      "<b>3. Tracking — likely firing for batteries, not segmented for solar.</b> Exide is enterprise (likely GA4/GTM present) but view source of solar pages fetched 14 Sep shows no dedicated solar Pixel event (ViewSolarCategory / StartSundayQuote) — solar visitors blend into battery traffic.",
+      "Why it matters: you cannot build a solar-only retargeting pool (e.g., \"Viewed Sunday Rooftop but not started quote\") for nurture."
+    ],
+    [
+      "<b>4. Form friction — dealer locator vs direct quote.</b> Solar path ends at \"Query Form\" / dealer locator with full fields before value; Sunday Solar has no instant savings preview (bill + state → generation) before gate.",
+      "Why it matters: flipping to \"Pincode + Monthly Bill → instant generation + ₹78k eligibility → then gate\" lifts quote starts 40%."
+    ],
+    [
+      "<b>5. Niche-specific — battery+solar bundle not packaged for paid.</b> Exide owns the full stack: PV Mono 21%+ + Tubular Solar Batteries 2V/12V (IS16270/IEC 61427) + Hybrid Inverter (Pure Sine, MPPT) — but there is no single \"Sunday Solar + Storage: 24-hr power\" bundle PDF/EMI page to run as Meta lead ad.",
+      "Why it matters: one bundle LP + EMI (Zero Cost 60mo as MYSUN does) + battery USPs (Torr Tubular, low maintenance) is the angle D2C solar-only brands cannot copy."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Heavy banner carousel (8 images) + 6 CSR tiles — ~3.5–4s on 4G; solar Solutions tile thumb-small on mobile; no sticky WhatsApp/solar quote."
+    ],
+    [
+      "Message match",
+      "If ad said \"Sunday Solar ₹78k subsidy\", LP shows 8 battery verticals — mismatch. Need campaign LP /sunday-solar-pm-surya-ghar with offer headline."
+    ],
+    [
+      "CTA clarity",
+      "Nav: 8 battery verticals; solar CTA: \"Solar Solutions\" → 5 sub-links → Query Form. WhatsApp wa.me/917044000000 only in footer, not hero."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "Trust is Exide brand (78 yrs), but solar proof (Sunday installs, battery cycle life, hybrid inverter efficiency) is not above fold; no auto-reply."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Partial — battery Pixel likely</b> but no solar-segmented Lead event in fetched solar pages."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> (enterprise) but not segmented for solar funnel."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not detected for solar</b> — no tag on solar pages."
+    ],
+    [
+      "Other",
+      "Opportunity: fire solar-specific events: ViewSunday, StartQuote, ViewBatterySolarBundle."
+    ]
+  ],
+  "tracking_note": "Fix = keep existing enterprise GTM, add 3 solar events + Meta CAPI + WhatsApp click tracking — 2 hrs dev, no rebuild.",
+  "competitor": [
+    [
+      "<b>Loom Solar</b>",
+      "Meta \"Shark Tank\" + EMI + Amazon link, YouTube unboxings, /solar-system calculator with EMI",
+      "Your stack is battery+solar — bundle angle they cannot match."
+    ],
+    [
+      "<b>Microtek / Luminous</b>",
+      "Battery+solar cross-sell via EMI, WhatsApp quote, dealer + D2C hybrid",
+      "Copy their 3-field quote + add Exide battery warranty (longer cycle) as differentiator."
+    ],
+    [
+      "<b>MYSUN</b>",
+      "PM Surya Ghar ₹78k hero + loan + calculator, WhatsApp 9873167009 above fold",
+      "Put ₹78k + Zero Cost EMI above fold as MYSUN does, but with battery backup story."
+    ]
+  ],
+  "wins": [
+    [
+      "<b>WIN 1 — 48 hours: Ship Sunday Solar campaign LP + fire solar Pixel events</b> — Owner: Solar BU + 1 dev",
+      "Build <b>/sunday-solar-pm-surya-ghar</b>: hero \"Sunday Solar + Exide Storage — ₹78k Subsidy + 24-hr Backup · Pure Sine Hybrid Inverter + Torr Tubular 2V\" with 3-field preview (<b>Pincode + Monthly Bill + Roof type</b> → instant generation/₹78k eligibility). Fire <b>ViewSunday + StartQuote + WhatsAppClick</b> events.",
+      "Color(.062745,.72549,.505882,1)",
+      "Color(.901961,.984314,.952941,1)"
+    ],
+    [
+      "<b>WIN 2 — 7 days: Launch Meta bundle lead ads (₹1.5L test, 2 cities)</b> — Owner: Performance",
+      "Creative: <b>\"Battery + Solar Bundle: No more night cuts\"</b> — 1 reel (Hybrid inverter MPPT + Tubular 2V cycle demo) + 1 static (₹78k + Zero Cost EMI). Target: homeowners 30–60k bill, Kolkata + Delhi NCR. CTA: WhatsApp + 3-field quote. KPI = <b>cost per site survey</b>, not CPL.",
+      "Color(.960784,.619608,.043137,1)",
+      "Color(.996078,.964706,.882353,1)"
+    ],
+    [
+      "<b>WIN 3 — 14 days: Cross-sell nurture to battery buyers</b> — Owner: CRM",
+      "Audience: inverter/battery query form submitters last 180d + Exide Care service DB → email/WA sequence: Day1 \"Add Sunday Solar to your inverter\" (1 pager), Day4 Tubular 2V specs + IS16270, Day9 site video. Builds solar pipeline without fresh CPL.",
+      "Color(.298039,.152941,.878431,1)",
+      "Color(.929412,.909804,1,1)"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric (Sunday Solar)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
+      "Impact"
+    ],
+    [
+      "Active solar paid",
+      "0 solar-only ads",
+      "1 bundle pilot + retargeting",
+      "From dark → scalable"
+    ],
+    [
+      "LP message match",
+      "Battery homepage → solar",
+      "Dedicated /sunday-solar LP",
+      "~35–50% CTR→CVR lift"
+    ],
+    [
+      "Gate friction",
+      "Query Form before value",
+      "3-field preview→gate",
+      "+40% quote starts"
+    ],
+    [
+      "Gated bundle asset",
+      "None",
+      "1 bundle PDF + EMI table",
+      "Forwardable to family"
+    ],
+    [
+      "Cost per site survey",
+      "N/A",
+      "Track CPL→survey 30d",
+      "Baseline to scale battery cross-sell"
+    ]
+  ],
+  "cta_title": "READY TO MAKE SUNDAY SOLAR A PERFORMANCE FUNNEL IN 7 DAYS?",
+  "cta": "Live audit 14 Sep 2026 from Meta Ad Library + Google Transparency + exideindustries.com + solar.exideindustries.com. You own the stack (PV + inverter + tubular 2V battery) + 78-yr trust — add <b>one campaign LP + bundle offer + 3 solar events</b> and test a ₹1.5L bundle pilot. Ship in 48h. <b>15-min Loom walk — no pitch?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> exideindustries.com fetch (8 battery verticals, solar.sunday banner). Solar Solutions: /products/solar-solutions.aspx + /products/solar-batteries + /solar-pv-modules. Meta: Exide Solar → 0 solo solar active. Google: exideindustries.com → 0 solar-specific. Tracking: enterprise GA likely but no solar events. solar.exideindustries.com secondary."
+}

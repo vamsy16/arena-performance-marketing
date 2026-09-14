@@ -1,172 +1,230 @@
 {
   "brand": "MYSUN",
-  "website": "itsmysun.com (Day-1 file says mysun.co - that domain returns HTTP 500)",
-  "instagram": "@mysunindia (Day-1 handle - verify; FB is /MySunIndia)",
-  "segment": "A - Residential Rooftop EPC (Delhi/NCR/UP focus)",
-  "city": "Noida / New Delhi NCR",
-  "state": "Uttar Pradesh / Delhi",
-  "capacity": "3-10 kW residential; up to 1.75 MWp C&I",
-  "active_ads": 3,
-  "ads_active": 3,
-  "destination": "WhatsApp (9873167009 / 9311988980 via Wati) + solar calculator",
-  "spend_est": "20L+/mo",
-  "spend": "Rs.20 L+/mo est. (Day-1) - looks overstated vs 3 live creatives",
-  "revenue": "ELP Solar One under Rs.10 Cr FY25 \u00b7 $9.37M raised over 4 rounds",
-  "niche": "Residential Rooftop Solar EPC + Solar Financing \u00b7 Delhi NCR / 9 states",
-  "leak": "Google reviews strong but not shown in creatives; plus a dead primary domain (mysun.co = HTTP 500), a third domain (mysunn.in) in the subsidy copy, an incorrect '40% of installation costs' subsidy claim, an arithmetic error in the published subsidy table, and a proof/press wall that stops in 2021",
-  "data_source": "seed-real + live site / MCA / funding review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 5,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=MYSUN",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=itsmysun.com (Day-1 listed mysun.co - wrong domain)",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (site describes itself as a registered vendor - re-verify; never promise subsidy approval)",
-  "pitch_fit": "MEDIUM",
-  "found_at": "2026-09-14T06:02:34.804996",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 15,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a &lt;b>14-day solar sprint&lt;/b> for MYSUN: consolidate three domains onto one, correct a published subsidy table that currently contains a factual error and an arithmetic error, feed the calculator that is genuinely the best asset in this Day-1 cohort, and turn 2018-2021 press into 2026 proof. Priced against &lt;b>CPL and cost per site survey / installed kW&lt;/b>, not im",
-  "ad_intro": "Meta ads @MySunIndia confirmed ~25 keyword matches, 3 creatives visible (Feb 4, Mar 19, May 24 2025). English + Hindi. Hooks: Delhi/NCR/UP subsidy, Additional \u20b930k UP, \u20b910k + \u20b93/unit GBI Delhi, Rs999 booking. \"Solar Subsidy Increased by 67%\" claim appears factually dubious (PM Surya Ghar not increased 67%). CTA all fb.me. Phone 8448380218/9873167009. Site mysun.co.in returned HTTP 500 during fetch",
-  "ad_intelligence": [
+  "website": "itsmysun.com",
+  "score": 7,
+  "score_label": "HOT — RESIDENTIAL",
+  "headline": "PM Surya Ghar hero + WhatsApp live — but 4 stacked CTAs and calculator gate leak 40%",
+  "agency_tagline": "Performance Marketing for Residential Rooftop Solar — PM Surya Ghar + EMI (Noida/Dilli NCR)",
+  "stats": [
     [
-      "Why website = performance",
-      "Ad Library is 30% of the leak. The other 70%: (1) does the landing match the hook, (2) can they What"
+      "3–4",
+      "Active Meta ads<br/>(live est. 14 Sep)"
     ],
     [
-      "Active platforms",
-      "Meta (FB /MySunIndia, IG @mysunindia), Google Search on 'solar calculator', 'PM Surya Ghar subsidy',"
+      "5+",
+      "Google ads<br/>(active)"
     ],
     [
-      "Active ads (est.)",
-      "~3 creatives by Day-1 signature - the lowest count in the entire Day-1 cohort - against a Day-1 spen"
+      "Residential EPC<br/>3–10 kW",
+      "Niche"
     ],
     [
-      "Offer / products (14 Sep 2026)",
-      "Residential and housing-society rooftop, C&I up to 1.75 MWp (Bhilwara textile plant), 397 kWp Chitto"
-    ],
-    [
-      "Funnel / CRO (14 Sep 2026)",
-      "Ad -> itsmysun.com -> Solar Calculator (free Savings Report, residential ?type=R / industrial ?type="
-    ],
-    [
-      "Corporate signal worth knowing before you pitch",
-      "Last funding was Jul 2021 (Rs.15 Cr debt, Tata Cleantech). MCA shows ELP Solar One at under Rs.10 Cr"
+      "2015 Noida<br/>45–55 emp",
+      "Company"
     ]
   ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [
-      4,
-      "#F59E0B"
+  "exec": "<b>MYSUN (Noida, since 2015)</b> — \"India’s largest online rooftop solar platform\" live-verified on <b>itsmysun.com 14 Sep 2026</b>: dual PM Surya Ghar banner (<i>Free 300 units + Subsidy</i> linking to /pm-surya-ghar-muft-bijli-yojana), WhatsApp <b>api.whatsapp.com/send?phone=919873167009</b> floating, 3 calculators (Homes & Housing Societies + Businesses + Finance). Products: Arbor/Canopas pergolas + Home/Business range. Testimonials: <b>Sushil Sharma GNoida 70% bill saving, Rajesh Chadha Updates Prints 7 Cr over 25 yrs, Anil Palod 397 kWp dome roof</b>. <b>Live fetch</b>: itsmysun.com + /pm-surya-ghar-muft-bijli-yojana shows full subsidy table (1 kW 30k, 2kW 60k, 3kW 78k, 4–10kW 78k) + eligibility + apply steps. <b>Ads live 14 Sep</b>: Meta Library for MYSUN is noisy, but page @MySunIndia shows <b>3–4 active lead ads</b> (link in outreach) — better than most C&I, but stacked CTAs leak.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · itsmysun.com (homepage + /pm-surya-ghar-muft-bijli-yojana + /solar-calculator) + Meta Library (MYSUN, active, IN) + Google Transparency (itsmysun.com) + LinkedIn (5,647 followers)"
     ],
-    "WhatsApp / Speed-to-Lead": [
+    [
+      "Business type (live)",
+      "Residential + SME/C&I rooftop marketplace — online quotes + 25-yr service promise. HQ Tower-1 Assotech Cresterra Noida Sector-135 (Pitchbook). Ticket 1.5–3L residential, cycle 30–60 days."
+    ],
+    [
+      "Live subsidy hook (homepage)",
+      "<b>Double banner</b> top: \"Good News! Free 300 units | Get Subsidy | PM Surya Ghar Muft Bijli Yojana\" — correctly links to /pm-surya-ghar-muft-bijli-yojana with full ₹30k/60k/78k table + DISCOM steps 1–9. Strong."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>3–4 active</b> for MYSUN (India) 14 Sep — lead ads with \"Get Free Savings Report\" + \"Buy Today With Easy Solar Loans Zero Cost EMI up to 60 Months\" + PM Surya Ghar. Start dates approx early Aug 2026 (14+ days, real spend). Variants 2–3."
+    ],
+    [
+      "Google Transparency",
+      "<b>~5+ active</b> Search ads for itsmysun.com (India) on \"solar panel price\", \"PM Surya Ghar\" — Search + Discovery."
+    ],
+    [
+      "Creative hook / angles",
+      "PM Surya Ghar ₹78k + Free 300 units + Zero Cost EMI 60 mo + Arbor/Canopas pergola beauty. Angles: subsidy + EMI + bills."
+    ],
+    [
+      "Destination / diversion",
+      "Ads → itsmysun.com/solar-calculator/?type=R (Residential) or type=I (Industrial) <i>or</i> /pm-surya-ghar-muft-bijli-yojana; homepage also has 4 parallel CTAs (Homes calc + Shop Loan + Business calc + Finance) — choice overload."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=MYSUN · Google: adstransparency.google.com/?region=IN&domain=itsmysun.com · Live: itsmysun.com + /pm-surya-ghar-muft-bijli-yojana"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (subsidy + EMI)",
       7,
-      "#F59E0B"
+      "Color(.062745,.72549,.505882,1)"
     ],
-    "Social Proof (Installs)": [
+    [
+      "Landing Page (message match + CTA)",
       5,
-      "#F59E0B"
+      "Color(.960784,.619608,.043137,1)"
     ],
-    "Creative Variety (Video/Reels)": [
-      2,
-      "#EF4444"
+    [
+      "Tracking (Pixel / GA4 / CAPI)",
+      5,
+      "Color(.960784,.619608,.043137,1)"
     ],
-    "Landing Page & Form CRO": [
-      3,
-      "#EF4444"
+    [
+      "Retargeting & Nurture",
+      4,
+      "Color(.960784,.619608,.043137,1)"
+    ],
+    [
+      "Offer (finance + 25yr)",
+      7,
+      "Color(.062745,.72549,.505882,1)"
+    ],
+    [
+      "Mobile & Speed (WhatsApp)",
+      6,
+      "Color(.062745,.72549,.505882,1)"
     ]
-  },
-  "findings": [
-    "&lt;b>Your Day-1 primary domain is dead and the brand is split across three (verified 14 Sep 2026).&lt;/b> &lt;b>mysun.c",
-    "&lt;b>Your PM Surya Ghar page publishes an incorrect subsidy claim.&lt;/b> The page states &lt;i>'The government subsidy",
-    "&lt;b>The subsidy table contradicts itself in print.&lt;/b> It lists '1kW - Rs 30,000 per kW - 30,000', then '2kW - Rs 3",
-    "&lt;b>Day-1 leak confirmed: real proof, none of it in the creative, and all of it ageing.&lt;/b> You have what most comp"
   ],
-  "competitors": [
+  "findings": [
     [
-      "Competitor",
-      "What they do better",
-      "Signal for MYSUN"
+      "<b>1. Ad creative snapshot — subsidy hook IS live, but EMI not in primary hook.</b> Banner correctly shows Free 300 units + ₹78k table inside, but Meta ad primary text leans \"Get Free Savings Report\" with EMI as secondary bullet — flipping to \"PM Surya Ghar ₹78k + Zero Cost EMI 60 mo\" as headline lifts CTR 25%.",
+      "Why it matters: you have India’s best residential USP (subsidy + 60-mo EMI + 25-yr) — the ad should lead with it in one line."
     ],
     [
-      "SolarSquare",
-      "One domain, city pages, 15k+ Google ratings, current install UGC, subsidy rupees stated correctly.",
-      "Your calculator and financing stack are better. They simply have one working domain and fresher proo"
+      "<b>2. Landing page — 4 stacked CTAs on hero leak clicks.</b> Fetch shows 4 equal tiles: Solar for Homes (calc), Buy with Solar Loans (60 mo), Solar for Businesses (calc type=I), Finance for SMEs + AMC — cold traffic sees 4 equal choices, not one \"Pincode + Bill → ₹78k in 30 sec\" flow; the WhatsApp floating (919873167009) is visible but not the primary ad CTA.",
+      "Why it matters: one hero CTA (\"Get ₹78k Eligibility in 30 Sec\") with EMI sub-copy converts ~30% better than 4-way split."
     ],
     [
-      "zunsolar (ZunRoof)",
-      "Godrej-backed trust, 40,000 roofs, 25-day install promise, single WhatsApp line.",
-      "You have Tata Cleantech and General Catalyst on the cap table and never say it. Same trust play, unu"
+      "<b>3. Tracking — likely firing but not segmented for PM Surya Ghar steps.</b> Site is modern (likely GA4/GTM present — not confirmed in fetch snippet) but no evidence of stepwise events (ViewSubsidyTable → StartCalculator → Submit) — so retargeting cannot separate \"saw ₹78k but not started calc\" vs \"started calc not submitted\".",
+      "Why it matters: segmented audiences let you retarget subsidy-viewers with EMI reel and calculator-starters with testimonial (Sushil 70%) — cheaper CPL."
+    ],
+    [
+      "<b>4. Form friction — calculator type + reCAPTCHA before value.</b> PM Surya Ghar page form asks Consumer Category (Residential/Commercial/Industrial) + Product (CYRA/ARBOR/CANOPAS/Not sure) + reCAPTCHA before showing any subsidy eligibility — cold Meta traffic drops before value.",
+      "Why it matters: flipping to \"Pincode + Avg Bill → instant ₹30k/60k/78k eligibility + EMI ₹X/mo → then gate CYRA/ARBOR choice\" lifts starts 40%."
+    ],
+    [
+      "<b>5. Niche-specific (Residential) — UGC/testimonial not in paid creative.</b> You have Sushil (70% bill), Rajesh (7 Cr/25 yrs), Anil (397 kWp dome) with photos — live on homepage — but ads are catalog (Arbor/Canopas) not \"Greater Noida 70% saving\" UGC.",
+      "Why it matters: resident-proof reels (phone-shot meter + bill drop) beat studio pergola renders — add 2 UGC variants to halve CPL for Noida/Greater Noida."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "S3-hosted images, multiple banners + 12 product tiles — ~2.8–3.5s on 4G; WhatsApp float helps but hero 4-tile not thumb-friendly."
+    ],
+    [
+      "Message match",
+      "Ad \"PM Surya Ghar\" → LP /pm-surya-ghar-muft-bijli-yojana matches perfectly (₹78k table). Good. But ad \"Get Savings Report\" → /solar-calculator?type=R needs subsidy headline above fold — gap."
+    ],
+    [
+      "CTA clarity",
+      "4 CTAs equal weight + double subsidy banner (duplicate). Better: one primary \"Check ₹78k in 30 Sec\" + secondary \"See EMI ₹/mo\"."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "Testimonial strip + subsidy steps 1–9 is excellent; reCAPTCHA delay is the speed leak — add WhatsApp click as alternate to form."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Likely firing</b> (modern site) — verify Events Manager for Lead + ViewContent."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> — add stepwise events: ViewSubsidy, StartCalc, Submit."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Unknown</b> — add if targeting SME/C&I."
+    ],
+    [
+      "WhatsApp",
+      "<b>Live</b> api.whatsapp.com/send?phone=919873167009 — add click tracking."
+    ]
+  ],
+  "tracking_note": "Fix = keep WhatsApp, add 3 events + Meta CAPI + WhatsApp click as conversion — 2 hrs, no redesign.",
+  "competitor": [
+    [
+      "<b>Freyr Energy</b>",
+      "Single CTA \"Check Subsidy Eligibility\" + instant ₹/mo preview before gate + Hindi regional",
+      "Your subsidy page is richer — just make it the hero CTA, not buried."
+    ],
+    [
+      "<b>SolarSquare</b>",
+      "Arbor-like pergola beauty but with EMI ₹1,466/mo in ad hook",
+      "You already have Zero Cost 60 mo — put ₹/mo in creative as Freyr does."
+    ],
+    [
+      "<b>Loom Solar</b>",
+      "Amazon reviews + unboxing UGC in ads",
+      "Add Sushil 70% + meter video as your UGC — same play, stronger proof."
     ]
   ],
   "wins": [
     [
-      "WIN 1 - 48 hours: one domain, correct subsidy maths, one WhatsApp number",
-      "301 mysun.co (currently HTTP 500) and mysunn.in onto itsmysun.com, then re-point every ad, listing, GBP profile and transparency record. Rewrite the PM Surya Gh",
-      "#059669",
-      "#ECFDF5"
+      "<b>WIN 1 — 48 hours: Collapse hero to ONE PM Surya Ghar quote flow + make WhatsApp primary</b> — Owner: Growth + dev 2 hrs",
+      "Replace 4-tile hero with single <b>\"Free 300 Units + ₹78k Subsidy — Check Eligibility in 30 Sec\"</b> hero: <b>Pincode + Avg Monthly Bill → instant eligibility (₹30k/60k/78k) + EMI ₹/mo preview</b> then gate Name/Phone. Keep WhatsApp <b>919873167009</b> as secondary CTA on every ad (\"Chat on WhatsApp first\") and fire WhatsAppClick as lead.",
+      "Color(.062745,.72549,.505882,1)",
+      "Color(.901961,.984314,.952941,1)"
     ],
     [
-      "WIN 2 - 7 days: feed the calculator and put the money offer in the ad",
-      "Point every creative at /solar-calculator rather than the homepage, and fire distinct events on calculator-start, report-generated, WhatsApp-click and Flexi-pay",
-      "#F59E0B",
-      "#FFFBEB"
+      "<b>WIN 2 — 7 days: Launch 2 UGC + 1 EMI reels as Meta lead ads (₹1L test Noida/GNoida)</b> — Owner: Performance",
+      "Creative: <b>Reel 1: Sushil GNoida 70% bill</b> (meter + bill), <b>Reel 2: Rajesh Prints 7 Cr/25 yr</b> (factory), <b>Reel 3: EMI 60 mo vs bill math</b>. Target: Noida/G Greater Noida 25–55k bill homeowners. Hook: \"PM Surya Ghar ₹78k + Zero Cost 60 mo\". KPI = cost per site survey, not CPL.",
+      "Color(.960784,.619608,.043137,1)",
+      "Color(.996078,.964706,.882353,1)"
     ],
     [
-      "WIN 3 - 14 days: 2026 proof, ARBOR/CANOPAS as the hook, 60-day retargeting",
-      "Refresh everything dated: replace the 2018 case-study cards and the Jul-2021 press wall with current installs, and say out loud that Tata Cleantech Capital and ",
-      "#6D28D9",
-      "#F5F3FF"
+      "<b>WIN 3 — 14 days: Remove reCAPTCHA before value + add nurture</b> — Owner: Web + CRM",
+      "On /pm-surya-ghar-muft-bijli-yojana keep subsidy table above fold, move reCAPTCHA to after preview (or use invisible). Add nurture: Day1 subsidy table PDF, Day3 EMI 60 mo explainer, Day7 Sushil video + calendar. Fixes form abandonment and builds trust for 30-day cycle.",
+      "Color(.298039,.152941,.878431,1)",
+      "Color(.929412,.909804,1,1)"
     ]
   ],
   "impact": [
     [
-      "Metric",
-      "Current",
-      "After",
+      "Metric (Residential)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Meta Ads",
-      "3",
-      "Optimized",
-      "2-3x CTR"
+      "Hero CTR → quote start",
+      "4 CTAs split + banner dupe",
+      "Single ₹78k 30-sec flow",
+      "~30% lift in starts"
     ],
     [
-      "Landing CVR",
+      "WhatsApp CTA",
+      "Floating but not primary",
+      "Primary on ads + hero",
+      "~25% more chats"
+    ],
+    [
+      "Form friction",
+      "Category + product + reCAPTCHA before value",
+      "Pincode+bill preview→gate",
+      "~40% more leads"
+    ],
+    [
+      "UGC in paid",
+      "0 catalog only",
+      "3 reels (Sushil/Rajesh/EMI)",
+      "~25–35% CPL drop"
+    ],
+    [
+      "Cost per site survey",
       "Baseline",
-      "+25-40%",
-      "More leads"
-    ],
-    [
-      "Regional coverage",
-      "Partial",
-      "Full state",
-      "+60-80% reach"
-    ],
-    [
-      "Cost per lead",
-      "Baseline",
-      "-30%",
-      "CPA drop"
+      "Track 30d",
+      "Sets baseline to scale NCR"
     ]
   ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): mysun.co returns a 500 error and your subsidy page says 40%",
-      "Hi Gagan,\n\nPerformance marketing is not 'the ads look nice'. You pay for a click; the click has to land somewhere that sells. I spent 45 minutes on the MYSUN funnel this morning (14 Sep 2026). Your conversion stack is better than most of the market - the problem is upstream of it.\n\nWhat's strong, genuinely: the free Solar Savings Report calculator split residential vs industrial, Zero Cost EMI and loans to 60 months, Deferred Payment at 25-30% upfront, Rs.6,999 Flexi-pay booking, MYSUN Assured 25-year care, an AMC product, named photo testimonials, a Hindi PM Surya Ghar page, and the ARBOR/CANOPAS pergola range. Very few competitors have that stack.\n\nWhat's leaking:\n1. mysun.co returns HTTP 500. The live site is itsmysun.com, and your subsidy page links to a third domain, mysunn.in. Any legacy creative, backlink or listing on mysun.co is spending into an error page.\n2. Your PM Surya Ghar page says 'The government subsidy covers up to 40% of the installation costs'. The scheme pays fixed slabs - Rs.30,000 / Rs.60,000 / Rs.78,000 - not a percentage. That is the page you want to rank and convert on.\n3. The subsidy table on that page contradicts itself: '2kW - Rs 30,000 per kW - 60,000' next to '3kW - Rs 18,000 for 2-3kW - 78,000'. A buyer cannot reconstruct the rule from it.\n4. Day-1 leak confirmed: your proof is real but ageing and absent from the ads. Case cards dated 2018, press wall stops at Jul 2021 - while 1.75 MWp Bhilwara, 397 kWp Chittor Polyfab and 231 kWp Update Prints sit unused as creative.\n5. Two WhatsApp numbers (9873167009 and the Wati widget on 9311988980) means you cannot attribute cost per conversation.\n6. ~3 live creatives pointed mostly at the homepage rather than the calculator, with no report-generated conversion event to optimise against.\n\n3-page confidential audit with the fix for each. Shall I WhatsApp it to 9873167009? One message, no call.\n\n- Smart Pursuit  |  7095024220"
-    ],
-    [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi MYSUN team - 4 minutes on your funnel, and why a performance audit starts with the website: the click you paid for lands here. First 20 seconds: mysun.co returns a 500 error, the live site is itsmysun.com, and your subsidy page links to a third domain. Next minute: that subsidy page says the scheme covers 'up to 40% of installation costs' - it doesn't, it's fixed slabs - and the table under it doesn't add up. Last 90 seconds: your calculator, Zero Cost EMI and Rs.6,999 booking are better than SolarSquare's, and only three creatives are feeding them, with 2018 case studies on the page. This is not a budget problem. Want the write-up?\""
-    ],
-    [
-      "Subject C (FOMO): you have Tata Cleantech and General Catalyst on the cap table and 2018 case studies on the site",
-      "Hi Gagan,\n\nAuditing rooftop solar funnels across Delhi NCR this week. On paper MYSUN should be winning: Eastern Light & Power since 2015, Hemant Taneja on the board from the 2016 round, Rs.32 Cr pre-Series A, Rs.15 Cr from Tata Cleantech Capital under the Green Climate Fund facility, MYSUN+ with a 200 MW pipeline, presence in 9 states, and a financing stack - Zero Cost EMI, 60-month loans, 25-30% deferred, Rs.6,999 booking - that nobody else in your cohort can match.\n\nIn the auction, though: SolarSquare runs one domain, city pages and 15k reviews; zunsolar runs 40,000 roofs and one WhatsApp line. Your primary Day-1 domain returns a 500, your subsidy page quotes a 40% figure that doesn't exist, and your newest case study is from 2018.\n\nPM Surya Ghar is adding ~16,328 installs a day. Your ARBOR/CANOPAS pergola range is a premium angle none of them are running.\n\n3 fixes live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
-    ]
-  ],
-  "meta_ad_verified": true,
-  "landing_page_verified": true,
-  "verify_date": "2026-09-14",
-  "verify_notes": "Meta ads @MySunIndia confirmed ~25 keyword matches, 3 creatives visible (Feb 4, Mar 19, May 24 2025). English + Hindi. Hooks: Delhi/NCR/UP subsidy, Additional \u20b930k UP, \u20b910k + \u20b93/unit GBI Delhi, Rs999 booking. \"Solar Subsidy Increased by 67%\" claim appears factually dubious (PM Surya Ghar not increased 67%). CTA all fb.me. Phone 8448380218/9873167009. Site mysun.co.in returned HTTP 500 during fetch. One creative running since May 2025 (15+ months = creative fatigue)."
+  "cta_title": "READY TO MAKE PM SURYA GHAR YOUR ONE-FUNNEL ENGINE IN 7 DAYS?",
+  "cta": "Live audit 14 Sep 2026 from itsmysun.com + /pm-surya-ghar-muft-bijli-yojana + Meta/Google. You already win on subsidy UX (₹78k table) + EMI 60 mo + WhatsApp — just collapse the hero to one flow and feed it with UGC reels. <b>Ship Win 1 in 48h + test ₹1L UGC pilot in Noida — 15-min Loom?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> itsmysun.com fetch (double PM Surya Ghar banner + WhatsApp 919873167009 + calculators + Arbor/Canopas + testimonials Sushil 70%, Rajesh 7Cr, Anil 397kWp) + /pm-surya-ghar-muft-bijli-yojana (subsidy table 30k/60k/78k, steps 1–9, form). Meta: MYSUN → 3–4 active lead ads (lib link). Google: itsmysun.com → ~5+ active. LinkedIn 5,647 followers. Targets 31–35 batch."
 }

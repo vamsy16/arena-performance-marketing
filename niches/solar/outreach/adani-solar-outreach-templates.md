@@ -1,46 +1,39 @@
 # Adani Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/adani-solar-audit-report.pdf` (Lead score 4/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `adani-solar-solar-audit-report.pdf` (Lead score 4/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Adani Solar - Zero case-study / kW-installed proof in ads - C&I buyers need references
+### Subject A — Advisory: Save your BD week — Adani Solar is a manufacturer (0 consumer ads, correctly)
+
+Hi Adani Solar team,
+
+I checked adanisolar.com on 14 Sep 2026 — 4 GW cells & modules + 2 GW ingots + wafers, TOPCon 565–575 Wp 22.3%, Mundra 10 GW co-located vision (800 acres), PVEL 6-yr Top Performer + BNEF Tier-1, ~10 GW shipped, chatbot Connected.
+
+Then I checked Meta Ad Library India + Google Transparency for Adani Solar on 14 Sep — 0 active consumer EPC ads (correct — you sell via channel/utility). The sheet’s 26 phone-CTA ads were model.
+
+Per your sheet pitch_fit LOW — do not cold pitch and live confirms it. This is an advisory note, not a pitch — I’ve deprioritized Adani for residential CPL and kept the audit for your file (plus 2 optional channel-only wins if the channel team ever asks).
+
+No pitch — just saving you spam. Want me to share the 31–35 prioritized instead (MYSUN/Emmvee are HOT)? PDF attached.
+
+— Smart Pursuit | 7095024220
+
+---
+
+### Subject B — Loom (internal — if channel asks)
+
+"Hi — quick advisory on adanisolar.com live 14 Sep. It’s a manufacturer catalog with Mundra 10 GW + TOPCon specs — no /pm-surya-ghar LP, correctly. So Meta EPC creatives would be waste. If channel ever wants a test, I mocked a /channel-partner-topcon gated datasheet behind GSTIN — 30 sec in the Loom. Otherwise I’ve moved you to LOW."
+
+---
+
+### Subject C — Prioritization (not FOMO — respectful)
 
 Hi,
 
-I spent 30 minutes on your Meta ad library and adanisolar.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+Auditing 31–35 — for Adani Solar I recommend **skip cold DM for residential**. Your 4 GW+TOPCon 22.3% + PVEL 6-yr story is Tier-1, but pipeline is utility/channel, not Meta forms. The sheet already says LOW — I agree.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+If channel wants one test, I have a 48h datasheet LP + 1 PVEL reel ready. Otherwise I’ve flagged MYSUN + Emmvee + Exide Sunday Solar as the HOT reallocate.
 
-- Smart Pursuit
+Want the prioritized 31–35 one-pager?
 
-P.S. One flag specific to Adani Solar: Zero case-study / kW-installed proof in ads - C&I buyers need references
-
----
-
-### Subject B (WhatsApp / Loom - 30 sec)
-
-"Hi Adani Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
-
----
-
-### Subject C (FOMO): what the top rooftop installers in Ahmedabad are doing differently
-
-Hi,
-
-While auditing rooftop solar funnels in Ahmedabad, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
-
-3 of these can be live in 7 days. Want the 1-page plan?
-
-- Smart Pursuit
-
-Ref: Adani Solar (adanisolar.com), Ahmedabad - verified in Meta Ad Library India.
-
----
+— Smart Pursuit

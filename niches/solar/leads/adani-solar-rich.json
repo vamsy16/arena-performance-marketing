@@ -1,0 +1,230 @@
+{
+  "brand": "Adani Solar",
+  "website": "adanisolar.com",
+  "score": 4,
+  "score_label": "LOW — MFR, SKIP COLD",
+  "headline": "4 GW TOPCon + Mundra 10 GW vision — mega-manufacturer with no EPC lead funnel (as it should be)",
+  "agency_tagline": "Performance Marketing for Solar Manufacturing — Channel & Utility (Advisory Note)",
+  "stats": [
+    [
+      "0",
+      "Active Meta consumer<br/>(verified 14 Sep)"
+    ],
+    [
+      "0",
+      "Active Google solar EPC<br/>(verified 14 Sep)"
+    ],
+    [
+      "Mfg — 4 GW + 2 GW",
+      "Niche<br/>Vertically integrated"
+    ],
+    [
+      "200 Bn+ Group<br/>10 GW Mundra",
+      "Vision"
+    ]
+  ],
+  "exec": "<b>Adani Solar (Mundra/Ahmedabad)</b> — solar PV arm of Adani Group (10 listed cos, $200 Bn+ market cap). <b>Live 14 Sep 2026</b>: adanisolar.com fetch shows <b>India’s 1st & largest vertically integrated</b>: 4 GW cells + modules + 2 GW ingots + wafers, making TOPCon (565–575 Wp 144HC, 22.3% M10) + MonoPERC (Pride/Shine). Vision: <b>world’s only geographically co-located 10 GW fully integrated ecosystem at Mundra</b> (polysilicon → ingot → wafer → cell → module + glass/frame/EVA) over 800 acres, green buildings. Products: SHINE TOPCon, PRIDE, ELAN Bifacial, Eternal Monofacial. Ranked BNEF Tier-1 + PVEL Top Performer 6 yrs, ~10 GW shipped. <b>Meta Library \"Adani Solar\" (active, IN) = 0 active EPC ads</b>; Google domain = <b>0 active solar EPC lead ads</b> — correct, they sell via channel/utility, not Meta.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · adanisolar.com (homepage + /about-us + products) + Meta Library (Adani Solar, active, IN) + Google Transparency (adanisolar.com)"
+    ],
+    [
+      "Business type (live)",
+      "Manufacturer — cells/modules/ingots/wafers + ancillaries (glass/frame/EVA/backsheet). Ticket 100 kW–100 MW channel, cycle 90–270 days. Not residential EPC; do not pitch PM Surya Ghar funnel."
+    ],
+    [
+      "Live capacity (homepage)",
+      "4 GW cells & modules + 2 GW ingots & wafers; 10 GW fully integrated Mundra Electronic Mfg Cluster (800 acres); TOPCon 565–575 Wp 22.3% (M10), MonoPERC Pride 535–545 Wp."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active</b> for \"Adani Solar\" (India) 14 Sep — no consumer lead forms. Channel recruitment via trade, not Meta."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active</b> for adanisolar.com (India) 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — manufacturer hook is specs (TOPCon 22.3%, 132HC 610–650 Wp PRIDE) + PVEL/BNEF trust, not subsidy."
+    ],
+    [
+      "Destination / diversion",
+      "adanisolar.com → Technology / Product (TOPCon/MonoPERC) → \"Ask our experts now\" chatbot. Chatbot connectivity: Connected (live). No /pm-surya-ghar LP — correctly."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Adani+Solar · Google: adstransparency.google.com/?region=IN&domain=adanisolar.com · Live: adanisolar.com"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (EPC relevant)",
+      1,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Landing Page (EPC match)",
+      5,
+      "Color(.960784,.619608,.043137,1)"
+    ],
+    [
+      "Tracking (Pixel / GA4)",
+      5,
+      "Color(.960784,.619608,.043137,1)"
+    ],
+    [
+      "Retargeting (channel)",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Channel gated asset",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Mobile & Speed",
+      6,
+      "Color(.062745,.72549,.505882,1)"
+    ]
+  ],
+  "findings": [
+    [
+      "<b>1. Ad creative snapshot — 0 EPC lead ads (correct for manufacturer, Sep 14).</b> Library shows no residential PM Surya Ghar or \"call now\" creatives — the 26 phone-CTA ads in CSV were model — live is BNEF/PVEL spec sheets and Mundra 10 GW vision, not consumer offers.",
+      "Why it matters: pitching a D2C subsidy funnel here wastes time — Adani’s pipeline is utility/channel, not Meta lead forms."
+    ],
+    [
+      "<b>2. Landing page — manufacturer catalog with live chatbot, not a quote LP (as it should be).</b> Fetch shows integrated value chain (Met-Grade Silica → Polysilicon → Ingot → Wafer → Cell → Module → Ancillaries) + products carousel + sustainability businesses + \"Ask our experts now\" chatbot (Connected). No EPC quote calculator — correctly, because they sell modules, not installs.",
+      "Why it matters: the only performance angle is channel recruitment, not homeowner CPL."
+    ],
+    [
+      "<b>3. Tracking — likely enterprise-grade, but not built for channel ABM.</b> Likely GA4/GTM present for adanisolar.com (large group) but no dedicated channel funnel events (ViewTOPConSpecs / DownloadDatasheet / ChannelLead) in fetched HTML snippets.",
+      "Why it matters: if you ever ran \"Become Adani Channel Partner\", you’d need segmented audiences — currently not set as a funnel."
+    ],
+    [
+      "<b>4. Form friction — \"Ask experts\" chatbot vs gated datasheet.</b> CTA is generic chatbot/drip vs gated \"TOPCon Datasheet + DCR status + price band\" behind GSTIN — fine for now, but not a performance funnel.",
+      "Why it matters: no action needed unless channel team wants Meta testing — then fix the gate."
+    ],
+    [
+      "<b>5. Niche-specific — SKIP cold pitch; if you must, pitch channel-only.</b> 1 MW+ ESPs buy via approved vendor lists, not Meta — any audit should advise \"do not DM for residential CPL; if at all, build a LinkedIn ABM for utility/channel with PVEL 6-yr Top Performer as hook.\"",
+      "Why it matters: saves your BD week — this is LOW pitch-fit (CSV correctly says LOW) and should be deprioritized for 31–35."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Heavy product carousel + chatbot widget — ~2.5–3s; mobile not sticky solar CTA (correct for mfg)."
+    ],
+    [
+      "Message match",
+      "No EPC ad → no mismatch. Manufacturer message is specs + Mundra 10 GW — aligned."
+    ],
+    [
+      "CTA clarity",
+      "Generic \"Ask our experts now\" chatbot + Products (MonoPERC/TOPCon) — no distributor/partner funnel needed."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "PVEL 6 yrs Top Performer (only Indian) + BNEF Tier-1 + 10 GW shipped + group $200 Bn — Tier-1 trust, but not packaged as gated channel pack."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Unknown/enterprise</b> — not verified as EPC funnel; likely present for group."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> — large group site."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not detected as channel funnel</b> — not needed unless piloting."
+    ],
+    [
+      "Other",
+      "Chatbot Connected — potential lead source if gated."
+    ]
+  ],
+  "tracking_note": "No fix needed for residential CPL. If piloting channel: add 3 events (ViewTOPCon / DownloadSheet / PartnerLead) + LinkedIn Tag — 2 hrs.",
+  "competitor": [
+    [
+      "<b>Waaree / Vikram</b>",
+      "LinkedIn channel recruitment + gated datasheets, BNEF/PVEL proofs",
+      "Adani already leads with PVEL 6-yr — just larger scale."
+    ],
+    [
+      "<b>Emmvee</b>",
+      "7.8→10.3 GW + PVEL 7/7, smaller but nimble ABM",
+      "Adani’s 10 GW Mundra co-located story is the moat."
+    ],
+    [
+      "<b>Tata Power Solar</b>",
+      "EPC + manufacturing hybrid with EPC funnel",
+      "Adani is pure mfg — no EPC conflict."
+    ]
+  ],
+  "wins": [
+    [
+      "<b>ADVISORY — Do not cold-pitch residential CPL here (save BD time)</b> — Owner: BD filter",
+      "Per CSV pitch_fit <b>LOW — in-house team, do not cold pitch</b> and live 14 Sep confirms: 0 consumer ads, manufacturer model, channel via trade shows + utility tenders. Remove from daily WhatsApp/DM queue and reallocate to HIGH pitch-fit (MYSUN/Fenice/Smarten). If channel asks, quote this note.",
+      "Color(.062745,.72549,.505882,1)",
+      "Color(.901961,.984314,.952941,1)"
+    ],
+    [
+      "<b>IF channel team ever asks — 48h gated datasheet LP (OPTIONAL)</b> — Owner: Channel marketing",
+      "Only if asked: Build <b>/channel-partner-topcon</b>: hero \"TOPCon 565–575 Wp 22.3% · PVEL 6-yr Top Performer · BNEF Tier-1 · DCR vs Non-DCR\" → gate datasheet behind Work Email + GSTIN. Not a must now.",
+      "Color(.960784,.619608,.043137,1)",
+      "Color(.996078,.964706,.882353,1)"
+    ],
+    [
+      "<b>IF piloting LinkedIn — 1 PVEL proof reel (OPTIONAL)</b> — Owner: Content",
+      "Only if asked: 30s Mundra drone + TOPCon spec overlay + PVEL badge → LinkedIn ABM to EPC procurement heads. KPI = cost per channel lead. Otherwise, skip.",
+      "Color(.298039,.152941,.878431,1)",
+      "Color(.929412,.909804,1,1)"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (14 Sep 2026, live)",
+      "After advisory",
+      "Impact"
+    ],
+    [
+      "Active consumer paid",
+      "0 active (correct)",
+      "Keep dark, save ₹1.5L/mo",
+      "BD saves time"
+    ],
+    [
+      "Landing LP",
+      "Mfg catalog + chatbot",
+      "Keep — no EPC LP needed",
+      "No leak"
+    ],
+    [
+      "Gate friction",
+      "Chatbot generic",
+      "Keep — optional datasheet gate if channel asks",
+      "No change unless asked"
+    ],
+    [
+      "Channel asset",
+      "None gated",
+      "Optional TOPCon pack",
+      "Only if team requests"
+    ],
+    [
+      "BD priority",
+      "31–35 batch includes this",
+      "De-prioritize — focus HIGH",
+      "More replies / week"
+    ]
+  ],
+  "cta_title": "VERDICT — SKIP COLD PITCH FOR 31–35? FOCUS ON MYSUN/EMMVEE INSTEAD",
+  "cta": "Live audit 14 Sep 2026 confirms Adani Solar is a <b>mega-manufacturer (4 GW + 2 GW → 10 GW Mundra)</b> with <b>0 consumer ads</b> — correctly. CSV marks <b>LOW — do not cold pitch</b> and we agree. Save your outreach credits for <b>MYSUN (HOT), Emmvee (channel), Exide Sunday Solar</b>. If Adani channel ever wants a test, the optional wins above ship in 48h. <b>15-min call to prioritize your 31–35?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> adanisolar.com fetch (4 GW cells/modules + 2 GW ingots/wafers, TOPCon 565–575 Wp 22.3%, Mundra 10 GW, BNEF Tier-1, PVEL 6 yrs, ~10 GW shipped). Meta: Adani Solar → 0 consumer EPC ads (India). Google: adanisolar.com → 0. Chatbot Connected. CSV 26 phone-CTA ads was model. Marked LOW — skip."
+}

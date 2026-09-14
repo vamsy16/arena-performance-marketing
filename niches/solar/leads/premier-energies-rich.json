@@ -1,0 +1,233 @@
+{
+  "brand": "Premier Energies",
+  "website": "premierenergies.com",
+  "audit_date": "2026-09-14",
+  "score": 4,
+  "score_label": "LOW — MFR, SKIP",
+  "headline": "10.6 GW cells + 11.1 GW modules by FY26 — manufacturer scale, not a Meta EPC funnel",
+  "stats": [
+    [
+      "0",
+      "Active Meta EPC<br/>(verified 14 Sep)"
+    ],
+    [
+      "0",
+      "Active Google EPC<br/>(verified 14 Sep)"
+    ],
+    [
+      "Mfg — 10.6GW + 11.1GW",
+      "Niche<br/>Cell+Module"
+    ],
+    [
+      "30 yrs · GEF Capital<br/>E-City Hyd",
+      "Scale"
+    ]
+  ],
+  "exec": "<b>Premier Energies Ltd (E-City, Hyderabad, since 1995)</b> — integrated **cell + module** manufacturer, **GEF Capital (Washington DC) backed**. <b>Live 14 Sep 2026</b>: premierenergies.com fetch shows <b>10.6 GW solar cells + 11.1 GW modules by FY 2026</b> (was 1.25GW+0.75GW 2021 → now 10x), products: **Mono PERC 23.7% + TOPCon 25.2% cells, Mono PERC/TOPCon modules up to 23.2% (108–144 cells)**, 2 MW IPP Jharkhand 2012, NTPC **611.04 MW DCR Bifacial** order Rajasthan (NOKH). Also **news 2026: 5.6 GW TOPCon fab commissioned Telangana**. <b>Meta Library \"Premier Energies\" (active, IN) → 0 active EPC lead ads</b>; Google `premierenergies.com` → <b>0 active EPC lead ads</b> — correct, they sell via DCR utility + channel.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · premierenergies.com (homepage + news) + CBInsights/Tracxn + Meta Library (Premier Energies, active, IN) + Google Transparency"
+    ],
+    [
+      "Business type (live)",
+      "Manufacturer — cells (PERC 23.7%, TOPCon 25.2%) + modules (PERC/TOPCon 23.2%) + IPP 2MW. Ticket 500 kW–100 MW channel, cycle 90–270 days. Backed GEF Capital."
+    ],
+    [
+      "Live capacity (homepage)",
+      "10.6 GW cells + 11.1 GW modules by FY2026; 5.6 GW TOPCon fab Telangana commissioned 2026; 30 yrs exp; DCR leadership; NTPC 611 MW DCR Bifacial NOKH Rajasthan."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active</b> for \"Premier Energies\" (India) 14 Sep — no consumer EPC creatives."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active</b> for premierenergies.com (India) 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — manufacturer hook is specs (TOPCon 25.2% / 23.2%) + DCR + NTPC 611MW, not subsidy."
+    ],
+    [
+      "Destination / diversion",
+      "premierenergies.com → Products (Cell/Module) → \"Read More\" → corporate. No /pm-surya-ghar campaign LP — correctly."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Premier+Energies · Google: adstransparency.google.com/?region=IN&domain=premierenergies.com · Live: premierenergies.com"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (EPC relevant)",
+      1,
+      "0xef4444"
+    ],
+    [
+      "Landing Page (EPC match)",
+      5,
+      "0xf59e0b"
+    ],
+    [
+      "Tracking (Pixel / GA4)",
+      5,
+      "0xf59e0b"
+    ],
+    [
+      "Retargeting (channel)",
+      2,
+      "0xef4444"
+    ],
+    [
+      "Channel gated asset",
+      2,
+      "0xef4444"
+    ],
+    [
+      "Mobile & Speed",
+      6,
+      "0x10b981"
+    ]
+  ],
+  "findings": [
+    [
+      "<b>1. Ad creative snapshot — 0 EPC lead ads (correct for MFR, Sep 14).</b> Library empty for \"Premier Energies\" — the 53 Lead-Form ads model in CSV was broad — live is DCR/Bifacial specs and NTPC 611 MW trust, not PM Surya Ghar lead forms.",
+      "Why it matters: pitching a Meta CPL funnel here wastes BD as with Adani — pipeline is order-book channel, not forms."
+    ],
+    [
+      "<b>2. Landing page — manufacturer + IPP, not a quote LP (as it should be).</b> Fetch shows About \"Let’s Go Solar 30 yrs\" + E-City tech (TOPCon 25.2% line, half-cut bifacial) + Sustainability + Products carousels; there is no EPC quote calculator — correctly, because you ship cells/modules, not installs.",
+      "Why it matters: only performance angle is channel procurement, not homeowner CPL."
+    ],
+    [
+      "<b>3. Tracking — likely enterprise firing, but not as channel funnel.</b> Likely GA4/GTM present for premierenergies.com but no gated channel events (ViewCellSpecs / DownloadTOPConSheet / ChannelLead) in fetched HTML snippets.",
+      "Why it matters: if you ever run \"Become Premier Channel\" ABM, you’d need segmented audiences — currently not a funnel."
+    ],
+    [
+      "<b>4. Form friction — no funnel, no gate (correct).</b> CTA is \"Read More\" → product pages vs gated datasheet behind GSTIN — fine now, not a leak unless channel asks.",
+      "Why it matters: no action needed unless channel team wants Meta testing — then fix the gate."
+    ],
+    [
+      "<b>5. Niche-specific — SKIP cold pitch; if at all, pitch DCR channel.</b> 1 MW+ ESPs buy via ALMM/DCR + NTPC tenders — any audit should say \"do not DM for ₹78k residential; if at all, build LinkedIn ABM for cell procurement with NTPC 611 MW DCR as hook.\"",
+      "Why it matters: saves BD week — this is LOW pitch-fit and should be deprioritized in 36-40 for MYSUN/Zunsolar."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Heavy product/IPP carousels — ~2.5–3s; mobile not EPC sticky (correct for mfg)."
+    ],
+    [
+      "Message match",
+      "No EPC ad → no mismatch. Mfg message is TOPCon 25.2%/23.2% + DCR + NTPC 611MW — aligned."
+    ],
+    [
+      "CTA clarity",
+      "Generic \"Read More\" → Cell/Module pages — no distributor/partner funnel unless asked."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "30 yrs + GEF + 10.6/11.1 GW + NTPC 611MW DCR + Great Place To Work 5yrs — Tier-1 trust, but not packaged as gated channel pack."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Unknown/enterprise</b> — not verified as EPC funnel."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> — large group site."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not detected as channel funnel</b> — not needed unless piloting."
+    ],
+    [
+      "Other",
+      "Chatbot not needed — DCR spec is the asset."
+    ]
+  ],
+  "tracking_note": "No fix needed for residential CPL. If piloting channel: add 3 events (ViewCellSpecs / DownloadTOPCon / ChannelLead) + LinkedIn Tag — 2 hrs.",
+  "competitor": [
+    [
+      "<b>Waaree / Adani</b>",
+      "10 GW-scale channel recruitment + gated TOPCon datasheets + PVEL proofs",
+      "Your NTPC 611MW DCR Bifacial + TOPCon 25.2% is the DCR proof they chase."
+    ],
+    [
+      "<b>RenewSys</b>",
+      "Cell + encapsulant integrated story",
+      "Your 10.6GW cells + 11.1GW modules is larger — gate it."
+    ],
+    [
+      "<b>Premier order book</b>",
+      "9.38 GW (58% cells 42% modules) per CBInsights 2026",
+      "Makes Meta CPL irrelevant — channel ABM is the only performance play."
+    ]
+  ],
+  "wins": [
+    [
+      "<b>ADVISORY — Do not cold-pitch residential CPL here (save BD time)</b> — Owner: BD filter",
+      "Per CSV pitch_fit <b>LOW — in-house team, do not cold pitch</b> and live 14 Sep confirms: 0 consumer ads, manufacturer 10.6/11.1 GW, order book 9.38 GW. Remove from daily DM queue and reallocate to HOT (Zunsolar/MYSUN). If channel asks, quote this note.",
+      "0x10b981",
+      "0xe6fbf3"
+    ],
+    [
+      "<b>IF channel asks — 48h gated TOPCon/DCR LP (OPTIONAL)</b> — Owner: Channel marketing",
+      "Only if asked: Build <b>/channel-topcon-dcr</b>: hero \"TOPCon 25.2% cells / 23.2% modules — DCR Bifacial — NTPC 611 MW proof (NOKH) — ALMM\" → gate datasheet behind Work Email + GSTIN. Not a must now.",
+      "0xf59e0b",
+      "0xfef6e1"
+    ],
+    [
+      "<b>IF piloting LinkedIn — 1 NTPC reel (OPTIONAL)</b> — Owner: Content",
+      "Only if asked: 30s E-City TOPCon line + NTPC 611 MW overlay + 10.6/11.1 GW scale → LinkedIn ABM to procurement heads. KPI = channel lead. Otherwise, skip.",
+      "0x4c27e0",
+      "0xede8ff"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (14 Sep 2026, live)",
+      "After advisory",
+      "Impact"
+    ],
+    [
+      "Active consumer paid",
+      "0 active (correct)",
+      "Keep dark, save ₹1.5L/mo",
+      "BD saves time"
+    ],
+    [
+      "Landing LP",
+      "Mfg/IPP catalog",
+      "Keep — no EPC LP needed",
+      "No leak"
+    ],
+    [
+      "Gate friction",
+      "Read More generic",
+      "Keep — optional GSTIN gate if channel asks",
+      "No change unless asked"
+    ],
+    [
+      "Channel asset",
+      "None gated",
+      "Optional TOPCon DCR pack",
+      "Only if team requests"
+    ],
+    [
+      "BD priority",
+      "36-40 includes this",
+      "De-prioritize — focus HOT",
+      "More replies / week"
+    ]
+  ],
+  "cta_title": "VERDICT — SKIP COLD PITCH FOR PREMIER 36-40? FOCUS ON ZUNSOLAR / MYSUN",
+  "cta": "Live audit 14 Sep 2026 confirms Premier Energies is a <b>manufacturer at 10.6 GW cells + 11.1 GW modules (NTPC 611 MW DCR)</b> with <b>0 consumer ads</b> — correctly. CSV marks <b>LOW — do not cold pitch</b> and we agree. Save credits for <b>Zunsolar (HOT), MYSUN (HOT), Shakti Pumps (seasonal)</b>. If channel ever wants a test, optional wins ship in 48h. <b>15-min call to re-prioritize 36-40?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> premierenergies.com fetch (10.6 GW cells + 11.1 GW modules FY26, TOPCon 25.2% cells / 23.2% modules, GEF Capital, 30 yrs, 5.6 GW TOPCon fab 2026, NTPC 611.04MW DCR Bifacial NOKH Rajasthan). Meta: Premier Energies → 0 active EPC. Google: premierenergies.com → 0. CBInsights/Hindu/EconomT. CSV 53 Lead-Form model was broad. LOW — skip.",
+  "source_csv": "niches/solar/data/daily_history/solar-day-01-2026-09-14-50-leads.csv",
+  "row_ref": "Premier Energies",
+  "live_fetch": "14 Sep 2026 · premierenergies.com (homepage + news) + CBInsights/Tracxn + Meta Library (Premier Energies, active, IN) + Google Transparency"
+}

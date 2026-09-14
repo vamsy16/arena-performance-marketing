@@ -1,43 +1,72 @@
-# Sunlit Future - Outreach Templates (Smart Pursuit BD team)
+# Sunlit Future — Personalized Outreach (Live Audit 14 Sep 2026)
 
-> Companion to `niches/solar/audits/sunlit-future-solar-audit-report.pdf` (Lead score 9/10). Do NOT attach to the audit PDF - internal BD templates only.
-
----
-
-### Subject A (Roast-Audit): sunlitfuture.in is a 'Congratulations, you set up your website' page
-
-Hi Sunlit Future team,
-
-I opened sunlitfuture.in this morning (14 Sep 2026). It is the default hosting page - 'Congratulations! You have successfully set up your website!'. sunlitfuture.com is parked. Your WordPress site has been down since at least 8 June.
-
-Two more leaks on top of that:
-1. Even when the site was live, the hero said 'Save Environment / Save Money' - not PM Surya Ghar (up to Rs.78,000 on 3 kW). Freyr's live headline is 'Save Rs.1 Lakh'. Tamil Nadu added a Rs.22,000 top-up in August.
-2. Ads go to a Lead Form. You already have WhatsApp 6384067020, 1,000+ rooftops and the Kalasalingam 503 kW / French Consulate case studies - none of that is the ad.
-
-I wrote a 2-page confidential audit with the 3 fixes (48-hour site restore, subsidy-first WhatsApp ads, 3-field calculator). Shall I WhatsApp it? One message, no call.
-
-- Smart Pursuit  |  7095024220
+> ⚠️  ONLY SEND AFTER confirming: (a) Meta Library *Sunlit Future — active, IN* has 0 active ads and (b) `https://sunlitfuture.in` fetched 14 Sep matches Finding 2 in `niches/solar/audits/sunlit-future-solar-audit-report.pdf`. If either moved, re-verify live before booking.
 
 ---
 
-### Subject B (WhatsApp / Loom - 30 sec)
+## 1) Cold Email — Short (CEO/Founder)
 
-"Hi - I recorded 3 minutes on Sunlit Future. First 20 seconds: sunlitfuture.in is a hosting default page. Next minute: your 2025 homepage vs Freyr's 'Save Rs.1 Lakh' hero. Last minute: 1,000+ rooftops and the French Consulate 1-lakh-kWh case that are not in the ads. Want the link on WhatsApp 6384067020? No call."
+Subject: {brand} — Auroville/domain note 14 Sep (+ 40% subsidy if you want it)
+
+Hi {{first_name}} — on 14 Sep 2026 I pulled **Meta Library (0 active)** + **Google (0)** + fetched **sunlitfuture.in** directly for **Sunlit Future** (`sunlitfuture.in` → see audit p.1).
+
+* Fix note: <b>1. Ad creative snapshot — 0 active ads and no destination live (Sep 14).</b> Library empty is expected for a 11–50 person Auroville niche EPC — but the homepage fetch shows Ples … — see `niches/solar/leads/sunlit-future-rich.json` for the live-fetch appendix.
+* Wins: <b>WIN 1 in 7 days — no pricing in email.
+
+CTA: Live audit 14 Sep 2026 confirms sunlitfuture.in is on a <b>Plesk default page</b> — correctly 0 active ads, but also 0 conversions. Fix is DNS/hosting (often 1 …
+Reply “Send Loom” and I’ll WhatsApp the 2-min walkthrough — no pitch.
+
+— Smart Pursuit | 7095024220 | smartpursuit3@gmail.com
+PS Confidential audit PDF: `niches/solar/audits/sunlit-future-solar-audit-report.pdf` (live 14 Sep, 3 pages) — only for you.
+
+---
+
+## 2) Cold Email — Long (Marketing head)
+
+Subject: Sunlit Future — live 14 Sep audit: Auroville 7MW / 1000 roofs — but homepage is a Plesk default page on 14 Sep
+
+Hi {{first_name}},
+
+Meta **Sunlit Future — active, IN**: **0 active** (14 Sep). Google **sunlitfuture.in**: **0**. **Landing fetch 14 Sep** (`https://sunlitfuture.in`) — see audit p.2 “Landing Page Review”):
+
+<b>2. Landing page — default server page, not a conversion page.</b> Fetch shows only "Congratulations! You have successfully set up your website!" + 4 Plesk help lines + img.png — no headli…
+
+<b>Sunlit Future (Auroville, since 1999)</b> — integrated solar provider: 7 MW on-grid across 1000+ rooftops + 800 solar pumps (Odisha/MH/MP/UP/Jharkhand/HP) for 1 lakh people; specialties On-Grid + Solar Water Pumps; LinkedIn 537 followers, Enfsolar Sellers+I…
+
+**3 wins (7 days, doable):**
+1. <b>WIN 1 — 24 hours: Restore domain (BLOCKER) + ship 1-hr GTM</b> — Owner: Hosting admin + dev
+2. <b>WIN 2 — 7 days: Launch gated Auroville proof pack (zero ad spend)</b> — Owner: Content
+3. <b>WIN 3 — 14 days: Test ₹30k local lead ads (Puducherry/TN) + WhatsApp</b> — Owner: Performance
+
+Impact table (p.3 of audit) — Domain live: Plesk default (parked) → Restored + one-pager live
+
+**CTA:** Live audit 14 Sep 2026 confirms sunlitfuture.in is on a <b>Plesk default page</b> — correctly 0 active ads, but also 0 conversions. Fix is DNS/hosting (often 1 hour with host support at Auroshilpam). After that, <b>one-pager + gated 7MW PDF + ₹30k Puducherry test</b> puts you back in 7 days. <b>15-min call to hand the one-pager copy + GTM tags?</b>
+Reply “Send Loom” — 2-min Loom, no deck.
+
+— Smart Pursuit (Niche EPC + Solar Thermal) — 7095024220 — smartpursuit3@gmail.com
+P.S. Verification appendix is on p.4 of `niches/solar/audits/sunlit-future-solar-audit-report.pdf` — Meta link + fetch + phone.
 
 ---
 
-### Subject C (FOMO): Pondicherry / TN installers are leading with Rs.78,000 - you are not
+## 3) WhatsApp — Voice-note style (<35 words, soft, no links unless asked)
 
-Hi,
-
-Auditing rooftop solar funnels around Auroville / Pondicherry / Villupuram this week. The installers pulling site surveys all do 4 things Sunlit currently does not:
-1. A website that loads (yours is a hosting placeholder as of 14 Sep).
-2. Subsidy-first creative - eligible for up to Rs.78,000, plus the new Rs.22,000 TN top-up.
-3. Click-to-WhatsApp as the primary CTA, not a Lead Form.
-4. Install proof in the ad (you have Kalasalingam 503 kW, the French Consulate, Aravind, Hidesign).
-
-3 of these can be live in 7 days. Want the 1-page plan?
-
-- Smart Pursuit  |  7095024220
+Hi {{first_name}} — 14 Sep 2026 live check: **Sunlit Future** has **Meta 0 / Google 0 active** and I fetched **sunlitfuture.in**. Noticed <b>3. Tracking — cannot fire on a parked domain.</b> A Plesk default has no head to p… — <b>WIN 1  feels doable this week. Want a 2-min WA Loom? — Smart Pursuit 7095024220
 
 ---
+
+## 4) LinkedIn DM — Value-first
+
+Hi {{first_name}} — I audited **Sunlit Future (sunlitfuture.in)** live 14 Sep 2026 (**0 active Meta / 0 Google**) and fetched the landing directly — see “Landing Page Review” in the PDF.
+
+Quick observation: <b>4. Form friction — no form at all right now.</b> There is no quote form to measure friction — restoration should ship a 3-field Auroville-first flow: Pincode…
+Fix could be **<b>WIN 2 ** → happy to share a 1-screen mock if useful — no pitch.
+
+Is a 15-min Loom helpful? — Smart Pursuit 7095024220
+
+---
+
+## 5) Call Opener (Discovery — 30 sec)
+
+“Hi {{first_name}} — [Sunlit Future, IN, EPC/solar niche] — I pulled **Meta Library Sunlit Future (active, 0)** + **Google (0)** + fetched **sunlitfuture.in** 14 Sep. Saw <b>5. Niche-specific — Auroville trust not packaged for paid.</b> You have 7MW/1000 roofs … — in your case **<b>WIN 1 — 24 hours: Restore domain (BLOCKER) + ship 1-hr GTM</b> — Owner: Hosting admin +…** — worth a 15-min Loom to show the LP fix? No pricing today.”
+
+_Pause. If objection “in-house handles it” → “Totally — then treating this as advisory: <b>WIN 1 — 24 hours: Restore domain (BLOCKER) + ship 1-hr GTM</b> — Owner: Hosting admin + dev… — want the one-pager to hand to the team?”_

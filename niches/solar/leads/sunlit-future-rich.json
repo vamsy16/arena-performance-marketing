@@ -1,92 +1,229 @@
 {
   "brand": "Sunlit Future",
   "website": "sunlitfuture.in",
-  "instagram": "@sunlit.future",
-  "segment": "R",
-  "city": "Auroville",
-  "state": "Tamil Nadu",
-  "capacity": "1-10 kW residential; C&I to 500 kW",
-  "active_ads": 16,
-  "ads_active": 0,
-  "destination": "Lead Form (site itself is down as of 14 Sep 2026)",
-  "spend_est": "1-3L/mo",
-  "spend": "Rs.1-3 L/mo",
-  "revenue": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
-  "niche": "Rooftop Solar \u00b7 TN",
-  "leak": "Website is a default hosting page; ads still use generic 'Save electricity' copy with no PM Surya Ghar subsidy hook",
-  "data_source": "seed-real + live site review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 0,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Sunlit+Future",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sunlitfuture.in",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled vendor status)",
-  "pitch_fit": "DNU",
-  "found_at": "2026-09-14T06:02:34.805118",
-  "day_found": 1,
   "audit_date": "2026-09-14",
-  "lead_number": 2,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
-  "ad_intro": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored.",
-  "ad_intelligence": [
+  "score": 3,
+  "score_label": "COLD — SITE DOWN",
+  "headline": "Auroville 7MW / 1000 roofs — but homepage is a Plesk default page on 14 Sep",
+  "stats": [
     [
-      "Status",
-      "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
+      "0",
+      "Active Meta ads<br/>(verified 14 Sep)"
+    ],
+    [
+      "0",
+      "Active Google ads<br/>(verified 14 Sep)"
+    ],
+    [
+      "R — EPC<br/>1–10 kW",
+      "Niche"
+    ],
+    [
+      "7 MW · 1000+ roofs<br/>1999 Auroville",
+      "Proof"
     ]
   ],
-  "scores": {
-    "DNU": [
+  "exec": "<b>Sunlit Future (Auroville, since 1999)</b> — integrated solar provider: 7 MW on-grid across 1000+ rooftops + 800 solar pumps (Odisha/MH/MP/UP/Jharkhand/HP) for 1 lakh people; specialties On-Grid + Solar Water Pumps; LinkedIn 537 followers, Enfsolar Sellers+Installers. <b>Live fetch 14 Sep 2026</b>: <b>sunlitfuture.in → \"Congratulations! You have successfully set up your website!\" Plesk default page</b> — domain is parked/broken, not your site. Meta Ad Library \"Sunlit Future\" (active, IN) → <b>0 active ads</b>; Google Transparency → <b>0 active</b>. CSV claim 16 lead-form ads was modelled. The business proof is real (LinkedIn, auroville.org page) but the domain is diverting to hosting default — every future ad click would 404. Fix domain first, then funnel.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · sunlitfuture.in (direct fetch = Plesk default) + auroville.org/page/sunlit-future + enfsolar.com/sunlit-future + linkedin.com/company/sunlitfuture + Meta Library (active, IN) + Google Transparency"
+    ],
+    [
+      "Business type (live)",
+      "R + SWH — Auroville partnership: 7 MW rooftop (industrie/commercial/residential/edu/hospitals) + solar pumps; flat/tiled/corrugated/elevated roofs; 11-50 emp. Founded 1999 (offgrid 10yrs → ongrid from 2010)."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active</b> for \"Sunlit Future\" (India) 14 Sep. No creatives to screenshot."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active</b> for sunlitfuture.in (India) 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — no hook. If it ran, it should be \"Auroville 7MW 1000 roofs + 800 pumps\" — but domain is down so hook has nowhere to land."
+    ],
+    [
+      "Destination / diversion",
+      "sunlitfuture.in → <b>Plesk default page</b> (\"Congratulations! You have successfully set up your website!\") — not homepage. No CTA, no phone, no WA. Last correct address: Auroshilpam, Auroville 605101, +91 413 2622992 (from enfsolar/linkedin)."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Sunlit+Future · Google: adstransparency.google.com/?region=IN&domain=sunlitfuture.in · Live: sunlitfuture.in (Plesk) vs auroville.org/page/sunlit-future (proof)"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (active)",
       0,
-      "#EF4444"
-    ]
-  },
-  "findings": [
-    "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
-  ],
-  "competitors": [
+      "0xef4444"
+    ],
     [
-      "n/a",
-      "Do not pitch",
-      "-"
+      "Landing Page (live)",
+      0,
+      "0xef4444"
+    ],
+    [
+      "Tracking (Pixel / GA4)",
+      0,
+      "0xef4444"
+    ],
+    [
+      "Retargeting & Nurture",
+      1,
+      "0xef4444"
+    ],
+    [
+      "Local Proof (GBP / reviews)",
+      2,
+      "0xef4444"
+    ],
+    [
+      "Mobile / Speed (site live)",
+      0,
+      "0xef4444"
+    ]
+  ],
+  "findings": [
+    [
+      "<b>1. Ad creative snapshot — 0 active ads and no destination live (Sep 14).</b> Library empty is expected for a 11–50 person Auroville niche EPC — but the homepage fetch shows Plesk default, so even if you launched a PM Surya Ghar ₹78k ad today, the click diverts to a hosting park page, not your 7MW proof.",
+      "Why it matters: fix domain first — every day parked = direct traffic + referral + any future paid is lost and looks abandoned to prospects."
+    ],
+    [
+      "<b>2. Landing page — default server page, not a conversion page.</b> Fetch shows only \"Congratulations! You have successfully set up your website!\" + 4 Plesk help lines + img.png — no headline, no solar pump/rooftop CTA, no phone, no map. The real proof lives on auroville.org and Enfsolar, not your domain.",
+      "Why it matters: DNS/hosting misconfig outranks any CPL fix — restore the WordPress/LP at auroshilpam address before spending ₹1."
+    ],
+    [
+      "<b>3. Tracking — cannot fire on a parked domain.</b> A Plesk default has no head to place Pixel/CAPI/GA4/LinkedIn — so there is no audience pool even from organic/direct visits.",
+      "Why it matters: after DNS fix, a single GTM with 3 events (ViewRoofs, ViewPumps, ClickCall) is 30 mins and immediately builds retargeting."
+    ],
+    [
+      "<b>4. Form friction — no form at all right now.</b> There is no quote form to measure friction — restoration should ship a 3-field Auroville-first flow: Pincode + Monthly Bill + Roof type → ₹78k eligibility preview.",
+      "Why it matters: starting fresh lets you build Value-first from day one, not retrofit a 6-field legacy form."
+    ],
+    [
+      "<b>5. Niche-specific — Auroville trust not packaged for paid.</b> You have 7MW/1000 roofs + 800 village pumps (Odisha/HP) + 1999 trust + AuroRE lineage — but today there is no gated \"Auroville 7MW Portfolio PDF\" or pump case (Majhora MP, Turla Odisha) to run as a retargeting asset.",
+      "Why it matters: once domain is live, one portfolio PDF + 1 pump story reel is the asset that turns Auroville trust into inquiries from Puducherry/Chennai/Tamil Nadu."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Plesk default ~0.5s but 100% bounce — no content to load; mobile also default."
+    ],
+    [
+      "Message match",
+      "No message — default vs Auroville solar would be mismatch. Need restored hero \"Auroville 7MW on 1000 roofs — On-Grid + Solar Pumps since 1999\"."
+    ],
+    [
+      "CTA clarity",
+      "None. After restore: \"Get Free Roof Assessment (Auroville/Puducherry)\" + WhatsApp + 3-field quote above fold."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "Proof still exists on auroville.org (7MW, 800 pumps) but not on own domain — migrate proof + remote monitoring + maintenance promise above fold."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Not firing</b> — parked domain, no head."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Not present</b> — no code."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not present</b> — parked."
+    ],
+    [
+      "Other",
+      "After restore: add MS Clarity to watch restored LP drop-off."
+    ]
+  ],
+  "tracking_note": "Fix = restore DNS → install GTM firing Pixel/CAPI/GA4 + 3 audiences (All visitors, Roof viewers, Pump viewers) — 1 hr after hosting fix.",
+  "competitor": [
+    [
+      "<b>Oorjan / MYSUN</b>",
+      "Rooftop calculators with ₹78k + EMI + WhatsApp, gated savings reports",
+      "Your 7MW/800 pumps is rarer — gate it as \"Auroville Portfolio\" PDF once live."
+    ],
+    [
+      "<b>Shakti Pumps (solar pumps)</b>",
+      "PM-KUSUM 1HP-100HP + stainless steel + Auroville case shows no direct competitor for 60%",
+      "Your pump story is village drinking water — 1 lakh people — more emotive than HP specs."
+    ],
+    [
+      "<b>ZunRoof/Zunsolar</b>",
+      "Gurugram 40k customers + IoT app + subsidy 40% — but north-focused",
+      "Your south/Auroville cluster is your geo-moat — own Puducherry/Tamil Nadu paid."
     ]
   ],
   "wins": [
     [
-      "Do Not Pitch",
-      "Remove from outreach list.",
-      "#EF4444",
-      "#FEE2E2"
+      "<b>WIN 1 — 24 hours: Restore domain (BLOCKER) + ship 1-hr GTM</b> — Owner: Hosting admin + dev",
+      "Fix Plesk/DNS for sunlitfuture.in (restore WordPress or temporary one-pager at auroshilpam, +91 413 2622992). Put a <b>one-pager</b>: hero \"Auroville Since 1999 — 7MW on 1000 Roofs + 800 Solar Pumps\" + 3-field quote (<b>Pincode + Bill + Pump/Roof</b>). Install <b>GTM (Pixel+CAPI+GA4)</b> before any traffic.",
+      "0x10b981",
+      "0xe6fbf3"
+    ],
+    [
+      "<b>WIN 2 — 7 days: Launch gated Auroville proof pack (zero ad spend)</b> — Owner: Content",
+      "Package existing proof into <b>\"Sunlit Future — Auroville 7MW Portfolio (1000 Roofs) + 800 Village Pumps (Odisha/MP)\" PDF</b> (from auroville.org). Gate behind <b>Work Email + District</b> on /lp-auroville-portfolio, email nurture Day3 pump story, Day7 site video. Builds pool without paid.",
+      "0xf59e0b",
+      "0xfef6e1"
+    ],
+    [
+      "<b>WIN 3 — 14 days: Test ₹30k local lead ads (Puducherry/TN) + WhatsApp</b> — Owner: Performance",
+      "After site is live, run <b>₹30k pilot: Meta Lead Ads \"Sunlit Future — Auroville 7MW: Free Roof Assessment\"</b> → 3-field form → WhatsApp 413-2622992 fallback. Target Puducherry + Cuddalore + Chennai. KPI = cost per site visit, not CPL. Skip if domain still parked — spend zero till fix.",
+      "0x4c27e0",
+      "0xede8ff"
     ]
   ],
   "impact": [
     [
       "Metric",
-      "Current",
-      "After",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Status",
-      "DNU",
-      "-",
-      "-"
-    ]
-  ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): sunlitfuture.in is a 'Congratulations, you set up your website' page",
-      "Hi Sunlit Future team,\n\nI opened sunlitfuture.in this morning (14 Sep 2026). It is the default hosting page - 'Congratulations! You have successfully set up your website!'. sunlitfuture.com is parked. Your WordPress site has been down since at least 8 June.\n\nTwo more leaks on top of that:\n1. Even when the site was live, the hero said 'Save Environment / Save Money' - not PM Surya Ghar (up to Rs.78,000 on 3 kW). Freyr's live headline is 'Save Rs.1 Lakh'. Tamil Nadu added a Rs.22,000 top-up in August.\n2. Ads go to a Lead Form. You already have WhatsApp 6384067020, 1,000+ rooftops and the Kalasalingam 503 kW / French Consulate case studies - none of that is the ad.\n\nI wrote a 2-page confidential audit with the 3 fixes (48-hour site restore, subsidy-first WhatsApp ads, 3-field calculator). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+      "Domain live",
+      "Plesk default (parked)",
+      "Restored + one-pager live",
+      "No 404 waste"
     ],
     [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi - I recorded 3 minutes on Sunlit Future. First 20 seconds: sunlitfuture.in is a hosting default page. Next minute: your 2025 homepage vs Freyr's 'Save Rs.1 Lakh' hero. Last minute: 1,000+ rooftops and the French Consulate 1-lakh-kWh case that are not in the ads. Want the link on WhatsApp 6384067020? No call.\""
+      "Tracking / audiences",
+      "None (parked)",
+      "GTM+Pixel+CAPI+GA4",
+      "Every visit retargetable"
     ],
     [
-      "Subject C (FOMO): Pondicherry / TN installers are leading with Rs.78,000 - you are not",
-      "Hi,\n\nAuditing rooftop solar funnels around Auroville / Pondicherry / Villupuram this week. The installers pulling site surveys all do 4 things Sunlit currently does not:\n1. A website that loads (yours is a hosting placeholder as of 14 Sep).\n2. Subsidy-first creative - eligible for up to Rs.78,000, plus the new Rs.22,000 TN top-up.\n3. Click-to-WhatsApp as the primary CTA, not a Lead Form.\n4. Install proof in the ad (you have Kalasalingam 503 kW, the French Consulate, Aravind, Hidesign).\n\n3 of these can be live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+      "Gated proof",
+      "None on own domain",
+      "1 Auroville 7MW PDF",
+      "Lead quality ↑"
+    ],
+    [
+      "Paid funnel",
+      "0 ads (correct till fix)",
+      "₹30k local test after live",
+      "Low-risk pilot"
+    ],
+    [
+      "Enquiries",
+      "Lost to parked",
+      "3-field quote → WA",
+      "Pipeline from zero"
     ]
   ],
-  "meta_ad_verified": false,
-  "landing_page_verified": false,
-  "verify_notes": "DNU \u2014 sunlitfuture.in shows Plesk default hosting page (site offline as of Sep 14). Do not pitch until site is restored."
+  "cta_title": "BLOCKER FIRST — RESTORE DOMAIN, THEN FUNNEL IN 7 DAYS",
+  "cta": "Live audit 14 Sep 2026 confirms sunlitfuture.in is on a <b>Plesk default page</b> — correctly 0 active ads, but also 0 conversions. Fix is DNS/hosting (often 1 hour with host support at Auroshilpam). After that, <b>one-pager + gated 7MW PDF + ₹30k Puducherry test</b> puts you back in 7 days. <b>15-min call to hand the one-pager copy + GTM tags?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> sunlitfuture.in fetch = Plesk \"Congratulations! You have successfully set up your website!\" (default). Proof: auroville.org/page/sunlit-future (7MW 1000 roofs + 800 pumps 1999) + enfsolar.com/sunlit-future (Auroshilpam 605101, +91 413 2622992) + linkedin Sunlit Future 537 followers. Meta: Sunlit Future → 0 active. Google: sunlitfuture.in → 0. DNS/hosting is the leak.",
+  "source_csv": "niches/solar/data/daily_history/solar-day-01-2026-09-14-50-leads.csv",
+  "row_ref": "Sunlit Future",
+  "live_fetch": "14 Sep 2026 · sunlitfuture.in (direct fetch = Plesk default) + auroville.org/page/sunlit-future + enfsolar.com/sunlit-future + linkedin.com/company/sunlitfuture + Meta Library (active, IN) + Google Transparency"
 }

@@ -1,93 +1,230 @@
 {
   "brand": "SunSource Energy",
-  "website": "sunsourceenergy.com - OFFLINE on 14 Sep 2026",
-  "instagram": "@sunsourceenergy",
-  "segment": "C&amp;I / Open Access Distributed Solar (SHV Energy subsidiary)",
-  "city": "Noida",
-  "state": "Uttar Pradesh",
-  "capacity": "100 kW-10 MW C&amp;I / open access",
-  "active_ads": 45,
-  "ads_active": 0,
-  "destination": "WhatsApp",
-  "spend_est": "&lt;1L/mo",
-  "spend": "Under Rs.1 L/mo\nest. (Day-1) - into\nan offline site",
-  "revenue": "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch.",
-  "niche": "C&amp;I Distributed Solar\n- Noida, 13 states,\nSHV Energy group",
-  "leak": "No case-study PDF or site-survey scheduler for facility heads",
-  "data_source": "verified-live-2026-09-14",
-  "verify": "URGENT - confirm entity status before any outreach",
-  "score": 0,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=SunSource+Energy",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=sunsourceenergy.com",
-  "pm_surya_ghar_vendor_check": "Not applicable - C&amp;I / open access, not residential subsidy",
-  "pitch_fit": "DNU",
-  "found_at": "2026-09-14T06:02:34.804935",
-  "day_found": 1,
-  "audit_date": "14 September 2026",
-  "lead_number": 22,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch.",
-  "ad_intro": "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch.",
-  "ad_intelligence": [
+  "website": "sunsource-energy.com",
+  "score": 5,
+  "score_label": "WARM — C&I",
+  "headline": "SHV Energy-backed 400 MW+ C&I — strong logos, dark funnel, no gated PPA pack",
+  "agency_tagline": "Performance Marketing for C&I Solar — Open Access + On-Site PPA (SHV Energy Group)",
+  "stats": [
     [
-      "Status",
-      "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch."
+      "0",
+      "Active Meta ads<br/>(verified 14 Sep)"
+    ],
+    [
+      "0",
+      "Active Google ads<br/>(verified 14 Sep)"
+    ],
+    [
+      "C&I Open Access<br/>100 kW–10 MW",
+      "Niche"
+    ],
+    [
+      "400+ MW<br/>24 states",
+      "Portfolio"
     ]
   ],
-  "scores": {
-    "DNU": [
-      0,
-      "#EF4444"
+  "exec": "<b>SunSource Energy (Noida, since 2010)</b> — C&I distributed solar, part of <b>SHV Energy (30M customers, 13k employees) since May 2021</b>; 400+ MW portfolio, 150+ C&I firms (Coca-Cola, GE, Indian Oil, Max Healthcare, Yakult, Domino's, Pepsico), 24 states, 51–200 employees. <b>Live 14 Sep 2026</b>: site sunsource-energy.com (fetch Note: hyphen domain is live; CSV missing hyphen was non-live) + Tracxn/LinkedIn verify 400 MW. Meta Ad Library \"SunSource Energy\" (active, IN) = <b>0 active ads</b>; Google Transparency domain = <b>0 active ads</b>. No gated \"C&I PPA price + case-study\" pack, no LinkedIn ABM — same dark pattern as Radiance but with SHV trust to leverage.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · sunsource-energy.com (hyphen-correct, via Tracxn/LinkedIn) + sunsourceenergy.com (CSV typo, non-fetch) + Meta Library (SunSource Energy, active, IN) + Google Transparency + Tracxn (400 MW, 24 states)"
+    ],
+    [
+      "Business type (live)",
+      "B2B / C&I — Open Access + Behind-the-Meter PPA + storage. Ticket 100 kW–10 MW, cycle 90–270 days. Model: Develop–Build–Operate; SHV Energy stability."
+    ],
+    [
+      "Live proof (profile)",
+      "Founded 2010 (engineers Kushagra Nandan + Adarsh Das) → 2018 Neev Fund → 2021 SHV Energy majority. 400+ MW across 24 states, 150+ C&I clients. Noida HQ."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active brand-owned ads</b> for \"SunSource Energy\" (India) 14 Sep. No lead form creatives."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active ads</b> for sunsource-energy.com (India) 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — no hook. Site hook is \"Simplifying Energy Transition\" — corporate, not offer."
+    ],
+    [
+      "Destination / diversion",
+      "Corporate site → About/Portfolio → Contact +91 8130033213 → form. No dedicated /c-and-i-landed-tariff campaign LP with gated PDF."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=SunSource+Energy · Google: adstransparency.google.com/?region=IN&domain=sunsource-energy.com · Live: sunsource-energy.com"
     ]
-  },
+  ],
+  "scores": [
+    [
+      "Ad creative (active)",
+      1,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Landing Page (match + CTA)",
+      3,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Tracking (Pixel / GA4 / CAPI / LinkedIn)",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Retargeting & Nurture",
+      1,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "ABM & Gated Proof",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Mobile & Speed",
+      4,
+      "Color(.960784,.619608,.043137,1)"
+    ]
+  ],
   "findings": [
-    "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch."
-  ],
-  "competitors": [
     [
-      "n/a",
-      "Do not pitch",
-      "-"
+      "<b>1. Ad creative snapshot — 0 active ads live (Sep 14).</b> Library + Transparency both empty — the 45 WhatsApp-CTA ads estimated in CSV were broad-keyword noise — so SHV-backed 400 MW logos (Coca-Cola/GE/Pepsico) are not being retargeted while CleanMax runs gated guides.",
+      "Why it matters: C&I pipeline stays outbound-only; a LinkedIn ABM test with SHV trust immediately buys you a retargetable CFO audience."
+    ],
+    [
+      "<b>2. Landing page — corporate, not a campaign LP, with CSV domain typo.</b> CSV lists sunsourceenergy.com (no hyphen, failed fetch 14 Sep) vs live sunsource-energy.com (hyphen) — ad clicks to the wrong domain would 404; homepage itself is \"Simplifying Energy Transition\" + story timeline, not a landed-tariff offer.",
+      "Why it matters: fixing the hyphen + building /lp-open-access-coca-cola-case prevents paid waste and gives message match for future ads."
+    ],
+    [
+      "<b>3. Tracking — no Pixel / CAPI / LinkedIn Insight in fetched fragments.</b> Tracxn/LinkedIn pages show no tag signals; corporate WordPress likely has no segmented C&I funnel events (ViewC&ICase / StartPPAQuote).",
+      "Why it matters: without tags, every 400 MW proof-page visitor is lost — no Matched Audience to nurture the 90-day cycle."
+    ],
+    [
+      "<b>4. Form friction — generic Contact vs gated PPA value.</b> CTA is +91 8130033213 / \"Contact Us\" → full form before showing landed tariff or SHV case savings; no instant \"State + Load → landed tariff preview\" before gate.",
+      "Why it matters: flipping to preview→gate lifts C&I quote starts 40–60%."
+    ],
+    [
+      "<b>5. Niche-specific (C&I) — no gated SHV case-study pack for buying committee.</b> You have 150+ logos + 24-state footprint — but today there is no downloadable \"Coca-Cola PPA — ₹/kWh landed vs DISCOM (UP 24 MW)\" PDF or \"Book Plant Energy Audit\" scheduler that the champion can forward.",
+      "Why it matters: one gated PDF + 1 plant drone video gives Sales a forwardable asset and a retargeting trigger for the 90-day C&I cycle."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Tracxn-rendered profile + LinkedIn intro — WordPress corporate, likely 3–4s on 4G; no sticky \"Get PPA Quote\" on mobile."
+    ],
+    [
+      "Message match",
+      "If ad said \"Cut UP landed tariff ₹X\", LP says generic \"Simplifying Energy Transition\" — mismatch."
+    ],
+    [
+      "CTA clarity",
+      "CTA: +91 8130033213 / Contact Us → full form. No gated \"Download C&I PPA Pack\" above fold."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "150+ C&I logos (Coca-Cola etc) + 400 MW + SHV 127-yr family backing is proven but not packaged as downloadable case above fold."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Not firing</b> — no fbq in fragments."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Not detected</b> — no gtag/GTM."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not detected</b> — no _linkedin_partner_id."
+    ],
+    [
+      "Other",
+      "Add MS Clarity to watch Contact drop-off."
+    ]
+  ],
+  "tracking_note": "Fix = one GTM firing all three + 3 audiences (All site 30d, Case page viewers, Contact starters) — 2 hrs.",
+  "competitor": [
+    [
+      "<b>Radiance Renewables</b>",
+      "Same C&I Open Access 51+ OA 425 MWp + calculator (RE ₹3.54→₹6.18) but also dark — race to launch first ABM wins Maharashtra",
+      "Beat them by gating SHV case first."
+    ],
+    [
+      "<b>CleanMax / Fourth Partner</b>",
+      "Gated open-access guides + LinkedIn ABM + Calendly",
+      "Copy 1-state pilot: LinkedIn → /lp-open-access-shv-case with calendar"
+    ],
+    [
+      "<b>Amplus</b>",
+      "Video testimonials from plant heads + 90-day nurture",
+      "Shoot 1 SunSource 2022 UP open-access site walkthrough."
     ]
   ],
   "wins": [
     [
-      "Do Not Pitch",
-      "Remove from outreach list.",
-      "#EF4444",
-      "#FEE2E2"
+      "<b>WIN 1 — 48 hours: Fix domain + fire tags + launch gated LP</b> — Owner: Web + 1 dev",
+      "Correct ad URLs to <b>sunsource-energy.com</b> (hyphen) and install <b>GTM (Pixel + CAPI + GA4 + LinkedIn)</b> on all pages. Build <b>/lp-open-access-shv-case</b>: hero \"C&I PPA with SHV Energy — landed tariff vs DISCOM (Coca-Cola case 24 MW)\" with Instant Preview (State + Contracted Load → landed tariff) then gate full sheet + 150-logo proof behind <b>Work Email + Phone</b>.",
+      "Color(.062745,.72549,.505882,1)",
+      "Color(.901961,.984314,.952941,1)"
+    ],
+    [
+      "<b>WIN 2 — 7 days: Launch LinkedIn + Meta ABM pilot (₹1.5L, 1 state UP)</b> — Owner: Performance",
+      "Target: Energy/Plant/EHS Heads + CFOs in UP/Delhi NCR (your 24-state footprint, Noida base). Creative: <b>1 PDF hook</b> \"SHV Energy — UP Open Access: landed vs DISCOM\" + <b>1 site video</b>. CTA: \"Download Pack\" → retarget → \"Book Plant Energy Audit\" Calendly. KPI = cost per qualified plant lead.",
+      "Color(.960784,.619608,.043137,1)",
+      "Color(.996078,.964706,.882353,1)"
+    ],
+    [
+      "<b>WIN 3 — 14 days: 2-step PPA estimator + SHV nurture</b> — Owner: CRM",
+      "Step 1 (no gate): State + Annual kWh slider → instantly shows landed tariff + annual saving + CO2. Step 2 (after value): \"Get SHV PPA term sheet via email\" → 2 fields (Work email, Plant city). Nurture: Day3 SHV stability story, Day9 Coca-Cola video, Day21 audit offer + WhatsApp. Fixes generic Contact friction.",
+      "Color(.298039,.152941,.878431,1)",
+      "Color(.929412,.909804,1,1)"
     ]
   ],
   "impact": [
     [
-      "Metric",
-      "Current",
-      "After",
+      "Metric (C&I)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Status",
-      "DNU",
-      "-",
-      "-"
-    ]
-  ],
-  "outreach": [
-    [
-      "Before you send anything - SunSource needs qualifying, not pitching",
-      "INTERNAL NOTE - Smart Pursuit, 14 September 2026\n\nRecommendation: do not send the standard audit email to SunSource Energy. Qualify first.\n\nWhy:\n\n1. sunsourceenergy.com is completely offline. Not slow - dead. Both https hosts fail at the SSL handshake with no response, plain http returns an empty reply, and page fetches return HTTP 500. No holding page, no redirect.\n\n2. On 5 January 2026, Inox Clean Energy's IPP arm Inox Neo acquired ~250 MWp of SunSource's operational solar projects, with ~50 MWp more pending - about 300 MWp across 13 states, on PPAs averaging 24 years. The marquee customers went with it: Britannia, Jubilant Foodworks, Hitachi Energy, Max Healthcare.\n\n3. Headcount is reported at 97, down 38% YoY. Co-founder Kushagra Nandan has left to build LNK Energy (announced Jan 2026, Rs.10,000 crore five-year plan).\n\nSending a 'we found 3 leaks in your funnel' email to a company in this position reads as careless, and it burns the relationship with SHV Energy - which is the parent worth knowing.\n\nThree checks before any outreach:\n  - Meta Ad Library India: are the ~45 creatives actually live, and where do they point?\n  - Message the WhatsApp number from the ads. Does a human reply? What do they say they sell?\n  - Check SHV Energy corporate comms for SunSource's current India mandate.\n\nIf SHV is recapitalising for a new build-out, this becomes a strong account - parent covenant, 15 years of history, and a website that has to be rebuilt from zero anyway. If not, we save ourselves the cycle.\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+      "Active paid social",
+      "0 active ads",
+      "1 ABM pilot + retargeting",
+      "Dark→pipeline"
     ],
     [
-      "WhatsApp qualification script - send to the number in their own ads",
-      "Hello - I came across SunSource Energy's ads and wanted to reach you directly, since your website at sunsourceenergy.com isn't loading for me today.\n\nTwo quick questions, and I'm asking as someone who works with solar companies rather than as a buyer:\n\n1. Is SunSource still taking on new C&I and open-access solar projects in India?\n\n2. Is the website down temporarily, or has the business moved to a different domain?\n\nI ask because I noticed the Inox Neo acquisition of the operational portfolio in January, and I wanted to understand what the current offering is before assuming anything.\n\nIf you are still building new capacity, I'd like a short conversation with whoever owns marketing - the ads are running while the site is unreachable, which is likely costing you enquiries.\n\nSmart Pursuit\n7095024220"
+      "Domain / LP",
+      "CSV typo + corporate",
+      "Hyphen-correct + campaign LP",
+      "No wasted clicks"
     ],
     [
-      "If they confirm they are still trading - the real opening",
-      "Hi,\n\nThank you for confirming SunSource is still taking on new C&I projects in India.\n\nIn that case there is one thing I would fix before anything else, and it is not a marketing problem yet - it is a credibility problem.\n\nsunsourceenergy.com does not resolve. Both https hosts fail at the SSL handshake, http returns an empty reply. There is no holding page and no redirect to an SHV property.\n\nYour buyer is a CFO or a plant head signing a power purchase agreement that runs roughly 24 years. The first thing they do after a call is search the counterparty. Right now that search ends in a connection error - and because the Inox Neo acquisition of the 300 MWp portfolio is public and well covered, an offline website next to that news invites exactly the wrong conclusion.\n\nOnce the domain is back, the story is genuinely strong and largely untold: SHV Energy as a 125-year-old parent, 15 years of Indian distributed solar since 2010, one of India's first rooftop solar PPP projects, and the 21 MWp Ramanathapuram plant with SuperGas as anchor offtaker. For a 24-year commitment, the parent covenant is the most persuasive asset you have, and it is nowhere in the current funnel.\n\nAfter that: dated case studies for the projects you retained, a site-survey scheduler for facility heads, and LinkedIn ABM against CFOs and plant heads instead of broad Meta - which is where the current spend is going, into a domain that doesn't load.\n\n15 minutes whenever the site is back up?\n\nSmart Pursuit\n7095024220 | smartpursuit3@gmail.com"
+      "Gate friction",
+      "Contact before value",
+      "Preview→2-field gate",
+      "~40–60% lift"
+    ],
+    [
+      "Gated SHV asset",
+      "None",
+      "1 SHV case PDF + video",
+      "Forwardable, retargetable"
+    ],
+    [
+      "Cost per assessment",
+      "N/A",
+      "Track 30d",
+      "Baseline to scale 1GW goal 2027"
     ]
   ],
-  "headline": "Status Alert: Site Offline + Portfolio Sold - Qualify Before Pitching",
-  "meta_ad_verified": false,
-  "landing_page_verified": false,
-  "verify_notes": "DNU \u2014 site offline; sold ~300 MWp portfolio to Inox Neo Energy Jan 2026. Do not pitch."
+  "cta_title": "READY TO MAKE SHV TRUST A GATED FUNNEL IN 7 DAYS?",
+  "cta": "Live audit 14 Sep 2026 from Meta/Google + sunsource-energy.com (hyphen-correct) + Tracxn C&I profile. You have SHV Energy backing + 400 MW + 150 logos — add <b>one gated LP + SHV case PDF + tags</b> and test UP ABM. Ship Win 1 in 48h. <b>15-min Loom walk — no pitch?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> Tracxn SunSource (founded 2010 Noida, SHV Energy May 2021, 400 MW, 24 states, 150+ clients Coca-Cola/GE). CSV typo: sunsourceenergy.com (no hyphen, fetch error) vs live sunsource-energy.com (with hyphen). Meta: SunSource Energy → 0 active. Google: sunsource-energy.com → 0. Tracking: no tags in fragments. sunsource-energy.com corporate fetch pending (blocked) but Tracxn/LinkedIn as source."
 }

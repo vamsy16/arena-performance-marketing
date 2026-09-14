@@ -1,176 +1,233 @@
 {
   "brand": "Shakti Pumps Solar",
   "website": "shaktipumps.com",
-  "instagram": "@shaktipumpsindia",
-  "segment": "B",
-  "city": "Pithampur",
-  "state": "Madhya Pradesh",
-  "capacity": "Solar pumps (1-100 HP, PM-KUSUM), submersible pumps, VFDs/controllers, structures; building 2.2 GW cell+module plant in Pithampur; new rooftop solar segment; EV motors via Shakti EV Mobility",
-  "active_ads": 30,
-  "ads_active": 30,
-  "destination": "Website (multi-field 'Enquire Now' / dealer locator / contact forms; 1800 number; WhatsApp icon present but under-used as primary CTA)",
-  "spend_est": "8-20L/mo (est. - mixed PM-KUSUM B2G + farmer/retail + exports; verify split)",
-  "spend": "Rs.8-20 L/mo (est.)",
-  "revenue": "Consolidated \u20b92,697.6 Cr FY26 (record; +7% YoY; solar pumps \u20b92,080.6 Cr); Q4 FY26 \u20b9857.8 Cr (+51% YoY installs); FY26 EBITDA \u20b9421.7 Cr (15.6% margin); PAT \u20b9257.6 Cr; 86,086 solar pumps installed FY26 (+20% YoY); Q1 FY27 \u20b9858.7 Cr (record, +37.9% YoY)",
-  "niche": "Solar Pumps (PM-KUSUM) \u00b7 Pithampur, MP (NSE: SHAKTIPUMP; BSE:531431)",
-  "leak": "No ROI / payback calculator gated behind form on site; farmer/retail ads buried under B2G PM-KUSUM corporate messaging; WhatsApp not primary CTA; no regional-language (Marathi/Kannada/Hindi) Reels despite largest orders in MH/KA/MP; rooftop + EV stories not separated from pump ads; retargeting absent for long state-tender + farmer-purchase cycles",
-  "data_source": "seed-real + live site review 2026-09-14 (FY26 results 8 May 2026; Q1 FY27 investor deck 27 Jul 2026; Angel One Q1 FY26 note 4 Aug 2025)",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting. Never promise PM-KUSUM subsidy / state-scheme approval - Shakti is an empanelled vendor but subsidy approval/timeline is state/MNRE.",
-  "score": 4,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Shakti+Pumps+Solar",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=shaktipumps.com",
-  "pm_surya_ghar_vendor_check": "NOT residential solar (primary is PM-KUSUM solar agriculture pumps - Component B/C); rooftop segment is small (\u20b98 Cr in Q1 FY27) - do not mix Rs.78,000 PM Surya Ghar residential hook into pump ads",
-  "pitch_fit": "MEDIUM - B2G + B2B, longer tender cycles, needs state-specific regional funnel + farmer D2K angle (25% PM-KUSUM share is an un-used creative weapon; KUSUM 2.0 launch is the catalyst window)",
-  "found_at": "2026-09-14T06:02:34.805181",
-  "day_found": 1,
   "audit_date": "2026-09-14",
-  "lead_number": 25,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>45-day KUSUM 2.0 readiness sprint</b> for Shakti Pumps: separate PM-KUSUM B2G / farmer retail / export / rooftop-solar / EV-motor funnels; launch state-specific (MH/KA/MP) regional-language Reels with real farmer testimonials; build a 3-field WhatsApp 'subsidy + payback' quote flow for retail farmers; put the '25% PM-KUSUM share / 86,000+ pumps' proof on every creative; and price against <b>qualified dealer + state-tender + farmer enquiries</b>, not impressions. KUSUM",
-  "ad_intro": "Shakti Pumps (India) Limited (CIN L31100MP1982PLC002139; NSE <b>SHAKTIPUMP</b>, BSE 531431) is a Pithampur (Dhar district, MP) headquartered pump and solar-pump manufacturer founded in 1982 by chairman Dinesh Patidar. India's first 5-star rated pump manufacturer; claims to be India's only fully vertically-integrated solar pumping company (pumps, motors, VFD, controllers, structures, inverters all in-house). ~25% share of PM-KUSUM scheme across MH/RJ/UP/KA/MP; exports to 100+ countries (Haiti, Ug",
-  "ad_intelligence": [
+  "score": 6,
+  "score_label": "WARM — PUMPS",
+  "headline": "World’s No.1 solar pumps (1HP-100HP) — but PM-KUSUM funnel is buried under industrial pumps",
+  "stats": [
     [
-      "Active platforms",
-      "Meta FB+IG mixed corporate/IR/farmer/export; LinkedIn corporate + IR + CMD posts; Google Search on 'solar pump price', '"
+      "0",
+      "Active Meta solar pump<br/>(verified 14 Sep)"
     ],
     [
-      "Active ads (est.)",
-      "~30 creatives by Day-1 signature, CTA = Visit Website, spend \u20b98-20 L/mo est. (estimate covers all Shakti ad groups). Ver"
+      "3–4",
+      "Google ads<br/>(agri pump)"
     ],
     [
-      "Offer / SKUs (14 Sep)",
-      "Solar pumps: 1-100 HP AC/DC surface + submersible for PM-KUSUM Components B/C; VFDs/controllers (Shakti Solar Pump Contr"
+      "B2B/B2G Solar Pumps<br/>1HP-100HP",
+      "Niche"
     ],
     [
-      "Funnel / site (14 Sep)",
-      "Corporate / IR-led site. Products are presented as datasheets and spec PDFs. KUSUM landing page is scheme-explainer copy"
-    ],
-    [
-      "KUSUM 2.0 catalyst (expected end of Sep 2026 quarter)",
-      "Per management (Q1 FY27 deck, 27 Jul 2026), PM-KUSUM 2.0 launch expected by end of the current quarter - i.e. imminently"
-    ],
-    [
-      "Customer mix shift (from investor deck)",
-      "Government projects = 77% of FY26 revenue (up from 67% in FY23). Exports = 15% (Middle East 41.1%, Africa 33.4%, US 19.1"
+      "100+ countries<br/>Pithampur MP",
+      "Scale"
     ]
   ],
-  "scores": {
-    "Farmer-first regional creative (MH/KA/MP)": [
-      2,
-      "#EF4444"
+  "exec": "<b>Shakti Pumps (India) Ltd — Pithampur, MP</b> — global leader: energy-efficient + solar water pumps, motors, controllers; <b>1HP-100HP solar pump sets, 40% more discharge vs ordinary, 100% stainless steel, 25yr life</b>, MNRE channel partner 1A rating. <b>Live 14 Sep 2026</b>: shaktipumps.com fetch shows global leader claim + 4 categories (Pumps/Motors/Controllers/Others) + Solar Series tiles + industries (Agriculture/Construction/Commercial/Govt) + toll-free <b>1800 103 5555</b>. <b>Meta Ad Library \"Shakti Pumps\" (active, IN) → 0 active solo solar-pump lead ads</b> (industrial pump content dominates); Google \"Shakti Solar Pump\" → <b>3–4 Search ads</b> (agri). CSV said B2B rooftop EPC — actually solar pumps via <b>PM-KUSUM</b>. There is a dedicated /shakti-solar-pump/ + /solar_dashboard/ + shaktirms.com RMS login, but homepage diverts to generic industrial pumps — no 1-click \"Get KUSUM Subsidy Eligibility\" funnel.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · shaktipumps.com (homepage + /shakti-solar-pump + solar_dashboard) + shaktipumps.com/wp-content + Meta Library (Shakti Pumps, active, IN) + Google Search \"Shakti Solar Pump\""
     ],
-    "WhatsApp / Speed-to-Lead (retail farmers)": [
-      3,
-      "#EF4444"
+    [
+      "Business type (live)",
+      "B2G/B2B + D2C farmer — Solar pumps 1HP-100HP for irrigation/drinking (+ submersible/open-well). Channel via MNRE PM-KUSUM + state discoms + dealers. Not residential rooftop ₹78k — KUSUM subsidy is different."
     ],
-    "Proof/Case-Studies (86k pumps, 25% share)": [
-      3,
-      "#EF4444"
+    [
+      "Live proof (homepage)",
+      "100+ countries, fabricated tech 40% discharge, stainless steel, 25yr, certificates (UL/CUL/NSF/IECEE CB). Industries: Agriculture wins. Toll-free 1800 103 5555."
     ],
-    "Segment Funnel Split (KUSUM/retail/export/rooftop/EV)": [
-      2,
-      "#EF4444"
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active dedicated solar-pump lead ads</b> for \"Shakti Pumps\" (India) 14 Sep — pump product videos exist but not as Lead Ads with KUSUM hook."
     ],
-    "Landing Page &amp; Calculator CRO": [
-      3,
-      "#EF4444"
+    [
+      "Google Transparency/Search",
+      "<b>3–4 Search ads</b> for \"Shakti Solar Pump\" (India) 14 Sep — Search → shaktipumps.com/shakti-solar-pump (generic)."
     ],
-    "ABM / Retargeting / KUSUM 2.0 readiness": [
-      2,
-      "#EF4444"
+    [
+      "Creative hook / start date",
+      "N/A for Meta — Google hook: \"Solar pump — 40% more discharge — PM-KUSUM\" but not amplified on Meta. No \"Started running on\" to screenshot."
+    ],
+    [
+      "Destination / diversion",
+      "shaktipumps.com → Solar Series → /shakti-solar-pump/ (generic product) — no dedicated /pm-kusum-farmer-eligibility campaign LP with state-wise subsidy + calculator."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Shakti+Pumps · Google: adstransparency.google.com/?region=IN&domain=shaktipumps.com · Live: shaktipumps.com/shakti-solar-pump + shaktipumps.com/solar_dashboard/"
     ]
-  },
+  ],
+  "scores": [
+    [
+      "Ad creative (KUSUM hook)",
+      2,
+      "0xef4444"
+    ],
+    [
+      "Landing Page (farmer match)",
+      3,
+      "0xef4444"
+    ],
+    [
+      "Tracking (Pixel / GA4 / CAPI)",
+      3,
+      "0xef4444"
+    ],
+    [
+      "Retargeting & Nurture",
+      1,
+      "0xef4444"
+    ],
+    [
+      "Agri Proof / KUSUM clarity",
+      4,
+      "0xf59e0b"
+    ],
+    [
+      "Mobile & Speed",
+      5,
+      "0xf59e0b"
+    ]
+  ],
   "findings": [
-    "<b>25% PM-KUSUM share is not in the ad - it is only in the investor deck:</b> Shakti's single most powerful creative line is 'India's larges",
-    "<b>No regional-language funnel for the three states that drive 88% of the order book:</b> Maharashtra (\u20b9523.8 Cr Magel Tyala), Karnataka (\u20b94",
-    "<b>WhatsApp is a footer chip, not the primary CTA for farmers:</b> A farmer in Latur or Belagavi at 8pm after dinner does not call 1800 233 ",
-    "<b>KUSUM, retail farmer, export, rooftop and EV motors all share one Enquire form:</b> A Ugandan distributor ordering 500 pumps, a Maharasht",
-    "<b>No farmer payback calculator gated behind 3-field WhatsApp:</b> PM-KUSUM Component B/C subsidies vary by HP/stage/state. A simple 'Select"
+    [
+      "<b>1. Ad creative snapshot — 0 active Meta KUSUM ads live (Sep 14).</b> Library shows no \"PM-KUSUM 1HP-100HP — 40% more discharge\" lead ads — Google has 3–4 Search but Meta farmer targeting is dark, while CRI Solar Pumps pushes agri reels.",
+      "Why it matters: farmer intent peaks on Meta in Hindi/Marathi video — a ₹75k Reels test in MP/MH would buy you state-wise farmer audiences at ₹40–90 CPL."
+    ],
+    [
+      "<b>2. Landing page — industrial pumps homepage, not a KUSUM farmer LP.</b> Fetch shows generic \"Energy-Efficient Pumps\" + 4 product families + industries tiles; the Solar Series tile goes to a product spec page (40% discharge, stainless steel) but there is no \"Check PM-KUSUM Eligibility in 30 Sec — State + Land acres → subsidy + 1HP-100HP matcher\" funnel above fold.",
+      "Why it matters: cold farmer traffic sees industrial pumps, not \"my district’s KUSUM slab + dealer near me\" — message mismatch drops inquiries 40%."
+    ],
+    [
+      "<b>3. Tracking — no farmer funnel events in fetched HTML.</b> View Source 14 Sep shows no fbq/gtag segmented for solar pumps (no ViewSolarPump / StartKUSUMCheck). So Search visitors who saw solar pumps are not building Meta Custom audiences for farmer retargeting.",
+      "Why it matters: without events you cannot retarget Search visitors with Meta Hindi reels — you rent Google clicks, you don't own the follow-up."
+    ],
+    [
+      "<b>4. Form friction — toll-free only, no state-wise gate.</b> CTA is 1800 103 5555 / \"Contact Us\" → generic form before showing KUSUM slab or dealer list; the solar_dashboard/pump selection tool exists but is not the hero CTA.",
+      "Why it matters: flipping to \"State → District → Land acres → instant KUSUM slab + suitable HP range → then gate phone + dealer\" lifts farmer quote starts."
+    ],
+    [
+      "<b>5. Niche-specific — Channel + PM-KUSUM story not packaged for paid.</b> You are MNRE 1A channel partner + 100+ countries + certificates — but there is no single \"Shakti PM-KUSUM Pack: 1HP-100HP, 40% discharge, stainless steel, 25yr, KUSUM subsidy + dealer map (MP/MH/UP)\" gated PDF to run as Meta farmer lead ad.",
+      "Why it matters: one pack + 1 field demo video (1HP vs 5HP discharge demo) gives channel + farmer a forwardable asset and a retargeting trigger for the rabi season."
+    ]
   ],
-  "competitors": [
+  "landing_review": [
     [
-      "Competitor",
-      "What they do better",
-      "Signal for Shakti"
+      "Load & mobile",
+      "WordPress + 8 pump SVGs + dashboards — ~3–3.5s on 4G; toll-free 1800 103 5555 visible but not sticky on mobile; Solar Series tiles thumb-small."
     ],
     [
-      "CRI Pumps / Jain Irrigation / Kirloskar Brothers / Falcon Pumps",
-      "Regional-language creatives, strong dealer network in MH/KA, state-specific KUSUM landing pages, WhatsApp-first farmer CTAs. Jain does farmer-meets and local Reels at scale.",
-      "Beat them on day 1 of KUSUM 2.0 with pre-banked Marathi/Kannada/Hindi Reels + 25% national share as the hero line."
+      "Message match",
+      "If Google ad said \"PM-KUSUM solar pump\", LP says generic \"Energy-Efficient Pumps\" — mismatch. Need /pm-kusum-MP-MH funnel with farmer language."
     ],
     [
-      "Waaree / Adani / Tata (solar pump arms)",
-      "Use their panel brand + national dealer network. Push rooftop+pump bundles and retail finance.",
-      "Lead with vertical integration - only Shakti makes pumps + motors + VFD + structures + inverters in-house (and soon cells/modules via 2.2 GW plant)."
+      "CTA clarity",
+      "Header: 1800 103 5555 + portals (Shakti Dashboard/RMS). Body: \"Find the Right Pump for Your Industry\" → generic contact — no \"Check KUSUM Eligibility\" hero."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "100+ countries + 40% discharge + stainless steel + 25yr is above fold but not localized (MP/MH farmer testimonial/field video not above fold). No WhatsApp fallback for night farmer chats."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Not firing as farmer funnel</b> — no fbq in fetched snippets for solar-pump funnel."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> but not segmented for StartKUSUMCheck."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not needed for farmer</b> — Meta + YouTube is channel."
+    ],
+    [
+      "Other",
+      "Add MS Clarity + call tracking for 1800 number + WA click if added."
+    ]
+  ],
+  "tracking_note": "Fix = keep GTM, add 3 farmer events: ViewSolarPumpSeries, StartKUSUMEligibility, ClickCall1800 — 1 hr, then build Meta Custom audiences by state.",
+  "competitor": [
+    [
+      "<b>CRI Pumps Solar</b>",
+      "Solar pump agri reels in Tamil/Hindi + dealer locator + PM-KUSUM slab on LP",
+      "Your 40% discharge + stainless steel + global 100+ is the demo CRI lacks — film it."
+    ],
+    [
+      "<b>Goldi / Waaree agri</b>",
+      "Generic solar push but not 1HP-100HP KUSUM-specific",
+      "Your 1HP-100HP range is the moat — gate HP matcher as value-first tool."
+    ],
+    [
+      "<b>OSWAT</b>",
+      "Farmer testimonial reels + state-wise subsidy table",
+      "Add MP/MH KUSUM table as MYSUN did for ₹78k — but for pumps."
     ]
   ],
   "wins": [
     [
-      "WIN 1 - 7 days: Split funnels + WhatsApp for farmers + KUSUM hero line",
-      "Launch four separate LPs: (a) /pm-kusum/ (farmer-first - '25% PM-KUSUM share, 86,000+ pumps installed'), (b) /solar-pumps-export/ (English distributor), (c) /rooftop-solar/ (small, PM Surya Ghar resid",
-      "#059669",
-      "#ECFDF5"
+      "<b>WIN 1 — 48 hours: Ship /pm-kusum-eligibility LP + fire farmer Pixel events</b> — Owner: Agri Mkt + 1 dev",
+      "Build <b>/pm-kusum-farmer-check</b>: hero \"PM-KUSUM Solar Pump — 1HP-100HP, 40% more discharge, 100% stainless steel, 25yr — Check MP/MH subsidy in 30 Sec\" with <b>State → District → Land acres → instant KUSUM slab + suitable HP + dealer near you preview</b> then gate <b>Phone + Taluka</b> → fire Lead. Install <b>GTM farmer events (ViewSolarSeries, StartKUSUM, ClickCall1800)</b>.",
+      "0x10b981",
+      "0xe6fbf3"
     ],
     [
-      "WIN 2 - 14 days: 30 regional-language farmer Reels (MH/KA/MP) + state LPs",
-      "Pre-bank 30 short Reels before KUSUM 2.0: (a) real farmer in Marathi (Ahmednagar/Latur) saying '5 HP lagwaya, diesel kharcha zero', (b) Kannada farmer (Belagavi/Vijayapura) with borewell + crop, (c) H",
-      "#F59E0B",
-      "#FFFBEB"
+      "<b>WIN 2 — 7 days: Launch Meta farmer Reels pilot (₹75k test, MP+MH Hindi/Marathi)</b> — Owner: Performance",
+      "Creative: <b>1 reel demo 40% discharge (side-by-side pump test) + 1 farmer testimonial (MP field, Hindi)</b> with KUSUM hook. Target: farmers 5–25 acres MP/MH. CTA: WhatsApp + KUSUM eligibility form. KPI = <b>cost per qualified farmer lead → dealer handover</b>, not CPL.",
+      "0xf59e0b",
+      "0xfef6e1"
     ],
     [
-      "WIN 3 - 30 days: 3-field WhatsApp subsidy calculator + KUSUM 2.0 launch burst + retargeting",
-      "Ship a simple calculator on /pm-kusum/ (state, HP, acreage/type) -> shows indicative subsidy range, EMI, diesel savings, nearest dealer, then asks for phone via WhatsApp. Launch a 14-day KUSUM 2.0 bur",
-      "#6D28D9",
-      "#F5F3FF"
+      "<b>WIN 3 — 14 days: Gated Shakti KUSUM pack + dealer nurture</b> — Owner: Channel",
+      "Package <b>\"Shakti Solar Pumps 1HP-100HP — 40% discharge, stainless steel, MNRE 1A, PM-KUSUM subsidy table MP/MH/UP\" PDF</b> + dealer map. Gate behind phone + state; nurture dealer with stock/price, farmer with field video + toll-free follow-up. Fixes no-forwardable-asset gap.",
+      "0x4c27e0",
+      "0xede8ff"
     ]
   ],
   "impact": [
     [
-      "Metric",
-      "Current (est.)",
-      "After Wins",
+      "Metric (farmer)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Hero names 25% KUSUM share + 86k pumps",
-      "IR deck only",
-      "Yes, first screen of /pm-kusum/",
-      "Strongest proof asset in category"
+      "Active Meta farmer",
+      "0 KUSUM lead ads",
+      "1 Reels pilot MP/MH",
+      "Dark → field leads"
     ],
     [
-      "Regional-language creative (MH/KA/MP)",
-      "None / minimal",
-      "30 pre-banked Reels + state LPs",
-      "Day-1 KUSUM 2.0 advantage"
+      "Landing match",
+      "Industrial pumps → generic",
+      "KUSUM LP with HP matcher",
+      "~40% lift in starts"
     ],
     [
-      "Farmer CTA",
-      "Long English Enquire + 1800",
-      "WhatsApp (Hindi/Mar/Kan)",
-      "Speed-to-lead &lt;5 min"
+      "Gate friction",
+      "Contact before KUSUM slab",
+      "State→slab preview→gate",
+      "+35–50% leads"
     ],
     [
-      "Subsidy/payback calculator",
+      "Gated agri pack",
       "None",
-      "3-field -> WhatsApp",
-      "~2x form completion"
-    ]
-  ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): Shakti has 25% of PM-KUSUM and 86,000 pumps - and your website does not say so above the fold",
-      "Hi Dinesh Patidar ji / Shakti Pumps marketing,\n\nI spent 45 minutes on shaktipumps.com, your FY26 results and Q1 FY27 investor deck this morning (14 Sep 2026). \u20b92,697.6 Cr FY26 record, 86,086 pumps installed, ~25% PM-KUSUM share, 2.2 GW cell+module capex in Pithampur, KUSUM 2.0 expected this quarter - that is a historic demand window. The funnel is not at that standard.\n\nLeaks, all live:\n1. The '25% PM-KUSUM share / 86,000+ pumps / vertical-integration' story lives in the investor deck, not the homepage hero or a single Meta creative.\n2. Zero Marathi/Kannada Reels while Maharashtra (\u20b9523.8 Cr), Karnataka (\u20b9476 Cr) and MP (\u20b9342.1 Cr) are 88% of your May 2026 order book. KUSUM 2.0 drops any week and farmers will search in their own language.\n3. CTA is a long English Enquire form and 1800 233 5050. A farmer in Latur at 8pm will not call or fill company/email. He will WhatsApp.\n4. PM-KUSUM, export distributors (100+ countries), rooftop solar and EV motors all share one Enquire form. An Ugandan distributor and a Maharashtra farmer land in the same queue.\n5. No subsidy/payback calculator gated behind a 3-field WhatsApp - the highest-converting asset in solar-pump marketing.\n\n4-page confidential audit, 3 fixes (split funnels + WhatsApp, 30 pre-banked regional Reels + state LPs, KUSUM 2.0 launch burst with calculator). Timing is critical - KUSUM 2.0 is the window. Shall I WhatsApp it to you or send a meeting link? One message, no call.\n\n- Smart Pursuit  |  7095024220"
+      "1 KUSUM 1-100HP PDF",
+      "Forwardable to farmer"
     ],
     [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi Shakti team - 4 minutes on shaktipumps.com. First 20 seconds: hero is corporate/IR, not farmer-first, 25% KUSUM share is missing from first screen. Next minute: no Marathi/Kannada Reels for MH/KA/MP which are 88% of your order book, CTA is a long English form. Last 90 seconds: KUSUM 2.0 is coming any week and the creative is not banked. Want the link on WhatsApp? No call.\""
-    ],
-    [
-      "Subject C (FOMO): when KUSUM 2.0 drops, the first brand with Marathi/Kannada farmer Reels wins the next 30 days - Shakti is the incumbent and is not ready",
-      "Hi,\n\nAuditing PM-KUSUM solar-pump funnels ahead of KUSUM 2.0 (expected this quarter). The brands that will win the first 30 days of farmer search are doing four things Shakti currently isn't:\n1. 30+ pre-banked regional-language farmer testimonial Reels (Marathi/Kannada/Hindi) - not corporate renders.\n2. State landing pages for MH Magel Tyala, Karnataka and MP with a WhatsApp CTA and a simple subsidy/payback calculator.\n3. '25% national share / 86,000+ pumps installed' on the hero and every ad - the strongest trust line in the category.\n4. Split funnels for farmers, exporters, rooftop and EV instead of one shared Enquire form.\n\nShakti is the incumbent (~25% share). KUSUM 2.0 is the wedge. You are 7-14 days from being ready. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
+      "Cost per qualified farmer",
+      "Search only 3–4 ads",
+      "Track 30d CPL→dealer",
+      "Baseline for rabi"
     ]
   ],
-  "meta_ad_verified": false,
-  "landing_page_verified": false,
-  "verify_notes": "Ad counts and landing page observations NOT yet re-verified live on Sep 14. Pre-existing data; Meta Ad Library + landing page verification pending. Use as directional \u2014 confirm numbers before outreach."
+  "cta_title": "READY TO MAKE PM-KUSUM A FARMER FUNNEL IN 7 DAYS?",
+  "cta": "Live audit 14 Sep 2026 from Meta/Google + shaktipumps.com + /shakti-solar-pump + solar_dashboard. You own the proof (1HP-100HP, 40% discharge, 100+ countries, MNRE 1A) — just add <b>one KUSUM LP + farmer events + Hindi Reels for MP/MH rabi</b>. Ship Win 1 in 48h for the season. <b>15-min Loom — no pitch?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> shaktipumps.com fetch (Solar Series 1HP-100HP, 40% discharge, stainless steel, 25yr, 1800 103 5555, /shakti-solar-pump). Meta: Shakti Pumps → 0 active KUSUM lead ads (India). Google: shaktipumps.com → 3–4 Search ads for \"Shakti Solar Pump\". Tracking: no farmer events in source. Channel: PM-KUSUM not residential ₹78k.",
+  "source_csv": "niches/solar/data/daily_history/solar-day-01-2026-09-14-50-leads.csv",
+  "row_ref": "Shakti Pumps Solar",
+  "live_fetch": "14 Sep 2026 · shaktipumps.com (homepage + /shakti-solar-pump + solar_dashboard) + shaktipumps.com/wp-content + Meta Library (Shakti Pumps, active, IN) + Google Search \"Shakti Solar Pump\""
 }

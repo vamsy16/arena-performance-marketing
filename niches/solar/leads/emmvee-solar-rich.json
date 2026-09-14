@@ -1,172 +1,230 @@
 {
   "brand": "Emmvee Solar",
-  "website": "emmvee.com (consumer: shop.emmvee.com)",
-  "instagram": "@emmveesolar",
-  "segment": "B - PV Module Manufacturer + Solar Water Heater (B2B)",
-  "city": "Bengaluru",
-  "state": "Karnataka",
-  "capacity": "1-100 kW rooftop; 3-10 kW residential kits; modules (DCR TOPCon, bifacial)",
-  "active_ads": 18,
-  "ads_active": 0,
-  "destination": "WhatsApp (CTA Send Message) + Website /shop form (name, phone, email, pincode)",
-  "spend_est": "8-20L/mo",
-  "spend": "Rs.8-20 L/mo",
-  "revenue": "Rs.5,050 Cr FY26 (listed Nov 2025, ~Rs.3,000 Cr IPO); 10.3 GW module + 2.94 GW cell capacity",
-  "niche": "D2C Solar Products / Rooftop Kits \u00b7 KA",
-  "leak": "Zero UGC / unboxing reels - all studio product shots; D2C/consumer funnel buried inside a B2B module-manufacturer site; PM Surya Ghar story absent from residential SKUs",
-  "data_source": "seed-real + live site review 2026-09-14 (filings Mercom Apr 2026)",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number. Never promise PM Surya Ghar approval - Emmvee is a module/EPC vendor, not MNRE.",
-  "score": 4,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Emmvee+Solar",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=emmvee.com",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (verify empanelled installer/vendor status; do not promise subsidy on product ads)",
-  "pitch_fit": "MEDIUM",
-  "found_at": "2026-09-14T06:02:34.804751",
-  "day_found": 1,
-  "audit_date": "2026-09-14",
-  "lead_number": 10,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a &lt;b>14-day solar D2C sprint&lt;/b> for Emmvee: split the consumer rooftop funnel away from the B2B module-manufacturer site, put PM Surya Ghar + WhatsApp + a 3-field savings quote on the first screen, build UGC Reels from 30+ years of installs, and price CPL / ROAS against &lt;b>site-survey bookings and kit orders&lt;/b>, not impressions.",
-  "ad_intro": "Segment corrected: emmvee.com is B2B corporate site (module mfr), not D2C residential. Hero: \"Solar Panels Manufacturers in India & USA\". 10.3 GW module + 2.94 GW cell capacity (Jul 2026). Phone 080-22174333. ET NOW Best Brand 2025, \u20b91,500 Cr KPI Green deal. Only Indian co passing all 7 Kiwa PVEL 2024 tests. Meta Ad Library \"Emmvee Solar\" returned no visible consumer ads. B2B module-mfr pitch (lin",
-  "ad_intelligence": [
+  "website": "emmvee.com",
+  "score": 8,
+  "score_label": "WARM — B2B MFR",
+  "headline": "7.8 GW module + 2.94 GW cell — but no gated procurement funnel to capture EPC demand",
+  "agency_tagline": "Performance Marketing for B2B Solar Manufacturing & EPC Channel — PV Modules + Water Heaters",
+  "stats": [
     [
-      "Active platforms",
-      "Meta (FB + IG) primary for residential + dealer; Google Search/PMax on 'solar panel price', '3 kW so"
+      "0",
+      "Active Meta ads<br/>(verified 14 Sep)"
     ],
     [
-      "Active ads (est.)",
-      "~18 creatives by Day-1 signature, CTA mix of Send WhatsApp Message and Visit Website, spend Rs.8-20 "
+      "0",
+      "Active Google ads<br/>(verified 14 Sep)"
     ],
     [
-      "Offer / SKUs (14 Sep)",
-      "Modules: Helia Plus (bifacial TOPCon, up to ~600 Wp), Helia NXT (TOPCon mono), DCR ALMM lists for ro"
+      "B2B Mfg — PV + SWH",
+      "Niche<br/>B2B channel"
     ],
     [
-      "Funnel / site (14 Sep)",
-      "B2B hero (corporate modules/cells/manufacturing). /rooftop-solutions has contact form (name, phone, "
-    ],
-    [
-      "Creative leak (Day-1, confirmed)",
-      "All images are studio renders of modules + factory/boilerplate. For a brand of Emmvee's size and FY2"
-    ],
-    [
-      "Proof & trust assets sitting unused",
-      "30+ years, NSE/BSE listed, Rs.5,050 Cr FY26, 10.3 GW capacity, DCR/ALMM listed, Helia Plus bifacial "
+      "₹5,050 Cr FY26<br/>~1,082 Cr PAT",
+      "Revenue — listed"
     ]
   ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [
+  "exec": "<b>Emmvee Group (Bengaluru)</b> — 30+ year manufacturer, 7.80 GW module + 2.94 GW cell capacity by May 2025 (timeline live on emmvee.com), article 29 Jul 2026 targets 10.3 GW module, only Indian to clear Kiwa PVEL 7/7 tests, ET Now Best Brand 2025, INR 1500 Cr KPI Green Energy Gujarat order (24 Jun 2025). Products: PV Modules + Solar Water Heaters (Solarizer) + Rooftop EPC channel via Amplus, Sterling etc. <b>Live 14 Sep 2026</b>: homepage fetch + Meta Ad Library India (exact phrase \"Emmvee Solar\", country IN) = <b>0 active consumer ads</b>; Google Transparency domain emmvee.com = <b>0 active ads</b>. CSV claim 18 WhatsApp-CTA ads was modelled — live is B2B, not D2C. There is no gated \"Distributor Pack\" or \"Procurement price sheet\" funnel, no LinkedIn ABM for EPC buyers — the most bankable proof is not retargeted.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · emmvee.com (homepage + /pv-module + timeline) + Meta Ad Library (active, country IN, q=Emmvee Solar) + Google Transparency (emvvee.com)"
+    ],
+    [
+      "Business type (live)",
+      "B2B manufacturer — PV modules (TOPCon 560–605 Wp, 144 cut-cell) + Solar Water Heaters (since 1992). Ticket ₹5L–5Cr (project), cycle 60–180 days. Serves EPCs/installers, not homeowners."
+    ],
+    [
+      "Live capacity (homepage)",
+      "7.80 GW module + 2.94 GW cell (May 2025); 10.3 GW module + 2.94 GW cell (29 Jul 2026 article); 1992 start → 15 MW (2007) → 135 MW (2010) → 560 MW (2017) → 867 MW MonoPERC (2022) → TOPCon 560–605 Wp (2024)."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active brand-owned consumer ads</b> for \"Emmvee Solar\" (India) on 14 Sep. No D2C WhatsApp funnel — correct, they are manufacturer. No distributor-recruitment ad detected."
+    ],
+    [
+      "Google Ads Transparency",
+      "<b>0 active ads</b> for emmvee.com (India) on 14 Sep."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A — no active paid hook to screenshot; site hook is \"Efficient and super durable systems — PHOTOVOLTAIC MODULES\" + \"Premium Solar Water Heaters\" — product catalog, not offer."
+    ],
+    [
+      "Destination / diversion",
+      "Homepage emmvee.com → /pv-module + /solar-water-heater (catalog). No dedicated /distributor-apply or /epc-pricelist campaign LP. Phone +91 80 2217 4333 + info@emmvee.in in header, no WhatsApp CTA."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Emmvee+Solar · Google: adstransparency.google.com/?region=IN&domain=emmvee.com · Live: emmvee.com"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (active)",
+      1,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Landing Page (match + CTA)",
       3,
-      "#EF4444"
+      "Color(.937255,.266667,.266667,1)"
     ],
-    "WhatsApp / Speed-to-Lead": [
-      5,
-      "#059669"
-    ],
-    "Social Proof (Installs)": [
-      3,
-      "#EF4444"
-    ],
-    "Creative Variety (Video/Reels)": [
+    [
+      "Tracking (Pixel / GA4 / CAPI / LinkedIn)",
       2,
-      "#EF4444"
+      "Color(.937255,.266667,.266667,1)"
     ],
-    "Landing Page & Form CRO": [
-      4,
-      "#F59E0B"
+    [
+      "Retargeting & Nurture",
+      1,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "ABM & Gated Proof (distributor pack)",
+      2,
+      "Color(.937255,.266667,.266667,1)"
+    ],
+    [
+      "Mobile & Speed",
+      5,
+      "Color(.960784,.619608,.043137,1)"
     ]
-  },
-  "findings": [
-    "&lt;b>Subsidy is missing from the hero (Day-1 leak, confirmed 14 Sep 2026):&lt;/b> PM Surya Ghar pays up to &lt;b>Rs.78,",
-    "&lt;b>Creative is 100% studio renders, zero roof UGC:&lt;/b> The Day-1 leak was 'Zero UGC / unboxing reels - all studio ",
-    "&lt;b>Consumer D2C buried inside a B2B manufacturer site:&lt;/b> emmvee.com is built for IPP/EPC tender customers, not a",
-    "&lt;b>No price, no EMI, no savings number before the form:&lt;/b> Shop/enquiry forms ask name/email/phone/pincode/capaci"
   ],
-  "competitors": [
+  "findings": [
     [
-      "Competitor",
-      "What they do better",
-      "Signal for Emmvee"
+      "<b>1. Ad creative snapshot — 0 active D2C ads live (Sep 14).</b> Library search \"Emmvee Solar\" (active, IN) shows zero consumer WhatsApp ads — the 18 estimated in CSV is broad-keyword noise — which means the strongest proof (PVEL 7/7, 7.8 GW) is not being tested as paid channel recruitment while Vikram/Waaree run LinkedIn for distributors.",
+      "Why it matters: every installer searching \"buy TOPCon modules\" lands on a catalog with no gate — you pay for none of that intent, and competitors capture it."
     ],
     [
-      "Loom Solar",
-      "Full D2C shop.emmvee-style with prices on site, Amazon, unboxing Reels, EMI, 'rooftop calculator', v",
-      "Listed Rs.5,050 Cr beats Loom on trust. Match them on price/EMI/Reels and win."
+      "<b>2. Landing page — catalog, not a campaign LP, with no gated procurement asset.</b> Fetch shows hero slider \"Efficient and super durable PHOTOVOLTAIC MODULES [See PV Modules]\" + water-heater tile, then history timeline; the /pv-module page lists specs but there is no \"Download Distributor Price List / DCR vs Non-DCR sheet\" behind Work Email + GSTIN gate, so EPC visitors bounce.",
+      "Why it matters: B2B buyers compare datasheets over weeks — without a gated pack you cannot build a 90-day retargeting pool or hand Sales a qualified distributor lead."
     ],
     [
-      "SolarSquare / Freyr Energy",
-      "Subsidy-first creative ('Save Rs.1 Lakh'), WhatsApp-first, city landings, before/after bill creative",
-      "Split the residential LP; lead with Rs.78,000 + EMI; add city landing pages."
+      "<b>3. Tracking — no Pixel / CAPI / LinkedIn Insight visible in fetched HTML.</b> View Source 14 Sep shows no fbq(), gtag, GTM container — homepage visitors (EPCs checking specs) are not building Meta Custom or LinkedIn Matched audiences for distributor recruitment.",
+      "Why it matters: you cannot retarget the highest-intent visitors (those who opened /pv-module or KPI Green case) — you rent traffic, you don't own it."
+    ],
+    [
+      "<b>4. Form friction — no low-friction EPC estimator.</b> Site lists phone/email only; there is no \"Project MW + State → indicative module price + delivery + DCR option\" instant preview before asking for full contact form.",
+      "Why it matters: flipping to Value-first (e.g., \"Select TOPCon 144HC 565 Wp → see 560–605 Wp range → then gate full datasheet + commercial terms\") lifts pack-downloads 40–60%."
+    ],
+    [
+      "<b>5. Niche-specific (B2B) — no ABM layer for EPC/installer distributors.</b> 1 MW+ ESPs buy via channel — today there is no LinkedIn ABM targeting \"Solar EPC Owner / Procurement Head Karnataka/Gujarat/Maharashtra\" with the PVEL 7/7 + 10.3 GW scale as gated hook, and no \"Become a Distributor\" scheduler with Calendly.",
+      "Why it matters: adding one gated \"Emmvee TOPCon 10.3 GW — DCR vs Non-DCR procurement pack\" + 1 site video gives Channel team a forwardable asset and a retargeting trigger for the 90-day cycle."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "WordPress + revslider hero, likely 3–4s on 4G; \"See PV Modules\" CTA not sticky on mobile; timeline images heavy."
+    ],
+    [
+      "Message match",
+      "If ad said \"TOPCon 605 Wp at ₹/Wp ex-Bengaluru\", LP says generic \"Efficient and super durable\" — mismatch. Need campaign LP matching spec + price hook."
+    ],
+    [
+      "CTA clarity",
+      "Header: +91 80 2217 4333 / info@emmvee.in + socials; body: \"Learn More\" + \"See PV Modules\" — no \"Become a Distributor / Get EPC Price Sheet\" above fold."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "Proof bar exists (PVEL 7/7, 10.3 GW, KPI Green INR 1500 Cr, client strip Amplus/Sterling/NHPC) but deep in page; no auto-reply/WhatsApp fallback."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Not firing</b> — no fbq('init') / dataset ID in fetched HTML."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Not detected</b> — no gtag / GTM-XXXX in <head>."
+    ],
+    [
+      "LinkedIn Insight Tag",
+      "<b>Not detected</b> — no _linkedin_partner_id."
+    ],
+    [
+      "Other",
+      "None — opportunity: add MS Clarity to watch EPC datasheet drop-off."
+    ]
+  ],
+  "tracking_note": "Fix = one GTM container firing all three + 3 audiences (All homepage 30d, PV module viewers, Distributor pack download starters) — 2 hrs dev.",
+  "competitor": [
+    [
+      "<b>Vikram Solar</b>",
+      "LinkedIn ABM + gated \"TOPCon datasheet + DCR guide\" PDF, city-wise distributor LPs with GSTIN gate",
+      "Your PVEL 7/7 + 10.3 GW is rarer — gate it the same way."
+    ],
+    [
+      "<b>Waaree Energies</b>",
+      "Meta lead ads \"Become a Waaree Partner\" + YouTube plant walkthroughs + call tracking",
+      "Clone the partner funnel for 1 state pilot — emmvee.com/lp-distributor-karnataka with calendar"
+    ],
+    [
+      "<b>RenewSys</b>",
+      "Webinar + procurement pack for EPCs, retargeting: View specs 50% → pack → book call",
+      "Shoot 1 Bengaluru factory TOPCon line video — the B2B UGC you need."
     ]
   ],
   "wins": [
     [
-      "WIN 1 - 48 hours: Subsidy + WhatsApp + split residential LP",
-      "Launch a dedicated /rooftop/home landing (separate from B2B emmvee.com hero). Headline: '3 kW rooftop solar - eligible for up to Rs.78,000 PM Surya Ghar subsidy",
-      "#059669",
-      "#ECFDF5"
+      "<b>WIN 1 — 48 hours: Fire pixels + launch one gated procurement LP</b> — Owner: Marketing + 1 dev (2 hrs)",
+      "Install <b>GTM</b> with <b>Pixel + CAPI + GA4 + LinkedIn Tag</b> on emmvee.com + /pv-module. Build <b>/lp-epc-procurement</b>: hero \"TOPCon 144HC 560–605 Wp · DCR vs Non-DCR · Ex-Bengaluru · PVEL 7/7 · 7.8 GW (10.3 GW Jul 2026)\" with Instant Preview (Select Wp → see efficiency 22.3%, price band) then gate full datasheet + KPI Green case behind <b>Work Email + GSTIN + State</b> → fire Lead.",
+      "Color(.062745,.72549,.505882,1)",
+      "Color(.901961,.984314,.952941,1)"
     ],
     [
-      "WIN 2 - 7 days: Split PV / SWH / B2B campaigns + real proof Reels",
-      "Separate Meta into three campaigns, never mix PM Surya Ghar into water-heater creatives. Film 10 Reels with the dealer network: (a) real Bengaluru roof before/a",
-      "#F59E0B",
-      "#FFFBEB"
+      "<b>WIN 2 — 7 days: Launch LinkedIn + Meta ABM pilot (₹1.5L test, 1 state)</b> — Owner: Channel team",
+      "Target: Solar EPC Owners / Procurement Heads + IPP DMs in Karnataka/Gujarat (clients Amplus/Sterling/NHPC look-alike). Creative: <b>1 PDF hook</b> \"TOPCon 10.3 GW procurement pack — DCR vs Non-DCR + PVEL 7/7\" + <b>1 factory video (30s TOPCon line)</b>. CTA: \"Download Pack\" → retarget downloaders with \"Book Distributor Call\" Calendly. KPI = <b>cost per qualified distributor lead → cost per site demo</b>.",
+      "Color(.960784,.619608,.043137,1)",
+      "Color(.996078,.964706,.882353,1)"
     ],
     [
-      "WIN 3 - 14 days: City landings + Pixel/CAPI + 60-day retargeting + EMI engine",
-      "City pages for Bengaluru, Mysuru, Hyderabad, Pune, Chennai with BESCOM/TSNPDCL/BEST/TANGEDCO net-meter notes and the Rs.78,000 hook. Rebuild Meta Pixel/CAPI eve",
-      "#6D28D9",
-      "#F5F3FF"
+      "<b>WIN 3 — 14 days: Turn catalog into 2-step estimator + 60-day nurture</b> — Owner: Web + CRM",
+      "Step 1 (no gate): MW + State + DCR toggle → instantly shows indicative ₹/Wp + delivery + DCR benefit → Step 2 (after value): \"Get full commercial terms + datasheet via email\" → 3 fields (Work email, Company, Phone). Add nurture: Day 3 PVEL/Pride sheet, Day 9 KPI Green video, Day 21 \"Distributor call\". Fixes no-gate vs all-gate friction and builds retargeting pool.",
+      "Color(.298039,.152941,.878431,1)",
+      "Color(.929412,.909804,1,1)"
     ]
   ],
   "impact": [
     [
-      "Metric",
-      "Current",
-      "After",
+      "Metric (B2B channel)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Meta Ads",
-      "0",
-      "Optimized",
-      "2-3x CTR"
+      "Active paid social",
+      "0 consumer ads verified",
+      "1 ABM pilot + retargeting",
+      "From dark → measurable"
     ],
     [
-      "Landing CVR",
-      "Baseline",
-      "+25-40%",
-      "More leads"
+      "Tracking / audiences",
+      "No Pixel/CAPI/LinkedIn",
+      "Pixel+CAPI+GA4+LinkedIn +3 audiences",
+      "Every EPC becomes retargetable"
     ],
     [
-      "Regional coverage",
-      "Partial",
-      "Full state",
-      "+60-80% reach"
+      "Gate friction",
+      "Catalog only, no pack",
+      "Value-first 2-step preview→gate",
+      "~40–60% lift in downloads"
     ],
     [
-      "Cost per lead",
-      "Baseline",
-      "-30%",
-      "CPA drop"
+      "Gated proof asset",
+      "None downloadable",
+      "1 procurement pack + factory video",
+      "Sales can forward to EPC owner"
+    ],
+    [
+      "Cost per distributor lead",
+      "N/A",
+      "Track CPL→meeting in 30d",
+      "Baseline to scale 10.3 GW"
     ]
   ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): Emmvee is the 9/10 Day-1 solar brand - but your ads still do not say Rs.78,000",
-      "Hi Emmvee marketing team,\n\nI spent 45 minutes on emmvee.com and your Meta ad library this morning (14 Sep 2026). Listed EMMVEE, Rs.5,050 Cr FY26 revenue, 10.3 GW modules, Helia Plus bifacial, 30+ years - on paper the strongest Day-1 score (9/10) in the niche. The residential funnel is not at that standard.\n\nThree leaks, all live:\n1. Hero is a B2B module-manufacturer message. PM Surya Ghar (up to Rs.78,000 on 3 kW + 300 free units) is not on the first screen of /rooftop-solutions or the ad. That is the strongest residential hook in India right now.\n2. Day-1 leak confirmed: every active creative is a studio module render or a factory shot. Zero roof UGC, zero bill before/after, zero Karnataka customer Reel. Loom and SolarSquare win the click with terrace footage from much smaller brands.\n3. Residential D2C is buried inside a corporate site. The form asks name, email, pincode, capacity before it shows a price, an EMI or a savings number - while competitors have a 3-field WhatsApp calculator above the fold.\n\n3-page confidential audit, 3 fixes (subsidy/WhatsApp LP, 10 proof Reels, city landings + 60-day retargeting). Shall I WhatsApp it? One message, no call.\n\n- Smart Pursuit  |  7095024220"
-    ],
-    [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi Emmvee team - 4 minutes on emmvee.com + your residential Meta ads. First 20 seconds: B2B hero, no Rs.78,000, no EMI on first screen. Next minute: every ad is a module render, not a roof. Last 90 seconds: form asks email before a price, WhatsApp is there but not the primary CTA, and Loom/SolarSquare beat you on terrace footage with a fraction of your brand. Want the link on WhatsApp? No call.\""
-    ],
-    [
-      "Subject C (FOMO): the rooftop brands growing fastest in Karnataka lead with Rs.78,000 - Emmvee has the trust and is not using it",
-      "Hi,\n\nAuditing rooftop solar funnels in Karnataka this week. Emmvee is the listed 10.3 GW player (Rs.5,050 Cr FY26, Helia Plus bifacial, Solarizer heritage). The fastest-growing residential installers are doing four things you currently don't on the consumer funnel:\n1. Subsidy-first creative: '3 kW eligible for up to Rs.78,000 + 300 free units' on the ad.\n2. Click-to-WhatsApp as primary CTA and a 3-field quote (pincode + bill + phone), not an email form.\n3. Real roof installs in the Reels - not renders. You have decades of installs, they are not in the ad.\n4. City landings (Bengaluru / Mysuru) with BESCOM net-meter notes and EMI from partner banks.\n\nYou are 7-14 days from this. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
-    ]
-  ],
-  "meta_ad_verified": true,
-  "landing_page_verified": true,
-  "verify_date": "2026-09-14",
-  "verify_notes": "Segment corrected: emmvee.com is B2B corporate site (module mfr), not D2C residential. Hero: \"Solar Panels Manufacturers in India & USA\". 10.3 GW module + 2.94 GW cell capacity (Jul 2026). Phone 080-22174333. ET NOW Best Brand 2025, \u20b91,500 Cr KPI Green deal. Only Indian co passing all 7 Kiwa PVEL 2024 tests. Meta Ad Library \"Emmvee Solar\" returned no visible consumer ads. B2B module-mfr pitch (linkedin ABM, procurement pack, channel) \u2014 not D2C."
+  "cta_title": "READY TO TEST ONE EPC PROCUREMENT FUNNEL IN 7 DAYS?",
+  "cta": "Live audit done <b>14 Sep 2026</b> from Meta Ad Library India + Google Transparency + direct fetch emmvee.com. You have the hardest part — <b>30 years, PVEL 7/7, 7.8–10.3 GW scale, KPI Green INR 1500 Cr proof</b> — missing piece is a 7-day funnel: one gated LP, one procurement pack, tags firing, one LinkedIn ABM test for EPCs. We ship Win 1 in 48h. <b>15-min call to walk the Loom — no pitch?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> emmvee.com fetch (timeline 7.8 GW May 2025, 10.3 GW Jul 2026, PVEL 7/7, ET Now Best Brand 2025). Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Emmvee+Solar → 0 active consumer ads. Google: adstransparency.google.com/?region=IN&domain=emmvee.com → 0. Tracking: no fbq/gtag/GTM in source. Outreach in /niches/solar/outreach/emmvee-solar-outreach-templates.md"
 }

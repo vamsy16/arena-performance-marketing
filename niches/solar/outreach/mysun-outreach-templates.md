@@ -1,49 +1,39 @@
 # MYSUN - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `niches/solar/audits/mysun-solar-audit-report.pdf` (Lead score 4/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `mysun-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): mysun.co returns a 500 error and your subsidy page says 40%
+### Subject A — Re: your ₹78k page is better than Freyr’s — but your hero has 4 CTAs fighting it
 
-Hi Gagan,
+Hi MYSUN team,
 
-Performance marketing is not 'the ads look nice'. You pay for a click; the click has to land somewhere that sells. I spent 45 minutes on the MYSUN funnel this morning (14 Sep 2026). Your conversion stack is better than most of the market - the problem is upstream of it.
+I checked itsmysun.com on 14 Sep 2026 — love the double PM Surya Ghar banner (Free 300 units + ₹78k) linking to the full ₹30k/60k/78k table + DISCOM steps 1–9, the floating WhatsApp 919873167009, and the Sushil Sharma 70% bill / Rajesh Chadha 7 Cr / Anil Palod 397 kWp proof.
 
-What's strong, genuinely: the free Solar Savings Report calculator split residential vs industrial, Zero Cost EMI and loans to 60 months, Deferred Payment at 25-30% upfront, Rs.6,999 Flexi-pay booking, MYSUN Assured 25-year care, an AMC product, named photo testimonials, a Hindi PM Surya Ghar page, and the ARBOR/CANOPAS pergola range. Very few competitors have that stack.
+Then I checked Meta Ad Library (MYSUN, active, IN) — 3–4 active lead ads live since early Aug (real spend). Google shows ~5+ active for itsmysun.com.
 
-What's leaking:
-1. mysun.co returns HTTP 500. The live site is itsmysun.com, and your subsidy page links to a third domain, mysunn.in. Any legacy creative, backlink or listing on mysun.co is spending into an error page.
-2. Your PM Surya Ghar page says 'The government subsidy covers up to 40% of the installation costs'. The scheme pays fixed slabs - Rs.30,000 / Rs.60,000 / Rs.78,000 - not a percentage. That is the page you want to rank and convert on.
-3. The subsidy table on that page contradicts itself: '2kW - Rs 30,000 per kW - 60,000' next to '3kW - Rs 18,000 for 2-3kW - 78,000'. A buyer cannot reconstruct the rule from it.
-4. Day-1 leak confirmed: your proof is real but ageing and absent from the ads. Case cards dated 2018, press wall stops at Jul 2021 - while 1.75 MWp Bhilwara, 397 kWp Chittor Polyfab and 231 kWp Update Prints sit unused as creative.
-5. Two WhatsApp numbers (9873167009 and the Wati widget on 9311988980) means you cannot attribute cost per conversation.
-6. ~3 live creatives pointed mostly at the homepage rather than the calculator, with no report-generated conversion event to optimise against.
+The leak: your hero shows 4 equal tiles (Homes calc + Shop Loan 60 mo + Businesses calc + Finance) instead of one "Check ₹78k Eligibility in 30 Sec (Pincode + Bill → preview)" flow, and the PM Surya Ghar form asks Category + CYRA/ARBOR/CANOPAS + reCAPTCHA before showing any subsidy.
 
-3-page confidential audit with the fix for each. Shall I WhatsApp it to 9873167009? One message, no call.
+I made a 2-page live audit with the 4-CTAs + reCAPTCHA friction + UGC-not-in-ads gap. Three fixes in 7 days — one collapsed hero + 3 UGC reels (Sushil/Rajesh/EMI) for a ₹1L Noida/GNoida test.
 
-- Smart Pursuit  |  7095024220
+No pitch — open to a 15-min call if helpful? PDF attached.
+
+— Smart Pursuit | 7095024220
 
 ---
 
-### Subject B (WhatsApp / Loom - 30 sec)
+### Subject B — Loom (30-sec)
 
-"Hi MYSUN team - 4 minutes on your funnel, and why a performance audit starts with the website: the click you paid for lands here. First 20 seconds: mysun.co returns a 500 error, the live site is itsmysun.com, and your subsidy page links to a third domain. Next minute: that subsidy page says the scheme covers 'up to 40% of installation costs' - it doesn't, it's fixed slabs - and the table under it doesn't add up. Last 90 seconds: your calculator, Zero Cost EMI and Rs.6,999 booking are better than SolarSquare's, and only three creatives are feeding them, with 2018 case studies on the page. This is not a budget problem. Want the write-up?"
-
----
-
-### Subject C (FOMO): you have Tata Cleantech and General Catalyst on the cap table and 2018 case studies on the site
-
-Hi Gagan,
-
-Auditing rooftop solar funnels across Delhi NCR this week. On paper MYSUN should be winning: Eastern Light & Power since 2015, Hemant Taneja on the board from the 2016 round, Rs.32 Cr pre-Series A, Rs.15 Cr from Tata Cleantech Capital under the Green Climate Fund facility, MYSUN+ with a 200 MW pipeline, presence in 9 states, and a financing stack - Zero Cost EMI, 60-month loans, 25-30% deferred, Rs.6,999 booking - that nobody else in your cohort can match.
-
-In the auction, though: SolarSquare runs one domain, city pages and 15k reviews; zunsolar runs 40,000 roofs and one WhatsApp line. Your primary Day-1 domain returns a 500, your subsidy page quotes a 40% figure that doesn't exist, and your newest case study is from 2018.
-
-PM Surya Ghar is adding ~16,328 installs a day. Your ARBOR/CANOPAS pergola range is a premium angle none of them are running.
-
-3 fixes live in 7 days. Want the 1-page plan?
-
-- Smart Pursuit  |  7095024220
+"Hi MYSUN team — 45 sec on itsmysun.com live 14 Sep. Your PM Surya Ghar page has the best ₹78k table I saw this week, but your homepage hero has 4 CTAs at once and the form asks CYRA/ARBOR/CANOPAS + reCAPTCHA before it shows ₹78k. Ads say Get Savings Report but do not lead with ₹78k + Zero Cost 60 mo as one hook. I recorded a 2-min Loom showing the exact collapse to one flow + Sushil 70% UGC as paid creative. Want me to WhatsApp the link? No call needed."
 
 ---
+
+### Subject C — FOMO
+
+Hi,
+
+Auditing Noida solar funnels — Freyr runs "₹78k + EMI ₹1,466 preview before gate" and it halves CPL. You already have richer proof (Sushil 70%, Rajesh 7 Cr, Zero Cost EMI 60 mo, 25-yr) — it just is not collapsed to one "Pincode + Bill → ₹78k" flow, and your 2 best testimonials are not in any paid reel.
+
+One hero-collapse + 3 UGC reels for Noida/Greater Noida would tell you site-survey cost in 7 days. Want the 1-page plan?
+
+— Smart Pursuit

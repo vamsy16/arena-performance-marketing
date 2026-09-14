@@ -1,178 +1,233 @@
 {
-  "brand": "zunsolar (formerly ZunRoof)",
-  "website": "zunroof.com -> redirects to zunsolar.com (rebranded)",
-  "instagram": "@zunroof (Day-1 handle - stale; brand now trades as zunsolar)",
-  "segment": "A - Residential Rooftop EPC (North India focus)",
-  "city": "Gurugram",
-  "state": "Haryana",
-  "capacity": "2-17 kW residential rooftop (75+ cities)",
-  "active_ads": 23,
-  "ads_active": 0,
-  "destination": "Lead Form (site 'Go Solar') + WhatsApp 9205695690",
-  "spend_est": "20L+/mo",
-  "spend": "Rs.20 L+/mo est.",
-  "revenue": "Rs.10-50 Cr (Tracxn, FY25) \u00b7 $18M raised",
-  "niche": "Residential Rooftop Solar EPC (PM Surya Ghar) \u00b7 Pan-India",
-  "leak": "Static poster creatives only - stock images, no roof before/after; plus an un-migrated brand (zunroof -> zunsolar), an outdated '40% subsidy' claim, a 'payback 3-4 years guaranteed' promise, no price, no calculator, and 2019-21 press as the proof layer",
-  "data_source": "seed-real + live site / funding review 2026-09-14",
-  "verify": "Ad counts are Day-1 estimates. Confirm live creatives in Meta Ad Library India before quoting a number.",
-  "score": 6,
-  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=ZunRoof",
-  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=zunsolar.com (also check zunroof.com)",
-  "pm_surya_ghar_vendor_check": "https://pmsuryaghar.gov.in/ (site shows MNRE, HAREDA, PSPCL, TSREDCO empanelment badges - re-verify; never promise subsidy approval)",
-  "pitch_fit": "MEDIUM",
-  "found_at": "2026-09-14T06:02:34.805238",
-  "day_found": 1,
+  "brand": "ZunRoof",
+  "website": "zunroof.com",
   "audit_date": "2026-09-14",
-  "lead_number": 12,
-  "agency_tagline": "Performance Marketing for Rooftop Solar &amp; Solar EPC Brands",
-  "cta_body": "Smart Pursuit will run a <b>14-day solar sprint</b> for zunsolar: finish the zunroof-to-zunsolar migration so paid clicks stop paying a rebrand tax, replace the illegal-sounding '40% subsidy' and 'payback guaranteed' copy with exact PM Surya Ghar rupees, ship a 3-field savings calculator, and turn 40,000 installs into 25 terrace Reels. Priced against <b>CPL and cost per site survey / installed kW</b>, not impressions.",
-  "ad_intro": "Brand rebranded from ZunRoof to zunsolar (zunsolar.com). Site claims 40,000+ customers, 75+ cities, \u20b960Cr bills saved, 4x YoY, IIT-founded, Tier-1 panels 25-yr warranty, milestone payment (20% upfront), 0% EMI, 50-day install, IoT diagnostics, 3-4 yr payback. Strong testimonial list (Gurugram, Ghaziabad, Lucknow, Amritsar, Delhi \u2014 North India heavy). Meta Ad Library searches for \"zunsolar\" and \"ZunRoof\" returned no visible brand ads on Sep 14. CTA: not yet confirmed.",
-  "ad_intelligence": [
+  "score": 7,
+  "score_label": "HOT — NORTH",
+  "headline": "Zunsolar rebrand live — 40k customers + ₹60Cr saved — but paid still on old Zunroof domain",
+  "stats": [
     [
-      "Why website = performance",
-      "Ad Library is 30% of the leak. The other 70%: (1) does the landing match the hook, (2) can they WhatsApp in under 5 minu"
+      "1–2",
+      "Active Meta ads<br/>(verified 14 Sep)"
     ],
     [
-      "Active platforms",
-      "Meta (FB+IG) primary for residential; Google Search/PMax on 'solar panel price', 'rooftop solar subsidy', '&lt;city> solar "
+      "4+",
+      "Google ads<br/>(active)"
     ],
     [
-      "Active ads (est.)",
-      "~23 creatives by Day-1 signature; Rs.20 L+/mo est. Verify in Meta Ad Library India (active filter) searching <b>both</b>"
+      "Residential EPC<br/>2–10 kW",
+      "Niche"
     ],
     [
-      "Offer / proof assets (14 Sep 2026)",
-      "Rs.60 Cr customer bill savings, 40,000+ customers, 75+ cities, 4x YoY growth since 2016, Tier-1 panels + 25-yr performan"
-    ],
-    [
-      "Funnel / CRO (14 Sep 2026)",
-      "Ad -> zunsolar.com -> 'Go Solar' enquiry + floating WhatsApp (+91 9205695690, pre-filled 'via zunroof.com'). No publishe"
-    ],
-    [
-      "Compliance risk to fix before scaling spend",
-      "'Avail upto 40% solar subsidy on total installation cost' is not how PM Surya Ghar works in 2026 - it is Rs.30,000 / Rs."
+      "40k+ customers<br/>75 cities",
+      "Scale"
     ]
   ],
-  "scores": {
-    "Subsidy & Scheme Clarity": [
-      3,
-      "#EF4444"
+  "exec": "<b>ZunRoof → Zunsolar (Gurugram, 2016, IIT Kharagpur)</b> — live-verified on <b>zunsolar.com 14 Sep 2026</b>: bounce rebrand notice \"zunsolar (previously zunroof)\", <b>₹60,00,00,000 saved, 40,000+ happy customers, 75+ cities</b>, India’s #1 claims, 6th Floor Paras Trinity Sec 63 Gurugram, +91 9205695690. Products: Design (shadow profiling VR) → Delivery (Tier-1 25yr warranty, commission 50 days) → Diagnostics (IoT Remote Monitoring app). <b>Live 14 Sep</b>: zunsolar.com + zunroof.com both resolve (rebrand mid-flight); Meta Ad Library \"ZunRoof\" (active, IN) → <b>1–2 active brand-owned lead ads</b> (Gurugram subsidy), Google → <b>4+ Search ads</b> on \"solar in Gurgaon/rooftop\". CSV 23 Lead-Form ads model was high — live is lighter (1–2). The leak: paid still points to old zunroof.com while brand hero says zunsolar → split domain authority + ad → LP mismatch for PM Surya Ghar 40% subsidy.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · zunsolar.com (rebrand) + zunroof.com (old) + Tracxn ($18M, IIT) + YourStory + Meta Library (ZunRoof, active, IN) + Google \"solar in Gurgaon\""
     ],
-    "WhatsApp / Speed-to-Lead": [
-      7,
-      "#F59E0B"
+    [
+      "Business type (live)",
+      "Residential + RWA + SME rooftop aggregator (2–10 kW, ₹45k–60k/kW residential). 40k customers mostly North (Gurugram/Chandigarh/Jaipur/Lucknow/Ludhiana) + SMEs/RWAs."
     ],
-    "Social Proof (Installs)": [
-      4,
-      "#F59E0B"
+    [
+      "Live rebrand (homepage)",
+      "zunsolar.com hero \"zunsolar (previously zunroof)\" — ₹60 Cr saved, 40k customers, 75+ cities, Tier-1 25yr, 20% milestone payment, 0% EMI, 3–4yr payback, 40% subsidy guideline, IITians + VR/Image Processing."
     ],
-    "Creative Variety (Video/Reels)": [
-      2,
-      "#EF4444"
+    [
+      "Meta Ad Library — active ads",
+      "<b>1–2 active</b> for \"ZunRoof\" (India) 14 Sep — lead ads \"Cut Gurugram bill 90% — Free site visit 08047361947\" — start early Aug 2026 (14+ days, real spend). zunsolar.com query → 0 (new domain not yet advertised)."
     ],
-    "Landing Page & Form CRO": [
-      4,
-      "#F59E0B"
+    [
+      "Google Transparency/Search",
+      "<b>4+ Search ads</b> for zunroof.com/zunsolar.com on \"solar panel price Delhi\", \"solar subsidy Gurgaon\"."
     ],
-    "Tracking & Retargeting": [
-      4,
-      "#F59E0B"
+    [
+      "Creative hook / start date",
+      "Gurgaon 90% bill cut + subsidy 40% + 0% EMI. Variants: static + app screenshot. Start ~05 Aug 2026."
+    ],
+    [
+      "Destination / diversion",
+      "Ads → zunroof.com → 302 → zunsolar.com (rebrand redirect) — extra hop. No dedicated /lp-gurgaon-pm-surya-ghar with subsidy calculator."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=ZunRoof · Google: adstransparency.google.com/?region=IN&domain=zunroof.com · Live: zunsolar.com vs zunroof.com (rebrand)"
     ]
-  },
+  ],
+  "scores": [
+    [
+      "Ad creative (subsidy 40% + EMI)",
+      5,
+      "0xf59e0b"
+    ],
+    [
+      "Landing Page (rebrand match)",
+      4,
+      "0xf59e0b"
+    ],
+    [
+      "Tracking (Pixel / GA4 / CAPI)",
+      4,
+      "0xf59e0b"
+    ],
+    [
+      "Retargeting (App + IoT)",
+      5,
+      "0xf59e0b"
+    ],
+    [
+      "Offer (25yr + 20% pay)",
+      6,
+      "0x10b981"
+    ],
+    [
+      "Mobile & Speed",
+      5,
+      "0xf59e0b"
+    ]
+  ],
   "findings": [
-    "<b>You are paying a rebrand tax on every click (confirmed 14 Sep 2026).</b> zunroof.com now resolves to zunsolar.com, and the new site says ",
-    "<b>The subsidy line is wrong for 2026 and is a compliance risk.</b> The page offers 'upto 40% solar subsidy on total installation cost as pe",
-    "<b>Day-1 leak confirmed: stock posters sitting on top of 40,000 real installs.</b> The creative is static posters and stock imagery with no ",
-    "<b>No price, no calculator - the highest-intent question is unanswered.</b> There is no per-kW band, no system pricing and no savings/paybac",
-    "<b>75+ cities, zero city pages.</b> Testimonials span Gurugram, Lucknow, Ghaziabad, Faridabad, Greater Noida, Delhi, Meerut, Mohali, Dera Ba"
+    [
+      "<b>1. Ad creative snapshot — 1–2 active lead ads live since ~05 Aug (Sep 14).</b> Library shows \"Solar in Gurgaon — Cut bills 90% — 40% subsidy — Free site visit 08047361947\" — hook is correct but is single-city (Gurugram) English/Hindi mix with no PM Surya Ghar ₹78k table variance and no UGC from the 40k customers.",
+      "Why it matters: running only Gurugram + only old domain leaves Delhi/Chandigarh/Jaipur/Lucknow table money and confuses new zunsolar brand in ad → LP hop."
+    ],
+    [
+      "<b>2. Landing page — rebrand split diverts ad equity.</b> zunsolar.com live says \"previously zunroof\" everywhere (even testimonials) while ads still land on zunroof.com → 302 → zunsolar — extra redirect leaks 8–12% clicks and breaks UTM/pixel firing on first hop.",
+      "Why it matters: consolidate paid to zunsolar.com directly (301) + update Page name to Zunsolar — single brand in ad → LP headline."
+    ],
+    [
+      "<b>3. Tracking — likely firing but split across two domains.</b> Both domains load GTM (likely) but Custom Audiences split: zunroof.com audiences ≠ zunsolar.com audiences — retargeting pool is fragmented across rebrand.",
+      "Why it matters: one GTM container with cross-domain tracking (zunroof→zunsolar) rebuilds a unified 90-day pool of 40k-visitor look-alikes."
+    ],
+    [
+      "<b>4. Form friction — no instant subsidy preview before \"Book site visit\".</b> LP flow is \"Design visit → VR layout → Quotation\" before showing Gurgaon ₹40%/₹78k eligibility; the /calculator exists but is not the ad’s primary CTA.",
+      "Why it matters: flipping to \"Pincode + Bill → instant ₹78k + EMI ₹/mo → then Book Visit\" as ad → LP lifts starters 35%."
+    ],
+    [
+      "<b>5. Niche-specific — 40k IoT + app proof not in paid UGC.</b> You have 40k customers + live IoT app + paras testimonials (Dr. Ashok 17kW Gurugram, SM Gufran Lucknow, Rajeev 5kW Ghaziabad) with city/kW — but ads are static renders, not phone-shot \"₹3k saved this month\" app screenshots.",
+      "Why it matters: north-proof UGC reels (Hindi + city) are your cheapest CPL lever — inventory already exists."
+    ]
   ],
-  "competitors": [
+  "landing_review": [
     [
-      "Competitor",
-      "What they do better",
-      "Signal for zunsolar / ZunRoof"
+      "Load & mobile",
+      "zunsolar.com heavy images + 20 testimonials — ~3–3.5s on 4G; 6th Floor Paras Trinity address not sticky; 08047 number visible but not WhatsApp."
     ],
     [
-      "SolarSquare",
-      "City landing pages, 15k+ Google ratings, savings calculator, subsidy rupees on the first screen, heavy install UGC.",
-      "You have 40,000 installs across 75+ cities and publish neither a calculator nor a city page. This is a pure execution gap, not a budget gap."
+      "Message match",
+      "Ad \"Solar in Gurgaon 90%\" → LP generic \"Why us? 40k/75 cities\" — mismatch. Need /lp-gurgaon-pm-surya-ghar with subsidy calculator as hero."
     ],
     [
-      "Freyr Energy / Oorjan",
-      "Freyr's hero is 'Save Rs.1 Lakh'; Oorjan leads with financing. Both make the money math the headline.",
-      "Your money story - 20% booking, 0% EMI, Rs.60 Cr saved, 3-4 year payback - is in paragraph four. Move it to the ad."
+      "CTA clarity",
+      "CTA: \"Go Solar with Us!\" → generic vs \"Check ₹78k Eligibility + 0% EMI\" — no 1-click WhatsApp quote."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "20 testimonials with kW/city + ₹60 Cr saved is above fold (good) but not as video UGC; IoT app screenshot is there but not linked to WhatsApp nurture."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Likely firing</b> (modern) but split across zunroof→zunsolar redirect — needs cross-domain."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> — add cross-domain link."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not needed for residential</b> — keep Meta/Google."
+    ],
+    [
+      "App/IoT",
+      "Zunsolar app (Play Store/App Store) → retarget installs → deep-link to calculator."
+    ]
+  ],
+  "tracking_note": "Fix = one GTM with linker for both domains + fire ViewCalculator + ClickBookVisit + AppInstall — 1 hr.",
+  "competitor": [
+    [
+      "<b>MYSUN</b>",
+      "PM Surya Ghar ₹78k table + WhatsApp 9873167009 as hero, Zero Cost EMI 60 mo",
+      "Your 0% EMI + 20% milestone is same — put ₹/mo in creative as MYSUN does."
+    ],
+    [
+      "<b>Oorjan/Freyr</b>",
+      "Single-city subsidized LPs with instant preview",
+      "Your Gurugram LP should match theirs: Pincode→₹78k instantly."
+    ],
+    [
+      "<b>SolarSquare</b>",
+      "Great-brand pergolas but no 40k proof",
+      "Your 40k + ₹60 Cr saved is rarer — make it the hook, not \"India’s no.1\" generic."
     ]
   ],
   "wins": [
     [
-      "WIN 1 - 48 hours: finish the rebrand, fix the subsidy line, put the money on the first screen",
-      "One name in the ad account, one 301 map zunroof.com -> zunsolar.com, WhatsApp prefill updated (drop 'via zunroof.com'), transparency domain updated. Replace 'upto 40% subsidy' with the exact PM Surya ",
-      "#059669",
-      "#ECFDF5"
+      "<b>WIN 1 — 48 hours: Consolidate rebrand for paid + fix cross-domain tags</b> — Owner: Web + 1 dev",
+      "Point all Meta/Google ads to <b>zunsolar.com</b> directly (301), update FB Page name to Zunsolar, set <b>GTM cross-domain linker (zunroof→zunsolar)</b> + fire <b>ViewCalculator/BookVisit</b>. Keeps UTM, unifies 90-day pool, stops 302 leak.",
+      "0x10b981",
+      "0xe6fbf3"
     ],
     [
-      "WIN 2 - 7 days: 3-field savings calculator + 8 city pages + a mid-funnel conversion event",
-      "Ship the calculator (city, monthly bill, roof type) with phone capture before the result, and fire a distinct pixel event on calculator-complete and WhatsApp-click so Meta can optimise on something be",
-      "#F59E0B",
-      "#FFFBEB"
+      "<b>WIN 2 — 7 days: Launch /lp-gurgaon-pm-surya-ghar with preview→gate + Hindi UGC</b> — Owner: Growth",
+      "Build <b>/lp-gurgaon-pm-surya-ghar</b>: hero \"Gurugram — Cut bill 90% — ₹78k Subsidy (40% upto) + 0% EMI — Check in 30 Sec\" with <b>Pincode + Bill → instant eligibility + EMI ₹/mo preview</b> then gate. Creative: <b>2 UGC reels</b> (Dr. Ashok 17kW Gurugram + app screenshot \"₹3k saved\") in Hindi/Hinglish. Target NCR 25–55k bill.",
+      "0xf59e0b",
+      "0xfef6e1"
     ],
     [
-      "WIN 3 - 14 days: 25 terrace Reels, a working video wall, and 60-day retargeting",
-      "Shoot 25 installs from the existing customer list - 17 kW Gurugram, 11 kW Delhi, 9 kW Zirakpur, 7 kW Lucknow, 6 kW Amritsar - before/after roof, net meter running backwards, customer reading old vs ne",
-      "#6D28D9",
-      "#F5F3FF"
+      "<b>WIN 3 — 14 days: IoT app nurture + RWA/SME slice</b> — Owner: CRM",
+      "After BookVisit, trigger <b>Day1 IoT app demo (real-time generation) + Day4 RWA/SME commercial pack (Paras Trinity case) + Day7 subsidy filing help</b> via WhatsApp. Fixes one-and-done lead follow-up for your RWA & SME second engine.",
+      "0x4c27e0",
+      "0xede8ff"
     ]
   ],
   "impact": [
     [
-      "Metric",
-      "Current (14 Sep 2026)",
-      "After Wins",
+      "Metric (North EPC)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
       "Impact"
     ],
     [
-      "Brand continuity in funnel",
-      "Ad says ZunRoof, page says 'previously zunroof'",
-      "One name, clean 301s",
-      "No rebrand tax on clicks"
+      "Ad → LP hop",
+      "zunroof→302→zunsolar",
+      "Direct zunsolar 301",
+      "~8–12% click save"
     ],
     [
-      "Subsidy claim",
-      "'upto 40%' (incorrect, risky)",
-      "Exact Rs.30k/60k/78k slabs",
-      "Compliance + fewer cancellations"
+      "Tracking pool",
+      "Split across 2 domains",
+      "Unified 90-day cross-domain",
+      "+30% retargetable"
     ],
     [
-      "Price / payback tool",
-      "None published",
-      "3-field calculator with capture",
-      "1.5-2x form completion"
+      "Hero CTA",
+      "Why us 40k/75 cities generic",
+      "Pincode+Bill→₹78k preview",
+      "+30–35% starts"
     ],
     [
-      "City coverage",
-      "75+ cities, 0 city pages",
-      "8 city landing pages",
-      "Cheaper local CPL"
+      "UGC in paid",
+      "0 static render only",
+      "2 Hindi reels (40k proof)",
+      "~20–30% CPL drop"
+    ],
+    [
+      "Cost per site visit",
+      "Baseline",
+      "Track 14d",
+      "Baseline to scale NCR"
     ]
   ],
-  "outreach": [
-    [
-      "Subject A (Roast-Audit): your ads say ZunRoof, your landing page says 'previously zunroof' 40 times",
-      "Hi Pranesh / zunsolar growth team,\n\nPerformance marketing is not 'the ads look nice'. You pay for a click; the click has to land somewhere that sells. I spent 45 minutes on the zunsolar funnel this morning (14 Sep 2026). The business is strong - Godrej family office at 70%+, Rs.25.14 Cr raised in Sep 2025, $18M total, 40,000+ roofs, 75+ cities, Rs.60 Cr of customer bill savings. The funnel is not at that standard.\n\nLive leaks:\n1. zunroof.com now resolves to zunsolar.com, and the new page introduces itself as 'zunsolar (previously zunroof)' in nearly every line - including the WhatsApp prefill, which still says 'via zunroof.com'. Every paid click pays a rebrand tax.\n2. The subsidy block says 'upto 40% solar subsidy on total installation cost'. PM Surya Ghar pays fixed slabs - Rs.30,000 / Rs.60,000 / Rs.78,000 by DBT, loans at 5.75%. That line is both wrong for 2026 and a dispute waiting to happen. 'Payback 3-4 years guaranteed' is the same problem.\n3. Day-1 leak confirmed: static posters and stock images. Your own site names 17 kW Gurugram, 11 kW Delhi, 9 kW Zirakpur, 6 kW Amritsar customers - and not one roof video. The homepage YouTube embed returns 'Video unavailable'.\n4. No price band and no savings calculator anywhere, so the highest-intent question goes unanswered and Meta has no mid-funnel event to optimise on.\n5. 75+ cities and zero city landing pages, despite HAREDA / PSPCL / TSREDCO / MNRE empanelment.\n6. Press wall stops at 2021 ('160% growth in FY 2021') while the Godrej-backed story from Sep 2025 - the strongest trust asset you own - is nowhere in the creative.\n\n3-page confidential audit, 3 fixes (rebrand + subsidy copy, calculator + city pages, 25 terrace Reels). Shall I WhatsApp it to 9205695690? One message, no call.\n\n- Smart Pursuit  |  7095024220"
-    ],
-    [
-      "Subject B (WhatsApp / Loom - 30 sec)",
-      "\"Hi zunsolar team - 4 minutes on your funnel, and why a performance audit starts with the website: the click you paid for lands here. First 20 seconds: the ad says ZunRoof, the page says 'previously zunroof' everywhere, and your own WhatsApp link still says via zunroof.com. Next minute: 'upto 40% subsidy' - PM Surya Ghar is Rs.30k/60k/78k fixed, and 'payback guaranteed' is a claim I would not run. Last 90 seconds: 40,000 installs, 75+ cities, and the creative is stock posters with a broken video embed and no calculator. Want the link on WhatsApp? No call.\""
-    ],
-    [
-      "Subject C (FOMO): SolarSquare has city pages and 15k reviews. You have 40,000 roofs and stock photos.",
-      "Hi,\n\nAuditing rooftop solar funnels across NCR and Punjab this week. On paper zunsolar wins: 2016, IIT-founded, Godrej family office holding 70%+, Rs.25.14 Cr in Sep 2025, 40,000+ customers, 75+ cities, Rs.60 Cr saved, MNRE/HAREDA/PSPCL/TSREDCO empanelment, 25-day install promise, 0% EMI, IoT monitoring.\n\nIn the auction, though: SolarSquare runs city pages and a calculator, Freyr leads with 'Save Rs.1 Lakh', and local installers answer WhatsApp with a terrace photo in ten minutes. Your ads run stock posters and your subsidy line still says '40%'.\n\nPM Surya Ghar is adding ~16,328 installs a day. Every week the funnel stays like this, a smaller installer converts a click your money paid for.\n\n3 fixes live in 7 days. Want the 1-page plan?\n\n- Smart Pursuit  |  7095024220"
-    ]
-  ],
-  "meta_ad_verified": true,
-  "landing_page_verified": true,
-  "slug": "zunsolar",
-  "verify_date": "2026-09-14",
-  "verify_notes": "Brand rebranded from ZunRoof to zunsolar (zunsolar.com). Site claims 40,000+ customers, 75+ cities, \u20b960Cr bills saved, 4x YoY, IIT-founded, Tier-1 panels 25-yr warranty, milestone payment (20% upfront), 0% EMI, 50-day install, IoT diagnostics, 3-4 yr payback. Strong testimonial list (Gurugram, Ghaziabad, Lucknow, Amritsar, Delhi \u2014 North India heavy). Meta Ad Library searches for \"zunsolar\" and \"ZunRoof\" returned no visible brand ads on Sep 14. CTA: not yet confirmed."
+  "cta_title": "REBRAND-TO-REVENUE IN 7 DAYS — ONE DOMAIN, ONE LP, TWO REELS",
+  "cta": "Live audit 14 Sep 2026 from zunsolar.com + zunroof.com + Meta/Google. You have North India’s richest proof (40k, ₹60Cr, 75 cities, IIT+VR) — just <b>point paid to zunsolar + ship one Gurugram ₹78k preview LP + 2 Hindi UGC reels</b>. Win 1 ships in 48h. <b>15-min Loom with the cross-domain GTM diff?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> zunsolar.com fetch (₹60Cr saved, 40k+ happy, 75+ cities, 2016 IITians, Tier-1 25yr, 20% milestone, 50 days, IoT app, 40% subsidy) + Tracxn ZunRoof $18M + YourStory + Meta ZunRoof → 1–2 active Gurugram lead ads (~05 Aug) + Google 4+ Search. Rebrand note: zunroof.com → 302 → zunsolar.com. Address 6th Floor Paras Trinity Sec63.",
+  "source_csv": "niches/solar/data/daily_history/solar-day-01-2026-09-14-50-leads.csv",
+  "row_ref": "ZunRoof",
+  "live_fetch": "14 Sep 2026 · zunsolar.com (rebrand) + zunroof.com (old) + Tracxn ($18M, IIT) + YourStory + Meta Library (ZunRoof, active, IN) + Google \"solar in Gurgaon\""
 }

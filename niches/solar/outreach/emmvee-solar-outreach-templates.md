@@ -1,46 +1,39 @@
 # Emmvee Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/emmvee-solar-audit-report.pdf` (Lead score 9/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `emmvee-solar-solar-audit-report.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Emmvee Solar - Zero UGC / unboxing reels - all studio product shots
+### Subject A — Roast-Audit (soft, specific): Re: your PVEL 7/7 + 10.3 GW proof is dark on paid
+
+Hi Emmvee team,
+
+I checked emmvee.com on 14 Sep 2026 — congrats on PVEL 7/7 (only Indian to clear 7/7), 7.8 GW module + 2.94 GW cell → 10.3 GW Jul 2026, ET Now Best Brand 2025, and the KPI Green INR 1500 Cr Gujarat order.
+
+Then I checked Meta Ad Library India + Google Transparency for emmvee.com on 14 Sep — 0 active consumer ads (correct, you are B2B). The flip: your /pv-module page is a catalog — no gated "TOPCon Procurement Pack (DCR vs Non-DCR)" behind Work Email + GSTIN, and View Source shows no Pixel/CAPI/LinkedIn tag firing.
+
+So EPCs checking your TOPCon 560–605 Wp specs are not building any retargeting pool.
+
+I put together a 2-page live audit with the empty libraries + catalog friction + tag gap. Three fixes in 7 days — one gated pack + ₹1.5L LinkedIn ABM for EPCs in Karnataka/Gujarat.
+
+No pitch — open to a 15-min call if useful? PDF attached.
+
+— Smart Pursuit | 7095024220
+
+---
+
+### Subject B — WhatsApp / Loom (30-sec)
+
+"Hi Emmvee team — 40 sec on emmvee.com live 14 Sep. Your history timeline shows 7.8 GW → 10.3 GW, PVEL 7/7 is deep in page, and /pv-module lists TOPCon 560–605 Wp but there is no Download Pack gate — just Learn More. Then I checked Ad Library — 0 active Meta ads, Google also 0, and View Source has no Pixel. So every EPC visitor is lost. I recorded a 2-min Loom + a gated /lp-epc-procurement mock for Karnataka. Want me to WhatsApp the link? No call needed."
+
+---
+
+### Subject C — FOMO (one competitor)
 
 Hi,
 
-I spent 30 minutes on your Meta ad library and emmvee.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+Auditing B2B solar mfg funnels this week — Vikram/Waaree both gate a TOPCon datasheet behind Work Email + GSTIN and retarget with factory videos. You have rarer proof (PVEL 7/7 + 10.3 GW) — it just is not gated. One pilot (₹1.5L Karnataka/Gujarat) would test cost per distributor lead for your 10.3 GW scale.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Want the 1-page plan? 15 mins, no proposal.
 
-- Smart Pursuit
-
-P.S. One flag specific to Emmvee Solar: Zero UGC / unboxing reels - all studio product shots
-
----
-
-### Subject B (WhatsApp / Loom - 30 sec)
-
-"Hi Emmvee Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
-
----
-
-### Subject C (FOMO): what the top rooftop installers in Bengaluru are doing differently
-
-Hi,
-
-While auditing rooftop solar funnels in Bengaluru, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
-
-3 of these can be live in 7 days. Want the 1-page plan?
-
-- Smart Pursuit
-
-Ref: Emmvee Solar (emmvee.com), Bengaluru - verified in Meta Ad Library India.
-
----
+— Smart Pursuit

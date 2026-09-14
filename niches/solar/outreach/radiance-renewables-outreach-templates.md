@@ -1,46 +1,41 @@
 # Radiance Renewables - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/radiance-renewables-audit-report.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `radiance-renewables-solar-audit-report.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Radiance Renewables - Ads target homeowners while also bidding on C&I keywords - wasted budget
+### Subject A — Roast-Audit (soft, specific): Re: your 425 MWp site has no pixel, so LinkedIn visitors are lost
 
-Hi,
+Hi Radiance team,
 
-I spent 30 minutes on your Meta ad library and radiancerenewables.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+I came across your site while checking C&I Open Access players for a Mumbai piece — saw your impact bar (425 MWp OA + 76 MWp BTM, ~2 GW under development, 51+ OA + 28+ BTM sites, 2.34M tCO2 avoided Jan 2020–Feb 2026) — strong proof.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+Then I checked Meta Ad Library India + Google Ads Transparency for radiancerenewables.com on 14 Sep 2026 — 0 active ads on both. That is fine for C&I (you sell via direct/LinkedIn, not subsidy search), but the flip is: your homepage + Savings Calculator (/savings-calculator shows ₹3.54–5.5 busbar, landed ₹6.18/kWh) has no Meta Pixel, no LinkedIn Insight Tag, no GA4/GTM firing in the HTML I fetched — so the 100s of visitors hitting that calculator each month are not building any retargeting pool.
 
-- Smart Pursuit
+I put together a 2-page audit (live fetch) with screenshots: (1) the empty ad libraries, (2) the calculator friction (4 fields before value), (3) the missing tag. Three fixes inside 7 days — one gated LP and a ₹1.5L LinkedIn+Meta ABM pilot for Maharashtra.
 
-P.S. One flag specific to Radiance Renewables: Ads target homeowners while also bidding on C&I keywords - wasted budget
+No pitch — just thought it might be useful. Open to a 15-min call if any is helpful? I’ve attached the PDF.
 
----
-
-### Subject B (WhatsApp / Loom - 30 sec)
-
-"Hi Radiance Renewables team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
+— Smart Pursuit | 7095024220 | smartpursuit3@gmail.com
 
 ---
 
-### Subject C (FOMO): what the top rooftop installers in Mumbai are doing differently
+### Subject B — WhatsApp / Loom (30-sec word-for-word)
 
-Hi,
+"Hi Radiance team — 45 seconds on radiancerenewables.com live today (14 Sep). Your homepage says Open Access + Behind-the-Meter, the map shows 51+ OA / 28+ BTM, the calculator asks 4 fields before it shows ₹6.18 landed tariff. Then I checked Ad Library — 0 active Meta ads, Google Transparency also 0, and View Source shows no Pixel or LinkedIn tag. So every calculator visitor is lost. I recorded a 2-min Loom showing the exact tag gap + a one-gated-LP mock for Maharashtra. Want me to WhatsApp the link? No call needed."
 
-While auditing rooftop solar funnels in Mumbai, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
+---
 
-3 of these can be live in 7 days. Want the 1-page plan?
+### Subject C — FOMO (one competitor, not five)
 
-- Smart Pursuit
+Hi Radiance team,
 
-Ref: Radiance Renewables (radiancerenewables.com), Mumbai - verified in Meta Ad Library India.
+Auditing C&I solar funnels for Maharashtra this week — CleanMax/Fourth Partner/Amplus all run one thing Radiance currently does not on Sep 14: a single gated case-study funnel. Example: "Maharashtra Open Access: Landed Tariff vs DISCOM — Infosys 1.2 MW, ₹1.9 Cr saved" → download → retarget with "Book a Plant Assessment" calendar. Their calculator shows value first, then gates.
+
+You already have the proof on-site (Infosys/Nestle/Castrol logos, 425 MWp, 2.34M tCO2, 85K KL robotic cleaning) — it just is not gated or retargeted. One ₹1.5L ABM pilot would test CPL → site assessment for the 2 GW pipeline.
+
+Want the 1-page plan? 15 mins to walk through, no proposal.
+
+— Smart Pursuit
 
 ---

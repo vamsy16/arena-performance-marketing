@@ -1,46 +1,39 @@
 # Exide Solar - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/exide-solar-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `exide-solar-solar-audit-report.pdf` (Lead score 5/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Subject A (Roast-Audit): Exide Solar - Product page has no subsidy eligibility note for residential buyers
+### Subject A — Roast-Audit: Re: your Sunday Solar + battery cross-sell is dark on Meta (while Loom sells EMI)
+
+Hi Exide Solar team,
+
+I checked exideindustries.com on 14 Sep 2026 — saw the 8 battery verticals and the Solar Solutions tile (Sunday Rooftop + Tubular 2V Solatubular LMXT + Hybrid Inverter + Mono/Poly PV). The solar banner links to solar.exideindustries.com.
+
+Then I checked Meta Ad Library India + Google Transparency for "Exide Solar" on 14 Sep — 0 active solar-only ads (battery ads still run). View Source of /solar-solutions.aspx shows no solar-segmented Pixel event (ViewSunday / StartQuote) — solar visitors blend into battery traffic.
+
+Your stack is unique (PV + Tubular 2V IS16270/IEC 61427 + Hybrid Pure Sine) — but there is no single "Sunday Solar + Storage: 24-hr power — ₹78k + Zero Cost EMI" bundle page to run as a lead ad, while Loom/Microtek push EMI.
+
+I made a 2-page audit with the empty solar library + buried solar tile + no-bundle gap. Three fixes inside 7 days — one Sunday Solar campaign LP you already have the proof for.
+
+No pitch — open to a 15-min call if helpful? PDF attached.
+
+— Smart Pursuit | 7095024220
+
+---
+
+### Subject B — Loom (30-sec)
+
+"Hi Exide Solar team — 45 sec on exideindustries.com live 14 Sep. Your nav shows 8 battery tiles, Solar Solutions is one tile below fold, and /solar-solutions.aspx lists Solatubular 2V + Solatron Gel + Hybrid but there is no ₹78k subsidy hero or 1-click WhatsApp quote. Then I checked Ad Library — 0 active solar-only ads, Google also 0, and View Source has no ViewSunday event. So solar visitors are lost. I recorded a 2-min Loom showing the exact gap + a /sunday-solar-pm-surya-ghar mock with 3-field preview. Want me to WhatsApp the link? No call needed."
+
+---
+
+### Subject C — FOMO
 
 Hi,
 
-I spent 30 minutes on your Meta ad library and exideindustries.com. I found 3 leaks that are costing you enquiries:
-1. The ads never lead with PM Surya Ghar subsidy (₹78,000 on a 3 kW) - that is the strongest hook in the market right now.
-2. CTA goes to a long form instead of click-to-WhatsApp, so 'kitna kharcha hoga?' questions die in the funnel.
-3. No installation proof - roof photos, net-meter bills, customer video - while competitors show it.
+Auditing battery+solar funnels — Microtek/Loom just bundle "battery + solar = night backup" with EMI in Meta ads. You own India's largest battery distribution — Sunday Solar + Torr Tubular + Hybrid MPPT is the bundle they cannot copy, but today there is no "Sunday Solar + Storage: 24-hr power" lead page to run.
 
-I have a 2-page confidential audit with the fix for each. Shall I WhatsApp it to you? (1 message, no call.)
+One ₹1.5L tester in Kolkata + Delhi NCR would tell you Sunday Solar survey cost. Want the 1-page plan?
 
-- Smart Pursuit
-
-P.S. One flag specific to Exide Solar: Product page has no subsidy eligibility note for residential buyers
-
----
-
-### Subject B (WhatsApp / Loom - 30 sec)
-
-"Hi Exide Solar team - I recorded a 3-minute walkthrough of your ad -> landing page -> form flow showing where the site-survey requests are leaking. Want me to send the link on WhatsApp? You can watch it and decide, no call needed."
-
----
-
-### Subject C (FOMO): what the top rooftop installers in Kolkata are doing differently
-
-Hi,
-
-While auditing rooftop solar funnels in Kolkata, I found the fastest-growing installers do 4 things you currently don't:
-1. Subsidy-first creative (₹78,000 / 300 free units).
-2. Click-to-WhatsApp as primary CTA - not a lead form.
-3. WhatsApp Business with package catalogue + auto-greeting, so nothing is missed after 6pm.
-4. Retargeting sequence that runs for 60 days (solar is a 2-3 month decision).
-
-3 of these can be live in 7 days. Want the 1-page plan?
-
-- Smart Pursuit
-
-Ref: Exide Solar (exideindustries.com), Kolkata - verified in Meta Ad Library India.
-
----
+— Smart Pursuit

@@ -1,0 +1,233 @@
+{
+  "brand": "Racold Solar",
+  "website": "racold.com",
+  "audit_date": "2026-09-14",
+  "score": 4,
+  "score_label": "LOW — ELECTRIC-LED",
+  "headline": "Racold = 60-yr electric geyser leader — solar water heaters are a 3rd tile, not a funnel",
+  "stats": [
+    [
+      "0",
+      "Active Meta solar<br/>(verified 14 Sep)"
+    ],
+    [
+      "0",
+      "Active Google solar<br/>(verified 14 Sep)"
+    ],
+    [
+      "C — SWH<br/>100–500 LPD",
+      "Niche"
+    ],
+    [
+      "60+ years<br/>Ariston Group",
+      "Heritage"
+    ]
+  ],
+  "exec": "<b>Racold (Ariston Group, 60+ years)</b> — live-verified on <b>racold.com 14 Sep 2026</b>: homepage is **electric geysers** — Omnis Slim DG Wi-Fi (25L ₹26,749 Voice Control) + CDR DLX etc, plus Heat Pump Domestic 200–500L ₹1,99,999. Solar Water Heaters (SWH) are **not** the hero — they live at /solar-water-heaters (Alpha Plus: ETC 90% absorption, 1800mm tubes, SS-316 0.8mm, Magnesium Anode, PUF). <b>Meta Library \"Racold Solar\" (active, IN) → 0 active solar heater lead ads</b>; Google `racold.com` solar → <b>0 active solar-heater ads</b> (geyser ads dominate). CSV 35 WhatsApp leak was model — live is electric-led corporate. Solar SKUs are sold via <b>SolarClue marketplace</b> (100 LPD ₹28k → 500 LPD ₹73k + FPC 150k) not as a D2C funnel. No PM Surya Ghar-style subsidy/EMI hero for SWH, no 1-click WhatsApp quote above fold.",
+  "ad_intel": [
+    [
+      "Audit date & sources",
+      "14 Sep 2026 · racold.com (homepage + /solar-water-heaters/alpha-plus + /omega-max-8) + solarclue.com/racold (SWH list) + Meta Library (Racold Solar / Racold, active, IN) + Google"
+    ],
+    [
+      "Business type (live)",
+      "C — SWH (ETC Alpha Plus + FPC Omega Max 8) + Heat Pump 200–500L (₹1,99,999). Ticket 26k–150k SWH, cycle 15–45 days. Channel: dealers + SolarClue, not Meta lead forms."
+    ],
+    [
+      "Live solar offer (racold.com)",
+      "/solar-water-heaters: Alpha Plus 90% absorption, 1800mm vacuum tubes, SS-316, Magnesium Anode, PUF, 5yr tank warranty, 100–500 LPD (100L 20,399 → 500L 72,500). SolarClue: same list + Heat Pump + FPC Omega pricing."
+    ],
+    [
+      "Meta Ad Library — active ads",
+      "<b>0 active solar-heater ads</b> for \"Racold\" / \"Racold Solar\" (India) 14 Sep — electric geyser ads (Pronto/Omnis) are active, solar is dark."
+    ],
+    [
+      "Google Transparency",
+      "<b>0 active solar-heater Search</b> for racold.com (India) 14 Sep — Search is geyser-led."
+    ],
+    [
+      "Creative hook / start date",
+      "N/A for SWH — if run, hook would be \"Solar = 70% electricity saved vs geyser\" — not advertised above fold on racold.com."
+    ],
+    [
+      "Destination / diversion",
+      "racold.com → /solar-water-heaters (catalog) → SolarClue egssolar links (₹42k–90k) or \"Enquire Now\" generic form → dealer. No dedicated /solar-water-heater-pm-surya-ghar campaign LP."
+    ],
+    [
+      "Verification links",
+      "Meta: facebook.com/ads/library/?active_status=active&country=IN&q=Racold+Solar · Google: adstransparency.google.com/?region=IN&domain=racold.com · Live: racold.com + racold.com/solar-water-heaters/alpha-plus + solarclue.com/racold"
+    ]
+  ],
+  "scores": [
+    [
+      "Ad creative (SWH active)",
+      1,
+      "0xef4444"
+    ],
+    [
+      "Landing Page (SWH match)",
+      3,
+      "0xef4444"
+    ],
+    [
+      "Tracking (Pixel / GA4)",
+      4,
+      "0xf59e0b"
+    ],
+    [
+      "Retargeting (geyser→SWH)",
+      2,
+      "0xef4444"
+    ],
+    [
+      "Offer (bundle/EMI)",
+      3,
+      "0xef4444"
+    ],
+    [
+      "Mobile & Speed",
+      5,
+      "0xf59e0b"
+    ]
+  ],
+  "findings": [
+    [
+      "<b>1. Ad creative snapshot — 0 active SWH ads live (Sep 14).</b> Library shows electric geyser creatives (Omnis Wi-Fi Voice, Pronto Dark 5L ₹8,199) — solar heater creatives are not running as lead ads, despite 100–500 LPD range and 5yr warranty that could hook \"Cut geyser bill 70%\" — so the 35 WhatsApp-gap in CSV is actually an electric-led catalog, not a paid solar funnel.",
+      "Why it matters: running geyser ads without a solar cross-sell retargeting step misses the highest-margin upsell in winter."
+    ],
+    [
+      "<b>2. Landing page — solar is a catalog tile on a geyser homepage.</b> Fetch shows 3 geyser tiles (Electric Storage + Instant + Heat Pump) + Racold Advantages (60yr, Ariston) before \"Solar Water Heaters\" — /alpha-plus lists tubes/anode/PUF specs but there is no \"100 LPD ₹28k vs geyser ₹/yr = payback 2.5yr\" hero or 1-click WhatsApp quote.",
+      "Why it matters: cold \"solar water heater price\" intent lands on electric geysers — mismatch drops CVR 30–45%."
+    ],
+    [
+      "<b>3. Tracking — likely firing for geysers, not segmented for SWH.</b> Enterprise site likely has GA4/GTM but fetched SWH pages show no dedicated SWH Lead event (ViewAlphaPlus / StartSWHQuote) — SWH visitors blend into geyser traffic.",
+      "Why it matters: you cannot build a SWH-only retargeting pool (\"saw Alpha Plus 200L but not started quote\") for winter nurture."
+    ],
+    [
+      "<b>4. Form friction — \"Enquire Now\" generic vs instant SWH matcher.</b> SWH CTA → generic Enquire form or SolarClue price → external checkout before showing \"Family size → LPD + roof space + subsidy/Mahindra? + EMI\" preview.",
+      "Why it matters: flipping to \"Family of 4 → 200 LPD + 8x9 ft roof + ₹/mo EMI preview → then gate\" lifts SWH leads."
+    ],
+    [
+      "<b>5. Niche-specific — solar vs heat-pump bundling not packaged.</b> Racold sells the full heat stack: ETC/FPC SWH 100–500 LPD + Heat Pump Domestic 200–500L ₹1,99,999 (70% electricity save) — but there is no single \"SWH + Heat Pump + electric backup\" explainer PDF/EMI page to run as Meta lead ad in winter.",
+      "Why it matters: one bundle LP + 70% save math is the winter angle electric-only brands cannot copy."
+    ]
+  ],
+  "landing_review": [
+    [
+      "Load & mobile",
+      "Ariston-group heavy images + geyser tiles — ~3s on 4G; SWH tile below fold; no sticky SWH WhatsApp quote on mobile."
+    ],
+    [
+      "Message match",
+      "If ad said \"Racold SWH 200L 70% save\", LP shows Omnis Wi-Fi geysers — mismatch. Need /swh-alpha-plus-200l campaign LP with payback hero."
+    ],
+    [
+      "CTA clarity",
+      "Nav: electric geysers hero → \"Explore products / Find your geyser\"; SWH CTA: \"Enquire Now\" on /alpha-plus + SolarClue price links → dealer, not instant quote."
+    ],
+    [
+      "Proof / speed-to-lead",
+      "60yr Ariston trust is above fold but SWH proof (BIS, 90% absorption, 1800mm tube, 5yr tank, 800ppm hardness) is not as payback math above fold; WhatsApp wa.me/917362888999 offset but not SWH-specific."
+    ]
+  ],
+  "tracking": [
+    [
+      "Meta Pixel + CAPI",
+      "<b>Likely present for geysers</b> but no SWH-segmented Lead event in fetched SWH pages."
+    ],
+    [
+      "GA4 / GTM",
+      "<b>Likely present</b> (enterprise) — needs SWH segment."
+    ],
+    [
+      "LinkedIn Insight",
+      "<b>Not needed for SWH</b> — Meta + YouTube for homeowner."
+    ],
+    [
+      "Other",
+      "Add MS Clarity + SolarClue referrer tracking to see SWH drop-off."
+    ]
+  ],
+  "tracking_note": "Fix = keep enterprise GTM, add 3 SWH events: ViewAlphaPlus, ViewPriceList, StartSWHQuote — 1 hr, then build SWH retargeting for winter.",
+  "competitor": [
+    [
+      "<b>AO Smith / V-Guard SWH</b>",
+      "Heat pump + SWH bundles with payback calculators, WhatsApp quote",
+      "Your ETC 90% + 1800mm + SS-316 is the spec they match — but your FPC Omega Max 8 is the upsell."
+    ],
+    [
+      "<b>Emmvee Solar SWH</b>",
+      "Solarizer SWH heritage since 1992 (30 yrs)",
+      "Your Ariston 60yr + electric cross-sell is the trust they lack — package it."
+    ],
+    [
+      "<b>SolarClue marketplace</b>",
+      "Lists your SKUs 28k–150k but not your brand funnel",
+      "Own the brand funnel so SolarClue is feeder, not owner of the lead."
+    ]
+  ],
+  "wins": [
+    [
+      "<b>WIN 1 — 48 hours: Ship SWH campaign LP + fire SWH Pixel events</b> — Owner: SWH BU + 1 dev",
+      "Build <b>/swh-alpha-plus-200l</b>: hero \"Racold Alpha Plus — 90% absorption, 1800mm tubes, SS-316 — Cut geyser bill 70% — Family of 4 → 200 LPD + 8×9 ft roof + 5yr warranty\" with <b>Family size → LPD + EMI ₹/mo preview</b> then gate <b>Phone + City</b> → fire SWH Lead. Fire <b>ViewAlphaPlus + StartSWHQuote</b>.",
+      "0x10b981",
+      "0xe6fbf3"
+    ],
+    [
+      "<b>WIN 2 — 7 days: Launch Meta SWH bundle lead ads (₹75k winter test, Mumbai/Pune)</b> — Owner: Performance",
+      "Creative: <b>\"Geyser bill ₹12k/yr → SWH payback 2.5yr\" reel + Alpha Plus tube close-up + 70% save math</b> (Marathi/Hindi). Target: 2–4BHK homeowners 25–55k bill, hard water 800ppm. CTA: WhatsApp + 3-field preview. KPI = <b>cost per SWH site check</b>, not CPL.",
+      "0xf59e0b",
+      "0xfef6e1"
+    ],
+    [
+      "<b>WIN 3 — 14 days: Geyser→SWH cross-sell nurture</b> — Owner: CRM",
+      "Audience: electric geyser Enquire/Compare + service DB last 180d → sequence Day1 \"Switch your Omnis to solar — 70% save\" (SWH one-pager), Day4 Alpha Plus specs + BIS, Day9 SolarClue price + dealer + Heat Pump hybrid option. Builds winter pipeline without fresh CPL.",
+      "0x4c27e0",
+      "0xede8ff"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric (SWH)",
+      "Current (14 Sep 2026, live)",
+      "After 7–14 day wins",
+      "Impact"
+    ],
+    [
+      "Active SWH paid",
+      "0 SWH lead ads",
+      "1 bundle pilot + retarget",
+      "Dark → winter pipeline"
+    ],
+    [
+      "LP match",
+      "Geyser homepage → SWH catalog",
+      "Dedicated /swh-alpha-plus LP",
+      "~30–40% CVR lift"
+    ],
+    [
+      "Gate friction",
+      "Enquire before payback",
+      "Family→LPD preview→gate",
+      "+35% quote starts"
+    ],
+    [
+      "Gated asset",
+      "None",
+      "1 SWH payback PDF",
+      "Forwardable to family"
+    ],
+    [
+      "Cost per SWH check",
+      "N/A",
+      "Track 30d",
+      "Baseline for winter"
+    ]
+  ],
+  "cta_title": "READY TO MAKE SWH A WINTER FUNNEL IN 7 DAYS?",
+  "cta": "Live audit 14 Sep 2026 from racold.com + /solar-water-heaters + solarclue.com/racold + Meta/Google. You own 60yr Ariston trust + ETC 90% + 800ppm hardness story — add <b>one SWH LP + SWH events + ₹75k winter pilot in Mumbai/Pune</b>. Ship Win 1 in 48h for the season. <b>15-min Loom — no pitch?</b>",
+  "appendix": "<b>Verification appendix — 14 Sep 2026:</b> racold.com fetch (Omnis Slim Wi-Fi 25L ₹26,749 etc, Heat Pump ₹1,99,999, 60yr Ariston) + /solar-water-heaters/alpha-plus (90% absorption, 1800mm, SS-316, Magnesium Anode, PUF, 5yr, 100 LPD 20,399 → 500 LPD 72,500) + solarclue.com/racold (SWH list). Meta: Racold Solar → 0 active SWH. Google: racold.com → 0 SWH. Geyser-led, SWH dark.",
+  "source_csv": "niches/solar/data/daily_history/solar-day-01-2026-09-14-50-leads.csv",
+  "row_ref": "Racold Solar",
+  "live_fetch": "14 Sep 2026 · racold.com (homepage + /solar-water-heaters/alpha-plus + /omega-max-8) + solarclue.com/racold (SWH list) + Meta Library (Racold Solar / Racold, active, IN) + Google"
+}

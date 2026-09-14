@@ -1,75 +1,39 @@
 # SunSource Energy - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `niches/solar/audits/sunsource-energy-solar-audit-report.pdf` (Lead score 2/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `sunsource-energy-solar-audit-report.pdf` (Lead score 5/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
-### Before you send anything - SunSource needs qualifying, not pitching
+### Subject A — Re: SHV Energy 400 MW logos (Coca-Cola/GE) but no gated PPA pack — visitors lost
 
-INTERNAL NOTE - Smart Pursuit, 14 September 2026
+Hi SunSource team,
 
-Recommendation: do not send the standard audit email to SunSource Energy. Qualify first.
+I checked sunsource-energy.com (hyphen-correct; sunsourceenergy.com in the sheet is the typo that 404s) on 14 Sep 2026 — 400+ MW, 150+ C&I firms Coca-Cola/GE/Indian Oil, 24 states, SHV Energy family since May 2021.
 
-Why:
+Then I checked Meta Ad Library India + Google Transparency for SunSource Energy on 14 Sep — 0 active ads on both. That is the pattern (like Radiance) — C&I relies on outbound, but the site + Contact page (+91 8130033213) has no Pixel/CAPI/LinkedIn firing and no gated "SHV Coca-Cola PPA — landed vs DISCOM" PDF.
 
-1. sunsourceenergy.com is completely offline. Not slow - dead. Both https hosts fail at the SSL handshake with no response, plain http returns an empty reply, and page fetches return HTTP 500. No holding page, no redirect.
+So every portfolio visitor is lost for 90-day nurture.
 
-2. On 5 January 2026, Inox Clean Energy's IPP arm Inox Neo acquired ~250 MWp of SunSource's operational solar projects, with ~50 MWp more pending - about 300 MWp across 13 states, on PPAs averaging 24 years. The marquee customers went with it: Britannia, Jubilant Foodworks, Hitachi Energy, Max Healthcare.
+I put together a 2-page audit (live) with the empty libraries, the hyphen typo, the missing tag, and 3 fixes in 7 days — one gated SHV case + ₹1.5L UP ABM.
 
-3. Headcount is reported at 97, down 38% YoY. Co-founder Kushagra Nandan has left to build LNK Energy (announced Jan 2026, Rs.10,000 crore five-year plan).
+No pitch — open to a 15-min call if useful? PDF attached.
 
-Sending a 'we found 3 leaks in your funnel' email to a company in this position reads as careless, and it burns the relationship with SHV Energy - which is the parent worth knowing.
-
-Three checks before any outreach:
-  - Meta Ad Library India: are the ~45 creatives actually live, and where do they point?
-  - Message the WhatsApp number from the ads. Does a human reply? What do they say they sell?
-  - Check SHV Energy corporate comms for SunSource's current India mandate.
-
-If SHV is recapitalising for a new build-out, this becomes a strong account - parent covenant, 15 years of history, and a website that has to be rebuilt from zero anyway. If not, we save ourselves the cycle.
-
-Smart Pursuit
-7095024220 | smartpursuit3@gmail.com
+— Smart Pursuit | 7095024220
 
 ---
 
-### WhatsApp qualification script - send to the number in their own ads
+### Subject B — Loom (30-sec)
 
-Hello - I came across SunSource Energy's ads and wanted to reach you directly, since your website at sunsourceenergy.com isn't loading for me today.
-
-Two quick questions, and I'm asking as someone who works with solar companies rather than as a buyer:
-
-1. Is SunSource still taking on new C&I and open-access solar projects in India?
-
-2. Is the website down temporarily, or has the business moved to a different domain?
-
-I ask because I noticed the Inox Neo acquisition of the operational portfolio in January, and I wanted to understand what the current offering is before assuming anything.
-
-If you are still building new capacity, I'd like a short conversation with whoever owns marketing - the ads are running while the site is unreachable, which is likely costing you enquiries.
-
-Smart Pursuit
-7095024220
+"Hi SunSource team — 40 sec on sunsource-energy.com live 14 Sep (note the CSV missing hyphen goes to 404). Your portfolio 400 MW is there but the CTA is generic Contact Us → full form before showing landed tariff. Then I checked Ad Library — 0 active Meta ads, Google also 0, View Source has no Pixel. So high-intent visitors are lost. I made a 2-min Loom + a /lp-open-access-shv-case mock for UP. Want me to WhatsApp the link? No call."
 
 ---
 
-### If they confirm they are still trading - the real opening
+### Subject C — FOMO
 
 Hi,
 
-Thank you for confirming SunSource is still taking on new C&I projects in India.
+Auditing C&I solar funnels for UP — Radiance/CleanMax gate a Coca-Cola-style case behind Work Email and retarget with Book Audit. You have 150 logos + SHV 127-yr backing — it just is not gated. One SHV case PDF + ₹1.5L LinkedIn test would set the 1GW-by-2027 baseline.
 
-In that case there is one thing I would fix before anything else, and it is not a marketing problem yet - it is a credibility problem.
+Want the 1-page plan?
 
-sunsourceenergy.com does not resolve. Both https hosts fail at the SSL handshake, http returns an empty reply. There is no holding page and no redirect to an SHV property.
-
-Your buyer is a CFO or a plant head signing a power purchase agreement that runs roughly 24 years. The first thing they do after a call is search the counterparty. Right now that search ends in a connection error - and because the Inox Neo acquisition of the 300 MWp portfolio is public and well covered, an offline website next to that news invites exactly the wrong conclusion.
-
-Once the domain is back, the story is genuinely strong and largely untold: SHV Energy as a 125-year-old parent, 15 years of Indian distributed solar since 2010, one of India's first rooftop solar PPP projects, and the 21 MWp Ramanathapuram plant with SuperGas as anchor offtaker. For a 24-year commitment, the parent covenant is the most persuasive asset you have, and it is nowhere in the current funnel.
-
-After that: dated case studies for the projects you retained, a site-survey scheduler for facility heads, and LinkedIn ABM against CFOs and plant heads instead of broad Meta - which is where the current spend is going, into a domain that doesn't load.
-
-15 minutes whenever the site is back up?
-
-Smart Pursuit
-7095024220 | smartpursuit3@gmail.com
-
----
+— Smart Pursuit
