@@ -1,0 +1,182 @@
+{
+  "ad_intelligence": [
+    [
+      "Brand status (verified 14 Sep 2026)",
+      "Amplus Solar rebranded to Gentari on 5 May 2025 (New Delhi announcement). amplussolar.com is live with an 'Amplus is now Gentari - you will be redirected' banner; /contactus resolves to gentari.in/contact. Company stats per own site: 2.3+ GWp, 650+ projects, 25 states, 400+ customers, 300+ workforce."
+    ],
+    [
+      "Active platforms",
+      "LinkedIn (primary B2B channel) + Google Search (brand + category) + blog/YouTube thought-leadership. Meta is employer-brand/community only - no always-on performance prospecting footprint, which is normal for enterprise C&amp;I."
+    ],
+    [
+      "Active ads (verified 14 Sep 2026)",
+      "0 active Meta ads in India for 'Amplus Solar' (Ad Library, active filter, keyword search) - consistent with an enterprise C&amp;I motion run on LinkedIn + Search + direct sales, not Meta prospecting."
+    ],
+    [
+      "Funnel type",
+      "Single destination: gentari.in/contact enterprise enquiry form - Name, Email, Phone, Company, Message, 'How did you hear about us', Location (+ Business/Solutions selectors). No WhatsApp CTA, no ROI calculator, no scheduler, no content download gate."
+    ],
+    [
+      "Sales cycle &amp; ticket",
+      "6-18 month enterprise cycle; 100 kW-10 MW+ deals on zero-capex OPEX/RESCO or open-access PPA; buyers are CFOs, plant heads, sustainability heads. PM Surya Ghar subsidy (residential only) is irrelevant to this P&amp;L - tariff savings and IRR close deals."
+    ],
+    [
+      "Benchmark to quote",
+      "India C&amp;I solar: cost per qualified enquiry Rs.3,000-8,000 on LinkedIn; MQL-to-SQL 8-15%; gated savings reports + vertical case studies convert 3-5x vs cold 'contact us' forms."
+    ]
+  ],
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Amplus+Solar",
+  "ads_active": 0,
+  "agency_tagline": "Performance Marketing for C&amp;I Solar &amp; Enterprise EPC Brands",
+  "audit_date": "14 Sep 2026",
+  "brand": "Amplus Solar",
+  "capacity": "100 kW-10 MW+",
+  "city": "Gurugram",
+  "competitors": [
+    [
+      "Competitor",
+      "What they do better",
+      "Signal for Amplus/Gentari"
+    ],
+    [
+      "Fourth Partner Energy",
+      "C&amp;I storytelling + case-study-led LinkedIn presence",
+      "Gate MW-scale case studies by vertical"
+    ],
+    [
+      "Tata Power Renewables (C&amp;I)",
+      "Brand trust + financing-led messaging + consumer halo",
+      "Publish state-wise tariff-vs-grid savings proof"
+    ],
+    [
+      "Sunsure / Amp Energy / CleanMax",
+      "Open-access specialists owning high-intent search",
+      "Build one landing page per solution (on-site, off-site, BESS)"
+    ]
+  ],
+  "cta_body": "Smart Pursuit will run a <b>30-day C&amp;I demand pilot</b> for Amplus/Gentari: migration-URL + tracking cleanup, staged enquiry capture, a gated savings-report engine, and a 500-account LinkedIn ABM pilot. <b>Fixed-scope pilot with MQL/SQL targets</b> - built for 6-18 month enterprise cycles, not 7-day sprints.",
+  "cta_title": "READY TO TURN RESEARCH TRAFFIC INTO PIPELINE?",
+  "data_source": "seed-real",
+  "day_found": 1,
+  "destination": "Website (gentari.in/contact enquiry form)",
+  "findings": [
+    "<b>Brand migration is leaking paid efficiency.</b> amplussolar.com is still indexed and linked from partners, then soft-redirects every visit to gentari.in (verified 14 Sep 2026) - splitting domain authority, breaking retargeting continuity and confusing procurement teams who were pitched 'Amplus'. Consolidate 301 mapping, tracking and all ad URLs.",
+    "<b>The only CTA is a 7-field 'contact us' form.</b> Name, Email, Phone, Company, Message, source and Location before any value is delivered - with no savings/ROI estimator, no 'talk to an engineer' scheduler and no case-study download. Enterprise forms with 5+ fields convert 40-60% worse than staged capture.",
+    "<b>650+ projects of proof, almost none of it gated.</b> Client logos and MW numbers exist on the site, but there is no downloadable vertical case study (auto, pharma, textiles), no savings-report lead magnet and no plant walkthrough video - so anonymous research traffic from CFOs and plant heads leaves no trace.",
+    "<b>No always-on capture on high-intent search.</b> Category terms ('rooftop solar for industry', 'open access solar power', 'solar PPA India') are where enterprise buyers start; without dedicated landing pages per solution (on-site, off-site, BESS, I-RECs, hydrogen), that intent flows to aggregators and competitors.",
+    "<b>LinkedIn is organic-only; the ABM layer is missing.</b> The enquiry form's own 'How did you hear about us?' (LinkedIn, Events, News) proves social and field matter - but there is no target-account engine: no CFO / plant-head / ESG-head persona tracks, no site-behavior retargeting feeding the form."
+  ],
+  "found_at": "2026-09-14T06:02:34.801553",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=amplussolar.com",
+  "headline": "We Found 3 Leaks Costing You Enterprise Pipeline",
+  "impact": [
+    [
+      "Metric",
+      "Current (est.)",
+      "After wins",
+      "Impact"
+    ],
+    [
+      "Qualified C&amp;I enquiries / month",
+      "Baseline (form only)",
+      "+40-60%",
+      "Staged capture + savings gate"
+    ],
+    [
+      "MQL to SQL rate",
+      "8-10%",
+      "12-18%",
+      "ABM targeting + finance-grade proof"
+    ],
+    [
+      "Cost per qualified MQL",
+      "Rs.6,000-9,000",
+      "Rs.3,000-5,000",
+      "Owned demand vs aggregator leads"
+    ],
+    [
+      "Enquiry to PPA cycle",
+      "9-18 months",
+      "6-12 months",
+      "Early intent capture + nurture"
+    ]
+  ],
+  "instagram": "@amplus.solar",
+  "leak": "Brand migration splits funnel (amplussolar.com -> gentari.in); 7-field form, no savings gate or ABM layer",
+  "niche": "Commercial &amp; Industrial Solar (C&amp;I IPP / RESCO - now Gentari)",
+  "outreach": [
+    [
+      "Subject A (Audit): Amplus -> Gentari - 3 funnel leaks losing enterprise enquiries (verified 14 Sep)",
+      "Hi team,\n\nI reviewed amplussolar.com and the new gentari.in funnel on 14 Sep and found 3 leaks costing you enterprise enquiries:\n1. The Amplus-to-Gentari migration splits traffic - the old domain is still indexed, then redirects; attribution and retargeting break mid-funnel.\n2. The only conversion path is a 7-field contact form - no savings estimator, case-study gate or scheduler for CFOs and plant heads.\n3. No always-on demand engine - organic + thought-leadership only, while C&I rivals run LinkedIn ABM + high-intent search.\n\nI have a 2-page confidential audit with the fix for each. Want me to send it on WhatsApp or email?\n\n- Smart Pursuit | Ph: 7095024220"
+    ],
+    [
+      "Subject B (Video - 30 sec)",
+      "\"Hi Amplus/Gentari team - I recorded a 3-minute walkthrough of your enquiry flow showing where enterprise MQLs leak, and what a gated savings report would capture instead. Want the link on WhatsApp? No call needed - watch it and decide.\""
+    ],
+    [
+      "Subject C (FOMO): what Fourth Partner + Tata C&I teams do that Gentari doesn't (yet)",
+      "Hi,\n\nAuditing C&I solar funnels, the fastest-growing IPPs do 4 things your funnel currently doesn't:\n1. Consolidate migrated domains - one tracked journey, no redirect hops.\n2. Gate vertical case studies (auto/pharma/textiles) to capture researching buyers.\n3. Run LinkedIn ABM to CFO / plant-head / ESG personas with IRR-first creative.\n4. Own high-intent search ('open access solar', 'solar PPA') with solution pages.\n\n2 of these can be live in 14 days. Want the 1-page plan?\n\n- Smart Pursuit"
+    ]
+  ],
+  "pitch_fit": "LOW - in-house enterprise team; ABM/partnership angle only",
+  "pm_surya_ghar_vendor_check": "N/A - C&I IPP (PM Surya Ghar is residential-only); verified Gentari rebrand instead",
+  "rebrand_note": "Amplus Solar officially rebranded to Gentari on 5 May 2025; amplussolar.com now redirects to gentari.in",
+  "revenue": "Pvt (Gentari/PETRONAS) - 2.3 GWp+",
+  "scores": {
+    "Brand Migration &amp; Domain Consolidation": [
+      4,
+      "#F59E0B"
+    ],
+    "Demand Engine (ABM / Search)": [
+      4,
+      "#F59E0B"
+    ],
+    "Enterprise Proof (Projects / Clients)": [
+      6,
+      "#10B981"
+    ],
+    "Lead Capture &amp; Speed-to-Lead": [
+      3,
+      "#EF4444"
+    ],
+    "Offer Clarity (OPEX / PPA / BESS)": [
+      6,
+      "#10B981"
+    ],
+    "Tracking &amp; Retargeting (B2B)": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "segment": "B",
+  "spend": "Enterprise (ABM-led)",
+  "spend_est": "Enterprise (ABM-led)",
+  "state": "Haryana",
+  "verified_at": "2026-09-14",
+  "verify": "verified 2026-09-14: 0 active Meta ads (IN); site + Gentari rebrand confirmed",
+  "website": "amplussolar.com",
+  "wins": [
+    [
+      "Quick Win 1 - 7 days",
+      "Fix the migration leak + stage the capture. 301-map the top 50 amplussolar.com URLs to matching gentari.in pages, update all ad and partner URLs, add UTM + hidden-field attribution; cut the form to 4 fields (Name, Work Email, Phone, Monthly bill/load) with Company + Location auto-enriched. Expected: 30-50% more qualified enquiries at the same traffic.",
+      "#059669",
+      "#ECFDF5"
+    ],
+    [
+      "Quick Win 2 - 14 days",
+      "Ship the 'C&amp;I Savings Report' gate. A one-page estimator (state tariff, sanctioned load, roof/land area) shows an instant savings range, then asks for email + phone to unlock the full PDF with 3 matched case studies. Promote via LinkedIn + search. Expected: 3-5x more MQLs than the cold contact form, plus a retargetable account list.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "Quick Win 3 - 30 days",
+      "Launch LinkedIn ABM + search capture. A 500-account target list (auto, pharma, textiles, data centers across MH/GJ/TN/KA); persona creatives (CFO: IRR/payback; Plant head: zero-capex OPEX; ESG head: CO2 + RECs); one landing page per solution. Expected: qualified pipeline at Rs.3-8k per MQL with MQL-to-SQL above 10%.",
+      "#6D28D9",
+      "#F5F3FF"
+    ]
+  ],
+  "ad_intro": "<b>Amplus Solar</b> (amplussolar.com) is India's C&amp;I rooftop-solar pioneer - founded 2008 in Gurugram, now <b>2.3+ GWp across 650+ projects in 25 states for 400+ enterprise clients</b>, and since <b>5 May 2025 officially rebranded into Gentari</b> (the PETRONAS clean-energy arm; 7.5 GW India portfolio). This is enterprise infrastructure sold on 15-25 year PPAs - not residential subsidy product.<br/><br/><b>Three leaks stand out (verified 14 Sep 2026):</b> (1) the Amplus-to-Gentari migration splits the funnel - amplussolar.com is still indexed and linked, then soft-redirects to gentari.in, leaking attribution, retargeting pools and buyer trust; (2) the only conversion path is a <b>7-field enterprise enquiry form</b> with no savings estimator, no case-study gate and no meeting scheduler; (3) there is <b>no always-on paid demand engine</b> - thought-leadership and organic social only - while C&amp;I rivals run LinkedIn ABM and capture high-intent search.<br/><br/><i>Company facts verified from amplussolar.com, gentari.in and press on 14 Sep 2026. Meta count verified at zero on 14 Sep 2026 (India, active filter, keyword search) - LinkedIn + Search carry this P&amp;L, not Meta.</i>",
+  "ads_suffix": "",
+  "ads_label": "Active Meta ads (IN, verified)",
+  "score": 5
+}

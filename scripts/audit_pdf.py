@@ -133,6 +133,7 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
       impact - list of (metric, current, after, impact) tuples,
       outreach - list of (subject, body) tuples,
       agency_name, agency_phone, agency_email (defaults to Smart Pursuit)
+      audit_date, headline, cta_title, cta_body (optional overrides; D2C output unchanged when absent)
     """
     S = _styles()
     brand = lead["brand"]
@@ -143,6 +144,8 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     agency_name = lead.get("agency_name", "Smart Pursuit")
     agency_phone = lead.get("agency_phone", "7095024220")
     agency_email = lead.get("agency_email", "smartpursuit3@gmail.com")
+    audit_date = lead.get("audit_date", "")
+    headline = lead.get("headline", "We Found 3 Leaks Costing You ~40% of Ad Spend")
 
     if out_pdf is None:
         out_pdf = AUDITS_DIR / f"{slug}-audit-report.pdf"
@@ -154,8 +157,9 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
         canvas.saveState()
         canvas.setFont("Helvetica", 7)
         canvas.setFillColor(GRAY)
+        datestr = f"  |  Audit date: {audit_date}" if audit_date else ""
         canvas.drawCentredString(A4[0]/2, 8*mm,
-            f"Prepared by {agency_name}  |  Ph: {agency_phone}  |  Email: {agency_email}  |  Confidential Audit for {brand}  |  Page %d" % doc.page)
+            f"Prepared by {agency_name}  |  Ph: {agency_phone}  |  Email: {agency_email}  |  Confidential Audit for {brand}{datestr}  |  Page %d" % doc.page)
         canvas.restoreState()
 
     doc = SimpleDocTemplate(str(out_pdf), pagesize=A4,
@@ -168,10 +172,12 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     header_inner = [
         [Paragraph(f"FOR: <b>{brand.upper()}</b> &nbsp;|&nbsp; <font size=8>CONFIDENTIAL PERFORMANCE AUDIT</font>", S["SUB"])],
         [Spacer(1,1*mm)],
-        [Paragraph("We Found 3 Leaks Costing You ~40% of Ad Spend", S["H1"])],
+        [Paragraph(headline, S["H1"])],
         [Spacer(1,1*mm)],
         [Paragraph(f"Prepared by {agency_name} - {lead.get('agency_tagline', 'Performance Marketing for Scaling D2C &amp; Edtech Brands')}", S["SUB"])],
     ]
+    if audit_date:
+        header_inner.append([Paragraph(f"Audit date: <b>{audit_date}</b> &nbsp;|&nbsp; <font size=8>Data verified from public sources on audit date</font>", S["SUB"])])
     ht = Table(header_inner, colWidths=[128*mm])
     ht.setStyle(TableStyle([
         ("BACKGROUND",(0,0),(-1,-1), PURPLE_DARK),
@@ -195,7 +201,7 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
 
     # Quick stats
     stats = [
-        (f"{lead.get('ads_active','?')}+", "Active Meta ads"),
+        (f"{lead.get('ads_active','?')}{lead.get('ads_suffix','+')}", lead.get("ads_label", "Active Meta ads")),
         (lead.get("spend","-"), "Est. monthly spend"),
         (niche or "-", "Niche"),
         (lead.get("revenue","-"), "Revenue"),
@@ -297,12 +303,14 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
     story.append(Spacer(1,1*mm))
 
     # CTA
-    cta = [
-        [Paragraph("READY TO PLUG THESE LEAKS?", S["CTA_BIG"])],
-        [Spacer(1,1*mm)],
-        [Paragraph(f"{agency_name} will run a <b>14-day performance sprint</b> for {brand}: "
+    cta_title = lead.get("cta_title", "READY TO PLUG THESE LEAKS?")
+    cta_body = lead.get("cta_body", f"{agency_name} will run a <b>14-day performance sprint</b> for {brand}: "
                    f"Creative refresh, CRO rebuild of top landing pages, CAPI + retargeting setup. "
-                   f"We work on a <b>performance-fee model</b> tied to conversion-cost reduction.", S["CTA_SM"])],
+                   f"We work on a <b>performance-fee model</b> tied to conversion-cost reduction.")
+    cta = [
+        [Paragraph(cta_title, S["CTA_BIG"])],
+        [Spacer(1,1*mm)],
+        [Paragraph(cta_body, S["CTA_SM"])],
         [Spacer(1,1*mm)],
         [Paragraph(f"Ph/WhatsApp: <b>{agency_phone}</b> &nbsp;|&nbsp; Email: <b>{agency_email}</b>", S["CTA_SM"])],
         [Spacer(1,1*mm)],
@@ -327,10 +335,14 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
         (f"Subject C (FOMO): Your competitors are winning with UGC Reels",
          f"Hi,\n\nWhile auditing your category I noticed competitors are running UGC Reels + retargeting at far lower CPA. Your creative is still founder-talking-head heavy and retargeting looks one-size-fits-all. 3-win, 7-day playbook attached. 15 minutes to walk through?\n\n- {agency_name}"),
     ])
+    try:
+        companion_pdf = out_pdf.relative_to(ROOT).as_posix()
+    except ValueError:
+        companion_pdf = out_pdf.name
     md = [
         f"# {brand} - Outreach Templates ({agency_name} BD team)",
         "",
-        f"> Companion to `audits/{slug}-audit-report.pdf` (Lead score {score}/10). Do NOT attach to the audit PDF - internal BD templates only.",
+        f"> Companion to `{companion_pdf}` (Lead score {score}/10). Do NOT attach to the audit PDF - internal BD templates only.",
         "", "---", "",
     ]
     for subj, body in emails:
