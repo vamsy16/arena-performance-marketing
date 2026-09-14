@@ -1,7 +1,7 @@
 {
   "name": "performance-prospecting-system",
-  "version": "1.1.0",
-  "description": "Find brands already running performance marketing + Audit them + Write outreach that gets replies. 6 skills for agency prospecting + auto scraper + PDF generator.",
+  "version": "1.2.0",
+  "description": "Find brands already running performance marketing + Audit them + Write outreach that gets replies. 7 skills for agency prospecting + auto scraper + PDF generator + isolated solar vertical.",
   "owner": {
     "name": "vamsy16",
     "email": ""
@@ -36,7 +36,25 @@
       "name": "pdf-report-generator",
       "description": "Generate beautiful attractive PDF audit reports to send to leads",
       "path": "./skills/pdf-report-generator"
+    },
+    {
+      "name": "solar-lead-prospecting",
+      "description": "Isolated solar vertical: find rooftop solar / solar product / C&I solar leads + audit + outreach",
+      "path": "./skills/solar-lead-prospecting"
     }
   ],
-  "keywords": ["performance marketing", "lead prospecting", "meta ad library", "agency", "outreach", "cro", "ads", "auto scraper", "pdf report"]
+  "keywords": [
+    "performance marketing",
+    "lead prospecting",
+    "meta ad library",
+    "agency",
+    "outreach",
+    "cro",
+    "ads",
+    "auto scraper",
+    "pdf report",
+    "solar",
+    "rooftop solar",
+    "pm surya ghar"
+  ]
 }

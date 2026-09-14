@@ -81,6 +81,31 @@ User: "Write outreach" -> outreach-personalizer -> 3 DM templates
 
 ---
 
+## Want a second niche? Solar vertical (isolated, D2C-safe)
+
+Run a **completely separate solar pipeline** without disturbing the D2C workflow — own
+de-dup memory, own CSVs, own audits, own skill.
+
+```bash
+# Find 50 solar leads (Day 1)
+python scripts/solar_lead_finder.py --count 50 --day 1
+python scripts/solar_lead_finder.py --count 30 --day 4 --segment R --state Karnataka
+
+# Audit + outreach (writes to niches/solar/ only)
+python scripts/solar_audit.py niches/solar/leads/fenice-energy.json
+```
+
+| | D2C pipeline | Solar pipeline |
+|---|---|---|
+| De-dup file | `data/seen_leads.json` | `niches/solar/data/seen_leads.json` |
+| Daily CSVs | `data/daily_history/day-NN-*.csv` | `niches/solar/data/daily_history/solar-day-NN-*.csv` |
+| Audits / outreach | `audits/`, `outreach/` | `niches/solar/audits/`, `niches/solar/outreach/` |
+| Scripts | `auto_lead_finder_v3_dedup.py`, `run_audit.py` | `solar_lead_finder.py`, `solar_audit.py` |
+
+Read: [`SOLAR-VERTICAL.md`](SOLAR-VERTICAL.md) (start here) · [`niches/solar/SOLAR-PLAYBOOK.md`](niches/solar/SOLAR-PLAYBOOK.md) (strategy, market math, compliance) · [`niches/solar/HOW-TO-RUN.md`](niches/solar/HOW-TO-RUN.md) (commands).
+
+---
+
 ## Installation
 
 ### Option 1: Claude Code / Cursor / Codex (Recommended)

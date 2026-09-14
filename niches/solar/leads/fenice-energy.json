@@ -1,0 +1,69 @@
+{
+  "brand": "Fenice Energy",
+  "website": "feniceenergy.com",
+  "instagram": "@feniceenergy",
+  "niche": "Residential Rooftop Solar + Solar Battery + EV Charging (Chennai, TN)",
+  "segment": "R",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "score": 8,
+  "ads_active": 12,
+  "spend": "Rs.1-3 L/mo (est. - verify in Meta Ad Library)",
+  "destination": "Website (lead popup) + toll-free 1800 889 8457",
+  "pitch_fit": "HIGH - regional residential EPC, 100+ cities, subsidy-led category, no WhatsApp CTA",
+  "ad_library_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&search_type=keyword_unordered&q=Fenice%20Energy",
+  "google_ads_link": "https://adstransparency.google.com/?region=IN&domain=feniceenergy.com",
+  "ad_intro": "<b>Fenice Energy</b> (SILRES Energy Solutions Pvt Ltd, Chennai) sells rooftop solar, solar batteries and EV chargers across 100+ cities, with micro-inverters as its technical differentiator. The product and the site hold up - there is a solar calculator, a financing options page and a channel-partner program.<br/><br/><b>But the highest-intent hook in this category is missing from the first screen.</b> PM Surya Ghar pays <b>Rs.78,000</b> on a 3 kW residential system plus 300 free units/month. Competitors like Freyr Energy lead with 'Save Rs.1 Lakh' and SolarSquare leads with subsidy + EMI math; Fenice's homepage headline is 'Clean energy for your home &amp; business' - no subsidy, no number, no urgency.<br/><br/>Two more leaks: there is <b>no click-to-WhatsApp path</b> (only a toll-free number), and the <b>installation proof and reviews are buried</b> in the About page while the hero carries no customer evidence for a Rs.1.5-3 lakh purchase.<br/><br/><i>Findings below are from a live review of the site on 14 Sep 2026. Ad counts and spend are estimates from the Ad Library signature - verify before quoting.</i>",
+  "ad_intelligence": [
+    ["Category hook in play", "PM Surya Ghar: Rs.30,000 (1 kW) / Rs.60,000 (2 kW) / Rs.78,000 (3 kW+) + up to 300 free units/month. This is the highest-intent hook in Indian residential solar right now."],
+    ["Primary platforms", "Meta (FB + IG) for residential lead gen; Google Search / PMax on 'solar panel price Chennai', 'PM Surya Ghar subsidy', 'rooftop solar Chennai'; YouTube for install walkthroughs."],
+    ["Active ads (est.)", "~12 creatives by signature. Confirm live count in Meta Ad Library India (Active filter) before the pitch - never quote an unverified number."],
+    ["Funnel type", "Website lead popup ('I am looking for: Residential / Apartment Complex / Commercial') + toll-free number. No WhatsApp entry point observed on the homepage."],
+    ["Assets that already exist (praise these)", "Solar rooftop calculator at /solar-rooftop-calculator/, financing options page, micro-inverter product pages, GreenPartners channel program, blog."],
+    ["Competitor benchmark", "Freyr Energy: subsidy + Rs.22,000 discount stacked, 3-step quote form, 4,473 Google reviews on the hero, EMI from Rs.1,466/mo. SolarSquare: city landing pages + EMI/subsidy math on first screen."],
+    ["Seasonality", "Feb-Jun (summer bills, subsidy push) and Sep-Oct (post-monsoon) are peak enquiry months. Tamil Nadu has a strong residential base and active DISCOM net-metering flow."]
+  ],
+  "scores": {
+    "Subsidy & Scheme Clarity": [4, "#F59E0B"],
+    "WhatsApp / Speed-to-Lead": [2, "#EF4444"],
+    "Social Proof (Installs)": [4, "#F59E0B"],
+    "Creative Variety (Video/Reels)": [4, "#F59E0B"],
+    "Landing Page & Form CRO": [5, "#F59E0B"],
+    "Tracking & Retargeting": [4, "#F59E0B"]
+  },
+  "findings": [
+    "<b>1. The subsidy is absent from the first screen.</b> Homepage hero reads 'Clean energy for your home &amp; business' with the sub-line 'Rooftop Solar | Solar Battery | EV Charging'. Nowhere above the fold does it say Rs.78,000 subsidy, 300 free units or 'PM Surya Ghar'. Freyr Energy and SolarSquare both lead with the money. In a subsidy-driven category, the number IS the hook.",
+    "<b>2. No click-to-WhatsApp.</b> The only fast contact path is a toll-free number (1800 889 8457). Indian solar enquiries start as questions - 'kitna kharcha?', 'how much roof do I need?', 'subsidy kab milega?' - and those users do not call a toll-free line at 9pm. Competitors capture them on WhatsApp and reply in minutes.",
+    "<b>3. Proof is buried.</b> Customer reviews live inside the About Us page, the counters read '0 +' before scroll-triggered animation, and the footer still says Copyright 2023. For a Rs.1.5-3 lakh, 25-year purchase, the hero should carry installations, cities, MW done and a real customer face.",
+    "<b>4. The calculator is 2 clicks deep.</b> /solar-rooftop-calculator/ is genuinely good (it can show system size, savings, roof space, subsidy) but it sits in the footer menu. It should be the hero CTA - 'Check your subsidy + savings in 30 seconds' - with the phone number captured after the value is shown.",
+    "<b>5. No retargeting journey for a 30-90 day decision.</b> Rooftop solar is rarely a same-day conversion. Without video-view retargeting (50%+) and a WhatsApp follow-up sequence across 60 days, the traffic is rented rather than owned.",
+    "<b>6. Channel-partner lever unused for paid.</b> GreenPartners and GreenAmbassadors programs already exist - these are natural sources of zero-CPL referrals that can be amplified with a partner-specific creative track at a fraction of cold-audience CPL."
+  ],
+  "competitors": [
+    ["Freyr Energy", "Leads with 'Save Rs.1 Lakh' (Rs.78,000 subsidy + Rs.22,000 own discount), shows 4,473 Google reviews above the fold, EMI from Rs.1,466/mo, and a 3-step quote flow.", "Fenice should match the money-on-screen pattern, then win on micro-inverters + O&M credibility."],
+    ["SolarSquare", "City-level landing pages, financing/EMI clarity, brand-level trust marketing at scale.", "Fenice can beat them in Tamil Nadu locality-by-locality (Adyar, Velachery, Anna Nagar) where national brands are thin."],
+    ["Local MNRE-empanelled installers", "Click-to-WhatsApp as primary CTA, fast quotes, heavy Google review collection.", "Speed-to-lead under 5 minutes on WhatsApp is the battleground - not price."]
+  ],
+  "wins": [
+    ["Quick Win 1 - 7 days", "Subsidy-first creative + Click-to-WhatsApp. Test 3 hooks: (a) 'Rs.78,000 subsidy on 3 kW rooftop solar - pay less than your EB bill', (b) '300 units free every month', (c) 'Chennai homeowner: your 25-year bill vs your one-time cost'. Primary CTA = Send WhatsApp Message. Expected: 25-40% more qualified enquiries at the same spend.", "#059669", "#ECFDF5"],
+    ["Quick Win 2 - 14 days", "Turn the existing calculator into the hero CTA: 'Check your subsidy + savings in 30 seconds' - bill size, city, roof type - show subsidy, EMI and payback, THEN ask for the phone number. Replace the current popup. Expected: 1.5-2x form completion and a higher site-survey booking rate.", "#F59E0B", "#FFFBEB"],
+    ["Quick Win 3 - 30 days", "Build the proof layer for a 25-year purchase: 10 install films (roof + net meter + customer holding the bill), city-wise install counters, Google review screenshots in creatives, and a 60-day retargeting sequence (video 50% -> WhatsApp -> site-survey offer). Expected: lower CPL and a higher survey-to-order rate.", "#6D28D9", "#F5F3FF"]
+  ],
+  "impact": [
+    ["Cost per lead (Meta)", "Rs.250-450", "Rs.150-250", "Subsidy-first creative + WhatsApp CTA"],
+    ["Lead -> site survey", "15-20%", "28-35%", "Reply under 5 min on WhatsApp"],
+    ["Site survey -> order", "20-25%", "30-35%", "EMI + subsidy math shown at survey"],
+    ["Cost per installed kW won", "Rs.6,000-9,000", "Rs.3,500-5,500", "Same budget, more installs"]
+  ],
+  "outreach": [
+    ["Subject A (Roast-Audit): your homepage doesn't say Rs.78,000",
+     "Hi,\n\nI reviewed feniceenergy.com and your Meta ads this morning. Your product story is strong - micro-inverters, O&M, the calculator - but the highest-intent hook in rooftop solar is missing from the first screen.\n\nThree specific leaks:\n1. PM Surya Ghar pays Rs.78,000 on a 3 kW system + 300 free units/month. Your hero says 'Clean energy for your home & business'. Freyr Energy leads with 'Save Rs.1 Lakh'; SolarSquare leads with subsidy + EMI.\n2. There is no click-to-WhatsApp anywhere on the homepage - only a toll-free number. Solar enquiries start as questions ('kitna kharcha?') at 9pm, and those users don't call.\n3. Your calculator at /solar-rooftop-calculator/ is genuinely good but it's two clicks deep in the footer. It should be the hero CTA.\n\nI have a 2-page confidential audit with the fix for each, including 3 creative hooks. Want me to WhatsApp it across? One message, no call.\n\n- {agency}"],
+    ["Subject B (WhatsApp / Loom - 30 sec)",
+     "\"Hi Fenice team - I recorded a 3-minute walkthrough showing exactly where your rooftop-solar enquiries are leaking: ad -> homepage -> popup. Nothing salesy, just the 3 leaks. Want the link on WhatsApp?\""],
+    ["Subject C (FOMO): what top Chennai installers do differently",
+     "Hi,\n\nI audited rooftop solar funnels across Chennai this week. The installers pulling the most site surveys all do the same 4 things:\n1. Subsidy-first creative (Rs.78,000 / 300 free units) - never 'go green'.\n2. Click-to-WhatsApp as the primary CTA, not a toll-free number.\n3. WhatsApp Business catalogue with 3 kW / 5 kW packages + auto-greeting, so nothing is missed after 6pm.\n4. A 60-day retargeting sequence, because solar is a 2-3 month decision.\n\nYou already have the calculator and the channel-partner program - you're 2 weeks away from this. Want the 1-page plan for Fenice?\n\n- {agency}"]
+  ],
+  "agency_name": "Smart Pursuit",
+  "agency_phone": "7095024220",
+  "agency_email": "smartpursuit3@gmail.com"
+}

@@ -170,7 +170,7 @@ def generate_audit_pdf(lead: dict, out_pdf: Path | None = None) -> tuple[Path, P
         [Spacer(1,1*mm)],
         [Paragraph("We Found 3 Leaks Costing You ~40% of Ad Spend", S["H1"])],
         [Spacer(1,1*mm)],
-        [Paragraph(f"Prepared by {agency_name} - Performance Marketing for Scaling D2C &amp; Edtech Brands", S["SUB"])],
+        [Paragraph(f"Prepared by {agency_name} - {lead.get('agency_tagline', 'Performance Marketing for Scaling D2C &amp; Edtech Brands')}", S["SUB"])],
     ]
     ht = Table(header_inner, colWidths=[128*mm])
     ht.setStyle(TableStyle([
