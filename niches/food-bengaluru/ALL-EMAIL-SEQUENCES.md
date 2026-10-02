@@ -24,7 +24,7 @@
 # Akshayakalpa Organic
 **Contact:** support@akshayakalpa.org · +91-9535388122  
 **Entity:** Akshayakalpa Farms & Foods Pvt Ltd  
-**Audit:** `audits/akshayakalpa-organic-audit-report.pdf`  
+**Audit:** `audits/akshayakalpa-organic-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): ~400 live ads - and a California placeholder address on the landing page
 
@@ -33,9 +33,9 @@ Hi team,
 
 I audit paid media for food brands from Bengaluru. Your footprint is the biggest I found in this category: **~400 live Google creatives** under Akshayakalpa Farms and Foods Pvt Ltd. The product story behind it is world-class - 4C farm chilling, 24-36 hours to doorstep vs the 72-96 hour industry norm, APEDA certified.
 
-One thing you can check in 30 seconds: the footer of akshayakalpa.org currently contains template placeholder text - '0123.456.789 - 2 Queen Street, California, USA'. Your paid traffic lands on that page. It is a small fix and a direct trust cost while it is live.
+One thing you can check in 30 seconds: the Contact Us page at akshayakalpa.org/contact-us currently contains template placeholder text - '0123.456.789 - 2 Queen Street, California, USA'. Your paid traffic lands on that page. It is a small fix and a direct trust cost while it is live.
 
-Attached is a 2-page audit with 3 fixes, including what I would do with ~400 creatives to make them learn faster than they spend. Worth 15 minutes?
+Attached is the 7-page Paid Media and Measurement Audit, including what I would do with ~400 creatives to make them learn faster than they spend. Worth 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 
@@ -87,7 +87,7 @@ The audit is yours to keep. If you would like help, we would start with the crea
 # Anand Sweets
 **Contact:** care@anandsweets.net · +91 80 2558 8992  
 **Entity:** ANAND SWEETS AND SAVOURIES LLP  
-**Audit:** `audits/anand-sweets-audit-report.pdf`  
+**Audit:** `audits/anand-sweets-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): Your ads are sending buyers to Swiggy - the Anand Sweets audit
 
@@ -98,7 +98,7 @@ I run paid-media audits for Bengaluru food brands. I checked your live footprint
 
 The problem: your own top banner tells every paid visitor that Bangalore delivery takes up to 3 days and sends same-day buyers to Swiggy, Zomato or Ownly. That is the exact moment - festive, urgent, gift-driven - where mithai margins live, and it is being handed to an aggregator.
 
-Attached is a 2-page audit with 3 fixes. Open to a 15-minute call?
+Attached is the 7-page Paid Media and Measurement Audit. Open to a 15-minute call?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -148,7 +148,7 @@ The document is yours regardless. If you would like us to implement the gifting 
 # Milky Mist
 **Contact:** customercare@milkymist.com · 1800-419-9000  
 **Entity:** Milky Mist Dairy Food Limited  
-**Audit:** `audits/milky-mist-audit-report.pdf`  
+**Audit:** `audits/milky-mist-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 3 live Google ads for an IPO-bound dairy major
 
@@ -159,7 +159,7 @@ I run paid-media audits for food brands from Bengaluru. I checked your live pres
 
 That gap matters now: paneer, curd, ghee and cheese searches are high-intent purchase moments, and today they are being answered by Amul, Nandini and quick-commerce private labels. Before a listing, demand durability is part of the story you will be asked about.
 
-Attached is a 2-page audit with 3 fixes. Open to 15 minutes?
+Attached is the 7-page Paid Media and Measurement Audit. Open to 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -209,7 +209,7 @@ The audit is yours to keep. If you would like to start, the search moat is the f
 # iD Fresh Food
 **Contact:** customercare@idfreshfood.com · +91 9739910521  
 **Entity:** iD Fresh Food (India) Pvt Ltd  
-**Audit:** `audits/id-fresh-food-audit-report.pdf`  
+**Audit:** `audits/id-fresh-food-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): INR 681 Cr revenue, one live Google ad - here is the audit
 
@@ -220,7 +220,7 @@ I run paid-media audits for food brands from Bengaluru. I checked your live foot
 
 That is remarkable for a brand at INR 681 Cr revenue with an IPO in view - and it means every 'idli batter home delivery', 'malabar parota online' or 'preservative-free batter' search is being answered by quick-commerce and smaller D2C brands, not by you.
 
-I have attached a 2-page audit with 3 fixes, including the subscription engine that would add recurring revenue before your IPO window. 15 minutes this week?
+I have attached the 7-page Paid Media and Measurement Audit, including the subscription engine that would add recurring revenue before your IPO window. 15 minutes this week?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -270,7 +270,7 @@ The audit is yours. If you want, we can start with the search structure and show
 # Chai Point
 **Contact:** customercare@chaipoint.com · +91 88801 41000  
 **Entity:** Mountain Trail Foods Pvt Ltd  
-**Audit:** `audits/chai-point-audit-report.pdf`  
+**Audit:** `audits/chai-point-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 8,100 workplaces, 150+ Brewing Bots, no paid B2B funnel
 
@@ -281,7 +281,7 @@ I audit paid media for Bengaluru food brands. I checked your live footprint: **5
 
 Here is the leak: the B2B side - your highest-value line - has no paid funnel. No 'book a demo' path for office admins searching for tea vending, while your Brewing Bot (real tea leaves, not premix) is a genuinely superior product to every coffee-only incumbent.
 
-Attached: a 2-page audit with 3 fixes. Worth 15 minutes?
+Attached: the 7-page Paid Media and Measurement Audit. Worth 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -329,7 +329,7 @@ The audit is yours to keep. If you want, we can start with the B2B demo funnel t
 # Cothas Coffee
 **Contact:** customercare@cothas.com  
 **Entity:** Cothas Coffee Co.  
-**Audit:** `audits/cothas-coffee-audit-report.pdf`  
+**Audit:** `audits/cothas-coffee-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit
 
@@ -340,7 +340,7 @@ I audit paid media for Bengaluru food brands. I inspected your live footprint th
 
 The gap: a cafe owner searching 'coffee vending machine', a household buying filter coffee, and someone near a CoCo outlet all land on the same destination. Three buyers, one page.
 
-Attachment: a 2-page audit with 3 fixes. Worth a short call?
+Attachment: the 7-page Paid Media and Measurement Audit. Worth a short call?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -390,7 +390,7 @@ No pressure if now is not the time. If you want, we can start with just the vend
 # Early Foods
 **Contact:** hello@earlyfoods.com · +91 8049670521  
 **Entity:** Early Foods Pvt Ltd  
-**Audit:** `audits/early-foods-audit-report.pdf`  
+**Audit:** `audits/early-foods-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 30 live ads for Early Foods - the trust gap in the first 5 seconds
 
@@ -401,7 +401,7 @@ I audit paid media for Bengaluru food brands. I checked your live footprint: **3
 
 One finding: in baby food, parents are not choosing between brands - they are weighing the risk of trying you against a known multinational. Your ads and landing path lead with product; they should lead with reassurance: age-appropriate, full ingredient list, what is NOT inside, and other parents' faces.
 
-Attached: a 2-page audit with 3 fixes. Open to 15 minutes?
+Attached: the 7-page Paid Media and Measurement Audit. Open to 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -453,7 +453,7 @@ The audit is yours. If you want to start, the UGC engine is the fastest win.
 # Licious
 **Contact:** talktous@licious.com · 1800-4190-786  
 **Entity:** Delightful Gourmet Pvt Ltd  
-**Audit:** `audits/licious-audit-report.pdf`  
+**Audit:** `audits/licious-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit
 
@@ -464,7 +464,7 @@ I run paid-media audits for food brands out of Bengaluru. Over the last few days
 
 One finding you can act on today: that live Meta ad sends Bengaluru clicks to **licious.in/store-locator**. Buyers who tapped because of 'never frozen' arrive at a city picker - one full step before they see a product or price.
 
-I have attached a 2-page audit with 3 fixes, all doable without increasing spend. Worth 15 minutes?
+I have attached the 7-page Paid Media and Measurement Audit, all doable without increasing spend. Worth 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 
@@ -516,7 +516,7 @@ If the timing is wrong, no problem - the file stays accurate for roughly a quart
 # The Baker's Dozen
 **Contact:** fresh@thebakersdozen.in · +91 9082857741  
 **Entity:** Mimansa Industries Pvt Ltd  
-**Audit:** `audits/the-baker-s-dozen-audit-report.pdf`  
+**Audit:** `audits/the-baker-s-dozen-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land
 
@@ -527,7 +527,7 @@ I run paid-media audits for food brands from Bengaluru. I inspected your live fo
 
 The leak: your paid clicks do not land on a 'where is my nearest loaf' page. For a brand in 300+ cities with quick-commerce distribution, that question is the whole conversion. The buyer asks it, does not get one-tap answer, and the aggregator keeps the relationship.
 
-Attached is a 2-page audit with 3 fixes. Open to a short call?
+Attached is the 7-page Paid Media and Measurement Audit. Open to a short call?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -577,7 +577,7 @@ The audit is yours to keep. If you want us to start, the availability page is a 
 # Third Wave Coffee
 **Contact:** orders@thirdwavecoffee.in · +91 80 47108111  
 **Entity:** Third Wave Coffee  
-**Audit:** `audits/third-wave-coffee-audit-report.pdf`  
+**Audit:** `audits/third-wave-coffee-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): Verified - zero live Google ads for Third Wave
 
@@ -588,7 +588,7 @@ I audit paid media for Bengaluru food brands. I checked Google Ads Transparency 
 
 For a brand with USD 112M raised and ~100 outlets, that means every 'coffee near me', 'cold brew delivery' and 'coffee beans online' query in your cities is answered by competitors. Local store campaigns are the cheapest walk-in channel a cafe chain can buy.
 
-I have attached a 2-page audit with 3 fixes, starting with the one I would run this month. To be clear about scope: this audit verifies Google - I have not claimed anything about your Meta inventory. Open to 15 minutes?
+I have attached the 7-page Paid Media and Measurement Audit, starting with the one I would run this month. To be clear about scope: this audit verifies Google - I have not claimed anything about your Meta inventory. Open to 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```
@@ -636,7 +636,7 @@ If it helps, the audit is yours to keep regardless of whether we work together. 
 # Frozen Bottle
 **Contact:** vipul@frozenbottle.in · 080-48669920  
 **Entity:** Munchbox Frozen Foods Pvt Ltd  
-**Audit:** `audits/frozen-bottle-audit-report.pdf`  
+**Audit:** `audits/frozen-bottle-paid-media-measurement-audit.pdf`  
 
 ## Email 1 - Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel
 
@@ -649,7 +649,7 @@ The gap: a single franchise sale is worth lakhs and the investor researches onli
 
 One small thing you can fix today: the footer links to /pages/faqs, but /pages/faq returns a 404.
 
-Attached is a 2-page audit with 3 fixes. Worth 15 minutes?
+Attached is the 7-page Paid Media and Measurement Audit. Worth 15 minutes?
 
 - Smart Pursuit, Bengaluru | 7095024220
 ```

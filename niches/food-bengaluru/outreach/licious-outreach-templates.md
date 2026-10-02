@@ -1,12 +1,12 @@
 # Licious - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/licious-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/licious-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit
 
-Hi team,<br/><br/>I run paid-media audits for food brands out of Bengaluru. Over the last few days I inspected your live ad footprint - not a guess: Google Ads Transparency shows <b>~300 creatives</b> under Delightful Gourmet Pvt Ltd, and I verified your Meta flight live in the Ad Library (Library ID 983369480870934, running since 15 Apr 2026).<br/><br/>One finding you can act on today: that live Meta ad sends Bengaluru clicks to <b>licious.in/store-locator</b>. Buyers who tapped because of 'never frozen' arrive at a city picker - one full step before they see a product or price.<br/><br/>I have attached a 2-page audit with 3 fixes, all doable without increasing spend. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220<br/><br/>P.S. The 0-4C cold-chain story is genuinely your strongest asset. It deserves to be the hero of the landing page, not just the ad.
+Hi team,<br/><br/>I run paid-media audits for food brands out of Bengaluru. Over the last few days I inspected your live ad footprint - not a guess: Google Ads Transparency shows <b>~300 creatives</b> under Delightful Gourmet Pvt Ltd, and I verified your Meta flight live in the Ad Library (Library ID 983369480870934, running since 15 Apr 2026).<br/><br/>One finding you can act on today: that live Meta ad sends Bengaluru clicks to <b>licious.in/store-locator</b>. Buyers who tapped because of 'never frozen' arrive at a city picker - one full step before they see a product or price.<br/><br/>I have attached the 7-page Paid Media and Measurement Audit, all doable without increasing spend. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220<br/><br/>P.S. The 0-4C cold-chain story is genuinely your strongest asset. It deserves to be the hero of the landing page, not just the ad.
 
 ---
 

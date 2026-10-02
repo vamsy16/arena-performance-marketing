@@ -1,12 +1,12 @@
 # Early Foods - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/early-foods-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/early-foods-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 30 live ads for Early Foods - the trust gap in the first 5 seconds
 
-Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>30 Google creatives</b> under Early Foods Pvt Ltd, plus a global storefront already live - strong setup for a clean-label brand.<br/><br/>One finding: in baby food, parents are not choosing between brands - they are weighing the risk of trying you against a known multinational. Your ads and landing path lead with product; they should lead with reassurance: age-appropriate, full ingredient list, what is NOT inside, and other parents' faces.<br/><br/>Attached: a 2-page audit with 3 fixes. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>30 Google creatives</b> under Early Foods Pvt Ltd, plus a global storefront already live - strong setup for a clean-label brand.<br/><br/>One finding: in baby food, parents are not choosing between brands - they are weighing the risk of trying you against a known multinational. Your ads and landing path lead with product; they should lead with reassurance: age-appropriate, full ingredient list, what is NOT inside, and other parents' faces.<br/><br/>Attached: the 7-page Paid Media and Measurement Audit. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

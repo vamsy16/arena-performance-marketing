@@ -1,19 +1,22 @@
 # Food / Bengaluru — Performance Audit Pack (Smart Pursuit)
 
 > Lives inside the **arena-performance-marketing** repo as the Food/Bengaluru niche (moved out of ServiceNowDocs on 02 Oct 2026).
+> Format: house **ATTRACTIVE** audit PDF (same family as the GMB/SMM/CRO template PDFs).
 
-**11 leads · 11 branded audit PDFs · 44 follow-up emails · every number verified live on 02 OCT 2026.**
+**11 leads · 11 audit PDFs · 44 follow-up emails · 1 master Excel · every fact verified live on 02 OCT 2026.**
 
-## What's in here
+## Start here
 
 | Path | What it is |
 |---|---|
-| `LEADS-INDEX.csv` | Master list: brand, website, niche, score, live Google ad count, crawled lead email, phone, entity, file paths |
-| `audits/*.pdf` | 2-page branded audit per lead (same format as the existing Smart Pursuit audits) |
-| `outreach/*-outreach-templates.md` | 4-email sequence per brand (Day 1 / 3 / 7 / 14) |
-| `ALL-EMAIL-SEQUENCES.md` | **All 44 emails in one file** — easiest place to copy from |
-| `leads/*.json` | Structured lead data (source of truth for the PDFs) |
-| `scripts/` | Generator: `build_food_leads.py` rebuilds every PDF + outreach file from the lead data |
+| **`Food-Bangalore-ALL-IN-ONE.xlsx`** | **Everything in one workbook** — 8 sheets: README, Leads, Emails (all 44), Leaks & Roadmap, You vs Competitor, Expected ROI, Audit Basis (sources), Skills Used |
+| `audits/*.pdf` | Audit per lead (7-page "Paid Media & Measurement Audit" evidence format; the earlier attractive layout is archived in `audits/_previous-attractive-format/`, the original text layout in `audits/_previous-text-format/`) |
+| `ALL-EMAIL-SEQUENCES.md` | All 44 emails in one file (4 per brand: Day 1 / 3 / 7 / 14) |
+| `outreach/*-outreach-templates.md` | Per-brand email file |
+| `leads/*.json` | Structured lead data incl. `contact_source` (where each email was crawled from) |
+| `LEADS-INDEX.csv` | Flat lead table |
+| `scripts/` | Rebuild everything: `build_attractive_audits.py` (PDFs), `build_master_excel.py` (Excel), `build_food_leads.py` (leads + text-format archive) |
+| `audits/_previous-text-format/` | The earlier 2-page text-style PDFs, kept for reference |
 
 ## The 11 leads
 
@@ -31,19 +34,24 @@
 | 10 | Milky Mist | customercare@milkymist.com | 3 | 8/10 |
 | 11 | Frozen Bottle | vipul@frozenbottle.in | 11 | 6/10 |
 
-## Data integrity rules used
+## Skills used to build each audit
 
-1. **Every ad count** comes from Google Ads Transparency, re-checked on 02 OCT 2026 (Licious + Anand Sweets re-verified the same day the PDFs were generated).
-2. **Every email** was crawled from the lead's own site/footer/help-centre (or their own published corporate page). No guessed or generic/formation addresses.
-3. **Third-party estimates are labelled as such** in the audits (e.g. company-size estimates) — sourced facts and reported figures are attributed.
-4. **What was NOT verified is stated**: the Third Wave audit says explicitly that Google is verified at zero and Meta was not checked in that pass.
-5. **Live site defects are quoted, not invented** — e.g. Akshayakalpa's footer placeholder text and Frozen Bottle's footer 404 were both captured from live HTML on 02 OCT 2026.
-6. **No duplicates** with the existing Smart Pursuit lead pool (100 leads checked — none of these 11 brands appear).
+`performance-lead-audit` orchestrating: **ads** (Google Ads Transparency + Meta Ad Library live counts, advertiser entities, destinations), **ad-creative** (formats, fatigue, refresh systems), **copywriting** (hook/angle analysis from live ad copy), **cro** (destination-path step count, trust-proof placement), **analytics + attribution** (GTM/GA4/CAPI findings from live HTML), **competitor-profiling / competitors / competitor-x-ray / funnel-spy** (category benchmark rows), **cold-email / outreach-personalizer** (the 4-email sequences), **pdf-report-generator** (the attractive PDF output).
+
+## Data integrity rules
+
+1. **Ad counts** come from Google Ads Transparency (region IN), re-checked on 02 OCT 2026 at generation time (Licious + Anand Sweets re-verified the same day).
+2. **Every email** was crawled from the lead's own site/footer/help-centre/corporate pages. `contact_source` in each lead JSON states exactly where. No guessed, generic or formation addresses.
+3. **Reporting vs estimates**: reported financials are labelled "reported"; third-party size estimates are labelled as estimates.
+4. **What was NOT verified is stated**: e.g. Third Wave's audit says Google is verified at zero and Meta was not checked in that pass; Chai Point's contact_source notes the own-site footer confirmation is still pending.
+5. **Live site defects are quoted verbatim** — Akshayakalpa's footer placeholder text and Frozen Bottle's footer 404 were captured from live HTML on 02 OCT 2026.
+6. **No duplicates** with the agency's existing 100 D2C leads or the Solar pipeline; the 11 brands are registered in `data/seen_leads.json` (day 3).
 
 ## Regenerating
 
 ```bash
 cd niches/food-bengaluru
-pip install --break-system-packages reportlab
-python3 scripts/build_food_leads.py     # rewrites leads/, audits/, outreach/
+pip install --break-system-packages reportlab openpyxl pymupdf
+python3 scripts/build_attractive_audits.py    # audits/ (attractive format)
+python3 scripts/build_master_excel.py         # Food-Bangalore-ALL-IN-ONE.xlsx
 ```

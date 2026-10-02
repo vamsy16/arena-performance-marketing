@@ -1,12 +1,12 @@
 # Milky Mist - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/milky-mist-audit-report.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/milky-mist-paid-media-measurement-audit.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 3 live Google ads for an IPO-bound dairy major
 
-Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I checked your live presence this week: Milky Mist Dairy Food Limited shows <b>3 live Google creatives</b> - while the corporate site carries a full IPO section, SEBI Reg 46 disclosures and investor pages.<br/><br/>That gap matters now: paneer, curd, ghee and cheese searches are high-intent purchase moments, and today they are being answered by Amul, Nandini and quick-commerce private labels. Before a listing, demand durability is part of the story you will be asked about.<br/><br/>Attached is a 2-page audit with 3 fixes. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I checked your live presence this week: Milky Mist Dairy Food Limited shows <b>3 live Google creatives</b> - while the corporate site carries a full IPO section, SEBI Reg 46 disclosures and investor pages.<br/><br/>That gap matters now: paneer, curd, ghee and cheese searches are high-intent purchase moments, and today they are being answered by Amul, Nandini and quick-commerce private labels. Before a listing, demand durability is part of the story you will be asked about.<br/><br/>Attached is the 7-page Paid Media and Measurement Audit. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

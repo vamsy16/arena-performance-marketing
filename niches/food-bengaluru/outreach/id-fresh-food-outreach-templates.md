@@ -1,12 +1,12 @@
 # iD Fresh Food - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/id-fresh-food-audit-report.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/id-fresh-food-paid-media-measurement-audit.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): INR 681 Cr revenue, one live Google ad - here is the audit
 
-Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I checked your live footprint this week: Google Ads Transparency shows <b>one</b> live creative for idfreshfood.com, running under Blink Digital India Pvt Ltd.<br/><br/>That is remarkable for a brand at INR 681 Cr revenue with an IPO in view - and it means every 'idli batter home delivery', 'malabar parota online' or 'preservative-free batter' search is being answered by quick-commerce and smaller D2C brands, not by you.<br/><br/>I have attached a 2-page audit with 3 fixes, including the subscription engine that would add recurring revenue before your IPO window. 15 minutes this week?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I checked your live footprint this week: Google Ads Transparency shows <b>one</b> live creative for idfreshfood.com, running under Blink Digital India Pvt Ltd.<br/><br/>That is remarkable for a brand at INR 681 Cr revenue with an IPO in view - and it means every 'idli batter home delivery', 'malabar parota online' or 'preservative-free batter' search is being answered by quick-commerce and smaller D2C brands, not by you.<br/><br/>I have attached the 7-page Paid Media and Measurement Audit, including the subscription engine that would add recurring revenue before your IPO window. 15 minutes this week?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

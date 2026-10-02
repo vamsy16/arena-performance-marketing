@@ -1,12 +1,12 @@
 # Anand Sweets - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/anand-sweets-audit-report.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/anand-sweets-paid-media-measurement-audit.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): Your ads are sending buyers to Swiggy - the Anand Sweets audit
 
-Hi team,<br/><br/>I run paid-media audits for Bengaluru food brands. I checked your live footprint: <b>58 Google creatives</b> under Anand Sweets & Savouries LLP, and Google shows you as a <b>Verified</b> advertiser - a real asset in mithai, where trust decides the order.<br/><br/>The problem: your own top banner tells every paid visitor that Bangalore delivery takes up to 3 days and sends same-day buyers to Swiggy, Zomato or Ownly. That is the exact moment - festive, urgent, gift-driven - where mithai margins live, and it is being handed to an aggregator.<br/><br/>Attached is a 2-page audit with 3 fixes. Open to a 15-minute call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I run paid-media audits for Bengaluru food brands. I checked your live footprint: <b>58 Google creatives</b> under Anand Sweets & Savouries LLP, and Google shows you as a <b>Verified</b> advertiser - a real asset in mithai, where trust decides the order.<br/><br/>The problem: your own top banner tells every paid visitor that Bangalore delivery takes up to 3 days and sends same-day buyers to Swiggy, Zomato or Ownly. That is the exact moment - festive, urgent, gift-driven - where mithai margins live, and it is being handed to an aggregator.<br/><br/>Attached is the 7-page Paid Media and Measurement Audit. Open to a 15-minute call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

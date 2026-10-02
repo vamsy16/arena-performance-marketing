@@ -1,12 +1,12 @@
 # Third Wave Coffee - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/third-wave-coffee-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/third-wave-coffee-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): Verified - zero live Google ads for Third Wave
 
-Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked Google Ads Transparency for your domain this week and found <b>zero</b> live creatives - verified, on the Google side.<br/><br/>For a brand with USD 112M raised and ~100 outlets, that means every 'coffee near me', 'cold brew delivery' and 'coffee beans online' query in your cities is answered by competitors. Local store campaigns are the cheapest walk-in channel a cafe chain can buy.<br/><br/>I have attached a 2-page audit with 3 fixes, starting with the one I would run this month. To be clear about scope: this audit verifies Google - I have not claimed anything about your Meta inventory. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked Google Ads Transparency for your domain this week and found <b>zero</b> live creatives - verified, on the Google side.<br/><br/>For a brand with USD 112M raised and ~100 outlets, that means every 'coffee near me', 'cold brew delivery' and 'coffee beans online' query in your cities is answered by competitors. Local store campaigns are the cheapest walk-in channel a cafe chain can buy.<br/><br/>I have attached the 7-page Paid Media and Measurement Audit, starting with the one I would run this month. To be clear about scope: this audit verifies Google - I have not claimed anything about your Meta inventory. Open to 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

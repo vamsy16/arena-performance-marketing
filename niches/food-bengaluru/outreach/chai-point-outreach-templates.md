@@ -1,12 +1,12 @@
 # Chai Point - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/chai-point-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/chai-point-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 8,100 workplaces, 150+ Brewing Bots, no paid B2B funnel
 
-Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>56 Google creatives</b> under Mountain Trail Foods, a genuinely modern site (GA4 G-EN77D2S0YH), and the numbers you publish are strong - 150+ stores, 900,000 cups a day, 8,100 workplace clients.<br/><br/>Here is the leak: the B2B side - your highest-value line - has no paid funnel. No 'book a demo' path for office admins searching for tea vending, while your Brewing Bot (real tea leaves, not premix) is a genuinely superior product to every coffee-only incumbent.<br/><br/>Attached: a 2-page audit with 3 fixes. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>56 Google creatives</b> under Mountain Trail Foods, a genuinely modern site (GA4 G-EN77D2S0YH), and the numbers you publish are strong - 150+ stores, 900,000 cups a day, 8,100 workplace clients.<br/><br/>Here is the leak: the B2B side - your highest-value line - has no paid funnel. No 'book a demo' path for office admins searching for tea vending, while your Brewing Bot (real tea leaves, not premix) is a genuinely superior product to every coffee-only incumbent.<br/><br/>Attached: the 7-page Paid Media and Measurement Audit. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

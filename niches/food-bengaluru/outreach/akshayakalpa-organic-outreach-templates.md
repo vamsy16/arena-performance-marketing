@@ -1,12 +1,12 @@
 # Akshayakalpa Organic - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/akshayakalpa-organic-audit-report.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/akshayakalpa-organic-paid-media-measurement-audit.pdf` (Lead score 8/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): ~400 live ads - and a California placeholder address on the landing page
 
-Hi team,<br/><br/>I audit paid media for food brands from Bengaluru. Your footprint is the biggest I found in this category: <b>~400 live Google creatives</b> under Akshayakalpa Farms and Foods Pvt Ltd. The product story behind it is world-class - 4C farm chilling, 24-36 hours to doorstep vs the 72-96 hour industry norm, APEDA certified.<br/><br/>One thing you can check in 30 seconds: the footer of akshayakalpa.org currently contains template placeholder text - '0123.456.789 - 2 Queen Street, California, USA'. Your paid traffic lands on that page. It is a small fix and a direct trust cost while it is live.<br/><br/>Attached is a 2-page audit with 3 fixes, including what I would do with ~400 creatives to make them learn faster than they spend. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220<br/><br/>P.S. I am writing to your published support address because the site does not list a marketing or partner contact - that is itself one of the findings.
+Hi team,<br/><br/>I audit paid media for food brands from Bengaluru. Your footprint is the biggest I found in this category: <b>~400 live Google creatives</b> under Akshayakalpa Farms and Foods Pvt Ltd. The product story behind it is world-class - 4C farm chilling, 24-36 hours to doorstep vs the 72-96 hour industry norm, APEDA certified.<br/><br/>One thing you can check in 30 seconds: the Contact Us page at akshayakalpa.org/contact-us currently contains template placeholder text - '0123.456.789 - 2 Queen Street, California, USA'. Your paid traffic lands on that page. It is a small fix and a direct trust cost while it is live.<br/><br/>Attached is the 7-page Paid Media and Measurement Audit, including what I would do with ~400 creatives to make them learn faster than they spend. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220<br/><br/>P.S. I am writing to your published support address because the site does not list a marketing or partner contact - that is itself one of the findings.
 
 ---
 

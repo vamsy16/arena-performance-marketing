@@ -1,12 +1,12 @@
 # Frozen Bottle - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/frozen-bottle-audit-report.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/frozen-bottle-paid-media-measurement-audit.pdf` (Lead score 6/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel
 
-Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>11 Google creatives</b> under Munchbox Frozen Foods Pvt Ltd, plus two brands (Frozen Bottle and Lubov Patisserie) and a franchise model with city and master-franchise pages.<br/><br/>The gap: a single franchise sale is worth lakhs and the investor researches online first - but there is no structured paid funnel for franchise enquiries, and no store-radius campaigns for the outlets. Both are cheap to run and easy to measure.<br/><br/>One small thing you can fix today: the footer links to /pages/faqs, but /pages/faq returns a 404.<br/><br/>Attached is a 2-page audit with 3 fixes. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>11 Google creatives</b> under Munchbox Frozen Foods Pvt Ltd, plus two brands (Frozen Bottle and Lubov Patisserie) and a franchise model with city and master-franchise pages.<br/><br/>The gap: a single franchise sale is worth lakhs and the investor researches online first - but there is no structured paid funnel for franchise enquiries, and no store-radius campaigns for the outlets. Both are cheap to run and easy to measure.<br/><br/>One small thing you can fix today: the footer links to /pages/faqs, but /pages/faq returns a 404.<br/><br/>Attached is the 7-page Paid Media and Measurement Audit. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

@@ -1,12 +1,12 @@
 # Cothas Coffee - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/cothas-coffee-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/cothas-coffee-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit
 
-Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I inspected your live footprint this week: <b>77 Google creatives</b> running under Freeflow Creative Services, including Local store ads like your HMT Road Mathikere store. Genuinely good work - most heritage brands your age run zero paid.<br/><br/>The gap: a cafe owner searching 'coffee vending machine', a household buying filter coffee, and someone near a CoCo outlet all land on the same destination. Three buyers, one page.<br/><br/>Attachment: a 2-page audit with 3 fixes. Worth a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I inspected your live footprint this week: <b>77 Google creatives</b> running under Freeflow Creative Services, including Local store ads like your HMT Road Mathikere store. Genuinely good work - most heritage brands your age run zero paid.<br/><br/>The gap: a cafe owner searching 'coffee vending machine', a household buying filter coffee, and someone near a CoCo outlet all land on the same destination. Three buyers, one page.<br/><br/>Attachment: the 7-page Paid Media and Measurement Audit. Worth a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 

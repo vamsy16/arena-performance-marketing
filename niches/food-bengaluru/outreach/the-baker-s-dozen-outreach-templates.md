@@ -1,12 +1,12 @@
 # The Baker's Dozen - Outreach Templates (Smart Pursuit BD team)
 
-> Companion to `audits/the-baker-s-dozen-audit-report.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
+> Companion to `audits/the-baker-s-dozen-paid-media-measurement-audit.pdf` (Lead score 7/10). Do NOT attach to the audit PDF - internal BD templates only.
 
 ---
 
 ### Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land
 
-Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I inspected your live footprint: <b>35 Google creatives</b> under Mimansa Industries Pvt Ltd - and 1M+ sourdoughs baked, which is the strongest trust proof in Indian sourdough.<br/><br/>The leak: your paid clicks do not land on a 'where is my nearest loaf' page. For a brand in 300+ cities with quick-commerce distribution, that question is the whole conversion. The buyer asks it, does not get one-tap answer, and the aggregator keeps the relationship.<br/><br/>Attached is a 2-page audit with 3 fixes. Open to a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
+Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I inspected your live footprint: <b>35 Google creatives</b> under Mimansa Industries Pvt Ltd - and 1M+ sourdoughs baked, which is the strongest trust proof in Indian sourdough.<br/><br/>The leak: your paid clicks do not land on a 'where is my nearest loaf' page. For a brand in 300+ cities with quick-commerce distribution, that question is the whole conversion. The buyer asks it, does not get one-tap answer, and the aggregator keeps the relationship.<br/><br/>Attached is the 7-page Paid Media and Measurement Audit. Open to a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220
 
 ---
 
