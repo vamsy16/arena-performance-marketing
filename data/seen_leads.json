@@ -599,9 +599,75 @@
       "day": 2,
       "website": "true-elements.com",
       "niche": "F&B/Nutrition"
+    },
+    "Licious": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "licious.in",
+      "niche": "Food/Bengaluru/D2C Meat"
+    },
+    "Cothas Coffee": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "cothas.com",
+      "niche": "Food/Bengaluru/Coffee Vending"
+    },
+    "Anand Sweets": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "anandsweets.in",
+      "niche": "Food/Bengaluru/Sweets & Gifting"
+    },
+    "Chai Point": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "chaipoint.com",
+      "niche": "Food/Bengaluru/Chai Retail"
+    },
+    "The Baker's Dozen": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "thebakersdozen.in",
+      "niche": "Food/Bengaluru/Bakery"
+    },
+    "Early Foods": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "earlyfoods.com",
+      "niche": "Food/Bengaluru/Baby Food"
+    },
+    "iD Fresh Food": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "idfreshfood.com",
+      "niche": "Food/Bengaluru/Fresh Batter"
+    },
+    "Third Wave Coffee": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "thirdwavecoffeeroasters.com",
+      "niche": "Food/Bengaluru/Specialty Coffee"
+    },
+    "Akshayakalpa Organic": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "akshayakalpa.org",
+      "niche": "Food/Bengaluru/Organic Dairy"
+    },
+    "Milky Mist": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "milkymist.com",
+      "niche": "Food/Bengaluru/Dairy FMCG"
+    },
+    "Frozen Bottle": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "frozenbottle.in",
+      "niche": "Food/Bengaluru/Desserts & Franchise"
     }
   },
-  "total_found": 100,
+  "total_found": 111,
   "daily_log": [
     {
       "day": 1,
@@ -717,6 +783,26 @@
         "Melorra",
         "Mokobara",
         "True Elements"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-10-02",
+      "niche": "Food/Bengaluru",
+      "count": 11,
+      "total_so_far": 111,
+      "brands": [
+        "Licious",
+        "Cothas Coffee",
+        "Anand Sweets",
+        "Chai Point",
+        "The Baker's Dozen",
+        "Early Foods",
+        "iD Fresh Food",
+        "Third Wave Coffee",
+        "Akshayakalpa Organic",
+        "Milky Mist",
+        "Frozen Bottle"
       ]
     }
   ]
