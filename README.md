@@ -106,6 +106,23 @@ Read: [`SOLAR-VERTICAL.md`](SOLAR-VERTICAL.md) (start here) · [`niches/solar/SO
 
 ---
 
+## Food / Bengaluru niche (11 verified leads, Oct 2 2026)
+
+Isolated food & beverage pipeline for Bengaluru — real crawled emails, live Google Ads Transparency
+counts, branded audit PDFs and 4-email sequences per brand.
+
+| | Food / Bengaluru pipeline |
+|---|---|
+| Leads | 11 (no overlap with the D2C or Solar pipelines) |
+| Audits / outreach | [`niches/food-bengaluru/audits/`](niches/food-bengaluru/audits/), [`niches/food-bengaluru/outreach/`](niches/food-bengaluru/outreach/) |
+| All emails in one file | [`niches/food-bengaluru/ALL-EMAIL-SEQUENCES.md`](niches/food-bengaluru/ALL-EMAIL-SEQUENCES.md) (44 emails) |
+| Lead table | [`niches/food-bengaluru/LEADS-INDEX.csv`](niches/food-bengaluru/LEADS-INDEX.csv) |
+| Regenerate | `python3 niches/food-bengaluru/scripts/build_food_leads.py` |
+
+Read: [`niches/food-bengaluru/README.md`](niches/food-bengaluru/README.md) (data-integrity rules + lead table).
+
+---
+
 ## Installation
 
 ### Option 1: Claude Code / Cursor / Codex (Recommended)

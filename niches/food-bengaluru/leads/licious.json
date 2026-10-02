@@ -1,0 +1,182 @@
+{
+  "brand": "Licious",
+  "website": "licious.in",
+  "instagram": "@licious_foods",
+  "contact": {
+    "email": "talktous@licious.com",
+    "phone": "1800-4190-786",
+    "entity": "Delightful Gourmet Pvt Ltd",
+    "address": "Maruti Infotech Center, Amarjyothi Layout, Domlur, Bengaluru 560071"
+  },
+  "niche": "D2C Meat & Seafood",
+  "score": 7,
+  "ads_active": 300,
+  "headline": "INR 795 Cr revenue - and paid clicks land on a store-locator. That single step is the leak.",
+  "stats": [
+    [
+      "~300",
+      "Google creatives live"
+    ],
+    [
+      "Paid live",
+      "Meta + Google"
+    ],
+    [
+      "INR 795 Cr",
+      "FY25 revenue"
+    ],
+    [
+      "Bengaluru",
+      "Core market"
+    ]
+  ],
+  "ad_intro": "Licious runs one of the largest paid footprints we have audited in Indian food D2C: ~300 live Google Ads creatives under Delightful Gourmet Pvt Ltd, plus a Meta presence we verified live (Library ID 983369480870934, running since 15 Apr 2026). The product story is excellent - 'caught in small boats', 'never frozen', '0-4C from source to store'. The gap is where the money lands: the live Bengaluru Meta ad routes traffic to licious.in/store-locator, and Google spend is spread across a very wide creative base - while FY25 closed at INR 795 Cr revenue with a INR 218.3 Cr net loss. The three fixes below make the existing spend convert harder; they do not ask for a bigger budget.",
+  "ad_intelligence": [
+    [
+      "Google Ads (verified)",
+      "~300 live creatives under Delightful Gourmet Pvt Ltd - brand, category and Local store ads (we captured e.g. 'Licious Neo Town Electronic City' store-level ads)."
+    ],
+    [
+      "Meta / Facebook (verified live)",
+      "Active ads confirmed in Meta Ad Library - Library ID 983369480870934, first seen 15 Apr 2026. This is a sustained flight, not a test."
+    ],
+    [
+      "Meta copy angle",
+      "Cold-chain trust stack: 'Your favourite Fish & Seafood', 'Caught in small boats', 'No added chemicals', 'Never frozen', 'Maintained at 0-4C from source to store' - plus a Kannada-language hook for Bengaluru."
+    ],
+    [
+      "Live destination",
+      "licious.in/store-locator?city_name=Bengaluru&city_id=1 - the click lands on a city/store picker, one full step before any product or price."
+    ],
+    [
+      "Market context",
+      "FY25 revenue INR 795 Cr, net loss INR 218.3 Cr; ~USD 490M raised; IPO reportedly deferred to FY27-28. Efficiency is the board-level conversation right now."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      7,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      5,
+      "#F59E0B"
+    ],
+    "Copy & Hook Strength": [
+      8,
+      "#10B981"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      6,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      6,
+      "#F59E0B"
+    ]
+  },
+  "findings": [
+    "<b>Destination leak (highest cost):</b> the verified live Meta ad for Bengaluru sends clicks to the store-locator. Every extra step between ad and cart costs conversion - and this is the single most expensive step you can add to a food ad, because freshness intent decays in seconds. Fix: deep-link to the SKU page with city pre-selected, keep the locator as a secondary link.",
+    "<b>Spend spread:</b> ~300 creatives including a large agency-run Local store-ad layer (Freeflow is not the buyer here - Delightful Gourmet is the verified advertiser). With this volume, budget is being thinned across many assets and geos instead of concentrated on the SKU/geo clusters that carry the cold-chain promise best.",
+    "<b>Promise not carried into the landing:</b> 'Never frozen' and '0-4C' are your strongest assets - they should be the hero of the destination page, not just the ad. The locator page does not carry them.",
+    "<b>Measurement risk:</b> with Meta + Google + Local store ads running together, if CAPI / Enhanced Conversions are not clean, Smart Bidding optimises on partial signal - you pay more per order without a visible reason."
+  ],
+  "competitors": [
+    [
+      "FreshtoHome / Zappfresh",
+      "Category landing pages with same-day delivery proof above the fold.",
+      "Deep-link ad traffic to category pages (fish / chicken / mutton) with delivery-slot proof, not a locator."
+    ],
+    [
+      "Country Delight (adjacent subscription model)",
+      "Subscription-first funnel; retention mechanics pull users back weekly.",
+      "Licious already offers subscription - surface it inside the ad landing path and in retargeting."
+    ],
+    [
+      "Quick-commerce meat counters",
+      "Set a 10-minute delivery expectation inside the app.",
+      "Do not fight on speed. Win on cold-chain trust and source story - make that the landing hero."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - CRO: Route meta clicks to the product page, not the locator",
+      "Rewrite the 5 highest-spend Bengaluru Meta ads to land on the SKU page with city_id=1 pre-set and the locator as a secondary CTA. Keep UTMs identical so the comparison stays clean for 14 days.",
+      "#EF4444",
+      "#FEF2F2"
+    ],
+    [
+      "WIN 2 - Creative: Systemise the cold-chain proof",
+      "Take the assets that already work ('small boats', 'never frozen') and build a repeatable 3-format system: 15s cold-chain proof Reel, 15s source-story Reel, 15s offer card. Refresh weekly from one shoot day instead of ad-hoc creatives.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - Tracking: Meta CAPI + Enhanced Conversions",
+      "Audit server-side events end to end, dedupe browser/server, and pass order value. If Smart Bidding sees full signal, the same spend buys more carts - before any creative change.",
+      "#10B981",
+      "#ECFDF5"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (live)",
+      "After Wins (est.)",
+      "Impact"
+    ],
+    [
+      "Ad-to-cart steps",
+      "Ad -> store-locator -> product",
+      "Ad -> product page (city preset)",
+      "Removes the costliest drop-off"
+    ],
+    [
+      "Landing conversion",
+      "Trust hooks proven, weak destination",
+      "Same hooks, product-page destination",
+      "+20-35% conversion on same spend"
+    ],
+    [
+      "Creative refresh rate",
+      "High volume, ad-hoc",
+      "Weekly 3-format system",
+      "Lower fatigue, lower CPA"
+    ],
+    [
+      "Signal quality",
+      "Multi-channel, unclear dedupe",
+      "Clean CAPI + Enhanced Conversions",
+      "Better Smart Bidding efficiency"
+    ]
+  ],
+  "sources": [
+    "Google Ads Transparency (region IN): ~300 live creatives under Delightful Gourmet Pvt Ltd, incl. Local store ads (re-verified 02 Oct 2026).",
+    "Meta Ad Library: Library ID 983369480870934 live since 15 Apr 2026; destination licious.in/store-locator (Bengaluru) verified.",
+    "licious.in: contact + store-locator pages (talktous@licious.com, 1800-4190-786, Domlur, Bengaluru 560071).",
+    "Public FY25 results coverage: revenue INR 795 Cr, net loss INR 218.3 Cr; funding ~USD 490M; IPO timing reported."
+  ],
+  "outreach": [
+    [
+      "Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit",
+      "Hi team,<br/><br/>I run paid-media audits for food brands out of Bengaluru. Over the last few days I inspected your live ad footprint - not a guess: Google Ads Transparency shows <b>~300 creatives</b> under Delightful Gourmet Pvt Ltd, and I verified your Meta flight live in the Ad Library (Library ID 983369480870934, running since 15 Apr 2026).<br/><br/>One finding you can act on today: that live Meta ad sends Bengaluru clicks to <b>licious.in/store-locator</b>. Buyers who tapped because of 'never frozen' arrive at a city picker - one full step before they see a product or price.<br/><br/>I have attached a 2-page audit with 3 fixes, all doable without increasing spend. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220<br/><br/>P.S. The 0-4C cold-chain story is genuinely your strongest asset. It deserves to be the hero of the landing page, not just the ad."
+    ],
+    [
+      "Email 2 (Day 3): The cheapest fix in the Licious audit",
+      "Hi team,<br/><br/>Following up on the audit. If you only do one thing this week: take your 5 biggest-spend Bengaluru Meta ads and repoint them from the store-locator to the SKU page with city_id=1 pre-set.<br/><br/>It needs no new creative, no new budget - and it removes the single most expensive step between the tap and the cart. Keep the locator as the secondary CTA.<br/><br/>Happy to send the exact URL pattern and the UTM setup we use so your comparison stays clean for 14 days.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 3 (Day 7): Why your Google spend is thinning out",
+      "Hi team,<br/><br/>Second observation from the audit: with ~300 Google creatives live - including a large Local store-ad layer - budget gets spread thinly across assets and geos. Concentrating spend on the SKU/geo clusters that match your cold-chain promise typically beats adding creatives.<br/><br/>We build this exact consolidation + creative-refresh system for food brands: one shoot day a week, three formats, weekly rotation. Your 'small boats' and 'never frozen' angles already do the heavy lifting - they just need a system behind them.<br/><br/>I can walk you through the model in 15 minutes.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 4 (Day 14): Closing the file on Licious",
+      "Hi team,<br/><br/>Last note from me. The audit attached on Day 1 is yours to keep - the three fixes are: (1) deep-link Meta clicks to product pages, (2) concentrate Google spend on top SKU/geo clusters, (3) audit CAPI + Enhanced Conversions so Smart Bidding sees full signal.<br/><br/>If the timing is wrong, no problem - the file stays accurate for roughly a quarter. If you want us to implement any of it, we can start with the tracking audit this week.<br/><br/>- Smart Pursuit | 7095024220"
+    ]
+  ],
+  "verified_on": "02 OCT 2026"
+}

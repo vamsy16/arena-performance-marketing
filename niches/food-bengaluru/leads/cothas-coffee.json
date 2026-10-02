@@ -1,0 +1,181 @@
+{
+  "brand": "Cothas Coffee",
+  "website": "cothas.com",
+  "instagram": "@cothascoffee",
+  "contact": {
+    "email": "customercare@cothas.com",
+    "phone": "",
+    "entity": "Cothas Coffee Co.",
+    "address": "Jigani Industrial Area, Anekal Taluk, Bengaluru 562105"
+  },
+  "niche": "Coffee Roasting & Vending",
+  "score": 7,
+  "ads_active": 77,
+  "headline": "A 1948 coffee house running 77 Google ads - through an agency, with no local landing pages.",
+  "stats": [
+    [
+      "77",
+      "Google creatives live"
+    ],
+    [
+      "Since 1948",
+      "Brand heritage"
+    ],
+    [
+      "Agency-run",
+      "Freeflow Creative Services"
+    ],
+    [
+      "Bengaluru",
+      "Home market"
+    ]
+  ],
+  "ad_intro": "Cothas is one of the few legacy Bengaluru coffee brands actually investing in paid media: 77 live Google Ads creatives, verified under Freeflow Creative Services India Pvt Ltd - i.e. the account is agency-managed. The inventory includes Local store ads (we captured 'Cothas Coffee HMT Road Mathikere'), which is exactly the right instinct for a brand whose growth now runs on vending machines, CoCo outlets and e-commerce. The leak is that the paid clicks land on a general site while the strongest demand signals - 'coffee vending machine', 'CoCo outlet near me', 'filter coffee subscription' - deserve their own destination pages.",
+  "ad_intelligence": [
+    [
+      "Google Ads (verified)",
+      "77 live creatives; advertiser of record is Freeflow Creative Services India Pvt Ltd (agency-managed account)."
+    ],
+    [
+      "Local store ads",
+      "Confirmed - e.g. 'Cothas Coffee HMT Road Mathikere'. Store-level ads are live, which is rare for a legacy F&B brand."
+    ],
+    [
+      "Brand system",
+      "Brand red #cb0024 carried consistently across site; Google Tag Manager GTM-K6SZV8J installed; site runs a modern stack on cothas.com."
+    ],
+    [
+      "Product lines in play",
+      "Filter coffee / instant / vending machines / CoCo outlets / snacks - a portfolio that needs separate ad-to-page paths, not one destination."
+    ],
+    [
+      "Market context",
+      "Founded 1948, manufacturing at Jigani Industrial Area (Anekal Taluk, Bengaluru); estimates put the business at roughly 200 people - a serious mid-size regional player."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      6,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      4,
+      "#EF4444"
+    ],
+    "Copy & Hook Strength": [
+      6,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      5,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      4,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>One destination for three different buyers:</b> a cafe owner looking for a vending machine, a household buying filter coffee, and a CoCo outlet visitor are three different funnels. With 77 creatives live, the ad copy is already segmented - the landing pages are not.",
+    "<b>Vending is your B2B goldmine:</b> 'coffee vending machine' is a high-intent, high-LTV query with a long decision cycle. It needs a dedicated page with ROI proof (cups/day, payback), a lead form, and retargeting - not a generic products page.",
+    "<b>Local store ads without local proof:</b> the HMT Road Mathikere local ad is the right move; it should land on a store page with timings, directions and one-tap call - and be measured per store.",
+    "<b>No UGC around the ritual:</b> filter coffee is the most social drink in South India. The account shows little user-generated 'my morning filter coffee' content; this is free creative volume you are not collecting."
+  ],
+  "competitors": [
+    [
+      "Blue Tokai / Third Wave (specialty)",
+      "Strong D2C brand storytelling and subscription mechanics.",
+      "Cothas wins on heritage + vending scale - say it in the ad and on the page."
+    ],
+    [
+      "Narasu's / regional filter coffee brands",
+      "Deep retail distribution and price-led messaging.",
+      "Own 'since 1948' authenticity and brew-quality proof in paid social."
+    ],
+    [
+      "B2B vending operators",
+      "Direct sales teams with ROI calculators.",
+      "Publish a vending ROI calculator page and retarget every download."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Landing pages: one page per buyer",
+      "Split the paid traffic into three destinations: Household (filter coffee subscription), B2B (vending machine enquiry with ROI calculator + form), and Store (CoCo outlet locator with timings and directions).",
+      "#EF4444",
+      "#FEF2F2"
+    ],
+    [
+      "WIN 2 - Vending lead engine",
+      "Turn the vending line into a lead machine: a dedicated page, a 10-field enquiry form, WhatsApp handoff, and a 3-touch retargeting sequence (case study -> ROI -> offer). B2B vending deals are worth many D2C orders each.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - UGC ritual campaign",
+      "Run a monthly #MyCothasFilter contest collecting customer photos/videos; the best 10 become paid creatives. Zero production cost, real social proof, endless creative supply.",
+      "#10B981",
+      "#ECFDF5"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (live)",
+      "After Wins (est.)",
+      "Impact"
+    ],
+    [
+      "Vending enquiries",
+      "Traffic goes to general pages",
+      "Dedicated ROI page + form",
+      "Higher lead capture, better lead quality"
+    ],
+    [
+      "Local ad conversion",
+      "Local ad -> generic site",
+      "Local ad -> store page",
+      "More calls and walk-ins per store"
+    ],
+    [
+      "Creative supply",
+      "Agency-produced only",
+      "+10 UGC creatives / month",
+      "Lower cost per creative, higher trust"
+    ],
+    [
+      "Retargeting",
+      "Shallow, brand-level",
+      "Segment-level (household vs B2B)",
+      "More repeat orders, more B2B pipeline"
+    ]
+  ],
+  "sources": [
+    "Google Ads Transparency (region IN): 77 live creatives; advertiser Freeflow Creative Services India Pvt Ltd; Local ad 'Cothas Coffee HMT Road Mathikere' captured.",
+    "cothas.com + /pages/contact-us: customercare@cothas.com; brand token #cb0024; GTM-K6SZV8J; vending and CoCo outlet lines.",
+    "Company profile data (third-party): founded 1948; Jigani Industrial Area, Anekal Taluk, Bengaluru address; ~200 employees (estimate)."
+  ],
+  "outreach": [
+    [
+      "Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit",
+      "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I inspected your live footprint this week: <b>77 Google creatives</b> running under Freeflow Creative Services, including Local store ads like your HMT Road Mathikere store. Genuinely good work - most heritage brands your age run zero paid.<br/><br/>The gap: a cafe owner searching 'coffee vending machine', a household buying filter coffee, and someone near a CoCo outlet all land on the same destination. Three buyers, one page.<br/><br/>Attachment: a 2-page audit with 3 fixes. Worth a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220"
+    ],
+    [
+      "Email 2 (Day 3): Your vending line is a B2B lead engine waiting to happen",
+      "Hi team,<br/><br/>Second thought from the audit. 'Coffee vending machine' search intent is high-value and almost nobody in Indian coffee serves it with a proper page: ROI proof (cups/day, payback period), a short enquiry form, and WhatsApp handoff.<br/><br/>One vending contract can be worth hundreds of D2C orders. With 77 creatives already live, you have the traffic - it just needs a destination built for that buyer.<br/><br/>I can share the page structure we use for F&B B2B funnels if useful.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 3 (Day 7): Free creatives: your customers' morning filter coffee",
+      "Hi team,<br/><br/>Last idea from the audit. Filter coffee is the most photographed ritual in South India, and your account barely uses customer content. A monthly #MyCothasFilter collection - 10 best photos/videos become paid creatives - gives you fresh creative every month at zero production cost, with real social proof.<br/><br/>For a brand 'since 1948', customer ritual content is the strongest credibility asset you have.<br/><br/>Happy to map the full 30-day plan.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 4 (Day 14): Closing the file on Cothas",
+      "Hi team,<br/><br/>Wrapping up: the audit attached on Day 1 stands on three fixes - (1) split traffic into household / B2B vending / store destinations, (2) build the vending lead engine, (3) start a UGC ritual campaign.<br/><br/>No pressure if now is not the time. If you want, we can start with just the vending page and the enquiry flow this month.<br/><br/>- Smart Pursuit | 7095024220"
+    ]
+  ],
+  "verified_on": "02 OCT 2026"
+}

@@ -1,0 +1,186 @@
+{
+  "brand": "Frozen Bottle",
+  "website": "frozenbottle.com",
+  "instagram": "@frozen_bottle",
+  "niche": "Desserts, Milkshakes & Franchise Retail",
+  "score": 6,
+  "ads_active": 11,
+  "headline": "11 Google ads for a franchise chain - while every outlet's local demand goes unadvertised.",
+  "stats": [
+    [
+      "11",
+      "Google creatives live"
+    ],
+    [
+      "Lubov",
+      "Second brand in group"
+    ],
+    [
+      "Bengaluru",
+      "HQ, Domlur"
+    ],
+    [
+      "Franchise",
+      "Master + city model"
+    ]
+  ],
+  "contact": {
+    "email": "vipul@frozenbottle.in",
+    "phone": "080-48669920",
+    "entity": "Munchbox Frozen Foods Pvt Ltd",
+    "address": "35, K.R. Colony, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru 560071"
+  },
+  "ad_intro": "Frozen Bottle (Munchbox Frozen Foods Pvt Ltd) is a Bengaluru-born dessert chain - milkshakes, sundae jars, boba, bubble tea, Belgian waffles - that scaled through a city plus master-franchise model, and it runs two brands: Frozen Bottle and Lubov Patisserie. Verified Google inventory: 11 live creatives. For a chain whose growth depends on franchise enquiries and outlet footfall, the paid engine is barely switched on: no store-radius campaigns, no structured franchise-enquiry funnel, and a second brand (Lubov) with no visible paid support at all.",
+  "ad_intelligence": [
+    [
+      "Google Ads (verified)",
+      "11 live creatives; advertiser Munchbox Frozen Foods Pvt Ltd."
+    ],
+    [
+      "Business model",
+      "Company-owned + franchise outlets, with dedicated franchise pages including 'Franchise by city' and 'Master franchise in India', plus corporate food booking - i.e. two revenue lines: consumer footfall and franchise sales."
+    ],
+    [
+      "Two brands, one engine",
+      "Frozen Bottle plus Lubov Patisserie (lubov.in) - a premium patisserie brand with no visible paid activity in this pass."
+    ],
+    [
+      "HQ / contacts published",
+      "35, K.R. Colony, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru 560071; franchise@frozenbottle.in / +91 9108131660 / +91 6366870312; partnership: vipul@frozenbottle.in; customer care 080-48669920, Mon-Fri 10am-6pm; cake orders +91 9108130460."
+    ],
+    [
+      "Live site defect captured",
+      "Footer links to frozenbottle.com/pages/faqs while /pages/faq returns a 404 - a broken link buyers hit from the footer today."
+    ],
+    [
+      "Category context",
+      "Dessert cafes compete on impulse and proximity; franchise brands compete for investor enquiries. Both demand types are addressable with cheap, local, always-on campaigns."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      5,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      5,
+      "#F59E0B"
+    ],
+    "Copy & Hook Strength": [
+      5,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      4,
+      "#EF4444"
+    ],
+    "Retargeting Depth": [
+      3,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>Franchise enquiries are a high-value, unadvertised funnel:</b> a single franchise sale is worth lakhs, and the buyer researches online first. With 11 creatives and no dedicated franchise campaign, that demand is largely organic - it should be a structured Google + Meta funnel with a numbers pack and a booking flow.",
+    "<b>No store-radius layer:</b> dessert cafes win on proximity and impulse. Each outlet needs a 3-5 km radius campaign with an offer and per-store measurement - starting with the highest-performing Bengaluru stores.",
+    "<b>Lubov Patisserie gets no paid support:</b> a premium sub-brand with its own site, no visible paid activity. It needs its own identity campaign (occasion cakes, corporate orders) rather than being folded into Frozen Bottle.",
+    "<b>Broken footer link live:</b> the footer points to /pages/faqs while /pages/faq returns a 404 - small, but it is the kind of defect that erodes trust at the exact moment a franchise prospect is digging deeper.",
+    "<b>Corporate food booking is buried:</b> offices order desserts for events - a dedicated B2B page + campaign is a low-cost, high-AOV line that currently depends on the visitor finding the page unaided."
+  ],
+  "competitors": [
+    [
+      "National dessert chains",
+      "Bigger outlet counts and stronger app presence.",
+      "Win on local: per-store radius campaigns and franchise-prospect funnels."
+    ],
+    [
+      "Independent cafes & patisseries",
+      "Hyperlocal loyalty and Instagram presence.",
+      "Systematise what they do manually: offers, UGC and reminders per outlet."
+    ],
+    [
+      "Other franchise brands",
+      "Aggressive franchise-marketing funnels with ROI maths published.",
+      "Publish unit economics + run paid franchise campaigns; that is how franchise sales scale."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Franchise enquiry funnel",
+      "A 'Franchise with us' campaign: landing page with investment range, ROI illustration, support model and a booking form - plus Google search for 'milkshake franchise', 'dessert franchise opportunity' and Meta retargeting for page viewers.",
+      "#EF4444",
+      "#FEF2F2"
+    ],
+    [
+      "WIN 2 - Store-radius campaigns",
+      "Give the top 10 outlets 3-5 km radius campaigns with a store-specific offer and per-store tracking. This is the cheapest way to lift footfall and to prove the model before scaling.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - Give Lubov its own ad identity",
+      "Run Lubov Patisserie as a separate brand: occasion cakes, corporate orders and premium gifting, with its own creatives, landing pages and retargeting. Two brands, two engines - not one.",
+      "#10B981",
+      "#ECFDF5"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (live)",
+      "After Wins (est.)",
+      "Impact"
+    ],
+    [
+      "Franchise enquiries",
+      "Organic only",
+      "Paid funnel + ROI pack + retargeting",
+      "More qualified investor conversations"
+    ],
+    [
+      "Outlet footfall",
+      "No local ad structure",
+      "Radius campaigns on top 10 stores",
+      "Measurable per-store lift"
+    ],
+    [
+      "Lubov revenue",
+      "No paid activity",
+      "Own brand campaigns",
+      "New demand line at low cost"
+    ],
+    [
+      "B2B orders",
+      "Page buried, unaided",
+      "Campaign + dedicated landing",
+      "Higher AOV corporate orders"
+    ]
+  ],
+  "sources": [
+    "Google Ads Transparency (region IN): 11 live creatives; advertiser Munchbox Frozen Foods Pvt Ltd.",
+    "frozenbottle.com (home, franchise, footer): HQ Domlur Bengaluru 560071; franchise@frozenbottle.in; vipul@frozenbottle.in (collaboration & partnership); customer care 080-48669920; cake orders +91 9108130460; franchise-by-city and master-franchise pages; Lubov Patisserie (lubov.in).",
+    "Live defect: footer links /pages/faqs while /pages/faq returns a 404 (both checked 02 Oct 2026)."
+  ],
+  "outreach": [
+    [
+      "Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel",
+      "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. I checked your live footprint: <b>11 Google creatives</b> under Munchbox Frozen Foods Pvt Ltd, plus two brands (Frozen Bottle and Lubov Patisserie) and a franchise model with city and master-franchise pages.<br/><br/>The gap: a single franchise sale is worth lakhs and the investor researches online first - but there is no structured paid funnel for franchise enquiries, and no store-radius campaigns for the outlets. Both are cheap to run and easy to measure.<br/><br/>One small thing you can fix today: the footer links to /pages/faqs, but /pages/faq returns a 404.<br/><br/>Attached is a 2-page audit with 3 fixes. Worth 15 minutes?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220"
+    ],
+    [
+      "Email 2 (Day 3): The franchise funnel maths",
+      "Hi team,<br/><br/>Following up on the audit. Compare the value of one franchise sale against the cost of a search click on 'milkshake franchise India' - the funnel pays for itself at a fraction of a single deal.<br/><br/>The structure: a franchise landing page with investment range, ROI illustration and support model, Google search on franchise-intent terms, and Meta retargeting for everyone who viewed the page. Add a booking form and you have a measurable pipeline.<br/><br/>Happy to share the page outline we use.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 3 (Day 7): Lubov deserves its own ads",
+      "Hi team,<br/><br/>Third finding from the audit. Lubov Patisserie has its own site but no visible paid activity - it is being carried by Frozen Bottle's brand rather than having its own demand engine.<br/><br/>Premium patisserie has obvious angles: occasion cakes, corporate orders and gifting. Separate creatives, separate landing pages, separate retargeting. Two brands should mean two engines.<br/><br/>I can sketch the first month's creative plan if useful.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 4 (Day 14): Closing the file on Frozen Bottle",
+      "Hi team,<br/><br/>Final note: the audit stands on three fixes - (1) build the franchise enquiry funnel, (2) store-radius campaigns for the top 10 outlets with per-store measurement, (3) give Lubov its own ad identity.<br/><br/>The audit is yours to keep. If you want to start, the franchise funnel is the highest-value build.<br/><br/>- Smart Pursuit | 7095024220"
+    ]
+  ],
+  "verified_on": "02 OCT 2026"
+}

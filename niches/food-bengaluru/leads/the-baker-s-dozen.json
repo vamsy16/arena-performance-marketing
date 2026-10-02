@@ -1,0 +1,180 @@
+{
+  "brand": "The Baker's Dozen",
+  "website": "thebakersdozen.in",
+  "instagram": "@thebakersdozen",
+  "contact": {
+    "email": "fresh@thebakersdozen.in",
+    "phone": "+91 9082857741",
+    "entity": "Mimansa Industries Pvt Ltd",
+    "address": "Ellisbridge, Ahmedabad 380006 (grievance officer: Neel Shah)"
+  },
+  "niche": "Sourdough Bakery & Retail",
+  "score": 7,
+  "ads_active": 35,
+  "headline": "35 Google ads, 1M+ sourdoughs - but the ad clicks have no bakery destination built for them.",
+  "stats": [
+    [
+      "35",
+      "Google creatives live"
+    ],
+    [
+      "300+",
+      "Cities served"
+    ],
+    [
+      "2000+",
+      "Retail touchpoints"
+    ],
+    [
+      "1M+",
+      "Sourdoughs baked"
+    ]
+  ],
+  "ad_intro": "The Baker's Dozen is a rare case in Indian bakery: a brand that scaled sourdough from a Bengaluru kitchen to 300+ cities and 2,000+ retail touchpoints, bakes 1M+ sourdoughs, and still runs paid media properly - 35 live Google creatives under Mimansa Industries Pvt Ltd. The opportunity is that the paid traffic is buying a brand that sells in 300+ cities and on quick-commerce apps, so the destination must answer 'where is my nearest loaf?' in one tap. It currently does not.",
+  "ad_intelligence": [
+    [
+      "Google Ads (verified)",
+      "35 live creatives; advertiser Mimansa Industries Pvt Ltd."
+    ],
+    [
+      "Distribution reality",
+      "300+ cities, 2,000+ touchpoints and quick-commerce channels (Blinkit / Zepto / Instamart class), plus own D2C storefront - meaning a large share of demand is 'buy now, nearest place'."
+    ],
+    [
+      "Brand assets",
+      "13+ years of sourdough credibility, 1M+ sourdoughs baked - exceptional trust proof that no competitor can copy quickly."
+    ],
+    [
+      "Contact path on site",
+      "fresh@thebakersdozen.in / +91 9082857741; grievance officer Neel Shah (registered entity Mimansa Industries Pvt Ltd, Ellisbridge, Ahmedabad 380006)."
+    ],
+    [
+      "Category context",
+      "Indian bakery + sourdough is in a premiumisation wave driven by quick-commerce. Shelf 2.0 brands win by owning search for 'sourdough near me' and 'fresh bread delivery' in their cities."
+    ]
+  ],
+  "scores": {
+    "Creative Variety": [
+      6,
+      "#F59E0B"
+    ],
+    "UGC & Social Proof": [
+      5,
+      "#F59E0B"
+    ],
+    "Copy & Hook Strength": [
+      6,
+      "#F59E0B"
+    ],
+    "Landing Page CRO": [
+      4,
+      "#EF4444"
+    ],
+    "Tracking & CAPI": [
+      5,
+      "#F59E0B"
+    ],
+    "Retargeting Depth": [
+      4,
+      "#EF4444"
+    ]
+  },
+  "findings": [
+    "<b>No 'nearest loaf' destination:</b> the paid click does not land on a store/availability page for the searcher's city. For a brand in 300+ cities, that is the single biggest conversion leak - the buyer's question is 'where do I get it today', and the answer takes too many taps.",
+    "<b>Quick-commerce traffic is not captured:</b> shoppers search 'sourdough Blinkit / bread delivery near me'. Unless you own those search results and route them to the right channel with tracking, the aggregator keeps the customer relationship - and the repeat purchase.",
+    "<b>1M+ sourdoughs is an unused ad asset:</b> that is a decade of trust compressed into one line. It should be in the ad hook, the landing page hero, and the retargeting creative - it is the strongest proof point in the entire Indian sourdough market.",
+    "<b>Retargeting and email capture:</b> no visible retargeting for product viewers or store-locator users; bakery is a weekly-repeat category where a 3-touch flow is cheap and effective."
+  ],
+  "competitors": [
+    [
+      "Le 15 Patisserie / premium bakery chains",
+      "Cafe experience + strong Instagram brand.",
+      "BD has national distribution - own 'delivered fresh' against cafe-only brands."
+    ],
+    [
+      "Quick-commerce private labels",
+      "Cheapest price, fastest delivery, top of app search.",
+      "Own the brand search and the 'sourdough near me' query so buyers ask for you by name."
+    ],
+    [
+      "Local artisanal bakeries per city",
+      "Hyperlocal freshness and price.",
+      "Win with 'baked in Bengaluru, shipped 300+ cities' proof and consistency."
+    ]
+  ],
+  "wins": [
+    [
+      "WIN 1 - Availability-first landing",
+      "Build a 'Find your loaf' page: enter pin code -> shows nearest store + quick-commerce options + home delivery ETA. Route all paid traffic there with city/pin pre-set from the ad. This is the single highest-leverage change.",
+      "#EF4444",
+      "#FEF2F2"
+    ],
+    [
+      "WIN 2 - Prove 1M+ sourdoughs everywhere",
+      "Turn the 1M+ milestone into the ad hook, landing hero, and retargeting creative (counter, customer reviews, bake-day photos). Add a 20-second 'inside the bake' Reel as the top-of-funnel creative.",
+      "#F59E0B",
+      "#FFFBEB"
+    ],
+    [
+      "WIN 3 - Weekly repeat engine",
+      "Bakery is a weekly habit: retarget every product viewer and store-locator user with a 3-touch flow (taste proof -> bundle offer -> subscription), and capture email/WhatsApp at the availability page.",
+      "#10B981",
+      "#ECFDF5"
+    ]
+  ],
+  "impact": [
+    [
+      "Metric",
+      "Current (live)",
+      "After Wins (est.)",
+      "Impact"
+    ],
+    [
+      "Ad-to-availability steps",
+      "Multiple taps to check stock",
+      "Pin-code availability page",
+      "Higher conversion on same traffic"
+    ],
+    [
+      "Brand search capture",
+      "Partial",
+      "Own 'sourdough near me' per city",
+      "Cheaper, higher-intent traffic"
+    ],
+    [
+      "Repeat purchase",
+      "No visible flow",
+      "3-touch repeat + subscription",
+      "Higher LTV per customer"
+    ],
+    [
+      "Proof usage",
+      "1M+ sourdoughs under-used",
+      "In hook, hero and retargeting",
+      "Higher CTR and trust at equal spend"
+    ]
+  ],
+  "sources": [
+    "Google Ads Transparency (region IN): 35 live creatives; advertiser Mimansa Industries Pvt Ltd.",
+    "thebakersdozen.in + /contact-us: fresh@thebakersdozen.in, +91 9082857741, grievance officer Neel Shah; brand stats 13+ years, 300+ cities, 2,000+ touchpoints, 1M+ sourdoughs; quick-commerce channels live."
+  ],
+  "outreach": [
+    [
+      "Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land",
+      "Hi team,<br/><br/>I run paid-media audits for food brands from Bengaluru. I inspected your live footprint: <b>35 Google creatives</b> under Mimansa Industries Pvt Ltd - and 1M+ sourdoughs baked, which is the strongest trust proof in Indian sourdough.<br/><br/>The leak: your paid clicks do not land on a 'where is my nearest loaf' page. For a brand in 300+ cities with quick-commerce distribution, that question is the whole conversion. The buyer asks it, does not get one-tap answer, and the aggregator keeps the relationship.<br/><br/>Attached is a 2-page audit with 3 fixes. Open to a short call?<br/><br/>- Smart Pursuit, Bengaluru | 7095024220"
+    ],
+    [
+      "Email 2 (Day 3): The 'Find your loaf' page",
+      "Hi team,<br/><br/>The one-page fix from the audit: a pin-code availability page that shows - in this order - nearest store, quick-commerce options, and home-delivery ETA. Pre-set the pin from the ad so the buyer lands on an answer, not a homepage.<br/><br/>Everything else (creative, retargeting) amplifies this page. It is also the best email/WhatsApp capture point you have, in a weekly-repeat category.<br/><br/>I can share the wireframe we would use.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 3 (Day 7): 1M sourdoughs is a paid-media asset",
+      "Hi team,<br/><br/>Quick idea from the audit. '1M+ sourdoughs baked' is stronger than any discount you can offer - it is proof. Put it in the ad hook, the landing hero, and the retargeting creative, and add a 20-second 'inside the bake' Reel at the top of the funnel.<br/><br/>Bakery buyers are buying consistency and craft. You have both, and you have receipts.<br/><br/>Happy to mock up three creatives around the milestone.<br/><br/>- Smart Pursuit | 7095024220"
+    ],
+    [
+      "Email 4 (Day 14): Closing the file on The Baker's Dozen",
+      "Hi team,<br/><br/>Final note: the audit stands on three fixes - (1) pin-code availability landing page for all paid traffic, (2) put the 1M+ sourdough proof into hook/hero/retargeting, (3) build the weekly repeat flow with email/WhatsApp capture.<br/><br/>The audit is yours to keep. If you want us to start, the availability page is a one-week build.<br/><br/>- Smart Pursuit | 7095024220"
+    ]
+  ],
+  "verified_on": "02 OCT 2026"
+}
