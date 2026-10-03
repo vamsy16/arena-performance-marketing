@@ -1,0 +1,25 @@
+HTTP/2 301 
+age: 0
+date: Sat, 03 Oct 2026 03:04:16 GMT
+location: https://www.brikoven.com/privacy-policy
+server: Squarespace
+set-cookie: crumb=BbUZr/y5EGXgZmI3Zjg3ZWUyMWE0NjAxY2M3Mzc3ZTllOTliMTRl;Secure;Path=/
+strict-transport-security: max-age=0
+x-contextid: 4aIvtliH/ovOXFW3G
+content-length: 0
+
+HTTP/2 404 
+age: 0
+content-encoding: gzip
+content-type: text/html;charset=utf-8
+date: Sat, 03 Oct 2026 03:04:16 GMT
+etag: W/"99a8ae3592407859cf984c7e586209d3"
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+server: Squarespace
+set-cookie: crumb=BWExSwCmvCsfYzI2ZTRlODY1YjdhNmE3YmVjMGU2MmMwZmJlZDRj;Secure;Path=/
+strict-transport-security: max-age=0
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-contextid: DcRkV9YV/UafeQ3tk
+content-length: 18017
+

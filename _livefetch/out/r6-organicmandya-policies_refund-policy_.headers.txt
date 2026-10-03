@@ -1,0 +1,40 @@
+HTTP/2 103 
+link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; crossorigin; rel=preconnect, <//organicmandya.com/cdn/shop/t/203/assets/style.css?v=26121809875021083351788973937>; as=style; rel=preload, <//organicmandya.com/cdn/shop/t/203/assets/product_card_height_override.css?v=70190175564646754401788169015>; as=style; rel=preload, <//organicmandya.com/cdn/shopifycloud/storefront/assets/storefront/policy-0e156355.css>; as=style; crossorigin; integrity=sha256-GMqAlzvTzb8alrxTLK1RvtjcJtzdJN2F4H81HSM1TeE=; rel=preload, <//organicmandya.com/cdn/shop/t/203/assets/video-gallery.css?v=164124849516602167731788169016>; as=style; rel=preload, <//organicmandya.com/cdn/shop/t/203/assets/a11y.css?v=133652211437967716771788171904>; as=style; rel=preload
+
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:07:58 GMT
+content-type: text/html; charset=utf-8
+content-length: 122825
+x-download-options: noopen
+product-filtering-backend: bitset_roaring
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:07:58 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_u5M4AAEA7kSP_RfNIdaBgOw3AaG00H7C6YF6X8O8-h_9iKASfWZvpdg1L6o_vGbohP2_NfagMuIGliiD0oNWpgg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_u5S_AAEARBkqWSolgtVo6YLif7yBhfDa5XHvJjvWFVKO8Dzv68c_AvWYwDfy_epGUVogT_VHnDnpmXiA50BpoI4:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_u5S_AAEAzs_wSlxmbDF9MSWBYuIp-8_z3kPEIQupFerQy5ByrcWYhZfMbJv1AkvmueRqLH01vCUEmNo7rBDaqrU:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//organicmandya.com/cdn/shop/t/203/assets/style.css?v=26121809875021083351788973937>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/product_card_height_override.css?v=70190175564646754401788169015>; as="style"; rel="preload", <//organicmandya.com/cdn/shopifycloud/storefront/assets/storefront/policy-0e156355.css>; as="style"; rel="preload"; crossorigin; integrity="sha256-GMqAlzvTzb8alrxTLK1RvtjcJtzdJN2F4H81HSM1TeE=", <//organicmandya.com/cdn/shop/t/203/assets/video-gallery.css?v=164124849516602167731788169016>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/a11y.css?v=133652211437967716771788171904>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:86540058946:PolicyDetailsController:815daa7cd2db9d63d64728974423b582:07aa57b047152f03d074fd5a486eb9c2"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 391
+shopify-complexity-score-v2: 391
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=398;desc="gc:41", db;dur=48, db_async;dur=76.004, render;dur=255, asn;desc="8075", edge;desc="ORD", country;desc="US", theme;desc="192649265474", pageType;desc="policy", servedBy;desc="v5xm", requestID;desc="9fb77024-4ae4-43eb-b09e-198e912ef021-1790996878", _y;desc="7d62de68-f62e-4a73-b6be-66d8b947ab3d", _s;desc="1f866080-303c-4528-a64f-2d99cee87a7c", _cmp;desc="3.AMPS_USIA_f_t_VV35Y-MgTdmve3zlT5S9wA", _cta;desc="1", _ye;desc="1822554478", _se;desc="1790998678", compressionLevel;desc="5", compressionTime;dur=12.451, earlyhints
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KUzI8Rspfc8jx6rB0b2aJrdCq3NhQNdWSKYveRebY4606fVFR3k7AR69uSBduzyJfkXxKpBkopHmX8rvaJf0khTKb0gB8MbWcPHagBTs%2FE8G1XRYT4amF9MOGXk4UuiRiORw"}]}
+x-content-type-options: nosniff
+x-request-id: 9fb77024-4ae4-43eb-b09e-198e912ef021-1790996878
+x-permitted-cross-domain-policies: none
+cf-ray: a448bd580af0cc3a-ORD
+

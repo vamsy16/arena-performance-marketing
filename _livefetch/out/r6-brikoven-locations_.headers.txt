@@ -1,0 +1,25 @@
+HTTP/2 301 
+age: 0
+date: Sat, 03 Oct 2026 03:08:18 GMT
+location: https://www.brikoven.com/locations
+server: Squarespace
+set-cookie: crumb=BVdP5z2S7WNJYmYzMTdkMzBiMzhmZTc5N2VjNTNjYWM0YTY3YmU2;Secure;Path=/
+strict-transport-security: max-age=0
+x-contextid: 6Iydixuf/PLyPHBB1
+content-length: 0
+
+HTTP/2 404 
+age: 0
+content-encoding: gzip
+content-type: text/html;charset=utf-8
+date: Sat, 03 Oct 2026 03:08:18 GMT
+etag: W/"99a8ae3592407859cf984c7e586209d3"
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+server: Squarespace
+set-cookie: crumb=BYhc0SJxhV0aNjEyOGVhMmE5ZWE2MmIyMWI5MWI5YWFhYjg1M2Mx;Secure;Path=/
+strict-transport-security: max-age=0
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-contextid: xomyrxKS/BhEfdZEm
+content-length: 18017
+

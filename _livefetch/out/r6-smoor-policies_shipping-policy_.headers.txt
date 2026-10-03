@@ -1,0 +1,36 @@
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:07:24 GMT
+content-type: text/html; charset=utf-8
+content-length: 72190
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:07:24 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_uxDoAAEAxelMx6T-Zb-UOsk0raZFwD4sjB3uNLTEPxhrtYjh7jOBdmfBMUEQ9kOx6qnRd_nYy5V2Ytnq8343z10:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_uxFuAAEAXDn6TF3NdbJC2B3y0zjAYtjrRAIQxgJc72kwCPWYRSRgVGjthAEqybbHs27nU3fFA7j7UJc7dBrxc7k:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_uxFuAAEAAkHPQjcghPJl18VEe4L3VyxNRmaG4AyJZNuRsYwAZ72aWDVVC_fb28QVkwunOUijzYGlsl_FdYbMoJo:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//smoor.in/cdn/shopifycloud/storefront/assets/storefront/policy-0e156355.css>; as="style"; rel="preload"; crossorigin; integrity="sha256-GMqAlzvTzb8alrxTLK1RvtjcJtzdJN2F4H81HSM1TeE=", <//smoor.in/cdn/shop/t/72/assets/theme.css?v=81297561608311438551790574131>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:31914492041:PolicyDetailsController:f30abd39466d3bafb248bb23b20a3b6f:dfdb4690c1ca8dc6e1beaef38a6bb570"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 145
+shopify-complexity-score-v2: 145
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=149;desc="gc:1", db;dur=48, db_async;dur=7.354, render;dur=57, asn;desc="8075", edge;desc="ORD", country;desc="US", theme;desc="143850143881", pageType;desc="policy", servedBy;desc="zhtl", requestID;desc="f21c2742-640e-43ea-bb72-34116c6352dc-1790996844", _y;desc="3db2a269-eb6b-4a61-a16d-0f6f79649b7a", _s;desc="65756918-8f99-426a-9e8f-94ae1a87ccf1", _cmp;desc="3.AMPS_USIA_f_t_-qMjzTSHSTuZ9-lqOV*MOQ", _cta;desc="1", _ye;desc="1822554444", _se;desc="1790998644", compressionLevel;desc="5", compressionTime;dur=8.266
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nbD%2FxDYS8bTDt3lnYKWdDWRUB2h4k6zU%2Fr0ThKpVYpIgjqv9zqs2yvBC7Znn7624tF02StiUot4ZNpFnV5fKU%2B1BPCY4gexYTHDNK5wvBSt6R5AV86HDfhkq"}]}
+x-content-type-options: nosniff
+x-request-id: f21c2742-640e-43ea-bb72-34116c6352dc-1790996844
+x-permitted-cross-domain-policies: none
+cf-ray: a448bc877852d258-ORD
+

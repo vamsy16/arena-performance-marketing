@@ -1,0 +1,36 @@
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:07:45 GMT
+content-type: text/html; charset=utf-8
+content-length: 73788
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:07:45 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_u2E0AAEAqz9gtHfy440txSlswZYFQJR1Nob_H6Fxbjc7CTreNl-EMT-8IHoQ2NXgwondpCEp1l5Ejygm4oPU-lg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_u2HLAAEA0XGD2bbgjIvFCHOv2pirnFgS-EHFdWzGY9bP8Bg8mDrJmRah3Ssp6AqvllroMATuGreuX290MaGHGpo:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_u2HLAAEAteHZ9TrpNLVi8MhlgElMIZvfWdPIaHZ2GxCoPdSvD7sgfMpT6sxt2W4XiyqYoa68tD_xIns-maSAeik:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://css.twik.io>; rel="preconnect", <https://cdn.twik.io>; rel="preconnect", <https://css.twik.io/630b5f7bb6a28.css>; as="style"; rel="preload", <https://cdn.twik.io/tcs.js>; as="script"; rel="preload", <//milletamma.com/cdn/shop/t/35/assets/pre_theme.min.css?v=157057538522272204041773723876>; as="style"; rel="preload", <//milletamma.com/cdn/shop/t/35/assets/theme.css?enable_css_minification=1&amp;v=73965771410247857631781775843>; as="style"; rel="preload", <//milletamma.com/cdn/shopifycloud/storefront/assets/storefront/policy-0e156355.css>; as="style"; rel="preload"; crossorigin; integrity="sha256-GMqAlzvTzb8alrxTLK1RvtjcJtzdJN2F4H81HSM1TeE=", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:60115058873:PolicyDetailsController:6981fd0cc68f71eb589b477e48efc2e4:e66b8409ecf6cb33345c93f2e3f7efb5"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 160
+shopify-complexity-score-v2: 160
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=167;desc="gc:3", db;dur=22, db_async;dur=18.929, render;dur=43, asn;desc="8075", edge;desc="MSP", country;desc="US", theme;desc="160245252338", pageType;desc="policy", servedBy;desc="2n94", requestID;desc="2de6887c-a157-4589-a299-27831fbacb0b-1790996865", _y;desc="491c2669-7f02-4ed8-bc1a-48c7180b128d", _s;desc="2a4edc2e-c8ae-40b6-b42b-4d49a7a6a726", _cmp;desc="3.AMPS_USIA_f_t_x4QfkqnWS4-nXK4p3EZ6jg", _cta;desc="1", _ye;desc="1822554465", _se;desc="1790998665", compressionLevel;desc="5", compressionTime;dur=10.29
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DH%2BOYO%2BHG7HND6Bx5FTPyfc4zkcF95g2NWuKGynceJPeaCOuElw%2FMQy6H7J9ExFcKWsXBwZ4lGNAQNe58PyD2MNOXkpkQuqBIhPaAELzbikaOgjRRXu94RjaooUzd1e2"}]}
+x-content-type-options: nosniff
+x-request-id: 2de6887c-a157-4589-a299-27831fbacb0b-1790996865
+x-permitted-cross-domain-policies: none
+cf-ray: a448bd07de048bdc-MSP
+

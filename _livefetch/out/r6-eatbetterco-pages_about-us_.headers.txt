@@ -1,0 +1,37 @@
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:08:10 GMT
+content-type: text/html; charset=utf-8
+content-length: 64577
+x-download-options: noopen
+product-filtering-backend: bitset_roaring
+cf-cache-status: DYNAMIC
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://fonts.googleapis.com>; rel="preconnect", <https://cdn.jsdelivr.net>; rel="preconnect", <https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap>; as="style"; rel="preload", <https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css>; as="style"; rel="preload", <https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js>; as="script"; rel="preload", <//eatbetterco.com/cdn/shop/t/40/assets/theme.css?v=59511232072922104211781031835>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:27256062025:NotFoundController:b90ba5f7eeb86a0a8e5d3622561835d9:5fa8dab5d56963a0a049df3df27437a0"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 224
+shopify-complexity-score-v2: 224
+set-cookie: _shopify_essential=:AaD_u8QUAAEASrKk4FkMAxj1EYaZa3wzJigtC2aLVapgYItJXMLULl-B-nU-b9uTOC1hTz3S3zKUpE7TEvkE_ZGoXl0:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_u8SUAAEA55Fv8lBViYKIgtuuLKn9gKvLKf3aFwinGxuL_F11humpGFBOSbAySrhkpzZ4585J45rV9V5G6x6uAx0:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_u8SVAAEA6GCRZVpTx8iFdr6-oyi2kKV8xL0m9Zbml_64l44Q_5rQCnCjemVVmyyd1EaUdeMsb8Y8EFaHkS0OO-w:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+powered-by: Shopify
+server-timing: processing;dur=137;desc="gc:21", db;dur=28, db_async;dur=10.65, render;dur=41, asn;desc="8075", edge;desc="MSP", country;desc="US", theme;desc="187160625469", pageType;desc="404", servedBy;desc="m2x4", requestID;desc="fdb687e9-69d6-44c0-a980-2de740263aa3-1790996890", _y;desc="4be57927-f43d-4b95-9c73-6c776cf813d6", _s;desc="e8a10a0b-9fdd-4c30-8649-ce981020d2d5", _cmp;desc="3.AMPS_USIA_f_t_NHlbEuraT3KvX*YOWYHUkg", _cta;desc="1", _ye;desc="1822554490", _se;desc="1790998690", compressionLevel;desc="5", compressionTime;dur=9.216
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BdQVcS90wDqEhycbkhKPOuLpwHbt0ZNg2D1BuwYqTYvs96SjiAl7GSJJ2u5YsSjU5uFE8qudyBU9hm0C%2Bhm3hLsU77BTBQv52tC3EHreqS5m%2F%2F0rNS63lY%2FvN3kkEnVIoQ%3D%3D"}]}
+x-content-type-options: nosniff
+x-request-id: fdb687e9-69d6-44c0-a980-2de740263aa3-1790996890
+x-permitted-cross-domain-policies: none
+cf-ray: a448bda61e76a1f5-MSP
+

@@ -1,0 +1,37 @@
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:08:07 GMT
+content-type: text/html; charset=utf-8
+content-length: 74094
+x-download-options: noopen
+product-filtering-backend: bitset_roaring
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:08:07 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_u7XOAAEAXh5ySv5RC6xKOjhpQ8V69suxd49WYXvZUaK6PGUVyHSt6ZdeQQuZ_5yHF0wYsiVS7O4WMsmEa7jhN6o:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_u7aUAAEATZB4JWFaNDgeA6N0gsmc3DZxErGEyAF6YdSZ2N7zI3VlMM4GEJQDLneDzkbkFgdukRz0pbfER-neLTE:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_u7aUAAEAzuVDD7y4f8rygV01fomq01FzRvv9wuzb5TFrpEbl4MfgpalJmPRcQHAuBE7JO0f2y6qI66KBfR9GBCg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//pureandsure.in/cdn/shop/t/24/assets/material-design-iconic-font.min.css?v=160207582424537633721788191985>; as="style"; rel="preload", <//pureandsure.in/cdn/shop/t/24/assets/icon_fonts.css?v=5540287712280128441788191985>; as="style"; rel="preload", <//pureandsure.in/cdn/shop/t/24/assets/css-novstyle.css?v=136137544261312731581788191985>; as="style"; rel="preload", <//pureandsure.in/cdn/shop/t/24/assets/jquery.3.6.0.min.js?v=14044491599898008241788191985>; as="script"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:65241251995:CollectionDetailsController:2613e311058cc382776918434ea9903c:1bde34d2d09f3cc516f3ca2f56c081e5"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 208
+shopify-complexity-score-v2: 208
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=216;desc="gc:2", db;dur=44, db_async;dur=50.681, render;dur=80, asn;desc="8075", edge;desc="MSP", country;desc="US", theme;desc="158306009243", pageType;desc="collection", servedBy;desc="6ct9", requestID;desc="ea7f42d1-3c29-44db-a302-85c499fed9e9-1790996886", _y;desc="e3f88830-6d4d-43ff-a747-1d2f4fc06552", _s;desc="e6459b89-58aa-4c90-8206-7817404bb429", _cmp;desc="3.AMPS_USIA_f_t_DVS9*nVVTju8HLfyDKVCNQ", _cta;desc="1", _ye;desc="1822554487", _se;desc="1790998687", compressionLevel;desc="5", compressionTime;dur=12.812
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1grrknrs3SkcQIM5cDcXI0BriU7BGgib2UXK7QWUwwlnpH7T1fp0Z6CZeGM1O6aQ1HcAo%2BkOAPpoTefR4HtJsj38LixI76Ws8iWl6Swxq1IBxzit%2B4sBFVDpfNNNhdiu"}]}
+x-content-type-options: nosniff
+x-request-id: ea7f42d1-3c29-44db-a302-85c499fed9e9-1790996886
+x-permitted-cross-domain-policies: none
+cf-ray: a448bd8f3b8fff48-MSP
+
