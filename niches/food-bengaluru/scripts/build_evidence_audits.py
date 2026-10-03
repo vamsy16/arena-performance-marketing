@@ -52,7 +52,7 @@ def derive(lead):
 
     lead["coverage"] = [
         ("Google creative inventory", f"MEASURED — {_num(google)}", GOOG_SRC + ", " + D),
-        ("Meta ad inventory", ("MEASURED — verified ad by ad" if meta and ("verified" in meta.lower() or "started" in meta.lower())
+        ("Meta ad inventory", ("NOT MEASURED" if meta and meta.strip().upper().startswith("NOT MEASURED") else "MEASURED — verified ad by ad" if meta and ("verified" in meta.lower() or "started" in meta.lower())
                                else ("MEASURED — " + _num(meta)) if meta else "NOT MEASURED"),
          META_SRC + ", " + D if meta else "no inventory returned for the brand term on the crawl date"),
         ("Measurement tags", ("MEASURED — " + (_short(tags))) if "unconfirmed" not in tags.lower() and "not measured" not in tags.lower() and "not performed" not in tags.lower()

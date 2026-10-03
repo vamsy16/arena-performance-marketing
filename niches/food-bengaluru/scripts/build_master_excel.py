@@ -13,8 +13,13 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 sys.path.insert(0, str(HERE))
 from audit_pdf_food import _slug
-from leads_attractive_block import ATTRACTIVE
-from evidence_data import E as EVIDENCE, CRAWL_DATE
+from leads_attractive_block import ATTRACTIVE as _ATTRACTIVE1
+from batch2_attractive import ATTRACTIVE2
+from evidence_data import E as _EVIDENCE1, CRAWL_DATE
+from batch2_evidence import E2 as _EVIDENCE2, CRAWL_DATE as CRAWL_DATE2
+
+ATTRACTIVE = {**_ATTRACTIVE1, **ATTRACTIVE2}
+EVIDENCE = {**_EVIDENCE1, **_EVIDENCE2}
 from build_evidence_audits import derive, _row
 from build_verify_guide import ROWS as VERIFY_ROWS, NOT_VERIFIABLE
 
@@ -54,17 +59,17 @@ def main():
         ["SMART PURSUIT — FOOD / BENGALURU AUDIT PACK", ""],
         ["Everything in this file is verified live data. Nothing is simulated.", ""],
         ["", ""],
-        ["Date of live verification", "02 OCT 2026"],
+        ["Dates of live verification", "02 OCT 2026 (first eleven leads) · 03 OCT 2026 (ten leads added on 3 October 2026)"],
         ["Leads", f"{len(leads)} brands (no duplicates with the agency's existing 100 leads or the Solar pipeline)"],
-        ["Audit PDFs", f"audits/<brand>-paid-media-measurement-audit.pdf — 7-page Paid Media &amp; Measurement Audit: cover metrics, contents+method, live ad account, severity-ranked findings with the raw measurement quoted, evidence register, opportunity score /20, qualification, effort-ordered next steps"],
+        ["Audit PDFs", f"audits/<brand>-paid-media-measurement-audit.pdf — 5–6-page Paid Media &amp; Measurement Audit: cover metrics, contents+method, live ad account, severity-ranked findings with the raw measurement quoted, evidence register, opportunity score /20, qualification, effort-ordered next steps"],
         ["Emails", f"{sum(len(l['outreach']) for l in leads)} emails — 4 per brand — see the 'Emails' sheet"],
         ["Skills used per audit", "performance-lead-audit orchestrating: ads, ad-creative, copywriting, cro, analytics/attribution, competitor-profiling, cold-email, pdf-report-generator"],
         ["", ""],
         ["HOW THE DATA WAS VERIFIED", ""],
-        ["Ad counts", "Google Ads Transparency (region IN), re-checked at generation time on 02 OCT 2026"],
+        ["Ad counts", "Google Ads Transparency (region IN), re-checked at generation time: 02 OCT 2026 for the first eleven leads, 03 OCT 2026 for the ten added"],
         ["Meta ads", "Meta Ad Library — verified live for Akshayakalpa (4 to 5 creatives, running since 19 May 2026, library IDs recorded) and Licious (Library ID 983369480870934, ≈550 live); other brands returned no inventory and are reported as not measured, never as zero"],
-        ["Emails", "Crawled from each brand's own website / help centre / corporate pages — no guessed, generic or formation addresses"],
-        ["Site/tech facts", "Live HTTP headers + HTML captured 02 OCT 2026 (GTM/GA4/Ads/pixel IDs, platform, redirects, defects quoted verbatim)"],
+        ["Emails", "Crawled from each brand's own website / help centre / corporate pages — no guessed, generic or formation addresses. Each lead JSON records the exact page in its contact_source field"],
+        ["Site/tech facts", "Live HTTP headers + HTML captured 02 and 03 OCT 2026 (GTM/GA4/Ads/pixel IDs, platform, redirects, defects quoted verbatim)"],
         ["Financials/market data", "Public coverage, labelled as reported — third-party estimates marked as estimates"],
         ["", ""],
         ["INTEGRITY RULES", ""],
@@ -144,6 +149,9 @@ def main():
     for l in leads:
         b = ATTRACTIVE.get(_slug(l["brand"]), {})
         for r in b.get("roi", []): ws.append([l["brand"], *r])
+    ws.append(["— (note)", "No ROI projection for the ten leads added on 3 October 2026",
+               "Every value in those audits is measured; fixes are stated as actions, never as forecasts.",
+               "", ""])
     style_header(ws); autosize(ws, [20,26,34,40,50])
     for row in ws.iter_rows(min_row=2):
         for c in row: c.alignment = WRAP; c.border = THIN
@@ -223,7 +231,7 @@ def main():
             continue
         d = derive(dict(lead))
         for surf, status, meth in d["coverage"]:
-            ws.append([l["brand"], surf, status, meth, CRAWL_DATE])
+            ws.append([l["brand"], surf, status, meth, CRAWL_DATE2 if slug in _EVIDENCE2 else CRAWL_DATE])
     style_header(ws); autosize(ws, [20,30,30,62,14])
     for row in ws.iter_rows(min_row=2):
         for c in row: c.alignment = WRAP; c.border = THIN

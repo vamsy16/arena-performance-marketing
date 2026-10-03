@@ -1,9 +1,0 @@
-HTTP/2 403 
-content-length: 481
-cache-control: no-cache
-x-fb-rd: 1
-content-type: text/html; charset=utf-8
-access-control-allow-origin: *
-proxy-status: http_request_denied; e_proxy="AcRCKelQ1TsSwadA-j3p8YMydSQTg_END-BrHnL9DXt4K0uiIDjvDu8NQuhx-G8Ga1p0BGFOlggjhkQ"; e_fb_twtaskhandle="AcTCWZidEtOV5KMHRZJGLy3s-y_q1vtdvKeiNVW8x1hHulhpw_j0zpOYMDmIRbs_BELS69dUt2i1Ls1V16Q6avfXDcWeFOUERUk"; e_isproxyerr="AcRWUd3wHeleyEh28L2B5VIAY6x6B_dzERBqN4FaxnkfKjYAyaiOOS8YA0T7vg"; e_fb_zone="AcROWxKpq1FIDKY5a1pk742ldBAfgqIFGI-0_PQU36z6zw_F84fWa3QJMzjbrw"; e_clientaddr="AcTym17v4yRU5IRHY79GaX5YV30ybPqbNIbymfFZkJdvNuUviQUuGA1Vte-PfqypnYtgFzsMCKaWSp17"; e_fb_vipaddr="AcSRxTVbDbMSUL-gB3MdiD82KDfIkMFWqYHjD8v1u9wESxXSrcQTZH5h1TqnYuSQeH6GERz0"
-date: Sat, 03 Oct 2026 03:05:05 GMT
-

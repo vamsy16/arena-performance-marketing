@@ -1,0 +1,207 @@
+{
+ "brand": "Sid's Farm",
+ "website": "sidsfarm.com",
+ "instagram": "",
+ "contact": {
+  "email": "wecare@sidsfarm.com",
+  "phone": "",
+  "entity": "Sids Farm Private Limited",
+  "address": "Hyderabad, Telangana (serves Bengaluru)"
+ },
+ "contact_source": "Crawled from sidsfarm.com (cart and collection pages) on 03 Oct 2026; the address on the privacy-policy and terms pages is in Hyderabad 500085, and the site's location selector lists Bangalore.",
+ "niche": "Farm-Fresh Dairy Subscription",
+ "score": 8,
+ "ads_active": 35,
+ "headline": "A subscription dairy running ~200 creatives — with seven trust pages returning 404 and the Meta pixel switched off in the store's own config.",
+ "stats": [
+  [
+   "~200",
+   "Creatives in account"
+  ],
+  [
+   "35",
+   "Pointing at the website"
+  ],
+  [
+   "7",
+   "Trust pages returning 404"
+  ],
+  [
+   "2",
+   "GTM containers loading"
+  ]
+ ],
+ "ad_intro": "Sid's Farm sells tested, subscription milk in Bengaluru, Hyderabad, Pune and Vijayawada, and it advertises like a modern subscription business: roughly 200 creatives in the advertiser account, 35 of them pointed at sidsfarm.com, plus Meta creatives running since April 2026 that send people to WhatsApp and to the app with proper campaign and ad-ID macros attached. The paid engine is real. The leak is the storefront underneath it: seven standard paths — contact, FAQ, shipping policy, store locator, bulk and corporate — all return 404, two Google Tag Manager containers load on the same page, and the store's own configuration reads meta_pixel_enable: false while Meta ads are live.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "≈200 creatives in the advertiser account (Sids Farm Private Limited, Verified); 35 creatives point specifically at sidsfarm.com."
+  ],
+  [
+   "Meta (verified by ID)",
+   "1682864186042714 (since 8 Apr 2026, WhatsApp CTA) · 28227187223577653 (since 17 Aug 2026, 'now with 22g protein', landing app.sidsfarm.com with {{campaign.id}} macros) · 2322194535253458 (since 18 Aug 2026, multiple versions)."
+  ],
+  [
+   "Measurement stack",
+   "GA4 G-YN4FLEL9J2 · Google Tag Manager GTM-57TDVNH · Google Tag Manager GTM-P4DXD97J · Microsoft Clarity."
+  ],
+  [
+   "Store config (verbatim)",
+   "container_id: \"GTM-57TDVNH\", measurement_id: \"G-YN4FLEL9J2\", meta_pixel_enable: false, meta_pixel_id: \"\", built_in_conversion_tracking: 0."
+  ],
+  [
+   "Destination audit",
+   "/pages/faq, /pages/contact, /pages/contact-us, /policies/shipping-policy, /pages/store-locator, /pages/bulk-enquiry, /pages/corporate-gifting — all 404 on 3 Oct 2026."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   8,
+   "#22C55E"
+  ],
+  "UGC & Social Proof": [
+   6,
+   "#F59E0B"
+  ],
+  "Copy & Hook Strength": [
+   8,
+   "#22C55E"
+  ],
+  "Landing Page CRO": [
+   4,
+   "#EF4444"
+  ],
+  "Tracking & CAPI": [
+   4,
+   "#EF4444"
+  ],
+  "Retargeting Depth": [
+   6,
+   "#F59E0B"
+  ]
+ },
+ "findings": [
+  "<b>Seven of the storefront's standard trust pages return 404:</b> Every path a cautious first-time buyer looks for before paying — how do I reach you, when will it arrive, where are you — is dead. For a subscription product where the first order is a trust decision, this is the most expensive set of pages on the site. Rebuilding them is content work, not engineering work.",
+  "<b>Two Google Tag Manager containers are loading on the same storefront:</b> Two containers is a classic symptom of a migration that never finished, and the usual result is duplicated purchase or signup events — which then makes every ROAS number you read argue with the bank. Confirm which container is live, merge the tags into it, and remove the other. This is an afternoon of work with an outsized effect on reporting trust.",
+  "<b>Most of the account's creative volume does not point at the website:</b> The Meta side shows where they go: WhatsApp click-through creatives and app.sidsfarm.com signup ads with tracking macros attached. That is a deliberate subscription-acquisition strategy — but it also means website-based reporting cannot see most of the programme. If subscription growth is the goal, the measurement plan has to follow the creative into the app, not stop at the website.",
+  "<b>Meta is already run properly, and it is carrying the response burden:</b> Someone on the team knows what they are doing: the ad copy leads with a product change (22g protein) rather than a discount, and the tracking template passes campaign and ad IDs into the app. The gap is that none of it is joined up to the website's own reporting, so the same customer is counted in two places or in neither.",
+  "<b>The store's own configuration has the Meta pixel switched off while Meta ads are live:</b> Read exactly: this is one integration — the store's own pixel setting — and it is disabled. The pixel could still be fired through GTM-57TDVNH, whose contents cannot be inspected from outside, so this is 'switched off where we can see it', not 'no measurement anywhere'. But when a brand spends on Meta for months while its storefront config says the pixel is off, the first thing to verify is which of the two is true — because that single setting decides whether the Meta spend can be optimised on purchases or only on clicks. Microsoft Clarity is installed alongside, so the session data to check it already exists."
+ ],
+ "competitors": [
+  [
+   "Regional dairy subscription brands",
+   "Heavy local distribution and retail shelf presence.",
+   "Sid's Farm's testing message and app-based subscription are the differentiators — put the tests in the ad copy, not just the packaging."
+  ],
+  [
+   "Quick-commerce dairy (10-minute delivery)",
+   "Win on speed and price comparison.",
+   "Win on provenance and daily testing; the two-hour/instant race is not the one to enter."
+  ],
+  [
+   "D2C milk brands with polished storefronts",
+   "Publish FAQ, delivery and contact information where buyers look.",
+   "That is the gap here — four pages of content fix it."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Publish the missing trust pages",
+   "Contact, FAQ and shipping policy are 30-minute pages. They sit directly in front of a subscription decision.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - Settle the container and pixel settings",
+   "Merge the two GTM containers, and confirm whether the store's Meta pixel is intentionally off. Both decide what your reporting can be trusted for.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 3 - One weekly report for the app and the website",
+   "App signups and website orders in one view, so subscription growth is counted once.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Trust pages",
+   "7 paths return 404",
+   "Publish contact, FAQ, shipping policy",
+   "Removes friction right before a first payment"
+  ],
+  [
+   "Tag setup",
+   "Two GTM containers; pixel off in store config",
+   "Merge containers; confirm the pixel decision",
+   "Ends duplicate-event risk and click-only optimisation"
+  ],
+  [
+   "Reporting scope",
+   "≈165 creatives land off-site",
+   "One combined weekly view",
+   "Subscription growth measured once"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: ≈200 creatives for Sids Farm Private Limited (Verified); 35 pointing at sidsfarm.com.",
+  "Meta Ad Library (country IN), 3 Oct 2026: library IDs 1682864186042714, 28227187223577653, 2322194535253458; app.sidsfarm.com landing with utm_source=facebook&utm_medium=paid_social and campaign/ad macros.",
+  "sidsfarm.com, 3 Oct 2026: GTM-57TDVNH, GTM-P4DXD97J, G-YN4FLEL9J2, Clarity, meta_pixel_enable: false; seven 404 paths; Bengaluru listed in the location selector; wecare@sidsfarm.com.",
+  "≈200 creatives in the advertiser account — check: https://adstransparency.google.com/advertiser/AR10174224753343070209?region=IN",
+  "35 creatives point at sidsfarm.com — check: https://adstransparency.google.com/?region=IN&domain=sidsfarm.com",
+  "Meta creative library ID 1682864186042714 (WhatsApp click-through) — check: https://www.facebook.com/ads/library/?id=1682864186042714",
+  "Meta creative library ID 28227187223577653 and its landing URL — check: https://www.facebook.com/ads/library/?id=28227187223577653",
+  "Two GTM containers and four tag families on one storefront — check: https://sidsfarm.com",
+  "Seven storefront paths return 404 — check: https://sidsfarm.com/pages/faq",
+  "wecare@sidsfarm.com — check: https://sidsfarm.com/collections/all",
+  "Bengaluru is a served market — check: https://sidsfarm.com"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): Seven 404s under a paid engine that is working",
+   "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. Your paid side is genuinely good: around <b>200 creatives</b> in the account, three Meta creatives verified by ID running since April and August, and an app landing URL with proper campaign macros attached.<br/><br/>Underneath it, seven standard pages return 404 today — contact, FAQ, shipping policy, store locator, bulk and corporate-gifting. For a subscription where the first order is a trust decision, those are the most expensive pages on the site.<br/><br/>The attached audit lists every URL and every measurement.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Two settings worth checking today",
+   "Hi team,<br/><br/>Two configuration findings from the audit, both verifiable in your own dashboard.<br/><br/>1. Two Google Tag Manager containers load on the same page (GTM-57TDVNH and GTM-P4DXD97J). That pattern normally produces duplicated purchase or signup events.<br/>2. Your store config reads meta_pixel_enable: false with an empty pixel ID — while Meta ads are running. It may be fired through GTM instead, but that is worth knowing for certain.<br/><br/>Both take an hour to settle and both decide whether ROAS discussions are winnable.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): Your Meta copy is a template for the rest of the category",
+   "Hi team,<br/><br/>Third note, this one a compliment. 'No diet changes. No extra effort. Just your everyday milk, now with 22g protein in every pack.' is the right way to sell a subscription — a product change, not a discount.<br/><br/>The same story is missing on the site: the pages that explain testing have no equivalent. If you want, I will map the three pages (testing, delivery, subscription terms) against what your Meta traffic actually asks.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Sid's Farm",
+   "Hi team,<br/><br/>Wrapping up. The audit comes down to three fixes: publish the four missing trust pages, settle the double container and the pixel setting, and report app and website growth as one number.<br/><br/>No pressure at all — if you would rather just take the page list and run with it internally, that is a perfectly good outcome.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "HIGH",
+   "Seven of the storefront's standard trust pages return 404"
+  ],
+  [
+   "HIGH",
+   "Two Google Tag Manager containers are loading on the same storefront"
+  ],
+  [
+   "MEDIUM",
+   "Most of the account's creative volume does not point at the website"
+  ],
+  [
+   "MEDIUM",
+   "Meta is already run properly, and it is carrying the response burden"
+  ],
+  [
+   "HIGH",
+   "The store's own configuration has the Meta pixel switched off while Meta ads are live"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}
