@@ -1,0 +1,31 @@
+name: live-fetch
+on:
+  push:
+    paths:
+      - "_livefetch/urls.txt"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch URLs
+        run: |
+          rm -rf _livefetch/out; mkdir -p _livefetch/out
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          while IFS='|' read -r slug url; do
+            slug="$(echo "$slug" | tr -d '\r' | xargs)"; url="$(echo "$url" | tr -d '\r' | xargs)"
+            [ -z "$slug" ] && continue
+            case "$slug" in \#*) continue;; esac
+            base="$(echo "$slug" | tr -c 'A-Za-z0-9._-' '_')"
+            code=$(curl -sSL --compressed -A "$UA" --max-time 45 -D "_livefetch/out/$base.headers.txt" -o "_livefetch/out/$base.body.html" -w '%{http_code}' "$url" || echo "000")
+            echo "$slug|$url|$code" >> _livefetch/out/_status.txt
+          done < _livefetch/urls.txt
+          echo "--- status ---"; cat _livefetch/out/_status.txt; ls -la _livefetch/out
+      - uses: actions/upload-artifact@v4
+        with:
+          name: livefetch
+          path: _livefetch/out
+          retention-days: 7

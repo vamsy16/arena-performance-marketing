@@ -1,0 +1,3 @@
+paperboat-home|https://www.paperboat.com/
+smoor-home|https://smoor.in/
+sidsfarm-home|https://sidsfarm.com/
