@@ -1,0 +1,33 @@
+HTTP/2 400 
+date: Sat, 03 Oct 2026 03:03:45 GMT
+content-type: application/xml; charset=utf-8
+content-length: 0
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:03:45 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_t7aBAAEASHAutt73iq78AG6KemCsY0DlBaePcxIGSaDpApsOyrY4hWnRE5f4jQ7tlQs4P8PkKIdHm9wc5qTC9NQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_t7abAAEANvoFFoSDHB9yM1wTQ54ZIqSonVCDLD8goLjHZkjwiIiLF_VRarnNtJvGsA_FvmMCBRcjrMlYAnbEyGk:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_t7acAAEAjk3CrKtxakMs0ZvX9cUs2LhW5CDLQ-khDcbTGeqwFsO-grtlmxzvXZRwkJEQyJ52bsrXltx8WI1h6Dg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 72
+shopify-complexity-score-v2: 72
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+x-permitted-cross-domain-policies: none
+vary: Accept
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+link: </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+powered-by: Shopify
+server-timing: processing;dur=41, db;dur=12, db_async;dur=4.676, asn;desc="8075", edge;desc="LAX", country;desc="US", servedBy;desc="ghlj", requestID;desc="478d618c-af1f-42e7-8149-3778cd226036-1790996624", _y;desc="c07629a2-033e-49f2-bb22-ae588ec51eff", _s;desc="65f37ccb-9958-472b-b3b7-2bae78e40099", _cmp;desc="3.AMPS_USAZ_f_f_3lgS1v7PSAq0shi3Bqs*7Q", _cta;desc="1", _ye;desc="1822554225", _se;desc="1790998425"
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xXX6P%2BppwD69oGswjtOviI4E8ADw7RPua8D%2BWTxBho1LyypEtE11tbs3KK%2BfQFOdsZcAxwZmqwTOpHiQDI5IXKaN7S9WRwYVIcNLTzXKU5hk17roFwBSCQJJdRpy"}]}
+x-content-type-options: nosniff
+x-request-id: 478d618c-af1f-42e7-8149-3778cd226036-1790996624
+cf-ray: a448b72a1f9a55c7-LAX
+

@@ -1,0 +1,35 @@
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:03:40 GMT
+content-type: text/html; charset=utf-8
+content-length: 49890
+x-download-options: noopen
+etag: "page_cache:62817075290:NotFoundController:4663a95b9052df2b6f708bc654eee399:303b88696c201a73906d4f9ed6a869b9"
+content-encoding: br
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://fonts.googleapis.com>; rel="preconnect", <//sidsfarm.com/cdn/shop/t/15/assets/base.css?v=96147239861341689941782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-cart-drawer.css?v=148195733461663641871786264063>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-cart.css?v=164708765130180853531782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-totals.css?v=15906652033866631521782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-price.css?v=70172745017360139101782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-discounts.css?v=152760482443307489271782705990>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Balthazar&display=swap>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/tailwind.css?v=152996332080802464671782705990>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 72
+shopify-complexity-score-v2: 72
+set-cookie: _shopify_essential=:AaD_t6LRAAEAlhIGvcVRlI2mNz5IUn1EGd0XkG7QI6W7-Il7DunhQdSWOhUjk1GRmTrvdWy9aRE20A_bxMSMgGKtU7c:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_t6L0AAEABAqdERUhspWszMrppVcOuwoCwFHiGV0_H_5pFtsoupL3FAbcQDqK8swDia63QFOEFYlWgn860Wf1syU:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_t6L0AAEA6DsrOMTjHVzLLwJ_Mib7TspSTF1ZicnRiYvQJlhL_ElswJY1G5XD9brkHtsurwgE6ve8P-n57yN3LFI:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+powered-by: Shopify
+server-timing: processing;dur=43;desc="gc:1", db;dur=10, db_async;dur=4.352, asn;desc="8075", edge;desc="LAX", country;desc="US", theme;desc="150455320666", pageType;desc="404", servedBy;desc="jc8h", requestID;desc="00478661-a78b-4612-a8e0-9486851976dd-1790996619", _y;desc="af1dd86e-4f80-480e-a626-b73ef0ee16e5", _s;desc="7e7fb1bd-11ce-4354-923d-b7196217d3a2", _cmp;desc="3.AMPS_USAZ_f_f_IZbudpxvQcia-sc-lsMnQw", _cta;desc="1", _ye;desc="1822554220", _se;desc="1790998420", compressionLevel;desc="5"
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eGvMQBXzVUYv9E2Cr2J6sC7IjO8motq1vgfDpT8nK9Ch%2BmTF0v3OPssMT1QWpn0sS9AUA9J5Cux5P5jilgi%2FEoJ6VwLbTeKbM23t5VFtbJe2IG409lJHoiDspQo1Ag%3D%3D"}]}
+x-content-type-options: nosniff
+x-request-id: 00478661-a78b-4612-a8e0-9486851976dd-1790996619
+x-permitted-cross-domain-policies: none
+cf-ray: a448b70a9bd6a652-LAX
+

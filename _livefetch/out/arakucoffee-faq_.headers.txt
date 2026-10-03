@@ -1,0 +1,66 @@
+HTTP/2 301 
+date: Sat, 03 Oct 2026 03:04:20 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+location: https://www.arakucoffee.in/faq
+x-download-options: noopen
+x-redirect-reason: canonical_host_redirection
+shopify-complexity-score: 15
+shopify-complexity-score-v2: 15
+set-cookie: _shopify_essential=:AaD_uEJ5AAEAW2ymQ66Xh_BrUbPPo4ntL6I27ok3tMLjtfVhRRavqs8ygF9eFXBLrOO4a7EYjqqEOz_7_1hdF1LZH00:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3V2Fose8zwPAv1YXiOVuwe03ZXM2yVtQmizLlEFcz0xHM0AfHydf4F221uHJjp8eF4YF1FTNtXvc%2BdnueUZXTRcRuzbF%2FKHQa0fG9xVK0smqFJy%2BV0fcQYfilChXrACz"}]}
+vary: Accept
+cdn-cache-control: no-cache, no-store
+cache-control: private, no-store
+link: </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+powered-by: Shopify
+server-timing: processing;dur=19, db;dur=2, db_async;dur=3.173, asn;desc="8075", edge;desc="LAX", country;desc="US", pageType;desc="index", servedBy;desc="8qms", requestID;desc="34903b23-2ae5-4624-8d49-90f4e1c2ff28-1790996660", _y;desc="cb8f0630-9ec1-4043-bb5a-551da929cbb3", _s;desc="fae98a57-0a5e-4e0e-8764-fcbb1d1a5f27", _cmp;desc="3.AMPS_USAZ_f_f_pRfjsa7*QquYvMvOqlAY6w", _cta;desc="1", _ye;desc="1822554260", _se;desc="1790998460"
+server: cloudflare
+cf-cache-status: DYNAMIC
+alt-svc: h3=":443"; ma=86400
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-permitted-cross-domain-policies: none
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-request-id: 34903b23-2ae5-4624-8d49-90f4e1c2ff28-1790996660
+cf-ray: a448b809fef32b7b-LAX
+
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:04:21 GMT
+content-type: text/html; charset=utf-8
+content-length: 47134
+x-download-options: noopen
+etag: "page_cache:73456091456:NotFoundController:578e4f80aeef2b4ce064d4fc93c0aeef:dba435cc59a18a5c6c4c229de417a5d3"
+content-encoding: br
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.arakucoffee.in/cdn/shop/t/67/assets/theme.css?v=184261863071824262621786948081>; as="style"; rel="preload", <//www.arakucoffee.in/cdn/shop/t/67/assets/customaraku.css?v=50228010101939310681786944020>; as="style"; rel="preload", <//www.arakucoffee.in/cdn/shop/t/67/assets/custom.css?v=157983627552096583221786944020>; as="style"; rel="preload", <https://cdn.shopify.com/extensions/01a0fc8f-0fc0-7692-aa25-bd59316bd4f9/axentra-customer-command-centre-814/assets/ohcust.css>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 68
+shopify-complexity-score-v2: 68
+set-cookie: _shopify_essential=:AaD_uELoAAEA3f4SdEtEKi1FsSk-qdO4gqFFhdaUH2JS5eGqj_3rLRxWxG3aNZ5JEw2yj-xInGJhIrgpjIIcWNAUQ8s:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_uEMJAAEAXcECZfSI7IQljfnyiJa0U8YESG7mRIb6KjQQlQMjvcoN21egniolo7BUUiDKH4lcN7OTobRzGPgcftw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_uEMJAAEAdPdRxLvbeIr4uphxPlr8AY1upJbY3RlDSiPpC_9srUFn2vP7ntBqgoxGwU4rG6mF7wif2_4ikR1TOhY:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+powered-by: Shopify
+server-timing: processing;dur=41, db;dur=13, db_async;dur=2.465, asn;desc="8075", edge;desc="LAX", country;desc="US", theme;desc="187610988864", pageType;desc="404", servedBy;desc="8d9d", requestID;desc="a9f83e1e-c390-4e86-be7b-f8ef1edbcbfb-1790996660", _y;desc="6ab6156a-9b7c-4e8b-a9a3-4b4bead4b2a1", _s;desc="dc324ed2-0407-4d94-a54c-8df3b975bc20", _cmp;desc="3.AMPS_USAZ_f_f_CTSQrzT*SnygwzWzlylTaA", _cta;desc="1", _ye;desc="1822554261", _se;desc="1790998461", compressionLevel;desc="5"
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Gt49Xj2wOMNI6q9xLN6zliqVQ11R2GiMI4O5hNOzawHvkBhXEsh3FtqbEXraxUOmjEj%2BZUX4QrsXRgHR34E48m06Kfu%2BVR%2B6rAyxNUDZ17EhWzmMEc7caifWL9ysVjfo83mD7w%3D%3D"}]}
+x-content-type-options: nosniff
+x-request-id: a9f83e1e-c390-4e86-be7b-f8ef1edbcbfb-1790996660
+x-permitted-cross-domain-policies: none
+cf-ray: a448b80acf8de9dd-LAX
+

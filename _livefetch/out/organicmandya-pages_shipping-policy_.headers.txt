@@ -1,0 +1,36 @@
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:03:52 GMT
+content-type: text/html; charset=utf-8
+content-length: 120926
+x-download-options: noopen
+etag: "page_cache:86540058946:NotFoundController:8ebe9de1bf52fbf8571b182dfa321cac:b809964048e64c6bbd92f0ce11da43cf"
+content-encoding: br
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//organicmandya.com/cdn/shop/t/203/assets/style.css?v=26121809875021083351788973937>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/product_card_height_override.css?v=70190175564646754401788169015>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/video-gallery.css?v=164124849516602167731788169016>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/a11y.css?v=133652211437967716771788171904>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 68
+shopify-complexity-score-v2: 68
+set-cookie: _shopify_essential=:AaD_t9PfAAEAvNWURpChBDnfxiJ_hBMOBfxYdvwXu6yVg504URuyfSH0HP1HPZguEtkIxHW9ysVCBltRT7fpKLlAXSk:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_t9QAAAEAIH8ASS8xvyB5tc5xWunGiYF15deNHYAlQzOAgyuqk4JahwYRq1aH0U78Kx3eoloE7skBlDnHm18VQsc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_t9QAAAEAFzsu8qXQg58yfjCLk_yLM9FcysXU0ZZr_lJkN81Oe45JxiIRC3dhR_1yAo4jjGZ1PiXtsHW53X5Pydo:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+powered-by: Shopify
+server-timing: processing;dur=41;desc="gc:1", db;dur=10, db_async;dur=2.269, asn;desc="8075", edge;desc="LAX", country;desc="US", theme;desc="192649265474", pageType;desc="404", servedBy;desc="8fw5", requestID;desc="8950fb38-be67-49a0-a229-8b7042ce2d55-1790996632", _y;desc="b54230a7-b294-4ca1-8371-2a163ff99189", _s;desc="bec21fff-8f3e-491a-91f7-973d40886218", _cmp;desc="3.AMPS_USAZ_f_f_4mWEdmhyTY-DmfZlPejPPg", _cta;desc="1", _ye;desc="1822554232", _se;desc="1790998432", compressionLevel;desc="5"
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UWrwyuCriqqfZWQzcIV5WYAiy0fqgimhZzo33YFYHeESJrlwqxOIOXoMPdIdvssSIoxp2CpOnfdl%2FlK9TlcZxpECiaGmqyudfkizdvKQ5B6A7T38sXZVTBtEwjfTyc0vKLjN"}]}
+x-content-type-options: nosniff
+x-request-id: 8950fb38-be67-49a0-a229-8b7042ce2d55-1790996632
+x-permitted-cross-domain-policies: none
+cf-ray: a448b7591c26687a-LAX
+

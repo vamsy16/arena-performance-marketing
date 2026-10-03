@@ -1,0 +1,33 @@
+HTTP/2 400 
+date: Sat, 03 Oct 2026 03:03:56 GMT
+content-type: application/xml; charset=utf-8
+content-length: 0
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:03:56 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_t-QxAAEAKD0-69JMUZBvrOQQ5nU_aRvIWdSLPlf7v4_7Z_OKZ-Sto7earUJYBDuUABXNiiKgSHFtmfG7L9mpPnU:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_t-REAAEA-tJe66oWklnEL1UQAjgyD_DB1PbWSxn2vgFNLiiwCnk_Stjq2ce6bnhDTe1Gm6X259wKLY5KhLVEV-4:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_t-REAAEAI_5A60ugFVJSrHkIevKMXwiKffC5aYgNI-I-_F_l6OcD-TefFcxqz5Bv7urQ_V2qOi3l7MGAkwzg0rM:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 54
+shopify-complexity-score-v2: 54
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+x-permitted-cross-domain-policies: none
+vary: Accept
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+link: </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+powered-by: Shopify
+server-timing: processing;dur=34;desc="gc:2", db;dur=8, db_async;dur=4.489, asn;desc="8075", edge;desc="LAX", country;desc="US", servedBy;desc="x5nb", requestID;desc="97262a09-8aef-488e-a54c-113f1481cf6c-1790996636", _y;desc="3b4254d2-30fc-41c1-b9f3-64bcb360f2fd", _s;desc="2e395421-e323-424a-96f9-480d5345c4c1", _cmp;desc="3.AMPS_USAZ_f_f_Xdeao-WeSe-Tr6gw-XARJw", _cta;desc="1", _ye;desc="1822554236", _se;desc="1790998436"
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=O8KYIpboKYErb%2BhJUEU%2Fcm0E1Owj%2FeXHXWzXZFunQD2MkH%2FPjj3iYbZdXaV4Sm%2FaThXugZ0UldOEcVuySK1z2B0rYJv%2BLXDQXPZiol9fGNq35aZVzOq38xH41rgVm5we"}]}
+x-content-type-options: nosniff
+x-request-id: 97262a09-8aef-488e-a54c-113f1481cf6c-1790996636
+cf-ray: a448b7733afa2779-LAX
+

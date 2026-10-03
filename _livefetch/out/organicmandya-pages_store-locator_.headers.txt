@@ -1,0 +1,38 @@
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:03:53 GMT
+content-type: text/html; charset=utf-8
+content-length: 122633
+x-download-options: noopen
+product-filtering-backend: bitset_roaring
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:03:53 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_t9fzAAEAtoZdvgSlf2JiQFkCB2oWSlEVHzrPqXdURpf13fGNVSgk-XIxTJGc2fuuBnubzSmBpDI8jHsoUNEzAhk:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_t9jkAAEAwnJ25ASNMLwMiA-hQZetL-79aWT07pzNgeFpbGGQ-bA5Vh-oLZIqwAxXD03B_DUTM1aGT0mLRbCUDvs:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_t9jkAAEA1llTXxccHw_9cBBn3XIi0bLO1V9ijT2xRLHrGNTL7LND_C187o1Xm78rO7ET5xkzNez4cRx6ISFtEhQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//organicmandya.com/cdn/shop/t/203/assets/style.css?v=26121809875021083351788973937>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/product_card_height_override.css?v=70190175564646754401788169015>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/video-gallery.css?v=164124849516602167731788169016>; as="style"; rel="preload", <//organicmandya.com/cdn/shop/t/203/assets/a11y.css?v=133652211437967716771788171904>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:86540058946:PageDetailsController:e6191936c23b1687504efc0c133a3e9d:6502e90fe5a097825078b9ca40835a73"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 244
+shopify-complexity-score-v2: 244
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=252;desc="gc:10", db;dur=83, db_async;dur=64.135, render;dur=84, asn;desc="8075", edge;desc="LAX", country;desc="US", theme;desc="192649265474", pageType;desc="page", servedBy;desc="9bpz", requestID;desc="f3e1f4fe-f15a-4750-aad3-c17bcf96f6af-1790996633", _y;desc="57471183-8c06-4910-81cd-a53a64bc8125", _s;desc="6f6e8c4b-2e97-4789-8113-ea3b63081f87", _cmp;desc="3.AMPS_USAZ_f_f_Oa4KKhgmTwauix6G*q41vA", _cta;desc="1", _ye;desc="1822554233", _se;desc="1790998433", compressionLevel;desc="5", compressionTime;dur=15.06
+x-dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AJRe9V0SpU8vLLRLaQFPRx8Vnm0rECrxL%2FhAa6ig5PPPR%2BcnRD2v8GP23A6uiiAZ5T2IoYA%2Bdv3ZDSI7u4iBbxdHtcxEktHFxA94PsgRuvrxPCH8ZYZAAy6kg46T3AUG1zAi"}]}
+x-content-type-options: nosniff
+x-request-id: f3e1f4fe-f15a-4750-aad3-c17bcf96f6af-1790996633
+x-permitted-cross-domain-policies: none
+cf-ray: a448b75f9ef15535-LAX
+
