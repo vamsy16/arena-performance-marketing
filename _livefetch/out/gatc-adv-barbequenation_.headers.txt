@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sat, 03 Oct 2026 03:04:55 GMT
+x-trace-id: -3623623697314407164
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+acx-server-start-time: 1790996695649
+acx-server-time: 75
+server-timing: server-processing;dur=75
+cross-origin-resource-policy: same-site
+cross-origin-opener-policy: same-origin; report-to="encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt"
+report-to: {"group":"encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt"}]}
+content-security-policy: script-src 'report-sample' 'nonce-IERyIPWkJu5ySH3hleBO4A' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';worker-src 'self';report-uri //csp.withgoogle.com/csp/acx-tfaar-tfaa-report-ui-frontend-prod
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CuoBCAESnAEBOxGDSAbmlvQUhvOueWQZyaVLPjdxojQB2QQAQbKv5b9WSAXopvr6jyCEhRfocIfF-VwGtRMtAXyqFqqNyJa5OZC0wKig3gRo4im9dXq3pb95oBFU9pS4I6ys5GA9aSDcKLMkYx1rn7Nt1C744DwtZHiSGwcCad3JjAX3Mnnp1qzhgvjheIpSh8BprL-PlopHlRitiu8rjgeJEtkoATJFAdKsB8-Jby2kKTifFd0Azj3MADpfLBRKStVUxAua9jaQKEPqOd2mPODZRV_Ld0DrNOQktm5NYS4Ng-eZSi574cErH78G; expires=Sun, 04-Apr-2027 03:04:55 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

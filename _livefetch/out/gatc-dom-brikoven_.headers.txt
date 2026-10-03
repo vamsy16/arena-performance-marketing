@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sat, 03 Oct 2026 03:05:03 GMT
+x-trace-id: 1993990410295032516
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+acx-server-start-time: 1790996703695
+acx-server-time: 52
+server-timing: server-processing;dur=52
+report-to: {"group":"encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt"}]}
+cross-origin-resource-policy: same-site
+content-security-policy: script-src 'report-sample' 'nonce-NquZbQNb_w03IRUp09h8iA' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';worker-src 'self';report-uri //csp.withgoogle.com/csp/acx-tfaar-tfaa-report-ui-frontend-prod
+cross-origin-opener-policy: same-origin; report-to="encsid_AZSwq6NboT-khin5N3ei2Z2pu4QuMn9qPUMhIkWS1Bf2FFt9tIRCIFP0-Ab4a3twCYiamgEt"
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CuoBCAESnAEBOxGDSMsKRmv3wBjGTRXWIyfiTytAtMmlLX_zS5dtFMIJvG0R0rmMsIkw7Mfrnz5fvMCcshEKwLMcHmWS2r3M07-XB6HLtO5kY40T5I_S8xLPzr5GU-Y2sA-Ifia3OIstbEnjHIhFycDQcENaKn2LKN8TYNU0DKkIEzM6GfewbTgyINV9b8SbRqvuevAJFPZVWYx5_8Wfhqd40M4oATJFAdKsB8-l3DEwGooPTGhWSwPvHlfr0OBtUSGSvOD0LyYZjQLzgLdaDj62yJrIYoKS0nt1H-aakZqLGfKqBTNaFL1U-uEA; expires=Sun, 04-Apr-2027 03:05:03 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
