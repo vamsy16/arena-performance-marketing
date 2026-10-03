@@ -1,0 +1,207 @@
+{
+ "brand": "Barbeque Nation",
+ "website": "barbequenation.com",
+ "instagram": "",
+ "contact": {
+  "email": "feedback@barbequenation.com",
+  "phone": "08064058059",
+  "entity": "United Foodbrands Limited (site: Barbeque Nation Hospitality Limited)",
+  "address": "Saket Callipolis, Units 601 & 602, 6th Floor, Doddakannalli Village, Varthur Hobli, Sarjapur Road, Bengaluru 560035"
+ },
+ "contact_source": "Crawled from barbequenation.com (About-Us, Contact-Us and FAQ pages) on 03 Oct 2026; the registered office and phone number are published on the contact page.",
+ "niche": "Casual Dining & Takeaway",
+ "score": 8,
+ "ads_active": 34,
+ "headline": "Fifteen of the 34 creatives pointing at your domain are paid for by accounts that are not yours — and one live ad shows two different discount codes.",
+ "stats": [
+  [
+   "34",
+   "Creatives pointing at the domain"
+  ],
+  [
+   "19",
+   "In your own account"
+  ],
+  [
+   "15",
+   "From other accounts"
+  ],
+  [
+   "3",
+   "Meta ads verified by ID"
+  ]
+ ],
+ "ad_intro": "Barbeque Nation is the largest advertiser in this batch in absolute terms: 34 creatives point at barbequenation.com, of which only 19 sit in the United Foodbrands Limited account (verified by Google) — the other 15 come from somewhere else, which is worth a conversation with partners or franchisees. On Meta, brand-owned creatives were verified by ID: a takeaway offer launched on 13 September, a pay-day buffet campaign valid to 11 October, and a multi-version creative from 11 September. The takeaway ad is also the clearest single defect in this batch: its copy says SAVE35 while the image inside the same ad says SAVE5.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "19 creatives in the UNITED FOODBRANDS LIMITED account (Verified); 34 creatives point at barbequenation.com in total — a 15-creative gap."
+  ],
+  [
+   "Meta (verified by ID)",
+   "1629049651915814 (since 13 Sep 2026, takeaway SAVE35 → /ubq-delivery) · 1595578738733856 (since 22 Sep 2026, pay-day buffet valid to 11 Oct 2026 → /deals/unlockspecialdeals) · 1727327792321770 (since 11 Sep 2026, multiple versions)."
+  ],
+  [
+   "Measurement stack",
+   "Google Tag Manager GTM-TF3NNN · Meta's connect.facebook.net script loaded (pixel ID not visible in the page source) · Razorpay on the ordering side."
+  ],
+  [
+   "Destination audit",
+   "/menu, /book-a-table, /locations, /order-online and /terms all return 404; the live ad destinations /ubq-delivery and /deals/unlockspecialdeals work."
+  ],
+  [
+   "Code mismatch",
+   "Ad copy: 'Use code SAVE35'; image inside the same ad: 'Use Code SAVE5'."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   7,
+   "#F59E0B"
+  ],
+  "UGC & Social Proof": [
+   7,
+   "#F59E0B"
+  ],
+  "Copy & Hook Strength": [
+   6,
+   "#F59E0B"
+  ],
+  "Landing Page CRO": [
+   7,
+   "#22C55E"
+  ],
+  "Tracking & CAPI": [
+   6,
+   "#F59E0B"
+  ],
+  "Retargeting Depth": [
+   7,
+   "#22C55E"
+  ]
+ },
+ "findings": [
+  "<b>Fifteen creatives for your domain are paid for by accounts that are not yours:</b> At least one other advertiser is buying traffic that lands on your domain — franchisees, delivery partners or resellers are the usual candidates. Sometimes that is welcome; more often it means brand-name auctions are being contested with your own storefront as the landing page, and your brand terms cost more than they should. It is worth knowing which of your partners is doing it.",
+  "<b>The URLs people guess — menu, locations, ordering — all return 404:</b> Your live ads are pointed at working pages, so the campaigns themselves are fine. The risk is everything outside the campaigns: QR codes, printed collateral, aggregator listings, old blog links and customers typing the obvious URL. Those all dead-end today, and a set of redirects fixes it in an afternoon.",
+  "<b>Paid social is running as a discount channel while the brand leans on experience:</b> Two of the three creatives sampled lead with a percentage off. Barbeque Nation's actual differentiator is the live-grill format and the ambience — the thing a discount does not explain. The coupon also expires (11 October), which means the creative needs replacing on a deadline rather than when the data says so.",
+  "<b>The takeaway ad's copy and its own creative show two different codes:</b> One of the two codes in this ad is wrong, and only the brand can say which. A customer who types the code they read in the image will either get 5% instead of 35%, or nothing at all — and either way the campaign's numbers will under-report the offer's real pull. It is a single-line creative fix, and it is worth doing before the pay-day offer expires on 11 October.",
+  "<b>The public web presence is a marketing site, not the ordering system:</b> Splitting marketing from ordering is normal at this size. It does mean every paid click crosses a domain or a system boundary, so the conversion signal has to be carried deliberately — otherwise paid media gets credited for visits rather than for orders."
+ ],
+ "competitors": [
+  [
+   "Other buffet and grill chains",
+   "Frequent discount-led advertising with coupon codes.",
+   "Barbeque Nation's live-grill format and ambience are the differentiator; discount-led creative hands the comparison to price."
+  ],
+  [
+   "Delivery-first brands in the same cities",
+   "Own the takeaway occasion with a frictionless ordering flow.",
+   "The /ubq-delivery landing page works — put the offer code consistency and the tracked redemption behind it."
+  ],
+  [
+   "Independent BBQ restaurants",
+   "Local store presence and word of mouth.",
+   "Store-level ads with a direct booking path are available and not being used in the visible set."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Fix the code mismatch",
+   "Align the image and the copy on the running takeaway ad. One line, and it stops under-reporting the offer.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - Redirect the five dead paths",
+   "Menu, locations, booking, ordering and terms should each land somewhere sensible for every QR code and old link in circulation.",
+   "#F59E0B",
+   "#FFFBEB"
+  ],
+  [
+   "WIN 3 - Instrument the offer codes",
+   "One event per code so offers are judged on redemptions rather than on order counts.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Offer codes",
+   "SAVE35 in copy, SAVE5 in the image",
+   "Align the creative",
+   "One code, one expectation at checkout"
+  ],
+  [
+   "Conventional paths",
+   "5 return 404",
+   "Redirect each to the live page",
+   "Recovers printed and typed traffic"
+  ],
+  [
+   "Domain-level creatives",
+   "15 not in your account",
+   "Identify the buying accounts",
+   "Clarifies who is contesting your brand terms"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: 19 creatives in the UNITED FOODBRANDS LIMITED account (Verified); 34 domain-level creatives for barbequenation.com.",
+  "Meta Ad Library (country IN), 3 Oct 2026: library IDs 1629049651915814 (copy and image both captured), 1595578738733856, 1727327792321770.",
+  "barbequenation.com, 3 Oct 2026: GTM-TF3NNN, connect.facebook.net, Razorpay; 404s on five conventional paths; feedback@barbequenation.com and the Bengaluru 560035 registered office on the contact page.",
+  "19 creatives in the advertiser account — check: https://adstransparency.google.com/advertiser/AR07883744464190046209?region=IN",
+  "34 creatives point at the domain — 15 more than the account holds — check: https://adstransparency.google.com/?region=IN&domain=barbequenation.com",
+  "Meta creative library ID 1629049651915814 (SAVE35 takeaway offer) — check: https://www.facebook.com/ads/library/?id=1629049651915814",
+  "Meta creative library ID 1595578738733856 (pay-day buffet, valid to 11 October 2026) — check: https://www.facebook.com/ads/library/?id=1595578738733856",
+  "GTM-TF3NNN · Meta pixel · Razorpay — check: https://barbequenation.com",
+  "/menu, /book-a-table, /locations, /order-online, /terms return 404 — check: https://barbequenation.com/menu",
+  "feedback@barbequenation.com — check: https://barbequenation.com/contact-us",
+  "Two different legal names — the site's and the advertiser's — check: https://adstransparency.google.com/advertiser/AR07883744464190046209?region=IN"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): 15 creatives on your domain that are not yours (and a code mismatch)",
+   "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. Two findings from this week's live data:<br/><br/>1. <b>34 creatives point at barbequenation.com</b>, but only 19 sit in the United Foodbrands account — the other 15 come from other accounts. Usually franchise or partner buying, but worth knowing.<br/>2. Your running takeaway ad says 'Use code SAVE35' in the copy and 'Use Code SAVE5' in the image inside the same ad.<br/><br/>The attached audit documents both, with the URLs to check them yourself.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Five URLs your printed material probably still points at",
+   "Hi team,<br/><br/>Second note. /menu, /locations, /book-a-table, /order-online and /terms all return 404 today. Your ad destinations are fine — /ubq-delivery and /deals/unlockspecialdeals both work — but every QR code, menu card and old blog link that uses the conventional URLs dead-ends.<br/><br/>A set of redirects fixes it in an afternoon and costs nothing.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): Your offers are not visible in your own reporting",
+   "Hi team,<br/><br/>Third note, about measurement rather than creative. You have a tag manager, Meta's script and Razorpay in place — a sound stack. What I cannot see from outside is any event tied to the offer codes (SAVE35, or the pay-day offer expiring 11 October).<br/><br/>Without that, an offer can only be judged by counting orders, which cannot separate the offer's effect from the campaign's. One dataLayer push per code settles it permanently.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Barbeque Nation",
+   "Hi team,<br/><br/>Final note. The audit's three fixes are: align the code in the takeaway ad, redirect the five dead paths, and instrument offer-code redemption.<br/><br/>We work with F&amp;B brands across Bengaluru. If a short call on any of the three is useful, I am happy to make time — and if not, the audit stands on its own.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "HIGH",
+   "Fifteen creatives for your domain are paid for by accounts that are not yours"
+  ],
+  [
+   "HIGH",
+   "The URLs people guess — menu, locations, ordering — all return 404"
+  ],
+  [
+   "MEDIUM",
+   "Paid social is running as a discount channel while the brand leans on experience"
+  ],
+  [
+   "MEDIUM",
+   "The takeaway ad's copy and its own creative show two different codes"
+  ],
+  [
+   "NOTE",
+   "The public web presence is a marketing site, not the ordering system"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}

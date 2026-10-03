@@ -1,6 +1,6 @@
-# Food / Bengaluru - All Email Sequences (11 brands x 4 emails)
+# Food / Bengaluru - All Email Sequences (21 brands x 4 emails)
 
-> Verified live on **02 OCT 2026**. Every audit number traces to a live source (see each PDF's 'Audit Basis' box).
+> Verified live on **02–03 OCT 2026** (first eleven: 02 Oct 2026; ten added: 03 Oct 2026). Every audit number traces to a live source - see each PDF's audit-basis box and VERIFY-THE-DATA.md.
 > Send as plain text or paste into your email tool; the `<br/>` tags convert to line breaks in HTML mode.
 
 ## Lead table
@@ -9,15 +9,25 @@
 |---|-------|----------------------|-----------------|-------|
 | 1 | Akshayakalpa Organic | support@akshayakalpa.org | 400 | 8/10 |
 | 2 | Anand Sweets | care@anandsweets.net | 58 | 8/10 |
-| 3 | Milky Mist | customercare@milkymist.com | 3 | 8/10 |
-| 4 | iD Fresh Food | customercare@idfreshfood.com | 1 | 8/10 |
-| 5 | Chai Point | customercare@chaipoint.com | 56 | 7/10 |
-| 6 | Cothas Coffee | customercare@cothas.com | 77 | 7/10 |
-| 7 | Early Foods | hello@earlyfoods.com | 30 | 7/10 |
-| 8 | Licious | talktous@licious.com | 300 | 7/10 |
-| 9 | The Baker's Dozen | fresh@thebakersdozen.in | 35 | 7/10 |
-| 10 | Third Wave Coffee | orders@thirdwavecoffee.in | 0 | 7/10 |
-| 11 | Frozen Bottle | vipul@frozenbottle.in | 11 | 6/10 |
+| 3 | Barbeque Nation | feedback@barbequenation.com | 34 | 8/10 |
+| 4 | Milky Mist | customercare@milkymist.com | 3 | 8/10 |
+| 5 | Millet Amma | eatright@milletamma.com | 80 | 8/10 |
+| 6 | Organic Mandya | support@organicmandya.com | 67 | 8/10 |
+| 7 | SMOOR | info@smoorchocolates.com | 22 | 8/10 |
+| 8 | Sid's Farm | wecare@sidsfarm.com | 35 | 8/10 |
+| 9 | iD Fresh Food | customercare@idfreshfood.com | 1 | 8/10 |
+| 10 | Adukale | info@adukale.com | 13 | 7/10 |
+| 11 | Araku Coffee | customercare@arakuoriginals.com | 200 | 7/10 |
+| 12 | Brik Oven | theteam@brikoven.com | 25 | 7/10 |
+| 13 | Chai Point | customercare@chaipoint.com | 56 | 7/10 |
+| 14 | Cothas Coffee | customercare@cothas.com | 77 | 7/10 |
+| 15 | Early Foods | hello@earlyfoods.com | 30 | 7/10 |
+| 16 | Eat Better Co | care@eatbetterco.com | 29 | 7/10 |
+| 17 | Licious | talktous@licious.com | 300 | 7/10 |
+| 18 | Pure & Sure | info@pureandsure.in | 37 | 7/10 |
+| 19 | The Baker's Dozen | fresh@thebakersdozen.in | 35 | 7/10 |
+| 20 | Third Wave Coffee | orders@thirdwavecoffee.in | 0 | 7/10 |
+| 21 | Frozen Bottle | vipul@frozenbottle.in | 11 | 6/10 |
 
 ---
 
@@ -26,7 +36,7 @@
 **Entity:** Akshayakalpa Farms & Foods Pvt Ltd  
 **Audit:** `audits/akshayakalpa-organic-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): ~400 live ads - and a California placeholder address on the landing page
+## Email 1 (Day 1): ~400 live ads - and a California placeholder address on the landing page
 
 ```
 Hi team,
@@ -42,7 +52,7 @@ Attached is the 7-page Paid Media and Measurement Audit, including what I would 
 P.S. I am writing to your published support address because the site does not list a marketing or partner contact - that is itself one of the findings.
 ```
 
-## Email 2 - Email 2 (Day 3): The problem with 400 creatives
+## Email 2 (Day 3): The problem with 400 creatives
 
 ```
 Hi team,
@@ -56,7 +66,7 @@ I can show you the ranking framework we use - it takes about 20 minutes to walk 
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): You are turning away B2B demand
+## Email 3 (Day 7): You are turning away B2B demand
 
 ```
 Hi team,
@@ -70,7 +80,7 @@ Happy to map the flow (form, follow-up, pricing-on-request).
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Akshayakalpa
+## Email 4 (Day 14): Closing the file on Akshayakalpa
 
 ```
 Hi team,
@@ -89,7 +99,7 @@ The audit is yours to keep. If you would like help, we would start with the crea
 **Entity:** ANAND SWEETS AND SAVOURIES LLP  
 **Audit:** `audits/anand-sweets-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): Your ads are sending buyers to Swiggy - the Anand Sweets audit
+## Email 1 (Day 1): Your ads are sending buyers to Swiggy - the Anand Sweets audit
 
 ```
 Hi team,
@@ -103,7 +113,7 @@ Attached is the 7-page Paid Media and Measurement Audit. Open to a 15-minute cal
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): Corporate gifting is your highest-value leak
+## Email 2 (Day 3): Corporate gifting is your highest-value leak
 
 ```
 Hi team,
@@ -117,7 +127,7 @@ One 500-box order pays for the campaign many times over. I can share the full st
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Own the festival calendar in Bengaluru
+## Email 3 (Day 7): Own the festival calendar in Bengaluru
 
 ```
 Hi team,
@@ -131,7 +141,7 @@ Happy to walk through the calendar we would build for you.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Anand Sweets
+## Email 4 (Day 14): Closing the file on Anand Sweets
 
 ```
 Hi team,
@@ -145,12 +155,70 @@ The document is yours regardless. If you would like us to implement the gifting 
 
 ---
 
+# Barbeque Nation
+**Contact:** feedback@barbequenation.com · 08064058059  
+**Entity:** United Foodbrands Limited (site: Barbeque Nation Hospitality Limited)  
+**Audit:** `audits/barbeque-nation-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): 15 creatives on your domain that are not yours (and a code mismatch)
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. Two findings from this week's live data:
+
+1. **34 creatives point at barbequenation.com**, but only 19 sit in the United Foodbrands account — the other 15 come from other accounts. Usually franchise or partner buying, but worth knowing.
+2. Your running takeaway ad says 'Use code SAVE35' in the copy and 'Use Code SAVE5' in the image inside the same ad.
+
+The attached audit documents both, with the URLs to check them yourself.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Five URLs your printed material probably still points at
+
+```
+Hi team,
+
+Second note. /menu, /locations, /book-a-table, /order-online and /terms all return 404 today. Your ad destinations are fine — /ubq-delivery and /deals/unlockspecialdeals both work — but every QR code, menu card and old blog link that uses the conventional URLs dead-ends.
+
+A set of redirects fixes it in an afternoon and costs nothing.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Your offers are not visible in your own reporting
+
+```
+Hi team,
+
+Third note, about measurement rather than creative. You have a tag manager, Meta's script and Razorpay in place — a sound stack. What I cannot see from outside is any event tied to the offer codes (SAVE35, or the pay-day offer expiring 11 October).
+
+Without that, an offer can only be judged by counting orders, which cannot separate the offer's effect from the campaign's. One dataLayer push per code settles it permanently.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Barbeque Nation
+
+```
+Hi team,
+
+Final note. The audit's three fixes are: align the code in the takeaway ad, redirect the five dead paths, and instrument offer-code redemption.
+
+We work with F&B brands across Bengaluru. If a short call on any of the three is useful, I am happy to make time — and if not, the audit stands on its own.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
 # Milky Mist
 **Contact:** customercare@milkymist.com · 1800-419-9000  
 **Entity:** Milky Mist Dairy Food Limited  
 **Audit:** `audits/milky-mist-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 3 live Google ads for an IPO-bound dairy major
+## Email 1 (Day 1): 3 live Google ads for an IPO-bound dairy major
 
 ```
 Hi team,
@@ -164,7 +232,7 @@ Attached is the 7-page Paid Media and Measurement Audit. Open to 15 minutes?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): The dairy subscription you are not selling
+## Email 2 (Day 3): The dairy subscription you are not selling
 
 ```
 Hi team,
@@ -178,7 +246,7 @@ I can share the offer mechanics and retention benchmarks we use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Two websites, two journeys
+## Email 3 (Day 7): Two websites, two journeys
 
 ```
 Hi team,
@@ -192,7 +260,7 @@ Happy to map the handoff structure.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Milky Mist
+## Email 4 (Day 14): Closing the file on Milky Mist
 
 ```
 Hi team,
@@ -206,12 +274,247 @@ The audit is yours to keep. If you would like to start, the search moat is the f
 
 ---
 
+# Millet Amma
+**Contact:** eatright@milletamma.com · +91 7624979333  
+**Entity:** Urban Monk Private Limited  
+**Audit:** `audits/millet-amma-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): 80 live ads — and one of them left in Google's archive with placeholders showing
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands, and your account stands out: **80 live Google creatives** under Urban Monk Private Limited, with video and local formats in the mix.
+
+One thing worth fixing fast: a local-ad creative in Google's public archive still shows the template strings '{KeyWord:Millet Amma}' and '&lt;Rating (Reviews)&gt; · &lt;Distance&gt; · Bengaluru', last shown 15 July. Anyone can open it.
+
+The attached audit has that URL plus every measurement behind it.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Two analytics properties are counting the same visitors
+
+```
+Hi team,
+
+Second finding, this one numerical. Your storefront loads two GA4 properties at once — G-WH82716CE0 and G-N659GJMWCX — alongside your Ads tag. Two properties means every session is counted twice and no report agrees with another.
+
+Consolidating to one is an hour of work with an infrastructure-grade payoff: one number everyone can argue with.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Your best trust asset is not in your ads
+
+```
+Hi team,
+
+Third note. Your footer says 'Watch us on Shark Tank India'. Your paid creative says 'A sweet that feels like home, without the refined sugar' — which is genuinely good copy, but it is not the credential.
+
+National-TV proof in the first line of a hook is a cheap test with a clear read after two weeks. Worth trying before the festive season.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Millet Amma
+
+```
+Hi team,
+
+Wrapping up. The audit comes down to: consolidate the two GA4 properties, rebuild four missing pages (FAQ, store locator, bulk, corporate gifting), and refresh the local-ad set.
+
+If you would like help on the measurement side first — the fastest of the three — reply and I will send a step-by-step.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
+# Organic Mandya
+**Contact:** support@organicmandya.com · +91 95909 22000  
+**Entity:** Mandya Organic Foods Private Limited  
+**Audit:** `audits/organic-mandya-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): You have the best delivery promise in the category — and none of your ads say it
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. Your site promises **2-hour delivery in Bengaluru, Hyderabad and Mysuru** (₹49 under ₹500, free above). Your live Google creative — I captured 'organic rajmudi rice (rajamudi) — karnataka's heritage red rice' — sells the product instead.
+
+You own a claim most organic brands cannot make. The attached audit shows where it is missing and what to test first.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): 69 Google creatives, and roughly two Meta results
+
+```
+Hi team,
+
+Second finding. Your Google account holds 69 creatives. On Meta, the brand term returns about two active results — one of them yours, pointing at a category collection.
+
+Collection-level ads against a visual grocery catalogue is exactly the right structure for a basket business. Two ads is a test that was never scaled; the attached audit describes the first three campaigns I would run.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Your custom dataLayer is doing nothing yet
+
+```
+Hi team,
+
+Third note, and it is a compliment with a gap attached. Your storefront pushes custom events called gtm-promo, gtm-creative, gtm-position and gtm-destination. Someone built a real measurement plan.
+
+None of it changes your reports until those events are mapped to GA4 key events and imported into Google Ads. That is configuration, not development — and it is the difference between guessing and knowing which collection earns its spend.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Organic Mandya
+
+```
+Hi team,
+
+Wrapping up. Three moves: put the two-hour promise into the ad copy, map the dataLayer events into conversions, and give corporate gifting a page.
+
+If the corporate-gifting idea interests you, I can share the page structure we use — it is the fastest of the three to prove out.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
+# SMOOR
+**Contact:** info@smoorchocolates.com · +91 8822201202  
+**Entity:** Bliss Chocolates India Private Limited  
+**Audit:** `audits/smoor-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): 22 live Google ads — and two enquiry pages that go nowhere
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. I went through your live footprint this week: **22 Google creatives** running under Bliss Chocolates India Private Limited, including Shopping ads, plus three Meta creatives selling corporate gifting into your /pages/corporate-gifting page.
+
+Two things worth ten minutes: /pages/contact and /pages/bulk-enquiry both return 404 today, and your live offer excludes celebration cakes — the category most people arrive for.
+
+The attached Paid Media & Measurement Audit has the full picture, with the URL for every claim.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Your Shopping titles are doing too much work
+
+```
+Hi team,
+
+Second thought from the audit. One of your live Shopping titles is: 'Elsa and Anna Cake | Frozen Theme Birthday Cake | Elsa & Anna Kids Designer Cake | Princess Celebration Cake by SMOOR | 1.5 Kg'.
+
+That title is optimised for matching, not for the person reading it on a phone. A feed pass over the five longest titles usually improves click-through before any bid change — and it costs nothing.
+
+Happy to send the rewritten titles as a starting point.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): You are selling to companies — is the quote tracked?
+
+```
+Hi team,
+
+Third thought. All three of your verified Meta creatives point at the corporate-gifting page and ask for a quote. The page works; the ads are well aimed.
+
+What I cannot see from outside is whether a quote request fires a tracked event. If it does not, that campaign can only ever be judged on clicks. One event on the form makes the whole quarter's gifting push measurable.
+
+Worth a check before the Diwali window closes.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on SMOOR
+
+```
+Hi team,
+
+Last note from me. The audit's three fixes are deliberately small: redirect two dead enquiry URLs, rewrite the five longest Shopping titles, and put one tracked event behind the corporate-gifting quote form.
+
+If the timing is wrong, no problem — reply 'later' and I will leave it there.
+
+The audit is yours either way.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
+# Sid's Farm
+**Contact:** wecare@sidsfarm.com  
+**Entity:** Sids Farm Private Limited  
+**Audit:** `audits/sid-s-farm-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): Seven 404s under a paid engine that is working
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. Your paid side is genuinely good: around **200 creatives** in the account, three Meta creatives verified by ID running since April and August, and an app landing URL with proper campaign macros attached.
+
+Underneath it, seven standard pages return 404 today — contact, FAQ, shipping policy, store locator, bulk and corporate-gifting. For a subscription where the first order is a trust decision, those are the most expensive pages on the site.
+
+The attached audit lists every URL and every measurement.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Two settings worth checking today
+
+```
+Hi team,
+
+Two configuration findings from the audit, both verifiable in your own dashboard.
+
+1. Two Google Tag Manager containers load on the same page (GTM-57TDVNH and GTM-P4DXD97J). That pattern normally produces duplicated purchase or signup events.
+2. Your store config reads meta_pixel_enable: false with an empty pixel ID — while Meta ads are running. It may be fired through GTM instead, but that is worth knowing for certain.
+
+Both take an hour to settle and both decide whether ROAS discussions are winnable.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Your Meta copy is a template for the rest of the category
+
+```
+Hi team,
+
+Third note, this one a compliment. 'No diet changes. No extra effort. Just your everyday milk, now with 22g protein in every pack.' is the right way to sell a subscription — a product change, not a discount.
+
+The same story is missing on the site: the pages that explain testing have no equivalent. If you want, I will map the three pages (testing, delivery, subscription terms) against what your Meta traffic actually asks.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Sid's Farm
+
+```
+Hi team,
+
+Wrapping up. The audit comes down to three fixes: publish the four missing trust pages, settle the double container and the pixel setting, and report app and website growth as one number.
+
+No pressure at all — if you would rather just take the page list and run with it internally, that is a perfectly good outcome.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
 # iD Fresh Food
 **Contact:** customercare@idfreshfood.com · +91 9739910521  
 **Entity:** iD Fresh Food (India) Pvt Ltd  
 **Audit:** `audits/id-fresh-food-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): INR 681 Cr revenue, one live Google ad - here is the audit
+## Email 1 (Day 1): INR 681 Cr revenue, one live Google ad - here is the audit
 
 ```
 Hi team,
@@ -225,7 +528,7 @@ I have attached the 7-page Paid Media and Measurement Audit, including the subsc
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): The category searches you are not buying
+## Email 2 (Day 3): The category searches you are not buying
 
 ```
 Hi team,
@@ -239,7 +542,7 @@ I can send the keyword clusters and geo-split structure we would use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Subscribe-and-save is your pre-IPO revenue line
+## Email 3 (Day 7): Subscribe-and-save is your pre-IPO revenue line
 
 ```
 Hi team,
@@ -253,7 +556,7 @@ Happy to map the mechanics (offer, cadence, retention curve) for you.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on iD Fresh
+## Email 4 (Day 14): Closing the file on iD Fresh
 
 ```
 Hi team,
@@ -267,12 +570,179 @@ The audit is yours. If you want, we can start with the search structure and show
 
 ---
 
+# Adukale
+**Contact:** info@adukale.com · +91 9035462696  
+**Entity:** Sankethi Nutriments Private Limited  
+**Audit:** `audits/adukale-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): Your ads still land on a site that sends buyers to Amazon
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. Your storefront now says: 'All purchases from this site will now be completed through Amazon.' At the same time, **13 Google creatives** are live for adukale.com.
+
+That combination has an obvious cost: paid clicks that either lose the sale or hand your customer record to Amazon. The attached audit lays out the two clean ways to resolve it.
+
+Everything in it is dated and sourced.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Three Shopping ads are pulled — and that is usually fixable in a day
+
+```
+Hi team,
+
+Second finding. One of your archived Shopping ads shows 'Last shown: Nov 28, 2025', with all three of its variations carrying Google's notice 'Removed for a policy violation': Sambar Powder, Chutney Powder 200g and Kayi Kodubale 180g.
+
+PLA removals are usually feed-level — price, availability or a landing-page mismatch — and are resolved in Merchant Center. Worth knowing, because Shopping is the visible engine in your account.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Two visible defects on the live storefront
+
+```
+Hi team,
+
+Third note, and these are two five-minute fixes on live pages. Your pickup block still shows the Shopify template address: '123 John Doe Street, Your Town, YT 12345', next to your real pickup point at Mallathalli.
+
+And the email icon in your footer is coded without a mailto: prefix (verbatim: &lt;a href="info@adukale.com"&gt;), so a click cannot open a mail client. The address reads correctly, which is why nobody has noticed.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Adukale
+
+```
+Hi team,
+
+Last note. The audit boils down to one decision — where the paid click should end while Amazon is the checkout — plus three small fixes (placeholder address, mailto, Merchant Center feed).
+
+If a 20-minute call on the routing question would help, I am happy to make time. Otherwise the audit is yours to use internally.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
+# Araku Coffee
+**Contact:** customercare@arakuoriginals.com · +91 9000394000  
+**Entity:** Araku Originals Pvt Ltd  
+**Audit:** `audits/araku-coffee-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): ~200 live creatives — and every Shopping click filed as organic
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food and beverage brands. Your account is the largest I looked at this week: **~200 live creatives** under Araku Originals Pvt Ltd, including Shopping ads for the Moka Pot and the Chemex, plus café listings with reserve actions.
+
+One reporting problem sits underneath all of it: every Shopping click carries utm_campaign=sag_organic, so GA4 files your paid traffic as organic. The attached audit shows the exact URL and the fix.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Your cafés and your store share one advertiser account
+
+```
+Hi team,
+
+Second finding. In the same account I can see a local listing for 'ARAKU Coffee' with Directions and Reserve, and Shopping ads for brewing equipment landing on product pages.
+
+Two different businesses, one set of conversions — which means nobody can say whether a rupee bought a café visit or a bag of beans. Separating the conversion actions takes an afternoon and makes your budget conversations evidence-based.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): On Meta, your brand name returns somebody else's business first
+
+```
+Hi team,
+
+Third note, and it is delicate. Searching your brand term on Meta surfaces third-party placements ahead of your own — a partner workshop carrying the name, and a separately-trading café. Neither looks hostile, but it means brand search on Meta is not currently yours.
+
+Worth a look at the account level together with whoever manages partner activity.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Araku Coffee
+
+```
+Hi team,
+
+Wrapping up. The audit's three moves: correct the sag_organic tag in the feed, separate café and e-commerce conversions, and add redirects from the conventional URL handles.
+
+The first is a few minutes of work with immediate effect on every report your team reads. Happy to walk someone through it if useful.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
+# Brik Oven
+**Contact:** theteam@brikoven.com  
+**Entity:** Brik Oven Pvt Ltd  
+**Audit:** `audits/brik-oven-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): Your store ads are excellent — and the booking click leaves your domain
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. Your local ads are the best-constructed set I have seen this month: store-level creatives for Manyata Business Park and Palace Road with directions, call and reserve actions.
+
+One structural problem: the reservation CTA goes to widget.reservego.co — so the booking data, the no-show list and the store-level attribution belong to the widget, not to you. The attached audit explains what moving it back would give you.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Nine URLs your customers type, all returning 404
+
+```
+Hi team,
+
+Second finding. /contact-us, /menu, /book-a-table, /locations and /order-online all return 404 today (along with about-us, faq, privacy-policy and terms).
+
+Your paid traffic is driven by store-level intent — people looking for pizza near a specific outlet. Those are exactly the visitors most likely to book, and today the obvious URLs dead-end. Redirects are an afternoon's work.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): The Palace Road breakfast ad stopped in July
+
+```
+Hi team,
+
+Third note. Google's archive shows your Palace Road breakfast creative — 'Smoked Ham Bagel Mornings — Sourdough sandwiches, bagels & toasties. Open 8AM-11AM daily' — with 'Last shown: Jul 23, 2026'.
+
+The creative is good; it just is not running while the stores are. A monthly five-minute review of which store ads are live keeps the set earning.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Brik Oven
+
+```
+Hi team,
+
+Wrapping up. Two moves matter most here: put a booking form on your own domain, and redirect the nine dead paths. After that, a monthly review keeps the local-ad set current.
+
+If a short call on the booking flow would be useful, I can bring the structure we use for restaurant groups.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
 # Chai Point
 **Contact:** customercare@chaipoint.com · +91 88801 41000  
 **Entity:** Mountain Trail Foods Pvt Ltd  
 **Audit:** `audits/chai-point-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 8,100 workplaces, 150+ Brewing Bots, no paid B2B funnel
+## Email 1 (Day 1): 8,100 workplaces, 150+ Brewing Bots, no paid B2B funnel
 
 ```
 Hi team,
@@ -286,7 +756,7 @@ Attached: the 7-page Paid Media and Measurement Audit. Worth 15 minutes?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): The Brewing Bot deserves a demo funnel
+## Email 2 (Day 3): The Brewing Bot deserves a demo funnel
 
 ```
 Hi team,
@@ -300,7 +770,7 @@ Happy to share the page structure and the exact targeting we would use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): 150 stores, zero store-radius campaigns
+## Email 3 (Day 7): 150 stores, zero store-radius campaigns
 
 ```
 Hi team,
@@ -312,7 +782,7 @@ Third finding from the audit. With 150+ stores in 19 cities, you are competing w
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Chai Point
+## Email 4 (Day 14): Closing the file on Chai Point
 
 ```
 Hi team,
@@ -331,7 +801,7 @@ The audit is yours to keep. If you want, we can start with the B2B demo funnel t
 **Entity:** Cothas Coffee Co.  
 **Audit:** `audits/cothas-coffee-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit
+## Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit
 
 ```
 Hi team,
@@ -345,7 +815,7 @@ Attachment: the 7-page Paid Media and Measurement Audit. Worth a short call?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): Your vending line is a B2B lead engine waiting to happen
+## Email 2 (Day 3): Your vending line is a B2B lead engine waiting to happen
 
 ```
 Hi team,
@@ -359,7 +829,7 @@ I can share the page structure we use for F&B B2B funnels if useful.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Free creatives: your customers' morning filter coffee
+## Email 3 (Day 7): Free creatives: your customers' morning filter coffee
 
 ```
 Hi team,
@@ -373,7 +843,7 @@ Happy to map the full 30-day plan.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Cothas
+## Email 4 (Day 14): Closing the file on Cothas
 
 ```
 Hi team,
@@ -392,7 +862,7 @@ No pressure if now is not the time. If you want, we can start with just the vend
 **Entity:** Early Foods Pvt Ltd  
 **Audit:** `audits/early-foods-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 30 live ads for Early Foods - the trust gap in the first 5 seconds
+## Email 1 (Day 1): 30 live ads for Early Foods - the trust gap in the first 5 seconds
 
 ```
 Hi team,
@@ -406,7 +876,7 @@ Attached: the 7-page Paid Media and Measurement Audit. Open to 15 minutes?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): Your best creative is sitting in your customers' kitchens
+## Email 2 (Day 3): Your best creative is sitting in your customers' kitchens
 
 ```
 Hi team,
@@ -420,7 +890,7 @@ Happy to share the brief and permission/consent flow.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Baby food is a 2-year subscription - is it priced like one?
+## Email 3 (Day 7): Baby food is a 2-year subscription - is it priced like one?
 
 ```
 Hi team,
@@ -434,7 +904,7 @@ Want me to map the bundle ladder against your SKUs?
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Early Foods
+## Email 4 (Day 14): Closing the file on Early Foods
 
 ```
 Hi team,
@@ -450,12 +920,69 @@ The audit is yours. If you want to start, the UGC engine is the fastest win.
 
 ---
 
+# Eat Better Co
+**Contact:** care@eatbetterco.com · +91 9829188706  
+**Entity:** Eat Better Ventures Private Limited  
+**Audit:** `audits/eat-better-co-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): Your Shopping feed is advertising 1% off
+
+```
+Hi team,
+
+I audit paid media for food brands. Running through your live Shopping ads this week, three stood out: four of them carry discount badges: **[-1%]** on quinoa namkeen, **[-2%]** on the sweet crunchy nut mix and again on a ragi bundle, and **[-6%]** on trail mix 100g.
+
+A 1% badge reads as an offer and delivers a rounding error. Either removing the badge or repricing fixes it, and both are feed-level decisions made once.
+
+The attached audit shows the listings and everything else I measured.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): Your policy pages send customers to a different domain
+
+```
+Hi team,
+
+Second finding. Your contact and refund pages publish care@eatbetterco.com; your privacy and shipping pages publish connect@gottaeatbetter.com.
+
+A customer who reads your shipping policy and then writes to that address has been sent to a domain they have never seen. One canonical address with the other as a forwarding alias solves it in minutes.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): You have a Meta Lead event — inside one form
+
+```
+Hi team,
+
+Third note, and it is a good sign with a caveat. Your enquiry form is configured with a Meta pixel (3182482251838473) and fires a custom Lead event on submit, then sends people to your Diwali hampers collection.
+
+That works — but a Lead event that fires from one form only is a single point of failure, and it means the pixel cannot see any other page. The attached audit explains the two ways to extend it.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Eat Better Co
+
+```
+Hi team,
+
+Last note from me. The audit's three moves: clean the sub-10% discounts out of the feed, put one support address across the site, and test the Shark Tank line plus the ₹500 free-shipping threshold in the ad copy.
+
+No reply needed if the timing is wrong — the audit is yours either way.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
 # Licious
 **Contact:** talktous@licious.com · 1800-4190-786  
 **Entity:** Delightful Gourmet Pvt Ltd  
 **Audit:** `audits/licious-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit
+## Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit
 
 ```
 Hi team,
@@ -471,7 +998,7 @@ I have attached the 7-page Paid Media and Measurement Audit, all doable without 
 P.S. The 0-4C cold-chain story is genuinely your strongest asset. It deserves to be the hero of the landing page, not just the ad.
 ```
 
-## Email 2 - Email 2 (Day 3): The cheapest fix in the Licious audit
+## Email 2 (Day 3): The cheapest fix in the Licious audit
 
 ```
 Hi team,
@@ -485,7 +1012,7 @@ Happy to send the exact URL pattern and the UTM setup we use so your comparison 
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Why your Google spend is thinning out
+## Email 3 (Day 7): Why your Google spend is thinning out
 
 ```
 Hi team,
@@ -499,7 +1026,7 @@ I can walk you through the model in 15 minutes.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Licious
+## Email 4 (Day 14): Closing the file on Licious
 
 ```
 Hi team,
@@ -513,12 +1040,67 @@ If the timing is wrong, no problem - the file stays accurate for roughly a quart
 
 ---
 
+# Pure & Sure
+**Contact:** info@pureandsure.in · 1800 121 0369  
+**Entity:** Phalada Organic Consumer Products Private Limited  
+**Audit:** `audits/pure-sure-paid-media-measurement-audit.pdf`  
+
+## Email 1 (Day 1): Your Shopping clicks are being reported as organic traffic
+
+```
+Hi team,
+
+I audit paid media for Bengaluru food brands. One finding from your live data that is worth fixing this week: your Shopping feed's tracking template writes **utm_campaign=sag_organic** into every paid click — I captured it on your Organic Ghee landing URL.
+
+In GA4 that traffic is filed as organic, so your paid Shopping investment currently looks like free traffic. The attached audit shows the exact URL and the fix.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 2 (Day 3): The 404s that follow a theme rebuild
+
+```
+Hi team,
+
+Second finding. Five conventional paths return 404 today: /pages/contact-us, /pages/about-us, /pages/store-locator, /pages/bulk-enquiry and /pages/corporate-gifting — while /pages/contact works.
+
+That pattern is normal after a rebuild and invisible until a partner, a press link or a customer types the obvious URL. Redirects are an afternoon and permanent.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 3 (Day 7): Two support addresses, one question
+
+```
+Hi team,
+
+Third note, quick. Your contact and shipping pages publish info@pureandsure.in; your cart and collection pages publish care@pureandsure.in.
+
+That is fine if both forward into one inbox — less fine if a customer writes to the wrong one and waits. Worth a two-minute check inside the team.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+## Email 4 (Day 14): Closing the file on Pure &amp; Sure
+
+```
+Hi team,
+
+Wrapping up. Three moves: fix the sag_organic tag, redirect the five dead handles, and get a clean read on Meta so the channel question can be answered with numbers.
+
+If a short call on the reporting fix would be useful, I am happy to walk your team through the five-minute change.
+
+- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com
+```
+
+---
+
 # The Baker's Dozen
 **Contact:** fresh@thebakersdozen.in · +91 9082857741  
 **Entity:** Mimansa Industries Pvt Ltd  
 **Audit:** `audits/the-baker-s-dozen-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land
+## Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land
 
 ```
 Hi team,
@@ -532,7 +1114,7 @@ Attached is the 7-page Paid Media and Measurement Audit. Open to a short call?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): The 'Find your loaf' page
+## Email 2 (Day 3): The 'Find your loaf' page
 
 ```
 Hi team,
@@ -546,7 +1128,7 @@ I can share the wireframe we would use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): 1M sourdoughs is a paid-media asset
+## Email 3 (Day 7): 1M sourdoughs is a paid-media asset
 
 ```
 Hi team,
@@ -560,7 +1142,7 @@ Happy to mock up three creatives around the milestone.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on The Baker's Dozen
+## Email 4 (Day 14): Closing the file on The Baker's Dozen
 
 ```
 Hi team,
@@ -579,7 +1161,7 @@ The audit is yours to keep. If you want us to start, the availability page is a 
 **Entity:** Third Wave Coffee  
 **Audit:** `audits/third-wave-coffee-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): Verified - zero live Google ads for Third Wave
+## Email 1 (Day 1): Verified - zero live Google ads for Third Wave
 
 ```
 Hi team,
@@ -593,7 +1175,7 @@ I have attached the 7-page Paid Media and Measurement Audit, starting with the o
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): Local campaigns for your top 10 outlets
+## Email 2 (Day 3): Local campaigns for your top 10 outlets
 
 ```
 Hi team,
@@ -607,7 +1189,7 @@ I can share the campaign structure and offer mechanics we would use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Beans are a subscription, not a product
+## Email 3 (Day 7): Beans are a subscription, not a product
 
 ```
 Hi team,
@@ -619,7 +1201,7 @@ One more thing worth fixing before you scale spend: the storefront runs 8+ apps 
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Third Wave
+## Email 4 (Day 14): Closing the file on Third Wave
 
 ```
 Hi team,
@@ -638,7 +1220,7 @@ If it helps, the audit is yours to keep regardless of whether we work together. 
 **Entity:** Munchbox Frozen Foods Pvt Ltd  
 **Audit:** `audits/frozen-bottle-paid-media-measurement-audit.pdf`  
 
-## Email 1 - Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel
+## Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel
 
 ```
 Hi team,
@@ -654,7 +1236,7 @@ Attached is the 7-page Paid Media and Measurement Audit. Worth 15 minutes?
 - Smart Pursuit, Bengaluru | 7095024220
 ```
 
-## Email 2 - Email 2 (Day 3): The franchise funnel maths
+## Email 2 (Day 3): The franchise funnel maths
 
 ```
 Hi team,
@@ -668,7 +1250,7 @@ Happy to share the page outline we use.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 3 - Email 3 (Day 7): Lubov deserves its own ads
+## Email 3 (Day 7): Lubov deserves its own ads
 
 ```
 Hi team,
@@ -682,7 +1264,7 @@ I can sketch the first month's creative plan if useful.
 - Smart Pursuit | 7095024220
 ```
 
-## Email 4 - Email 4 (Day 14): Closing the file on Frozen Bottle
+## Email 4 (Day 14): Closing the file on Frozen Bottle
 
 ```
 Hi team,

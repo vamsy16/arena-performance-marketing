@@ -12,7 +12,9 @@ party (spend, ROAS, CPA), the row says so.
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATE = "2 October 2026"
+DATE = "2–3 October 2026"
+DATE1 = "2 October 2026"
+DATE2 = "3 October 2026"
 
 G  = "https://adstransparency.google.com/?region=IN&domain={d}"          # Google, India
 ML = "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&q={q}&search_type=keyword_unordered"
@@ -101,12 +103,21 @@ NOT_VERIFIABLE = [
  ("ROAS and CPA", "Only visible inside the advertiser's own ad accounts and analytics."),
  ("Conversion rates", "Private to the advertiser."),
  ("Internal revenue splits by channel", "Private to the advertiser."),
+ ("Meta ad inventory for four batch-2 brands (Pure & Sure, Eat Better Co, Brik Oven, Araku Coffee)",
+  "Their brand terms return unrelated advertisers in the Meta Ad Library, so no brand-specific Meta count is reported. The audits say NOT MEASURED rather than quoting a noisy number."),
+ ("Google's own header count vs its grid count",
+  "On several accounts Google's header figure and its pagination disagree (for example Adukale 13 vs 26, Barbeque Nation 19 vs 34, Sid's Farm ~200 vs 35 across account and domain views). Both figures are shown with the date; Google does not publish a reconciliation."),
+ ("Checkout, order and payment flows",
+  "Behind the storefront root; not crawled for any lead. Stated as NOT MEASURED in every coverage table."),
+ ("Proof that a tag fires (or does not fire)",
+  "Page-source inspection shows what is configured in the HTML. A tag loaded through a tag manager or a platform layer can be invisible to that method, so the audits never call a tag absent."),
 ]
 
 HEAD = """# Verify the data — every claim, and where to check it
 
-Every number in the 11 audits came from a public surface that you (or the lead) can open.
-This file maps each claim to the exact place it was read on **{date}**.
+Every number in the 21 audits came from a public surface that you (or the lead) can open.
+This file maps each claim to the exact place it was read: the first eleven audits on
+**2 October 2026**, the ten added leads on **3 October 2026**.
 
 Three ground rules used throughout:
 
@@ -136,15 +147,21 @@ Three ground rules used throughout:
 """
 
 
+from batch2_evidence import VERIFY2 as _VERIFY2, E2 as _E2   # noqa: E402
+
+ROWS.update(_VERIFY2)
+
+
 def main():
     out = ROOT / "VERIFY-THE-DATA.md"
     body = [HEAD.format(date=DATE,
                         notverifiable="\n".join(f"| {a} | {b} |" for a, b in NOT_VERIFIABLE))]
-    from evidence_data import E
+    from evidence_data import E as _E1
+    E = {**_E1, **_E2}
     for slug, lead in E.items():
         body.append(f"### {lead['brand']}\n")
         body.append(f"Site: `{lead['prepared_for_line'].split('·')[0].strip()}` · "
-                    f"measured {DATE}\n")
+                    f"measured {DATE2 if slug in _E2 else DATE1}\n")
         body.append("| Claim in the audit | Where to check it | Link | What you should see |")
         body.append("|---|---|---|---|")
         for claim, where, link, expect in ROWS[slug]:

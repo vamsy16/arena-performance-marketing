@@ -1,0 +1,206 @@
+{
+ "brand": "Araku Coffee",
+ "website": "arakucoffee.in",
+ "instagram": "",
+ "contact": {
+  "email": "customercare@arakuoriginals.com",
+  "phone": "+91 9000394000",
+  "entity": "Araku Originals Pvt Ltd",
+  "address": "Flagships in Mumbai, Bangalore & Paris (per the brand's own site copy)"
+ },
+ "contact_source": "Crawled from arakucoffee.in (the site footer on the home page) on 03 Oct 2026; the footer carries the brand's telephone number and customercare@arakuoriginals.com.",
+ "niche": "Specialty Coffee",
+ "score": 7,
+ "ads_active": 200,
+ "headline": "Around 200 live creatives — and every Shopping click filed as organic traffic.",
+ "stats": [
+  [
+   "~200",
+   "Google creatives live"
+  ],
+  [
+   "4",
+   "Measurement tags detected"
+  ],
+  [
+   "sag_organic",
+   "Campaign tag on paid clicks"
+  ],
+  [
+   "Bangalore",
+   "Flagship & training campus"
+  ]
+ ],
+ "ad_intro": "Araku Coffee is the largest advertiser in this batch by creative volume: approximately 200 live creatives under Araku Originals Pvt Ltd (verified), spanning Shopping, Local and video formats. The account runs a Moka Pot and a Chemex Coffee Maker as Product Listing Ads alongside store listings with directions and reserve actions — a blend of e-commerce and café marketing in one advertiser. The measurement base is in place (GA4, Google Ads, Clarity, Razorpay). The defect is a feed setting: every Shopping click is tagged utm_campaign=sag_organic, so paid traffic is filed as organic traffic in analytics, and at this creative volume that is a lot of spend being reported as free.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "≈200 creatives under Araku Originals Pvt Ltd (Verified); pagination shows '4 of 80' and '8 of 80'."
+  ],
+  [
+   "Creatives sampled (verbatim)",
+   "'ARAKU Moka Pot' and 'Chemex Coffee Maker 6 cup' (Product Listing Ads, 'Araku Coffee India'); a Local Ad Rendering Service listing for 'ARAKU Coffee' offering 'Carefully Brewed Pour-Overs' with Directions / Start / Reserve actions."
+  ],
+  [
+   "Feed tagging (verbatim)",
+   "Landing URL from the Timemore scale ad: …arakucoffee.in/products/timemore-basic-3-0-electronic-espresso-scale?…&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+  ],
+  [
+   "Measurement stack",
+   "GA4 G-L4DG6J5D15 · Google Ads AW-11305512148 · Microsoft Clarity · Shopify · Razorpay."
+  ],
+  [
+   "Meta",
+   "86 keyword matches for the brand term, first page dominated by third-party placements (a Siemens Home workshop featuring Araku Coffee; a separately-trading 'ARAKU HOUSE' café); brand-owned creatives not confirmed on the first page."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   8,
+   "#22C55E"
+  ],
+  "UGC & Social Proof": [
+   7,
+   "#F59E0B"
+  ],
+  "Copy & Hook Strength": [
+   7,
+   "#F59E0B"
+  ],
+  "Landing Page CRO": [
+   6,
+   "#F59E0B"
+  ],
+  "Tracking & CAPI": [
+   5,
+   "#EF4444"
+  ],
+  "Retargeting Depth": [
+   6,
+   "#F59E0B"
+  ]
+ },
+ "findings": [
+  "<b>Every Shopping click is being filed under 'sag_organic':</b> The feed is tagging paid Shopping traffic with the campaign name 'sag_organic'. In GA4 that traffic is reported as organic, so the account cannot see what Shopping actually earns — and at roughly two hundred creatives, that is a lot of spend being reported as free. Fixing the feed's tracking template is a minutes-long change with immediate effect on every report the team reads.",
+  "<b>The storefront's URL structure is non-standard, so conventional links break:</b> Ad destinations observed in the archive are product URLs, which work — so paid traffic is safe. The risk is everything off-campaign: press coverage, retail partners, café signage and customers typing obvious addresses. Standard redirects from the conventional handles to the real ones remove that risk permanently.",
+  "<b>Café and e-commerce are running in the same account without separation:</b> Two very different businesses — a café visit and a packaged-coffee order — share one advertiser account and one set of conversion actions. Unless the café and the store have separate conversion definitions, the account cannot tell whether a rupee of spend bought a cup or a bag, which makes budget decisions between them arbitrary.",
+  "<b>On Meta, the brand term is being crowded by other businesses:</b> A distinctive brand name is an asset, and it is being spent by others on Meta: a partner using the name in a workshop promotion and a similarly named café in another state. Neither is hostile and neither is confirmed as a problem — but it does mean brand-term searches on Meta return someone else's business before yours, and that is worth a look at the account level.",
+  "<b>Razorpay and a clean tag base are in place across the store:</b> The measurement base and the payment stack are in place, and the entity disclosure on the site matches the verified advertiser — which is exactly what a brand with a co-operative origin story needs in order to be credible. The work here is in reporting hygiene, not rebuilding."
+ ],
+ "competitors": [
+  [
+   "Specialty roasters with Bangalore cafés",
+   "Owner-led storytelling and subscription clubs.",
+   "Araku's seed-to-cup and plantation story is stronger; the paid account has the volume to tell it, the reporting just cannot see it clearly."
+  ],
+  [
+   "Home-brewing equipment retailers",
+   "Own the 'moka pot', 'chemex', 'espresso scale' searches.",
+   "Araku is already bidding there — separate those campaigns from the café so both can be judged."
+  ],
+  [
+   "Third parties using the brand name",
+   "Ride the brand's search equity on Meta.",
+   "Worth a look at the account level to see whether partner placements are intended."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Fix the sag_organic campaign tag",
+   "Minutes in the feed settings; until then every Shopping click is reported as organic traffic.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - Separate café and e-commerce conversions",
+   "Two conversion actions, two views of spend, a defensible budget split between the store and the cafés.",
+   "#F59E0B",
+   "#FFFBEB"
+  ],
+  [
+   "WIN 3 - Add redirects from the conventional handles",
+   "contact-us, about-us, faq, menu and locations should land on the pages that exist — for every third-party and printed link in circulation.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Channel reporting",
+   "Paid Shopping tagged sag_organic",
+   "Correct the feed tracking",
+   "Paid performance becomes visible"
+  ],
+  [
+   "Café vs store",
+   "One account, one conversion view",
+   "Separate conversion actions",
+   "Budget decisions stop being arbitrary"
+  ],
+  [
+   "URL handling",
+   "Conventional paths 404",
+   "Redirects to real pages",
+   "Off-campaign links keep working"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: ≈200 creatives under Araku Originals Pvt Ltd (Verified); Moka Pot and Chemex PLAs and the café Local Ad Listing captured verbatim; Timemore landing URL with sag_organic tagging.",
+  "arakucoffee.in, 3 Oct 2026: G-L4DG6J5D15, AW-11305512148, Clarity, Razorpay; footer with customercare@arakuoriginals.com, +91-9000394000 and '© Araku Originals Pvt Ltd., 2026'; homepage copy naming flagships in Mumbai, Bangalore & Paris.",
+  "Meta Ad Library (country IN), 3 Oct 2026: 86 keyword matches, first page third-party — recorded as not confirmed for the brand's own creatives.",
+  "≈200 live Google creatives — check: https://adstransparency.google.com/?region=IN&domain=arakucoffee.in",
+  "Shopping ads running with 'sag_organic' campaign tagging — check: https://adstransparency.google.com/advertiser/AR16285151475322060801?region=IN",
+  "Local ads for the café alongside store product ads — check: https://adstransparency.google.com/advertiser/AR16285151475322060801?region=IN",
+  "GA4 G-L4DG6J5D15 · AW-11305512148 · Razorpay — check: https://arakucoffee.in",
+  "customercare@arakuoriginals.com · +91 9000394000 — check: https://arakucoffee.in",
+  "The Bangalore flagship and training campus — check: https://arakucoffee.in",
+  "Meta results for the brand term include other businesses — check: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&q=Araku Coffee&search_type=keyword_unordered"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): ~200 live creatives — and every Shopping click filed as organic",
+   "Hi team,<br/><br/>I audit paid media for Bengaluru food and beverage brands. Your account is the largest I looked at this week: <b>~200 live creatives</b> under Araku Originals Pvt Ltd, including Shopping ads for the Moka Pot and the Chemex, plus café listings with reserve actions.<br/><br/>One reporting problem sits underneath all of it: every Shopping click carries utm_campaign=sag_organic, so GA4 files your paid traffic as organic. The attached audit shows the exact URL and the fix.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Your cafés and your store share one advertiser account",
+   "Hi team,<br/><br/>Second finding. In the same account I can see a local listing for 'ARAKU Coffee' with Directions and Reserve, and Shopping ads for brewing equipment landing on product pages.<br/><br/>Two different businesses, one set of conversions — which means nobody can say whether a rupee bought a café visit or a bag of beans. Separating the conversion actions takes an afternoon and makes your budget conversations evidence-based.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): On Meta, your brand name returns somebody else's business first",
+   "Hi team,<br/><br/>Third note, and it is delicate. Searching your brand term on Meta surfaces third-party placements ahead of your own — a partner workshop carrying the name, and a separately-trading café. Neither looks hostile, but it means brand search on Meta is not currently yours.<br/><br/>Worth a look at the account level together with whoever manages partner activity.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Araku Coffee",
+   "Hi team,<br/><br/>Wrapping up. The audit's three moves: correct the sag_organic tag in the feed, separate café and e-commerce conversions, and add redirects from the conventional URL handles.<br/><br/>The first is a few minutes of work with immediate effect on every report your team reads. Happy to walk someone through it if useful.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "HIGH",
+   "Every Shopping click is being filed under 'sag_organic'"
+  ],
+  [
+   "MEDIUM",
+   "The storefront's URL structure is non-standard, so conventional links break"
+  ],
+  [
+   "MEDIUM",
+   "Café and e-commerce are running in the same account without separation"
+  ],
+  [
+   "MEDIUM",
+   "On Meta, the brand term is being crowded by other businesses"
+  ],
+  [
+   "NOTE",
+   "Razorpay and a clean tag base are in place across the store"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}

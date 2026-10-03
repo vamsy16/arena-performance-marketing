@@ -1,0 +1,211 @@
+{
+ "brand": "Eat Better Co",
+ "website": "eatbetterco.com",
+ "instagram": "",
+ "contact": {
+  "email": "care@eatbetterco.com",
+  "phone": "+91 9829188706",
+  "entity": "Eat Better Ventures Private Limited",
+  "address": "A1/A2, Vastushree Colony, 100 Feet Road, Manyawas, Mansarovar, Jaipur, Rajasthan 302020"
+ },
+ "contact_source": "Crawled from eatbetterco.com (contact-us and refund-policy pages: care@ and the registered address; privacy and shipping pages: connect@) on 03 Oct 2026.",
+ "niche": "Healthy Snacks & Corporate Gifting",
+ "score": 7,
+ "ads_active": 29,
+ "headline": "Shopping ads advertising discounts of 1%, 2% and 6% — and a support address on a different domain.",
+ "stats": [
+  [
+   "29",
+   "Google creatives live"
+  ],
+  [
+   "-1%",
+   "Smallest discount in feed"
+  ],
+  [
+   "10 lakh+",
+   "Hampers (brand's figure)"
+  ],
+  [
+   "6",
+   "Findings in this report"
+  ]
+ ],
+ "ad_intro": "Eat Better Co (Eat Better Ventures Private Limited) sells healthy snacks and Diwali hampers from Jaipur, and its paid engine is feed-led: 27 creatives in the account, 29 pointing at eatbetterco.com, dominated by Product Listing Ads. The most quotable finding is in those listings — titles carrying discount badges of −1%, −2% and −6%, which read as a discount and deliver a rounding error. The site is doing more things right than wrong: a corporate-gifting page that publishes 10 lakh+ hampers delivered pan-India for 500+ organisations, a Meta pixel configured inside its enquiry form with a Lead event on submit, and a Shark Tank credential in the title tag. The gaps are consistency: two support addresses on two different domains, five dead conventional paths, and a cash-on-delivery fee the ads never mention.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "27 creatives in the EAT BETTER VENTURES PRIVATE LIMITED account (Verified); 29 creatives at domain level; pagination shows '3 of 54'."
+  ],
+  [
+   "Feed detail (verbatim)",
+   "PLA badges '[-1%]' (quinoa chilli lime namkeen), '[-6%]' (better trail mix 100g), '[-2%]' (sweet crunchy nut mix 100g), '[-2%]' (ragi chips bundle); landing URLs carry utm_campaign=sag_organic."
+  ],
+  [
+   "Measurement stack",
+   "GA4 G-90QE4TSKTH · Google Ads AW-610414449 · Shopify · Judge.me · Meta pixel 3182482251838473 configured inside an embedded form with fbq('trackCustom','Lead') on submit."
+  ],
+  [
+   "Published shipping terms",
+   "Free above ₹500 · prepaid shipping ₹49 · cash-on-delivery ₹79 · 'Most orders are delivered within 3 working days'."
+  ],
+  [
+   "Corporate gifting (brand's figures)",
+   "'10 LAKH+ hampers delivered pan-India · 500+ corporates & organizations · 25 hamper designs this Diwali', hampers from ₹249 to ₹2,499."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   7,
+   "#F59E0B"
+  ],
+  "UGC & Social Proof": [
+   6,
+   "#F59E0B"
+  ],
+  "Copy & Hook Strength": [
+   6,
+   "#F59E0B"
+  ],
+  "Landing Page CRO": [
+   7,
+   "#22C55E"
+  ],
+  "Tracking & CAPI": [
+   5,
+   "#EF4444"
+  ],
+  "Retargeting Depth": [
+   5,
+   "#EF4444"
+  ]
+ },
+ "findings": [
+  "<b>Your Shopping feed is advertising discounts of 1%, 2% and 6%:</b> A '1% off' badge in a discovery feed does active harm: it reads as a discount and delivers a rounding error, which trains shoppers to scroll past the listing. Either the feed should show no discount at that level, or the price should be repositioned so the badge is meaningful. This is a feed-level change and it affects every Shopping impression.",
+  "<b>The support email on your policy pages belongs to a different domain:</b> A customer who checks your refund policy and then writes to connect@gottaeatbetter.com has been sent to a domain they have never heard of — and if that domain's SPF/DKIM records are not aligned, some of those replies will land in spam. Standard practice is one support address on the store's own domain, with the second as a forwarding alias.",
+  "<b>Cash on delivery costs the customer ₹30 more than prepaid — and the ads do not say so:</b> COD is the bigger margin risk (returns-to-origin) and the higher fee is a sensible nudge — but a nudge only works if the buyer sees it before they choose. Putting 'free shipping over ₹500' into the ad copy does two things at once: it raises average order value and it moves the payment choice in your favour.",
+  "<b>Five standard paths return 404 on a Shark Tank-credentialed store:</b> National-TV exposure sends people looking for the brand's story and its people. Right now the two obvious URLs for that — about-us and faq — do not exist. The contact page that does work is the only one of the set, so at least support can be reached.",
+  "<b>Two measurement details decide what the paid data can actually tell you:</b> Two separate things. First, the Shopping feed is writing 'sag_organic' into the campaign field, so every paid Shopping click is filed as organic traffic in GA4 — the channel comparison cannot be right while that is true. Second, a Meta pixel and a Lead event exist, but inside one embedded form rather than across the store: the form redirects to your Diwali hampers collection, which strongly suggests it is the enquiry form for that campaign. It works — but a Lead event that fires only from one form is a single point of failure, and it means the pixel cannot see any other page of the store.",
+  "<b>'As seen on Shark Tank' is doing the positioning work on the storefront only:</b> The credential is the strongest short trust signal available to a snack brand entering a crowded healthy-snacking category. It appears in the browser tab and nowhere in the advertising captured here. That is a cheap A/B test with a clear hypothesis behind it."
+ ],
+ "competitors": [
+  [
+   "Wellness snack brands with heavy Meta presence",
+   "Influencer-led creative and brand-building spend.",
+   "The Shark Tank credential plus the hampers' corporate proof is a differentiated story that is currently only on the site."
+  ],
+  [
+   "Millet and 'no-palm-oil' snack challengers",
+   "Ingredient-led positioning and aggressive discounting.",
+   "Do not match the discount; match the ingredient claim and the corporate track record of 10 lakh+ hampers."
+  ],
+  [
+   "Gifting aggregators in the Diwali quarter",
+   "Own the corporate gifting search with quote forms.",
+   "Eat Better's own gifting page is strong — it needs the enquiry event tracked and the domain story cleaned up."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Clean the sub-10% discounts out of the feed",
+   "Remove the badge or reprice. A 1% badge is worse than no badge.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - One support address on every page",
+   "Align the policy pages to care@eatbetterco.com and forward the other address into the same inbox.",
+   "#F59E0B",
+   "#FFFBEB"
+  ],
+  [
+   "WIN 3 - Put the credential and the threshold into the copy",
+   "Shark Tank proof and 'free shipping over ₹500' in the ad copy: trust and basket size in one test.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Feed badges",
+   "[-1%], [-2%], [-6%]",
+   "Remove or reprice",
+   "Listings stop advertising rounding errors"
+  ],
+  [
+   "Support",
+   "2 domains in one funnel",
+   "One address, one alias",
+   "Customers reach the brand, not a stranger"
+  ],
+  [
+   "Ad copy",
+   "Product-led only",
+   "Add credential and free-shipping threshold",
+   "Trust and average order value in one change"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: 27 creatives in the EAT BETTER VENTURES PRIVATE LIMITED account (Verified); 29 at domain level; PLA badges and landing URLs captured verbatim.",
+  "eatbetterco.com, 3 Oct 2026: G-90QE4TSKTH, AW-610414449, Judge.me; Meta pixel 3182482251838473 and fbq Lead event inside the embedded form; shipping terms verbatim; five 404 paths; corporate-gifting page figures verbatim; Jaipur registered address and care@/connect@ addresses.",
+  "29 creatives live for the domain; 27 in the advertiser account — check: https://adstransparency.google.com/?region=IN&domain=eatbetterco.com",
+  "Discount values as low as −1%, −2% and −6% in the Shopping feed — check: https://adstransparency.google.com/advertiser/AR17084581177009897473?region=IN",
+  "GA4 G-90QE4TSKTH · Google Ads AW-610414449 — check: https://eatbetterco.com",
+  "Published shipping terms (free above ₹500, prepaid ₹49, COD ₹79, 3 working days) — check: https://eatbetterco.com/policies/shipping-policy",
+  "care@eatbetterco.com (contact/refund pages) and connect@gottaeatbetter.com (privacy/shipping pages) — check: https://eatbetterco.com/policies/privacy-policy",
+  "Five storefront paths return 404 — check: https://eatbetterco.com/pages/faq",
+  "The Jaipur registered address (the Bengaluru-relevance note) — check: https://eatbetterco.com/pages/contact-us",
+  "The corporate-gifting figures quoted in this audit — check: https://eatbetterco.com/pages/corporate-gifting"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): Your Shopping feed is advertising 1% off",
+   "Hi team,<br/><br/>I audit paid media for food brands. Running through your live Shopping ads this week, three stood out: four of them carry discount badges: <b>[-1%]</b> on quinoa namkeen, <b>[-2%]</b> on the sweet crunchy nut mix and again on a ragi bundle, and <b>[-6%]</b> on trail mix 100g.<br/><br/>A 1% badge reads as an offer and delivers a rounding error. Either removing the badge or repricing fixes it, and both are feed-level decisions made once.<br/><br/>The attached audit shows the listings and everything else I measured.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Your policy pages send customers to a different domain",
+   "Hi team,<br/><br/>Second finding. Your contact and refund pages publish care@eatbetterco.com; your privacy and shipping pages publish connect@gottaeatbetter.com.<br/><br/>A customer who reads your shipping policy and then writes to that address has been sent to a domain they have never seen. One canonical address with the other as a forwarding alias solves it in minutes.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): You have a Meta Lead event — inside one form",
+   "Hi team,<br/><br/>Third note, and it is a good sign with a caveat. Your enquiry form is configured with a Meta pixel (3182482251838473) and fires a custom Lead event on submit, then sends people to your Diwali hampers collection.<br/><br/>That works — but a Lead event that fires from one form only is a single point of failure, and it means the pixel cannot see any other page. The attached audit explains the two ways to extend it.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Eat Better Co",
+   "Hi team,<br/><br/>Last note from me. The audit's three moves: clean the sub-10% discounts out of the feed, put one support address across the site, and test the Shark Tank line plus the ₹500 free-shipping threshold in the ad copy.<br/><br/>No reply needed if the timing is wrong — the audit is yours either way.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "HIGH",
+   "Your Shopping feed is advertising discounts of 1%, 2% and 6%"
+  ],
+  [
+   "HIGH",
+   "The support email on your policy pages belongs to a different domain"
+  ],
+  [
+   "MEDIUM",
+   "Cash on delivery costs the customer ₹30 more than prepaid — and the ads do not say so"
+  ],
+  [
+   "MEDIUM",
+   "Five standard paths return 404 on a Shark Tank-credentialed store"
+  ],
+  [
+   "MEDIUM",
+   "Two measurement details decide what the paid data can actually tell you"
+  ],
+  [
+   "NOTE",
+   "'As seen on Shark Tank' is doing the positioning work on the storefront only"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}

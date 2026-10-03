@@ -1,256 +1,22 @@
 {
   "brands": {
-    "Physics Wallah": {
-      "first_seen": "2026-09-11T14:08:31.798509",
-      "day": 1,
-      "website": "pw.live",
-      "niche": "Edtech/Coach"
+    "Adukale": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "adukale.com",
+      "niche": "Ready-to-Cook & Karnataka Foods"
     },
-    "boAt": {
-      "first_seen": "2026-09-11T14:08:31.798523",
-      "day": 1,
-      "website": "boat-lifestyle.com",
-      "niche": "D2C Electronics"
+    "Akshayakalpa Organic": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "akshayakalpa.org",
+      "niche": "Food/Bengaluru/Organic Dairy"
     },
-    "Mamaearth": {
-      "first_seen": "2026-09-11T14:08:31.798527",
-      "day": 1,
-      "website": "mamaearth.in",
-      "niche": "D2C Skincare"
-    },
-    "upGrad": {
-      "first_seen": "2026-09-11T14:08:31.798530",
-      "day": 1,
-      "website": "upgrad.com",
-      "niche": "Edtech/Coach"
-    },
-    "The Derma Co": {
-      "first_seen": "2026-09-11T14:08:31.798534",
-      "day": 1,
-      "website": "thedermaco.com",
-      "niche": "D2C Skincare"
-    },
-    "Wakefit": {
-      "first_seen": "2026-09-11T14:08:31.798537",
-      "day": 1,
-      "website": "wakefit.co",
-      "niche": "Home/Furniture"
-    },
-    "Just Herbs": {
-      "first_seen": "2026-09-11T14:08:31.798540",
-      "day": 1,
-      "website": "justherbs.in",
-      "niche": "Skincare"
-    },
-    "Bewakoof": {
-      "first_seen": "2026-09-11T14:08:31.798549",
-      "day": 1,
-      "website": "bewakoof.com",
-      "niche": "D2C Fashion"
-    },
-    "SUGAR Cosmetics": {
-      "first_seen": "2026-09-11T14:08:31.798554",
-      "day": 1,
-      "website": "sugarcosmetics.com",
-      "niche": "D2C Beauty"
-    },
-    "BlueStone": {
-      "first_seen": "2026-09-11T14:08:31.798557",
-      "day": 1,
-      "website": "bluestone.com",
-      "niche": "Jewelry"
-    },
-    "The Souled Store": {
-      "first_seen": "2026-09-11T14:08:31.798560",
-      "day": 1,
-      "website": "thesouledstore.com",
-      "niche": "D2C Fashion"
-    },
-    "Noise": {
-      "first_seen": "2026-09-11T14:08:31.798592",
-      "day": 1,
-      "website": "noise.com",
-      "niche": "D2C Wearables"
-    },
-    "Cult.fit": {
-      "first_seen": "2026-09-11T14:08:31.798596",
-      "day": 1,
-      "website": "cult.fit",
-      "niche": "Fitness Coach"
-    },
-    "Beardo": {
-      "first_seen": "2026-09-11T14:08:31.798599",
-      "day": 1,
-      "website": "beardo.in",
-      "niche": "Men's Grooming"
-    },
-    "Snitch": {
-      "first_seen": "2026-09-11T14:08:31.798602",
-      "day": 1,
-      "website": "snitch.co.in",
-      "niche": "D2C Fashion"
-    },
-    "Country Delight": {
-      "first_seen": "2026-09-11T14:08:31.798605",
-      "day": 1,
-      "website": "countrydelight.in",
-      "niche": "F&B/Dairy"
-    },
-    "mCaffeine": {
-      "first_seen": "2026-09-11T14:08:31.798608",
-      "day": 1,
-      "website": "mcaffeine.com",
-      "niche": "D2C Skincare"
-    },
-    "The Sleep Company": {
-      "first_seen": "2026-09-11T14:08:31.798611",
-      "day": 1,
-      "website": "thesleepcompany.in",
-      "niche": "Home/Furniture"
-    },
-    "CaratLane": {
-      "first_seen": "2026-09-11T14:08:31.798613",
-      "day": 1,
-      "website": "caratlane.com",
-      "niche": "Jewelry"
-    },
-    "Oliva Skin & Hair": {
-      "first_seen": "2026-09-11T14:08:31.798617",
-      "day": 1,
-      "website": "olivaclinic.com",
-      "niche": "Clinic"
-    },
-    "Wow Skin Science": {
-      "first_seen": "2026-09-11T14:08:31.798619",
-      "day": 1,
-      "website": "wowskinscience.com",
-      "niche": "Skincare"
-    },
-    "The Whole Truth": {
-      "first_seen": "2026-09-11T14:08:31.798622",
-      "day": 1,
-      "website": "thewholetruthfoods.com",
-      "niche": "F&B/Nutrition"
-    },
-    "Plum Goodness": {
-      "first_seen": "2026-09-11T14:08:31.798625",
-      "day": 1,
-      "website": "plumgoodness.com",
-      "niche": "D2C Skincare"
-    },
-    "Yoga Bar": {
-      "first_seen": "2026-09-11T14:08:31.798628",
-      "day": 1,
-      "website": "yogabars.in",
-      "niche": "F&B/Nutrition"
-    },
-    "Clove Dental": {
-      "first_seen": "2026-09-11T14:08:31.798631",
-      "day": 1,
-      "website": "clovedental.in",
-      "niche": "Clinic"
-    },
-    "Minimalist": {
-      "first_seen": "2026-09-11T14:08:31.798633",
-      "day": 1,
-      "website": "beminimalist.co",
-      "niche": "D2C Skincare"
-    },
-    "Boult Audio": {
-      "first_seen": "2026-09-11T14:08:31.798636",
-      "day": 1,
-      "website": "boultaudio.com",
-      "niche": "D2C Audio"
-    },
-    "Godrej Properties": {
-      "first_seen": "2026-09-11T14:08:31.798639",
-      "day": 1,
-      "website": "godrejproperties.com",
-      "niche": "Real Estate"
-    },
-    "HealthKart": {
-      "first_seen": "2026-09-11T14:08:31.798641",
-      "day": 1,
-      "website": "healthkart.com",
-      "niche": "Wellness"
-    },
-    "The Man Company": {
-      "first_seen": "2026-09-11T14:08:31.798644",
-      "day": 1,
-      "website": "themancompany.com",
-      "niche": "Men's Grooming"
-    },
-    "RENEE Cosmetics": {
-      "first_seen": "2026-09-11T14:08:31.798646",
-      "day": 1,
-      "website": "reneecosmetics.in",
-      "niche": "Beauty"
-    },
-    "BlissClub": {
-      "first_seen": "2026-09-11T14:08:31.798648",
-      "day": 1,
-      "website": "blissclub.com",
-      "niche": "Athleisure"
-    },
-    "Kaya Clinic": {
-      "first_seen": "2026-09-11T14:08:31.798651",
-      "day": 1,
-      "website": "kaya.in",
-      "niche": "Clinic"
-    },
-    "Pilgrim": {
-      "first_seen": "2026-09-11T14:08:31.798654",
-      "day": 1,
-      "website": "pilgrimcosmetics.com",
-      "niche": "Skincare"
-    },
-    "Pepperfry": {
-      "first_seen": "2026-09-11T14:08:31.798656",
-      "day": 1,
-      "website": "pepperfry.com",
-      "niche": "Home/Furniture"
-    },
-    "Prestige Group": {
-      "first_seen": "2026-09-11T14:08:31.798659",
-      "day": 1,
-      "website": "prestigegroup.com",
-      "niche": "Real Estate"
-    },
-    "Plix": {
-      "first_seen": "2026-09-11T14:08:31.798662",
-      "day": 1,
-      "website": "plixlife.com",
-      "niche": "Wellness"
-    },
-    "Deconstruct": {
-      "first_seen": "2026-09-11T14:08:31.798664",
-      "day": 1,
-      "website": "deconstructskincare.com",
-      "niche": "Skincare"
-    },
-    "DaMENSCH": {
-      "first_seen": "2026-09-11T14:08:31.798666",
-      "day": 1,
-      "website": "damensch.com",
-      "niche": "D2C Fashion"
-    },
-    "Sleepy Owl Coffee": {
-      "first_seen": "2026-09-11T14:08:31.798669",
-      "day": 1,
-      "website": "sleepyowl.co",
-      "niche": "F&B/Beverage"
-    },
-    "VLCC Wellness": {
-      "first_seen": "2026-09-11T14:08:31.798672",
-      "day": 1,
-      "website": "vlccwellness.com",
-      "niche": "Clinic"
-    },
-    "Swiss Beauty": {
-      "first_seen": "2026-09-11T14:08:31.798674",
-      "day": 1,
-      "website": "swissbeauty.in",
-      "niche": "Beauty"
+    "Anand Sweets": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "anandsweets.in",
+      "niche": "Food/Bengaluru/Sweets & Gifting"
     },
     "Aqualogica": {
       "first_seen": "2026-09-11T14:08:31.798677",
@@ -258,155 +24,11 @@
       "website": "aqualogica.in",
       "niche": "Skincare"
     },
-    "Wooden Street": {
-      "first_seen": "2026-09-11T14:08:31.798680",
-      "day": 1,
-      "website": "woodenstreet.com",
-      "niche": "Home/Furniture"
-    },
-    "Happilo": {
-      "first_seen": "2026-09-11T14:08:31.798682",
-      "day": 1,
-      "website": "happilo.com",
-      "niche": "F&B/Snacks"
-    },
-    "MARS Cosmetics": {
-      "first_seen": "2026-09-11T14:08:31.798685",
-      "day": 1,
-      "website": "marscosmetics.in",
-      "niche": "Beauty"
-    },
-    "Skybags": {
-      "first_seen": "2026-09-11T14:08:31.798687",
-      "day": 1,
-      "website": "skybags.co.in",
-      "niche": "D2C Bags"
-    },
-    "Rage Coffee": {
-      "first_seen": "2026-09-11T14:08:31.798690",
-      "day": 1,
-      "website": "ragecoffee.com",
-      "niche": "F&B/Beverage"
-    },
-    "Perfect 5 Clinic": {
-      "first_seen": "2026-09-11T14:08:31.798692",
-      "day": 1,
-      "website": "perfect5clinic.com",
-      "niche": "Clinic"
-    },
-    "Foxtale": {
-      "first_seen": "2026-09-11T14:08:31.798695",
-      "day": 1,
-      "website": "foxtale.in",
-      "niche": "Skincare"
-    },
-    "Unacademy": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "unacademy.com",
-      "niche": "Edtech/Coach"
-    },
-    "PharmEasy": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "pharmeasy.in",
-      "niche": "Health e-commerce"
-    },
-    "Livspace": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "livspace.com",
-      "niche": "Home Interiors"
-    },
-    "Man Matters": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "manmatters.com",
-      "niche": "Men's Wellness"
-    },
-    "Tata 1mg": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "1mg.com",
-      "niche": "Health e-commerce"
-    },
-    "Campus": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "campusshoes.com",
-      "niche": "Footwear"
-    },
-    "GIVA": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "giva.co",
-      "niche": "Jewelry"
-    },
-    "Urban Company": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "urbancompany.com",
-      "niche": "Home Services"
-    },
-    "Fire-Boltt": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "fireboltt.com",
-      "niche": "D2C Wearables"
-    },
-    "Kapiva": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "kapiva.in",
-      "niche": "Ayurveda/Nutrition"
-    },
-    "Pristyn Care": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "pristyncare.com",
-      "niche": "Healthcare"
-    },
-    "Simplilearn": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "simplilearn.com",
-      "niche": "Edtech/Coach"
-    },
-    "Bella Vita Organic": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "bellavitaorganic.com",
-      "niche": "Beauty/Perfume"
-    },
-    "HomeLane": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "homelane.com",
-      "niche": "Home Interiors"
-    },
-    "Libas": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "libas.in",
-      "niche": "Ethnic Wear"
-    },
-    "Lodha": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "lodhagroup.com",
-      "niche": "Real Estate"
-    },
-    "Nutrabay": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "nutrabay.com",
-      "niche": "Sports Nutrition"
-    },
-    "Vedantu": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "vedantu.com",
-      "niche": "Edtech/Coach"
+    "Araku Coffee": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "arakucoffee.in",
+      "niche": "Specialty Coffee"
     },
     "Atomberg": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -414,11 +36,161 @@
       "website": "atomberg.com",
       "niche": "Home Appliances"
     },
+    "Barbeque Nation": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "barbequenation.com",
+      "niche": "Casual Dining & Takeaway"
+    },
+    "Bare Anatomy": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "bareanatomy.in",
+      "niche": "Haircare"
+    },
+    "Beardo": {
+      "first_seen": "2026-09-11T14:08:31.798599",
+      "day": 1,
+      "website": "beardo.in",
+      "niche": "Men's Grooming"
+    },
+    "Bella Vita Organic": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "bellavitaorganic.com",
+      "niche": "Beauty/Perfume"
+    },
+    "Bewakoof": {
+      "first_seen": "2026-09-11T14:08:31.798549",
+      "day": 1,
+      "website": "bewakoof.com",
+      "niche": "D2C Fashion"
+    },
+    "Beyoung": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "beyoung.in",
+      "niche": "D2C Fashion"
+    },
     "Biba": {
       "first_seen": "2026-09-12T04:22:42.261268",
       "day": 2,
       "website": "biba.in",
       "niche": "Ethnic Wear"
+    },
+    "BlissClub": {
+      "first_seen": "2026-09-11T14:08:31.798648",
+      "day": 1,
+      "website": "blissclub.com",
+      "niche": "Athleisure"
+    },
+    "Blue Tokai Coffee": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "bluetokaicoffee.com",
+      "niche": "F&B/Beverage"
+    },
+    "BlueStone": {
+      "first_seen": "2026-09-11T14:08:31.798557",
+      "day": 1,
+      "website": "bluestone.com",
+      "niche": "Jewelry"
+    },
+    "Bombay Shaving Co": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "bombayshavingcompany.com",
+      "niche": "Men's Grooming"
+    },
+    "Boult Audio": {
+      "first_seen": "2026-09-11T14:08:31.798636",
+      "day": 1,
+      "website": "boultaudio.com",
+      "niche": "D2C Audio"
+    },
+    "Brik Oven": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "brikoven.com",
+      "niche": "Pizzerias & Casual Dining"
+    },
+    "Campus": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "campusshoes.com",
+      "niche": "Footwear"
+    },
+    "Caprese": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "capresebags.com",
+      "niche": "D2C Bags"
+    },
+    "CaratLane": {
+      "first_seen": "2026-09-11T14:08:31.798613",
+      "day": 1,
+      "website": "caratlane.com",
+      "niche": "Jewelry"
+    },
+    "Chai Point": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "chaipoint.com",
+      "niche": "Food/Bengaluru/Chai Retail"
+    },
+    "Clove Dental": {
+      "first_seen": "2026-09-11T14:08:31.798631",
+      "day": 1,
+      "website": "clovedental.in",
+      "niche": "Clinic"
+    },
+    "Cothas Coffee": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "cothas.com",
+      "niche": "Food/Bengaluru/Coffee Vending"
+    },
+    "Country Delight": {
+      "first_seen": "2026-09-11T14:08:31.798605",
+      "day": 1,
+      "website": "countrydelight.in",
+      "niche": "F&B/Dairy"
+    },
+    "Cult.fit": {
+      "first_seen": "2026-09-11T14:08:31.798596",
+      "day": 1,
+      "website": "cult.fit",
+      "niche": "Fitness Coach"
+    },
+    "DLF": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "dlf.in",
+      "niche": "Real Estate"
+    },
+    "DaMENSCH": {
+      "first_seen": "2026-09-11T14:08:31.798666",
+      "day": 1,
+      "website": "damensch.com",
+      "niche": "D2C Fashion"
+    },
+    "Deconstruct": {
+      "first_seen": "2026-09-11T14:08:31.798664",
+      "day": 1,
+      "website": "deconstructskincare.com",
+      "niche": "Skincare"
+    },
+    "Dot & Key": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "dotandkey.skincare",
+      "niche": "Skincare"
+    },
+    "Dr. Lal PathLabs": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "lalpathlabs.com",
+      "niche": "Diagnostics"
     },
     "Dr. Sheth's": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -432,47 +204,11 @@
       "website": "duroflexworld.com",
       "niche": "Sleep/Mattress"
     },
-    "Furlenco": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "furlenco.com",
-      "niche": "Furniture Rental"
-    },
-    "Oziva": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "oziva.in",
-      "niche": "Nutrition"
-    },
-    "Powerlook": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "powerlook.in",
-      "niche": "D2C Fashion"
-    },
-    "Scaler": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "scaler.com",
-      "niche": "Edtech/Coach"
-    },
-    "The Moms Co": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "themomsco.com",
-      "niche": "Baby Care"
-    },
-    "Toothsi": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "toothsi.in",
-      "niche": "Dental/Aligners"
-    },
-    "Beyoung": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "beyoung.in",
-      "niche": "D2C Fashion"
+    "Early Foods": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "earlyfoods.com",
+      "niche": "Food/Bengaluru/Baby Food"
     },
     "Earth Rhythm": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -480,17 +216,53 @@
       "website": "earthrhythm.com",
       "niche": "Skincare"
     },
-    "Caprese": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "capresebags.com",
-      "niche": "D2C Bags"
+    "Eat Better Co": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "eatbetterco.com",
+      "niche": "Healthy Snacks & Corporate Gifting"
     },
-    "Dot & Key": {
+    "Fire-Boltt": {
       "first_seen": "2026-09-12T04:22:42.261268",
       "day": 2,
-      "website": "dotandkey.skincare",
+      "website": "fireboltt.com",
+      "niche": "D2C Wearables"
+    },
+    "Foxtale": {
+      "first_seen": "2026-09-11T14:08:31.798695",
+      "day": 1,
+      "website": "foxtale.in",
       "niche": "Skincare"
+    },
+    "Frozen Bottle": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "frozenbottle.in",
+      "niche": "Food/Bengaluru/Desserts & Franchise"
+    },
+    "Furlenco": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "furlenco.com",
+      "niche": "Furniture Rental"
+    },
+    "GIVA": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "giva.co",
+      "niche": "Jewelry"
+    },
+    "Godrej Properties": {
+      "first_seen": "2026-09-11T14:08:31.798639",
+      "day": 1,
+      "website": "godrejproperties.com",
+      "niche": "Real Estate"
+    },
+    "Happilo": {
+      "first_seen": "2026-09-11T14:08:31.798682",
+      "day": 1,
+      "website": "happilo.com",
+      "niche": "F&B/Snacks"
     },
     "Heads Up For Tails": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -498,11 +270,23 @@
       "website": "headsupfortails.com",
       "niche": "Pet Care"
     },
+    "HealthKart": {
+      "first_seen": "2026-09-11T14:08:31.798641",
+      "day": 1,
+      "website": "healthkart.com",
+      "niche": "Wellness"
+    },
     "HealthifyMe": {
       "first_seen": "2026-09-12T04:22:42.261268",
       "day": 2,
       "website": "healthifyme.com",
       "niche": "Fitness Coach"
+    },
+    "HomeLane": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "homelane.com",
+      "niche": "Home Interiors"
     },
     "Indira IVF": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -516,11 +300,251 @@
       "website": "juicychemistry.com",
       "niche": "D2C Skincare"
     },
+    "Just Herbs": {
+      "first_seen": "2026-09-11T14:08:31.798540",
+      "day": 1,
+      "website": "justherbs.in",
+      "niche": "Skincare"
+    },
+    "Kapiva": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "kapiva.in",
+      "niche": "Ayurveda/Nutrition"
+    },
+    "Kaya Clinic": {
+      "first_seen": "2026-09-11T14:08:31.798651",
+      "day": 1,
+      "website": "kaya.in",
+      "niche": "Clinic"
+    },
+    "Libas": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "libas.in",
+      "niche": "Ethnic Wear"
+    },
+    "Licious": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "licious.in",
+      "niche": "Food/Bengaluru/D2C Meat"
+    },
+    "Livspace": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "livspace.com",
+      "niche": "Home Interiors"
+    },
+    "Lodha": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "lodhagroup.com",
+      "niche": "Real Estate"
+    },
+    "MARS Cosmetics": {
+      "first_seen": "2026-09-11T14:08:31.798685",
+      "day": 1,
+      "website": "marscosmetics.in",
+      "niche": "Beauty"
+    },
+    "Mamaearth": {
+      "first_seen": "2026-09-11T14:08:31.798527",
+      "day": 1,
+      "website": "mamaearth.in",
+      "niche": "D2C Skincare"
+    },
+    "Man Matters": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "manmatters.com",
+      "niche": "Men's Wellness"
+    },
+    "Melorra": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "melorra.com",
+      "niche": "Jewelry"
+    },
+    "Milky Mist": {
+      "first_seen": "2026-10-02T07:17:10.315094",
+      "day": 3,
+      "website": "milkymist.com",
+      "niche": "Food/Bengaluru/Dairy FMCG"
+    },
+    "Millet Amma": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "milletamma.com",
+      "niche": "Millets & Healthy Foods"
+    },
+    "Minimalist": {
+      "first_seen": "2026-09-11T14:08:31.798633",
+      "day": 1,
+      "website": "beminimalist.co",
+      "niche": "D2C Skincare"
+    },
+    "Mokobara": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "mokobara.com",
+      "niche": "Travel Bags"
+    },
+    "Noise": {
+      "first_seen": "2026-09-11T14:08:31.798592",
+      "day": 1,
+      "website": "noise.com",
+      "niche": "D2C Wearables"
+    },
+    "Nutrabay": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "nutrabay.com",
+      "niche": "Sports Nutrition"
+    },
+    "Oliva Skin & Hair": {
+      "first_seen": "2026-09-11T14:08:31.798617",
+      "day": 1,
+      "website": "olivaclinic.com",
+      "niche": "Clinic"
+    },
+    "Organic Mandya": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "organicmandya.com",
+      "niche": "Organic Grocery & Farm Produce"
+    },
+    "Oziva": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "oziva.in",
+      "niche": "Nutrition"
+    },
+    "Pepperfry": {
+      "first_seen": "2026-09-11T14:08:31.798656",
+      "day": 1,
+      "website": "pepperfry.com",
+      "niche": "Home/Furniture"
+    },
+    "Perfect 5 Clinic": {
+      "first_seen": "2026-09-11T14:08:31.798692",
+      "day": 1,
+      "website": "perfect5clinic.com",
+      "niche": "Clinic"
+    },
+    "PharmEasy": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "pharmeasy.in",
+      "niche": "Health e-commerce"
+    },
+    "Physics Wallah": {
+      "first_seen": "2026-09-11T14:08:31.798509",
+      "day": 1,
+      "website": "pw.live",
+      "niche": "Edtech/Coach"
+    },
+    "Pilgrim": {
+      "first_seen": "2026-09-11T14:08:31.798654",
+      "day": 1,
+      "website": "pilgrimcosmetics.com",
+      "niche": "Skincare"
+    },
+    "Plix": {
+      "first_seen": "2026-09-11T14:08:31.798662",
+      "day": 1,
+      "website": "plixlife.com",
+      "niche": "Wellness"
+    },
+    "Plum Goodness": {
+      "first_seen": "2026-09-11T14:08:31.798625",
+      "day": 1,
+      "website": "plumgoodness.com",
+      "niche": "D2C Skincare"
+    },
+    "Powerlook": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "powerlook.in",
+      "niche": "D2C Fashion"
+    },
+    "Prestige Group": {
+      "first_seen": "2026-09-11T14:08:31.798659",
+      "day": 1,
+      "website": "prestigegroup.com",
+      "niche": "Real Estate"
+    },
+    "Pristyn Care": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "pristyncare.com",
+      "niche": "Healthcare"
+    },
+    "Pure & Sure": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "pureandsure.in",
+      "niche": "Organic FMCG & Grocery"
+    },
+    "RENEE Cosmetics": {
+      "first_seen": "2026-09-11T14:08:31.798646",
+      "day": 1,
+      "website": "reneecosmetics.in",
+      "niche": "Beauty"
+    },
+    "Rage Coffee": {
+      "first_seen": "2026-09-11T14:08:31.798690",
+      "day": 1,
+      "website": "ragecoffee.com",
+      "niche": "F&B/Beverage"
+    },
     "Red Chief": {
       "first_seen": "2026-09-12T04:22:42.261268",
       "day": 2,
       "website": "redchief.in",
       "niche": "Footwear"
+    },
+    "SMOOR": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "smoor.in",
+      "niche": "Premium Chocolates & Gifting"
+    },
+    "SUGAR Cosmetics": {
+      "first_seen": "2026-09-11T14:08:31.798554",
+      "day": 1,
+      "website": "sugarcosmetics.com",
+      "niche": "D2C Beauty"
+    },
+    "Scaler": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "scaler.com",
+      "niche": "Edtech/Coach"
+    },
+    "Sid's Farm": {
+      "first_seen": "2026-10-03T00:00:00",
+      "day": 4,
+      "website": "sidsfarm.com",
+      "niche": "Farm-Fresh Dairy Subscription"
+    },
+    "Simplilearn": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "simplilearn.com",
+      "niche": "Edtech/Coach"
+    },
+    "Skybags": {
+      "first_seen": "2026-09-11T14:08:31.798687",
+      "day": 1,
+      "website": "skybags.co.in",
+      "niche": "D2C Bags"
+    },
+    "Sleepy Owl Coffee": {
+      "first_seen": "2026-09-11T14:08:31.798669",
+      "day": 1,
+      "website": "sleepyowl.co",
+      "niche": "F&B/Beverage"
     },
     "SleepyCat": {
       "first_seen": "2026-09-12T04:22:42.261268",
@@ -534,95 +558,23 @@
       "website": "slurrpfarm.com",
       "niche": "Kids Food"
     },
-    "Vahdam Teas": {
+    "Snitch": {
+      "first_seen": "2026-09-11T14:08:31.798602",
+      "day": 1,
+      "website": "snitch.co.in",
+      "niche": "D2C Fashion"
+    },
+    "Swiss Beauty": {
+      "first_seen": "2026-09-11T14:08:31.798674",
+      "day": 1,
+      "website": "swissbeauty.in",
+      "niche": "Beauty"
+    },
+    "Tata 1mg": {
       "first_seen": "2026-09-12T04:22:42.261268",
       "day": 2,
-      "website": "vahdam.com",
-      "niche": "F&B/Beverage"
-    },
-    "Wellbeing Nutrition": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "wellbeingnutrition.com",
-      "niche": "Wellness"
-    },
-    "Urban Monkey": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "urbanmonkey.com",
-      "niche": "Streetwear"
-    },
-    "Bare Anatomy": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "bareanatomy.in",
-      "niche": "Haircare"
-    },
-    "Blue Tokai Coffee": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "bluetokaicoffee.com",
-      "niche": "F&B/Beverage"
-    },
-    "Bombay Shaving Co": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "bombayshavingcompany.com",
-      "niche": "Men's Grooming"
-    },
-    "DLF": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "dlf.in",
-      "niche": "Real Estate"
-    },
-    "Dr. Lal PathLabs": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "lalpathlabs.com",
-      "niche": "Diagnostics"
-    },
-    "Melorra": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "melorra.com",
-      "niche": "Jewelry"
-    },
-    "Mokobara": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "mokobara.com",
-      "niche": "Travel Bags"
-    },
-    "True Elements": {
-      "first_seen": "2026-09-12T04:22:42.261268",
-      "day": 2,
-      "website": "true-elements.com",
-      "niche": "F&B/Nutrition"
-    },
-    "Licious": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "licious.in",
-      "niche": "Food/Bengaluru/D2C Meat"
-    },
-    "Cothas Coffee": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "cothas.com",
-      "niche": "Food/Bengaluru/Coffee Vending"
-    },
-    "Anand Sweets": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "anandsweets.in",
-      "niche": "Food/Bengaluru/Sweets & Gifting"
-    },
-    "Chai Point": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "chaipoint.com",
-      "niche": "Food/Bengaluru/Chai Retail"
+      "website": "1mg.com",
+      "niche": "Health e-commerce"
     },
     "The Baker's Dozen": {
       "first_seen": "2026-10-02T07:17:10.315094",
@@ -630,17 +582,41 @@
       "website": "thebakersdozen.in",
       "niche": "Food/Bengaluru/Bakery"
     },
-    "Early Foods": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "earlyfoods.com",
-      "niche": "Food/Bengaluru/Baby Food"
+    "The Derma Co": {
+      "first_seen": "2026-09-11T14:08:31.798534",
+      "day": 1,
+      "website": "thedermaco.com",
+      "niche": "D2C Skincare"
     },
-    "iD Fresh Food": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "idfreshfood.com",
-      "niche": "Food/Bengaluru/Fresh Batter"
+    "The Man Company": {
+      "first_seen": "2026-09-11T14:08:31.798644",
+      "day": 1,
+      "website": "themancompany.com",
+      "niche": "Men's Grooming"
+    },
+    "The Moms Co": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "themomsco.com",
+      "niche": "Baby Care"
+    },
+    "The Sleep Company": {
+      "first_seen": "2026-09-11T14:08:31.798611",
+      "day": 1,
+      "website": "thesleepcompany.in",
+      "niche": "Home/Furniture"
+    },
+    "The Souled Store": {
+      "first_seen": "2026-09-11T14:08:31.798560",
+      "day": 1,
+      "website": "thesouledstore.com",
+      "niche": "D2C Fashion"
+    },
+    "The Whole Truth": {
+      "first_seen": "2026-09-11T14:08:31.798622",
+      "day": 1,
+      "website": "thewholetruthfoods.com",
+      "niche": "F&B/Nutrition"
     },
     "Third Wave Coffee": {
       "first_seen": "2026-10-02T07:17:10.315094",
@@ -648,23 +624,107 @@
       "website": "thirdwavecoffeeroasters.com",
       "niche": "Food/Bengaluru/Specialty Coffee"
     },
-    "Akshayakalpa Organic": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "akshayakalpa.org",
-      "niche": "Food/Bengaluru/Organic Dairy"
+    "Toothsi": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "toothsi.in",
+      "niche": "Dental/Aligners"
     },
-    "Milky Mist": {
-      "first_seen": "2026-10-02T07:17:10.315094",
-      "day": 3,
-      "website": "milkymist.com",
-      "niche": "Food/Bengaluru/Dairy FMCG"
+    "True Elements": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "true-elements.com",
+      "niche": "F&B/Nutrition"
     },
-    "Frozen Bottle": {
+    "Unacademy": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "unacademy.com",
+      "niche": "Edtech/Coach"
+    },
+    "Urban Company": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "urbancompany.com",
+      "niche": "Home Services"
+    },
+    "Urban Monkey": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "urbanmonkey.com",
+      "niche": "Streetwear"
+    },
+    "VLCC Wellness": {
+      "first_seen": "2026-09-11T14:08:31.798672",
+      "day": 1,
+      "website": "vlccwellness.com",
+      "niche": "Clinic"
+    },
+    "Vahdam Teas": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "vahdam.com",
+      "niche": "F&B/Beverage"
+    },
+    "Vedantu": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "vedantu.com",
+      "niche": "Edtech/Coach"
+    },
+    "Wakefit": {
+      "first_seen": "2026-09-11T14:08:31.798537",
+      "day": 1,
+      "website": "wakefit.co",
+      "niche": "Home/Furniture"
+    },
+    "Wellbeing Nutrition": {
+      "first_seen": "2026-09-12T04:22:42.261268",
+      "day": 2,
+      "website": "wellbeingnutrition.com",
+      "niche": "Wellness"
+    },
+    "Wooden Street": {
+      "first_seen": "2026-09-11T14:08:31.798680",
+      "day": 1,
+      "website": "woodenstreet.com",
+      "niche": "Home/Furniture"
+    },
+    "Wow Skin Science": {
+      "first_seen": "2026-09-11T14:08:31.798619",
+      "day": 1,
+      "website": "wowskinscience.com",
+      "niche": "Skincare"
+    },
+    "Yoga Bar": {
+      "first_seen": "2026-09-11T14:08:31.798628",
+      "day": 1,
+      "website": "yogabars.in",
+      "niche": "F&B/Nutrition"
+    },
+    "boAt": {
+      "first_seen": "2026-09-11T14:08:31.798523",
+      "day": 1,
+      "website": "boat-lifestyle.com",
+      "niche": "D2C Electronics"
+    },
+    "iD Fresh Food": {
       "first_seen": "2026-10-02T07:17:10.315094",
       "day": 3,
-      "website": "frozenbottle.in",
-      "niche": "Food/Bengaluru/Desserts & Franchise"
+      "website": "idfreshfood.com",
+      "niche": "Food/Bengaluru/Fresh Batter"
+    },
+    "mCaffeine": {
+      "first_seen": "2026-09-11T14:08:31.798608",
+      "day": 1,
+      "website": "mcaffeine.com",
+      "niche": "D2C Skincare"
+    },
+    "upGrad": {
+      "first_seen": "2026-09-11T14:08:31.798530",
+      "day": 1,
+      "website": "upgrad.com",
+      "niche": "Edtech/Coach"
     }
   },
   "total_found": 111,

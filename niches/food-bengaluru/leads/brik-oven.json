@@ -1,0 +1,206 @@
+{
+ "brand": "Brik Oven",
+ "website": "brikoven.com",
+ "instagram": "",
+ "contact": {
+  "email": "theteam@brikoven.com",
+  "phone": "",
+  "entity": "Brik Oven Pvt Ltd",
+  "address": "Four Bengaluru outlets: Church Street, Indiranagar, Palace Road, Koramangala"
+ },
+ "contact_source": "Crawled from brikoven.com (contact block and the outlets block on the home page) on 03 Oct 2026; each outlet's address and phone number are published on the home page.",
+ "niche": "Pizzerias & Casual Dining",
+ "score": 7,
+ "ads_active": 25,
+ "headline": "Well-run local store ads for four Bengaluru outlets — with the last click handed to a third-party reservation widget.",
+ "stats": [
+  [
+   "42",
+   "Creatives in Google account"
+  ],
+  [
+   "25",
+   "Pointing at brikoven.com"
+  ],
+  [
+   "17",
+   "Creatives off-domain"
+  ],
+  [
+   "4",
+   "Bengaluru outlets"
+  ]
+ ],
+ "ad_intro": "Brik Oven runs the most disciplined restaurant advertising in this batch: 42 creatives in the advertiser account, 25 pointed at brikoven.com, with store-level Local Ad Rendering Service creatives for its Bengaluru outlets — Manyata Business Park and Palace Road verified in the archive, each with directions, call, reserve and order actions. The tag base is sound (GTM-PMCQMP4, GA4 G-6HE7Y2G8N3, plus a Meta pixel). Two leaks matter. The reservation click leaves the domain for a third-party widget (widget.reservego.co), so the booking data and the store-level attribution sit with someone else. And nine conventional paths — including /contact-us, /menu, /book-a-table and /locations — return 404 on a Squarespace store whose paid traffic is dominated by 'pizza near me' intent.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "42 creatives under Brik Oven Pvt Ltd (Verified); 25 creatives point at brikoven.com."
+  ],
+  [
+   "Local ads (verbatim)",
+   "'Brik Oven - Woodfired Pizzas (Manyata Business Park)' → 'Wood-Fired Pizza Near You — Discover Neapolitan sourdough pizzas…' with CTA 'Book now • widget.reservego.co/'."
+  ],
+  [
+   "Archived creative (verbatim)",
+   "Creative CR16763555951004352513: 'Last shown: Jul 23, 2026', 'Format: Text', 'Smoked Ham Bagel Mornings — Sourdough sandwiches, bagels & toasties. Open 8AM-11AM daily at Brik Oven.' (Palace Road); a second local ad carries 'Sourdough Breakfast at Brik … Prestige Trade Tower'."
+  ],
+  [
+   "Measurement stack",
+   "Google Tag Manager GTM-PMCQMP4 · GA4 G-6HE7Y2G8N3 · Meta pixel 428743468014315 · Squarespace."
+  ],
+  [
+   "Destination audit",
+   "/contact-us, /about-us, /faq, /menu, /book-a-table, /locations, /order-online, /privacy-policy and /terms all return 404."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   7,
+   "#F59E0B"
+  ],
+  "UGC & Social Proof": [
+   8,
+   "#22C55E"
+  ],
+  "Copy & Hook Strength": [
+   7,
+   "#F59E0B"
+  ],
+  "Landing Page CRO": [
+   4,
+   "#EF4444"
+  ],
+  "Tracking & CAPI": [
+   6,
+   "#F59E0B"
+  ],
+  "Retargeting Depth": [
+   5,
+   "#EF4444"
+  ]
+ },
+ "findings": [
+  "<b>Your reservation click leaves your domain and lands in a third-party widget:</b> Every booking made through that widget is a customer relationship held by someone else: the booking data, the ability to remarket to a no-show list, and the measurement of which store the ad actually filled. A direct booking path on brikoven.com — even a simple form that emails the store — puts that data back in your hands and makes store-level ROAS readable.",
+  "<b>Eight conventional paths, including the contact page, return 404:</b> Brik Oven's search traffic is overwhelmingly intent-led — 'pizza near me', 'book a table', store names. People who arrive by typing or by an old link hit dead pages, and those are exactly the visitors most likely to book. Redirects to the working sections (menu, reservations, stores) are an afternoon of work and they recover traffic the paid campaigns are already paying to create.",
+  "<b>Seventeen creatives in the account point somewhere other than the website:</b> The difference is consistent with store-level ads and third-party reservation destinations rather than a leak — but it does mean the account's centre of gravity is not the website, and website analytics can only ever see part of what paid media does. Worth mapping deliberately rather than discovering later.",
+  "<b>At least one store creative has stopped serving:</b> Store-level ads need a cadence, because a breakfast ad that stopped in July is still visible in the public archive in October while the stores keep trading. A monthly review of which local ads are live — and a decision on whether to keep breakfast creative running — is the difference between a maintained account and a set-and-forget one.",
+  "<b>The stack is clean and the breakfast launch is being advertised properly:</b> A tag manager container, a GA4 property and specific store-level copy about a specific daypart is a more disciplined setup than most restaurant groups run. The quick wins here are about keeping it current, not rebuilding it."
+ ],
+ "competitors": [
+  [
+   "Other Bengaluru pizza and casual-dining groups",
+   "Heavier brand-level spend and delivery-app visibility.",
+   "Brik Oven's store-level ad set is more precise; it needs an owned booking path to convert that precision into data."
+  ],
+  [
+   "Delivery aggregators",
+   "Own the 'order online' moment.",
+   "There is no direct ordering path on the site today — one is the difference between a customer and a transaction."
+  ],
+  [
+   "Neighbourhood sourdough and bakery cafés",
+   "Local proximity and morning trade.",
+   "The breakfast daypart is already advertised; keep those creatives current and give them a landing page."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Redirect the nine dead paths",
+   "Contact, menu, reservations, locations and ordering should each land on the section that exists. One afternoon.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - Own the reservation path",
+   "A booking form on brikoven.com keeps bookings, no-shows and store-level attribution with you instead of the widget.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 3 - Review the live local-ad set monthly",
+   "Check which store creatives are still serving — the Palace Road breakfast ad stopped in July while the store kept trading.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Reservations",
+   "Third-party widget",
+   "On-site booking form",
+   "You keep the booking data and can remarket"
+  ],
+  [
+   "Conventional paths",
+   "9 return 404",
+   "Redirect to live sections",
+   "Captures 'near me' and old-link traffic"
+  ],
+  [
+   "Local ads",
+   "One store creative stopped in July",
+   "Monthly live-ad review",
+   "The archive stays current"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: 42 creatives under Brik Oven Pvt Ltd (Verified); 25 pointed at brikoven.com; the Manyata Business Park local ad and creative CR16763555951004352513 captured verbatim.",
+  "brikoven.com, 3 Oct 2026: GTM-PMCQMP4, G-6HE7Y2G8N3, Meta pixel 428743468014315, Squarespace; nine 404 paths; four Bengaluru outlets with addresses and phones; theteam@brikoven.com.",
+  "42 creatives in the advertiser account — check: https://adstransparency.google.com/advertiser/AR15322972474807681025?region=IN",
+  "25 creatives point at brikoven.com — check: https://adstransparency.google.com/?region=IN&domain=brikoven.com",
+  "The third-party reservation widget on a live local ad — check: https://adstransparency.google.com/advertiser/AR15322972474807681025?region=IN",
+  "The stopped store creative — check: https://adstransparency.google.com/advertiser/AR15322972474807681025/creative/CR16763555951004352513?region=IN",
+  "GTM-PMCQMP4 · GA4 G-6HE7Y2G8N3 · Squarespace — check: https://brikoven.com",
+  "theteam@brikoven.com — check: https://brikoven.com",
+  "The four Bengaluru outlets — check: https://brikoven.com",
+  "Eight conventional paths return 404 — check: https://brikoven.com/contact-us"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): Your store ads are excellent — and the booking click leaves your domain",
+   "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. Your local ads are the best-constructed set I have seen this month: store-level creatives for Manyata Business Park and Palace Road with directions, call and reserve actions.<br/><br/>One structural problem: the reservation CTA goes to widget.reservego.co — so the booking data, the no-show list and the store-level attribution belong to the widget, not to you. The attached audit explains what moving it back would give you.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Nine URLs your customers type, all returning 404",
+   "Hi team,<br/><br/>Second finding. /contact-us, /menu, /book-a-table, /locations and /order-online all return 404 today (along with about-us, faq, privacy-policy and terms).<br/><br/>Your paid traffic is driven by store-level intent — people looking for pizza near a specific outlet. Those are exactly the visitors most likely to book, and today the obvious URLs dead-end. Redirects are an afternoon's work.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): The Palace Road breakfast ad stopped in July",
+   "Hi team,<br/><br/>Third note. Google's archive shows your Palace Road breakfast creative — 'Smoked Ham Bagel Mornings — Sourdough sandwiches, bagels &amp; toasties. Open 8AM-11AM daily' — with 'Last shown: Jul 23, 2026'.<br/><br/>The creative is good; it just is not running while the stores are. A monthly five-minute review of which store ads are live keeps the set earning.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Brik Oven",
+   "Hi team,<br/><br/>Wrapping up. Two moves matter most here: put a booking form on your own domain, and redirect the nine dead paths. After that, a monthly review keeps the local-ad set current.<br/><br/>If a short call on the booking flow would be useful, I can bring the structure we use for restaurant groups.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "HIGH",
+   "Your reservation click leaves your domain and lands in a third-party widget"
+  ],
+  [
+   "HIGH",
+   "Eight conventional paths, including the contact page, return 404"
+  ],
+  [
+   "MEDIUM",
+   "Seventeen creatives in the account point somewhere other than the website"
+  ],
+  [
+   "MEDIUM",
+   "At least one store creative has stopped serving"
+  ],
+  [
+   "NOTE",
+   "The stack is clean and the breakfast launch is being advertised properly"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}

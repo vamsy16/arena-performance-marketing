@@ -1,0 +1,221 @@
+{
+ "brand": "Adukale",
+ "website": "adukale.com",
+ "instagram": "",
+ "contact": {
+  "email": "info@adukale.com",
+  "phone": "+91 9035462696",
+  "entity": "Sankethi Nutriments Private Limited",
+  "address": "101/4, Block 1, Kannahalli Village, Bengaluru 560091"
+ },
+ "contact_source": "Crawled from adukale.com (cart, home and collection pages) on 03 Oct 2026; the footer carries the Bengaluru address, the helpdesk number and info@adukale.com (with a malformed mailto alongside it).",
+ "niche": "Ready-to-Cook & Karnataka Foods",
+ "score": 7,
+ "ads_active": 13,
+ "headline": "The site now tells customers to buy on Amazon — while 13 Google creatives still land on it.",
+ "stats": [
+  [
+   "13",
+   "Google creatives live"
+  ],
+  [
+   "3",
+   "Shopping ads pulled by Google"
+  ],
+  [
+   "2",
+   "GA4 properties loading"
+  ],
+  [
+   "Bengaluru",
+   "Kannahalli Village HQ"
+  ]
+ ],
+ "ad_intro": "Adukale sells Karnataka kitchen staples — sambar and chutney powders, kodubale, ready mixes — from a real Bengaluru address (Sankethi Nutriments Private Limited, Kannahalli Village), and runs 13 live Google creatives including Shopping ads. Two things make this audit unusual. First, a site-wide announcement says 'All purchases from this site will now be completed through Amazon', which means every paid click that lands on adukale.com either loses the sale or hands the customer record to Amazon. Second, three Product Listing Ads sampled in Google's archive show 'Last shown: Nov 28, 2025' with Google's 'Removed for a policy violation' notice — feed-level problems that are usually fixable in Merchant Center. The storefront also shows a Shopify template placeholder — '123 John Doe Street, Your Town, YT 12345' — in its pickup block.",
+ "ad_intelligence": [
+  [
+   "Google Ads (verified)",
+   "13 creatives under SANKETHI NUTRIMENTS PRIVATE LIMITED (Verified); pagination shows '1 of 26'."
+  ],
+  [
+   "Shopping feed (verbatim)",
+   "PLAs 'Buy Sambar Powder | The Best Spice Mix | Adukale', 'Chutney Powder | 200g Pack', 'Kayi Kodubale | 180g' — 'Last shown: Nov 28, 2025', 'Removed for a policy violation' (1 of 3 variations shown)."
+  ],
+  [
+   "Meta ads",
+   "0 active ads returned for the brand term (keyword search, country India, active-only)."
+  ],
+  [
+   "Measurement stack",
+   "GA4 G-X6WD89C59X · GA4 G-66YCE4PEZM · Google Ads AW-812528734 · Microsoft Clarity · Shopify."
+  ],
+  [
+   "Site-wide announcement (verbatim)",
+   "'All purchases from this site will now be completed through Amazon. Enjoy the same authentic taste with greater ease.'"
+  ],
+  [
+   "Placeholder defect (verbatim)",
+   "'123 John Doe Street Your Town, YT 12345' in the pickup block, next to the real pickup point at 155 Madappa Building, 1st Main, Mallathalli."
+  ]
+ ],
+ "scores": {
+  "Creative Variety": [
+   6,
+   "#F59E0B"
+  ],
+  "UGC & Social Proof": [
+   6,
+   "#F59E0B"
+  ],
+  "Copy & Hook Strength": [
+   5,
+   "#EF4444"
+  ],
+  "Landing Page CRO": [
+   4,
+   "#EF4444"
+  ],
+  "Tracking & CAPI": [
+   4,
+   "#EF4444"
+  ],
+  "Retargeting Depth": [
+   4,
+   "#EF4444"
+  ]
+ },
+ "findings": [
+  "<b>The site now hands every purchase to Amazon:</b> This is the single most important fact about Adukale's paid media: if the storefront routes buying to Amazon, then paid clicks that land on adukale.com either lose the sale or transfer it — and with it the customer record, the repeat-purchase data and the ability to measure any of it. 13 Google creatives are still running to that storefront. Either the ads should point where the purchase now happens, or the site should be rebuilt so it can sell again. Doing neither pays for traffic you cannot convert or measure.",
+  "<b>A Shopify template placeholder is visible on the live storefront:</b> A customer checking where to collect their order is shown a fictional address from the theme's demo content. It is a five-minute fix in the theme editor and, until it is fixed, it is the kind of detail that silently kills trust on exactly the page where trust matters most.",
+  "<b>Two GA4 properties are live on the same storefront:</b> Same pattern as the placeholder: a build that was changed twice without retiring the old piece. Two GA4 IDs double-count sessions and split conversion history in half, which makes the Amazon question above even harder to answer with data.",
+  "<b>The footer's email icon is not a mailto link, so clicking it goes nowhere:</b> The address reads correctly, so this is not a typo a customer would notice — but the link has no mailto: prefix, which means a click cannot open a mail client. The site's own 'Email' link is inert on every page it appears. One attribute fixes it, and it is worth checking how many enquiries have been lost to a link that quietly does nothing.",
+  "<b>Google is running; the Meta library returns nothing for the brand term:</b> Adukale's products — ready-to-cook Karnataka staples, spice mixes, snacks — photograph well and travel well by post, which is precisely what Meta rewards. With no pixel installed, none of that audience can be built. Meta pixel plus catalogue is a half-day job; a catalogue also fixes the Amazon dependency, because a shoppable catalogue can point at whichever checkout you choose.",
+  "<b>Three Shopping variations carry Google's own removal notice:</b> Google's archive is public, so a prospective customer, a distributor or a journalist can see that three of this brand's Shopping variations were pulled for a policy issue. Google does not state the reason, and none is inferred here. Because the removals are feed-level in most cases (price, availability, landing page, restricted claims), a Merchant Center diagnostics read usually identifies the cause in minutes — and it matters that the shopping engine is the visible one in this account.",
+  "<b>Shopping ads are already running, so a product feed exists:</b> The feed already exists and it already carries your product titles. The same feed can power Meta catalogue ads, which makes the parallel channel cheaper to start than it looks."
+ ],
+ "competitors": [
+  [
+   "Other Karnataka ready-mix and spice brands",
+   "Similar product ranges at similar prices.",
+   "Adukale's brand and packaging are strong; the missing pieces are a working checkout path and a second channel."
+  ],
+  [
+   "Marketplace sellers of the same category",
+   "Own the product search and the delivery promise.",
+   "If Amazon is the checkout, point paid traffic there deliberately and track it; if not, rebuild the on-site path."
+  ],
+  [
+   "D2C spice brands with meta catalogues",
+   "Retarget browsers and sell bundles.",
+   "The feed already exists for Shopping — the same feed powers a Meta catalogue."
+  ]
+ ],
+ "wins": [
+  [
+   "WIN 1 - Decide where the paid click ends",
+   "If Amazon is the checkout, send the ads there and track it. If the site is selling, change the message and make the cart the destination.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 2 - Clean the storefront's public defects",
+   "Delete the placeholder pickup address and fix the mailto. Both are five-minute edits visible to customers today.",
+   "#EF4444",
+   "#FEF2F2"
+  ],
+  [
+   "WIN 3 - Fix the feed and open Meta",
+   "Resolve the Merchant Center policy issues on the pulled PLAs, then connect the same feed to a Meta catalogue with a pixel.",
+   "#F59E0B",
+   "#FFFBEB"
+  ]
+ ],
+ "impact": [
+  [
+   "Metric",
+   "Current (live)",
+   "What the fix is",
+   "Why it matters"
+  ],
+  [
+   "Purchase path",
+   "Site routes buyers to Amazon",
+   "Decide and align the ad destination",
+   "Paid clicks stop landing on a dead end"
+  ],
+  [
+   "Shopping ads",
+   "3 PLAs pulled for policy",
+   "Merchant Center feed fix",
+   "Products return to Shopping"
+  ],
+  [
+   "Storefront trust",
+   "Placeholder address and broken mailto",
+   "Theme edits",
+   "Removes two visible defects"
+  ]
+ ],
+ "sources": [
+  "Google Ads Transparency (region IN), 3 Oct 2026: 13 creatives under SANKETHI NUTRIMENTS PRIVATE LIMITED (Verified); three PLAs captured verbatim with 'Last shown: Nov 28, 2025' and the policy-removal notice.",
+  "Meta Ad Library (country IN), 3 Oct 2026: no ads match the brand term.",
+  "adukale.com, 3 Oct 2026: Amazon announcement bar verbatim; '123 John Doe Street' pickup placeholder; 'nfo@adukale.com' mailto; G-X6WD89C59X, G-66YCE4PEZM, AW-812528734; Bengaluru 560091 address and helpdesk number.",
+  "13 live Google creatives — check: https://adstransparency.google.com/?region=IN&domain=adukale.com",
+  "The Amazon routing announcement — check: https://adukale.com",
+  "The placeholder pickup address on the live site — check: https://adukale.com",
+  "The email icon that is not a mailto link — check: https://adukale.com",
+  "Three Shopping variations with Google's removal notice — check: https://adstransparency.google.com/advertiser/AR18362132152826462209/creative/CR11719898640389505025?region=IN",
+  "Two GA4 properties and one Ads tag — check: https://adukale.com",
+  "No Meta ads active for the brand term — check: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&q=Adukale&search_type=keyword_unordered",
+  "info@adukale.com · +91 9035462696 — check: https://adukale.com/cart"
+ ],
+ "outreach": [
+  [
+   "Email 1 (Day 1): Your ads still land on a site that sends buyers to Amazon",
+   "Hi team,<br/><br/>I audit paid media for Bengaluru food brands. Your storefront now says: 'All purchases from this site will now be completed through Amazon.' At the same time, <b>13 Google creatives</b> are live for adukale.com.<br/><br/>That combination has an obvious cost: paid clicks that either lose the sale or hand your customer record to Amazon. The attached audit lays out the two clean ways to resolve it.<br/><br/>Everything in it is dated and sourced.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 2 (Day 3): Three Shopping ads are pulled — and that is usually fixable in a day",
+   "Hi team,<br/><br/>Second finding. One of your archived Shopping ads shows 'Last shown: Nov 28, 2025', with all three of its variations carrying Google's notice 'Removed for a policy violation': Sambar Powder, Chutney Powder 200g and Kayi Kodubale 180g.<br/><br/>PLA removals are usually feed-level — price, availability or a landing-page mismatch — and are resolved in Merchant Center. Worth knowing, because Shopping is the visible engine in your account.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 3 (Day 7): Two visible defects on the live storefront",
+   "Hi team,<br/><br/>Third note, and these are two five-minute fixes on live pages. Your pickup block still shows the Shopify template address: '123 John Doe Street, Your Town, YT 12345', next to your real pickup point at Mallathalli.<br/><br/>And the email icon in your footer is coded without a mailto: prefix (verbatim: &lt;a href=\"info@adukale.com\"&gt;), so a click cannot open a mail client. The address reads correctly, which is why nobody has noticed.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ],
+  [
+   "Email 4 (Day 14): Closing the file on Adukale",
+   "Hi team,<br/><br/>Last note. The audit boils down to one decision — where the paid click should end while Amazon is the checkout — plus three small fixes (placeholder address, mailto, Merchant Center feed).<br/><br/>If a 20-minute call on the routing question would help, I am happy to make time. Otherwise the audit is yours to use internally.<br/><br/>- Smart Pursuit, Bengaluru | 7095024220 | smartpursuit3@gmail.com"
+  ]
+ ],
+ "severity_key": [
+  [
+   "CRITICAL",
+   "The site now hands every purchase to Amazon"
+  ],
+  [
+   "HIGH",
+   "A Shopify template placeholder is visible on the live storefront"
+  ],
+  [
+   "HIGH",
+   "Two GA4 properties are live on the same storefront"
+  ],
+  [
+   "MEDIUM",
+   "The footer's email icon is not a mailto link, so clicking it goes nowhere"
+  ],
+  [
+   "MEDIUM",
+   "Google is running; the Meta library returns nothing for the brand term"
+  ],
+  [
+   "MEDIUM",
+   "Three Shopping variations carry Google's own removal notice"
+  ],
+  [
+   "NOTE",
+   "Shopping ads are already running, so a product feed exists"
+  ]
+ ],
+ "verified_on": "03 OCT 2026"
+}
