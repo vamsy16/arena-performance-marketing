@@ -15,7 +15,7 @@ jobs:
           ref: ${{ github.ref }}
       - name: Fetch URLs
         run: |
-          rm -rf _livefetch/out; mkdir -p _livefetch/out
+          mkdir -p _livefetch/out
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
           while IFS='|' read -r slug url; do
             slug="$(echo "$slug" | tr -d '\r' | xargs)"; url="$(echo "$url" | tr -d '\r' | xargs)"
