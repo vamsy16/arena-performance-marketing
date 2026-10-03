@@ -1,0 +1,39 @@
+HTTP/2 103 
+link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; crossorigin; rel=preconnect, <https://fonts.googleapis.com>; rel=preconnect, <//sidsfarm.com/cdn/shop/t/15/assets/base.css?v=96147239861341689941782705990>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/component-cart-drawer.css?v=148195733461663641871786264063>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/component-cart.css?v=164708765130180853531782705990>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/component-totals.css?v=15906652033866631521782705990>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/component-price.css?v=70172745017360139101782705990>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/component-discounts.css?v=152760482443307489271782705990>; as=style; rel=preload, <https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap>; as=style; rel=preload, <https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap>; as=style; rel=preload, <https://fonts.googleapis.com/css2?family=Balthazar&display=swap>; as=style; rel=preload, <//sidsfarm.com/cdn/shop/t/15/assets/tailwind.css?v=152996332080802464671782705990>; as=style; rel=preload
+
+HTTP/2 200 
+date: Sat, 03 Oct 2026 03:01:32 GMT
+content-type: text/html; charset=utf-8
+content-length: 64767
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:01:31 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AaD_ta5LAAEAWApCHAy87OQQoinNIR8ka52t0g460vG3Ybf9iEO5r8Z3JdfM4g7R8IzkJgLE--eeltFk7bBmjJIMrOc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_ta7cAAEAvycOfFkSaX7gmt43ZhcOSUJeufHYsV6wrZiJ_b9dgiMsNyyQ0V089Lqo4EQFQncsH_ggdBE4SdOUXB0:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_ta7dAAEAnztuBqIT5YUdffm53XS9lhU1a7ozqshnRGn8MSwviiSF-a4ORjq6fV4vqZysdjHEZcggfzrWac0amJ4:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://fonts.googleapis.com>; rel="preconnect", <//sidsfarm.com/cdn/shop/t/15/assets/base.css?v=96147239861341689941782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-cart-drawer.css?v=148195733461663641871786264063>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-cart.css?v=164708765130180853531782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-totals.css?v=15906652033866631521782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-price.css?v=70172745017360139101782705990>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/component-discounts.css?v=152760482443307489271782705990>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap>; as="style"; rel="preload", <https://fonts.googleapis.com/css2?family=Balthazar&display=swap>; as="style"; rel="preload", <//sidsfarm.com/cdn/shop/t/15/assets/tailwind.css?v=152996332080802464671782705990>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+etag: "page_cache:62817075290:IndexController:18c77ecf68d2ab37041ba4ec5ddbd449:f66ef25d22d6774ac7e7e6b47e318f16"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 171
+shopify-complexity-score-v2: 171
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+accept-ch: Sec-CH-Viewport-Width
+powered-by: Shopify
+server-timing: processing;dur=181;desc="gc:2", db;dur=36, db_async;dur=67.22, render;dur=58, asn;desc="8075", edge;desc="DFW", country;desc="US", theme;desc="150455320666", pageType;desc="index", servedBy;desc="kgsd", requestID;desc="94643d39-5986-4752-be2d-a7ed3c610b09-1790996491", _y;desc="f501c257-4340-4935-9b5a-f5949495465a", _s;desc="6934e320-1ef6-4a9d-a97d-9ce9a819ed77", _cmp;desc="3.AMPS_USWY_f_f_QqkGLUvERgSjTwJNHOO0MA", _cta;desc="1", _ye;desc="1822554092", _se;desc="1790998292", compressionLevel;desc="5", compressionTime;dur=10.856, earlyhints
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tvJUuCBFEO29ydxqtSHtcrBsO8pkl30fgdJIfWC0i2q61pSJ%2F0%2FgASvQZrMxXbdkf27LH97H0gC2%2FPYPZm0w%2BEXC7CyrCLoIbYOXqeoK8XsriF8Hv5X0CHjrx2OP5Q%3D%3D"}]}
+x-content-type-options: nosniff
+x-request-id: 94643d39-5986-4752-be2d-a7ed3c610b09-1790996491
+x-permitted-cross-domain-policies: none
+cf-ray: a448b3e99fc92e78-DFW
+

@@ -1,0 +1,29 @@
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:01:30 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding,Accept, Sec-Fetch-Site
+x-frame-options: DENY
+cf-cache-status: DYNAMIC
+content-language: en-IN
+x-liquid-rendered-at: 2026-10-03T03:01:30.154637712Z
+x-request-id: 351c3044-0418-4386-8b7f-6cd929d5ea0e-1790996489
+server: cloudflare
+x-dc: gcp-us-central1,gcp-us-east1,gcp-us-east1
+strict-transport-security: max-age=7889238
+set-cookie: _shopify_essential=:AaD_tae2AAEAoqfWXx_5YtWfmpF514wEFQdgt_k3FhcKKBopXfKkPJzlbCUPs2nx0ogXlQeWMGQvH3X5lK8eEzdbgos:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_tae8AAEAXFyoxYmRqxjzGMW-OP8VxEInqZs7z5I2V-12hzA7uF0KDXqEhocLLFqqmWzBqOtRj9qAe-hJOfwmv10:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_tae9AAEA9pYf17qesN9HYYVrQoQZg-VnUULvC3nrjLVXBu_UQW9LgHcJNiZUJdLMGvSYBGkXgytfwX9VwwWszRA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: localization=IN; path=/; expires=Sun, 03 Oct 2027 03:01:30 GMT; SameSite=Lax
+server-timing: processing;dur=140, verdict_flag_enabled;desc="count=78";dur=5.936, _y;desc="54714570-ddfb-447f-af81-8b3293dc728a", _s;desc="98adbc83-ce25-40ca-897a-b5ae17c21469", _ye;desc="1822554090", _se;desc="1790998290", _cmp;desc="3.AMPS_USWY_f_f_nb4Y-10mTIyAObkmfuaMlA", _cta;desc="1"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=34Gnv07mNh%2FEVcPvWkjVzT%2F%2B1hwJQ0fXhtPbsXeXpKgUei7REwc568ZgQb4sCy4ZH26f06sRhVjub9KcPW4juiHYEOipC%2Bcdv5TchZVxRzYFUHqWSfS18%2Fpx"}]}
+alt-svc: h3=":443"; ma=86400
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests; report-uri /csp-report?source%5Baction%5D=not_found&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=351c3044-0418-4386-8b7f-6cd929d5ea0e-1790996489; report-to shopify-csp
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+reporting-endpoints: shopify-csp="/csp-report?source%5Baction%5D=not_found&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=351c3044-0418-4386-8b7f-6cd929d5ea0e-1790996489"
+content-encoding: gzip
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+cf-ray: a448b3de6f14f0a9-DFW
+

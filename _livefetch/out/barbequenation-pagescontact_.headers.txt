@@ -1,0 +1,40 @@
+HTTP/2 301 
+date: Sat, 03 Oct 2026 03:01:40 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.barbequenation.com/pages/contact
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+vary: accept-encoding
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-robots-tag: noindex, nofollow
+server: cloudflare
+cf-ray: a448b41e7f50cb67-DFW
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:01:40 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+document-policy: js-profiling
+set-cookie: visitor_name=Guest; Path=/; Expires=Sun, 04 Oct 2026 03:01:40 GMT; Max-Age=86400
+x-user-agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/124.0 safari/537.36
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+x-nextjs-cache: HIT
+x-nextjs-prerender: 1
+x-nextjs-prerender: 1
+x-nextjs-stale-time: 300
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+content-encoding: br
+cf-ray: a448b41efbac6aeb-DFW
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,35 @@
+HTTP/2 404 
+date: Sat, 03 Oct 2026 03:01:31 GMT
+content-type: text/html; charset=utf-8
+content-length: 72196
+x-download-options: noopen
+etag: "page_cache:31914492041:NotFoundController:e225d5970223ce48ac3ab247d0571f64:44602c1ce7e96c663d21f9f7c2a78f38"
+content-encoding: br
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//smoor.in/cdn/shop/t/72/assets/theme.css?v=81297561608311438551790574131>; as="style"; rel="preload", </.well-known/ucp>; rel="ucp"; version="2026-08-25"
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 64
+shopify-complexity-score-v2: 64
+set-cookie: _shopify_essential=:AaD_ta0oAAEAR3-3sb2U1NRR9CvhaC3Z5MjN2jDdjdphD1Sqf4q_ukQqjTfRs2rTsyFFSns4O3Eee5X919zJyzR_Xnc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AaD_ta0_AAEAtN21PxoC_N1R0tpc9Nnu2CSc7S56bJk-DSdZjuiVrsCKaNWjEEsfR_mm-Q15zYr7tdqtRtmM89B7ZVc:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AaD_ta1AAAEA71f0e-mvn_mCLbdMsNNT0n6QaXlAg4Rkj1rX4xduZdJkWrHQazrDel1WOD_uFkvdpBq7pOxRf3gZ_K4:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+cdn-cache-control: no-cache, no-store
+content-language: en-IN
+cache-control: private, no-store
+powered-by: Shopify
+server-timing: processing;dur=38;desc="gc:3", db;dur=9, db_async;dur=1.938, asn;desc="8075", edge;desc="DFW", country;desc="US", theme;desc="143850143881", pageType;desc="404", servedBy;desc="rzq5", requestID;desc="edf86581-e3be-4530-9ecc-ef0b3bc5b214-1790996491", _y;desc="1b3f39d6-9976-4539-bfb8-9f7b2bccdd22", _s;desc="ef3f0ce0-c04e-469c-b1f6-c041f30926bc", _cmp;desc="3.AMPS_USWY_f_f_P062IKc4ROimDpxRpaznSg", _cta;desc="1", _ye;desc="1822554091", _se;desc="1790998291", compressionLevel;desc="5"
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+x-xss-protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZIVMO4AHXyEezWYrJI3NQHO4ONKangQ58u6TjRfqYmZC735XiizAIPpBILb7L5Z3C2%2B%2Frj5Czn5dFk41Is%2Bk5SpfBj4ghyAHpczbkpoh0KqQbWd6nO0SrUT%2B"}]}
+x-content-type-options: nosniff
+x-request-id: edf86581-e3be-4530-9ecc-ef0b3bc5b214-1790996491
+x-permitted-cross-domain-policies: none
+cf-ray: a448b3e7e9ef6b3a-DFW
+
