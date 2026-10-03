@@ -55,6 +55,24 @@ def main():
 
     # ---------------------------------------------------------------- 1. README
     ws = wb.active; ws.title = "README"
+    # real logo on the README sheet when the brand asset is present
+    _logo = None
+    for _n in ("smart-pursuit-logo.png", "smart-pursuit-logo.jpg", "smart-pursuit-logo.jpeg"):
+        _cand = ROOT / "assets" / _n
+        if _cand.exists():
+            _logo = _cand
+            break
+    if _logo:
+        try:
+            from openpyxl.drawing.image import Image as XLImage
+            _img = XLImage(str(_logo))
+            _scale = min(150.0 / _img.width, 150.0 / _img.height) if _img.width and _img.height else 1
+            _img.width = int(_img.width * _scale)
+            _img.height = int(_img.height * _scale)
+            ws.add_image(_img, "D2")
+        except Exception:
+            pass  # a missing/failed logo must never break the workbook
+
     rows = [
         ["SMART PURSUIT — FOOD / BENGALURU AUDIT PACK", ""],
         ["Everything in this file is verified live data. Nothing is simulated.", ""],

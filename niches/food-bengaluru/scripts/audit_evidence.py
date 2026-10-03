@@ -16,7 +16,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT, TA_CENTER
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                 Spacer, Table, TableStyle, KeepTogether, PageBreak,
-                                NextPageTemplate, CondPageBreak)
+                                NextPageTemplate, CondPageBreak, Image)
 
 # ------------------------------------------------------------------ tokens
 NAVY      = colors.HexColor("#0B1B2B")
@@ -113,8 +113,41 @@ def _s():
                                         textColor=MUTED_2),
     }
 
+# --------------------------------------------------------------- brand asset
+# Drop the real logo at  niches/food-bengaluru/assets/smart-pursuit-logo.png
+# (jpg/jpeg also work). If it is not there, the drawn SP mark is used instead,
+# so the reports always build. A wide file (aspect >= 2.0) is treated as a full
+# lockup: it is placed on its own, without repeating the "SMART PURSUIT" text.
+ASSETS = Path(__file__).resolve().parent.parent / "assets"
+
+
+def logo_asset():
+    for name in ("smart-pursuit-logo.png", "smart-pursuit-logo.jpg", "smart-pursuit-logo.jpeg",
+                 "smart-pursuit-logo.PNG", "smart-pursuit-logo.JPG", "smart-pursuit-logo.JPEG"):
+        p = ASSETS / name
+        if p.exists():
+            return p
+    return None
+
+
+def _logo_box(path, max_h, max_w):
+    """Fit the file into max_w x max_h, preserving its aspect ratio."""
+    from reportlab.lib.utils import ImageReader
+    iw, ih = ImageReader(str(path)).getSize()
+    h = max_h
+    w = h * iw / float(ih)
+    if w > max_w:
+        w = max_w
+        h = w * ih / float(iw)
+    return w, h, (iw / float(ih) >= 2.0)
+
+
 def _sp_logo(size=9.5):
-    """Rounded SP mark."""
+    """Smart Pursuit mark — the supplied logo if present, else the drawn SP mark."""
+    path = logo_asset()
+    if path:
+        w, h, wide = _logo_box(path, 12*mm, 46*mm)
+        return Image(str(path), width=w, height=h, mask="auto")
     t = Table([[Paragraph(f"<font color='#FFFFFF'><b>SP</b></font>",
                           ParagraphStyle("sp", fontName="Helvetica-Bold", fontSize=size, leading=size+2,
                                          textColor=WHITE, alignment=TA_CENTER))]],
@@ -148,8 +181,12 @@ def _render(lead: dict, out_pdf: Path):
 
     # ================================================== PAGE 1 — cover
     story.append(Spacer(1, 6*mm))
-    hdr = Table([[_sp_logo(), Paragraph("SMART PURSUIT", S["logo"])]],
-                colWidths=[16*mm, 60*mm])
+    _lp = logo_asset()
+    if _lp and _logo_box(_lp, 12*mm, 46*mm)[2]:
+        hdr = Table([[_sp_logo()]], colWidths=[70*mm])
+    else:
+        hdr = Table([[_sp_logo(), Paragraph("SMART PURSUIT", S["logo"])]],
+                    colWidths=[16*mm, 60*mm])
     hdr.setStyle(TableStyle([("VALIGN", (0,0), (-1,-1), "MIDDLE"),
                              ("LEFTPADDING", (0,0), (-1,-1), 0)]))
     story.append(hdr)
@@ -474,18 +511,28 @@ def _render(lead: dict, out_pdf: Path):
         canv.drawString(12*mm, 8*mm, f"Smart Pursuit  ·  {EMAIL}  ·  {PHONE}")
         canv.drawRightString(A4[0] - 12*mm, 8*mm, f"Page {doc.page} of {TOTAL[0]}")
         if doc.page > 1:
-            # Smart Pursuit mark: navy rounded square with gold underline, then the wordmark
             box_x, box_y, box_w, box_h = 12*mm, A4[1] - 12.2*mm, 6.0*mm, 6.0*mm
-            canv.setFillColor(NAVY)
-            canv.roundRect(box_x, box_y, box_w, box_h, 1.2*mm, stroke=0, fill=1)
-            canv.setFillColor(AMBER)
-            canv.rect(box_x + 1.1*mm, box_y + 0.9*mm, box_w - 2.2*mm, 0.5*mm, stroke=0, fill=1)
-            canv.setFillColor(WHITE)
-            canv.setFont("Helvetica-Bold", 6.6)
-            canv.drawCentredString(box_x + box_w/2, box_y + 2.0*mm, "SP")
-            canv.setFillColor(NAVY)
-            canv.setFont("Helvetica-Bold", 7.4)
-            canv.drawString(box_x + box_w + 2.2*mm, box_y + 1.9*mm, "SMART PURSUIT")
+            _lp = logo_asset()
+            if _lp:
+                w, h, wide = _logo_box(_lp, 6.0*mm, 46*mm)
+                canv.drawImage(str(_lp), box_x, box_y + (box_h - h)/2.0,
+                               width=w, height=h, mask="auto")
+                if not wide:
+                    canv.setFillColor(NAVY)
+                    canv.setFont("Helvetica-Bold", 7.4)
+                    canv.drawString(box_x + w + 2.2*mm, box_y + 1.9*mm, "SMART PURSUIT")
+            else:
+                # drawn fallback: navy rounded square with gold underline, then the wordmark
+                canv.setFillColor(NAVY)
+                canv.roundRect(box_x, box_y, box_w, box_h, 1.2*mm, stroke=0, fill=1)
+                canv.setFillColor(AMBER)
+                canv.rect(box_x + 1.1*mm, box_y + 0.9*mm, box_w - 2.2*mm, 0.5*mm, stroke=0, fill=1)
+                canv.setFillColor(WHITE)
+                canv.setFont("Helvetica-Bold", 6.6)
+                canv.drawCentredString(box_x + box_w/2, box_y + 2.0*mm, "SP")
+                canv.setFillColor(NAVY)
+                canv.setFont("Helvetica-Bold", 7.4)
+                canv.drawString(box_x + box_w + 2.2*mm, box_y + 1.9*mm, "SMART PURSUIT")
             canv.setFont("Helvetica-Bold", 6.6)
             canv.setFillColor(MUTED)
             canv.drawRightString(A4[0] - 12*mm, box_y + 1.9*mm, L["brand"].upper())

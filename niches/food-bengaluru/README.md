@@ -15,12 +15,13 @@
 | Path | What it is |
 |---|---|
 | **`Food-Bangalore-ALL-IN-ONE.xlsx`** | **Everything in one workbook — 14 sheets**: README, Leads, Emails (all 84), Leaks & Roadmap, You vs Competitor, Expected ROI, Audit Basis (sources), Skills Used, Findings (severity+evidence), Opportunity Score, Coverage (measured vs not), Evidence Register, Verify These (links), Cannot be verified |
-| `audits/*.pdf` | One audit per lead (5–6 pages: cover metrics, contents + method, live ad account, severity-ranked findings with the raw measurement quoted, coverage, evidence register, opportunity score /20, qualification, next steps). Batch 1 files are `*-audit-report.pdf`; batch 2 files are `*-paid-media-measurement-audit.pdf` |
+| `audits/*-paid-media-measurement-audit.pdf` | One audit per lead — 21 files, all in the canonical Smart Pursuit name (5–6 pages: cover metrics with the logo, contents + method, live ad account, severity-ranked findings with the raw measurement quoted, coverage, evidence register, opportunity score /20, qualification, next steps) |
 | `VERIFY-THE-DATA.md` | Every claim in every audit, mapped to the exact public URL where you can check it yourself |
 | `ALL-EMAIL-SEQUENCES.md` | All 84 emails in one file (4 per brand: Day 1 / 3 / 7 / 14) |
 | `outreach/*-outreach-templates.md` | Per-brand email file |
 | `leads/*.json` | Structured lead data incl. `contact_source` (the exact page each email was crawled from) |
 | `LEADS-INDEX.csv` | Flat lead table (21 rows) |
+| `assets/` | **Brand asset — put the real Smart Pursuit logo here** as `smart-pursuit-logo.png` and every audit + the workbook picks it up on regeneration (see `assets/README.md`) |
 | `scripts/` | Rebuild everything: `build_batch2.py` (batch-2 leads + audits + outreach + indexes), `build_evidence_audits.py` (batch-1 audits), `build_master_excel.py`, `build_verify_guide.py` |
 
 ## The 21 leads
@@ -75,6 +76,7 @@ cd niches/food-bengaluru
 pip install --break-system-packages reportlab openpyxl pymupdf
 python3 scripts/build_batch2.py            # batch-2 leads, audits, outreach, ALL-EMAIL-SEQUENCES.md, LEADS-INDEX.csv
 python3 scripts/build_evidence_audits.py   # batch-1 audits (if needed)
+# (the real logo in assets/ is applied automatically by both audit builders)
 python3 scripts/build_verify_guide.py      # VERIFY-THE-DATA.md (all 21)
 python3 scripts/build_master_excel.py      # Food-Bangalore-ALL-IN-ONE.xlsx
 ```

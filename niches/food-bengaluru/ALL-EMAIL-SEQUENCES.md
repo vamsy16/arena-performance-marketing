@@ -34,7 +34,7 @@
 # Akshayakalpa Organic
 **Contact:** support@akshayakalpa.org · +91-9535388122  
 **Entity:** Akshayakalpa Farms & Foods Pvt Ltd  
-**Audit:** `audits/akshayakalpa-organic-audit-report.pdf`  
+**Audit:** `audits/akshayakalpa-organic-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): ~400 live ads - and a California placeholder address on the landing page
 
@@ -97,7 +97,7 @@ The audit is yours to keep. If you would like help, we would start with the crea
 # Anand Sweets
 **Contact:** care@anandsweets.net · +91 80 2558 8992  
 **Entity:** ANAND SWEETS AND SAVOURIES LLP  
-**Audit:** `audits/anand-sweets-audit-report.pdf`  
+**Audit:** `audits/anand-sweets-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): Your ads are sending buyers to Swiggy - the Anand Sweets audit
 
@@ -216,7 +216,7 @@ We work with F&B brands across Bengaluru. If a short call on any of the three is
 # Milky Mist
 **Contact:** customercare@milkymist.com · 1800-419-9000  
 **Entity:** Milky Mist Dairy Food Limited  
-**Audit:** `audits/milky-mist-audit-report.pdf`  
+**Audit:** `audits/milky-mist-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 3 live Google ads for an IPO-bound dairy major
 
@@ -512,7 +512,7 @@ No pressure at all — if you would rather just take the page list and run with 
 # iD Fresh Food
 **Contact:** customercare@idfreshfood.com · +91 9739910521  
 **Entity:** iD Fresh Food (India) Pvt Ltd  
-**Audit:** `audits/id-fresh-food-audit-report.pdf`  
+**Audit:** `audits/id-fresh-food-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): INR 681 Cr revenue, one live Google ad - here is the audit
 
@@ -740,7 +740,7 @@ If a short call on the booking flow would be useful, I can bring the structure w
 # Chai Point
 **Contact:** customercare@chaipoint.com · +91 88801 41000  
 **Entity:** Mountain Trail Foods Pvt Ltd  
-**Audit:** `audits/chai-point-audit-report.pdf`  
+**Audit:** `audits/chai-point-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 8,100 workplaces, 150+ Brewing Bots, no paid B2B funnel
 
@@ -799,7 +799,7 @@ The audit is yours to keep. If you want, we can start with the B2B demo funnel t
 # Cothas Coffee
 **Contact:** customercare@cothas.com  
 **Entity:** Cothas Coffee Co.  
-**Audit:** `audits/cothas-coffee-audit-report.pdf`  
+**Audit:** `audits/cothas-coffee-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 77 live Google ads, one destination - the Cothas audit
 
@@ -860,7 +860,7 @@ No pressure if now is not the time. If you want, we can start with just the vend
 # Early Foods
 **Contact:** hello@earlyfoods.com · +91 8049670521  
 **Entity:** Early Foods Pvt Ltd  
-**Audit:** `audits/early-foods-audit-report.pdf`  
+**Audit:** `audits/early-foods-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 30 live ads for Early Foods - the trust gap in the first 5 seconds
 
@@ -980,7 +980,7 @@ No reply needed if the timing is wrong — the audit is yours either way.
 # Licious
 **Contact:** talktous@licious.com · 1800-4190-786  
 **Entity:** Delightful Gourmet Pvt Ltd  
-**Audit:** `audits/licious-audit-report.pdf`  
+**Audit:** `audits/licious-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): Your Bengaluru Meta ad lands on a store-locator - here is the audit
 
@@ -1098,7 +1098,7 @@ If a short call on the reporting fix would be useful, I am happy to walk your te
 # The Baker's Dozen
 **Contact:** fresh@thebakersdozen.in · +91 9082857741  
 **Entity:** Mimansa Industries Pvt Ltd  
-**Audit:** `audits/the-baker-s-dozen-audit-report.pdf`  
+**Audit:** `audits/the-baker-s-dozen-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 35 live ads, 300+ cities - but the click has nowhere to land
 
@@ -1159,7 +1159,7 @@ The audit is yours to keep. If you want us to start, the availability page is a 
 # Third Wave Coffee
 **Contact:** orders@thirdwavecoffee.in · +91 80 47108111  
 **Entity:** Third Wave Coffee  
-**Audit:** `audits/third-wave-coffee-audit-report.pdf`  
+**Audit:** `audits/third-wave-coffee-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): Verified - zero live Google ads for Third Wave
 
@@ -1218,7 +1218,7 @@ If it helps, the audit is yours to keep regardless of whether we work together. 
 # Frozen Bottle
 **Contact:** vipul@frozenbottle.in · 080-48669920  
 **Entity:** Munchbox Frozen Foods Pvt Ltd  
-**Audit:** `audits/frozen-bottle-audit-report.pdf`  
+**Audit:** `audits/frozen-bottle-paid-media-measurement-audit.pdf`  
 
 ## Email 1 (Day 1): 11 live ads for a franchise brand - the leak is in the funnel
 

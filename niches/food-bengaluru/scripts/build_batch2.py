@@ -94,13 +94,7 @@ def write_audits():
 
 
 def audit_filename(slug, verified):
-    """Actual file on disk for each lead, so the indexes never promise a name that is not there."""
-    cand = ROOT / "audits" / AUDIT_NAME.format(slug=slug)
-    if cand.exists():
-        return f"audits/{cand.name}"
-    legacy = ROOT / "audits" / f"{slug}-audit-report.pdf"
-    if legacy.exists():
-        return f"audits/{legacy.name}"
+    """Canonical audit file name for every lead (all 21 use the Smart Pursuit name)."""
     return f"audits/{AUDIT_NAME.format(slug=slug)}"
 
 
