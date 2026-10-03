@@ -20,6 +20,10 @@ render the drawn "SP" mark, so nothing ever breaks.
   is the one to send if you have it.
 - **Size:** at least **600 px wide** (ideally 1000–2000 px). Higher resolution just looks sharper;
   it is scaled down automatically and the aspect ratio is always preserved.
+- **Lockup vs mark:** if your logo file already contains the words "SMART PURSUIT" (like the current
+  circular badge), create a one-line sidecar file next to it — `assets/smart-pursuit-logo.mode.txt`
+  containing `lockup` — so the reports never print the name twice. If the file is only a symbol
+  (no words), use `mark` or simply leave the sidecar out for a wide file (aspect ≥ 2.0).
 - **Two kinds of file both work:**
   - **Square / stacked mark** → shown at 12 mm on the cover, 6 mm in the page headers, with the
     words "SMART PURSUIT" set in type beside it (current layout).

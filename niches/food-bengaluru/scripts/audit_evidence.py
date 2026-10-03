@@ -130,6 +130,21 @@ def logo_asset():
     return None
 
 
+def logo_is_lockup(path):
+    """True when the file already contains the SMART PURSUIT wordmark, so the report
+    must not set the name again beside it.
+
+    Priority: the sidecar file  assets/<logo-name>.mode.txt  (contents: lockup|mark)
+    if it exists, otherwise a wide file (aspect >= 2.0) is assumed to be a lockup.
+    """
+    side = Path(str(path).rsplit(".", 1)[0] + ".mode.txt")
+    if side.exists():
+        return side.read_text(encoding="utf-8", errors="ignore").strip().lower().startswith("lockup")
+    from reportlab.lib.utils import ImageReader
+    iw, ih = ImageReader(str(path)).getSize()
+    return (iw / float(ih)) >= 2.0
+
+
 def _logo_box(path, max_h, max_w):
     """Fit the file into max_w x max_h, preserving its aspect ratio."""
     from reportlab.lib.utils import ImageReader
@@ -139,15 +154,17 @@ def _logo_box(path, max_h, max_w):
     if w > max_w:
         w = max_w
         h = w * ih / float(iw)
-    return w, h, (iw / float(ih) >= 2.0)
+    return w, h, logo_is_lockup(path)
 
 
 def _sp_logo(size=9.5):
     """Smart Pursuit mark — the supplied logo if present, else the drawn SP mark."""
     path = logo_asset()
     if path:
-        w, h, wide = _logo_box(path, 12*mm, 46*mm)
-        return Image(str(path), width=w, height=h, mask="auto")
+        w, h, wide = _logo_box(path, 16*mm, 46*mm)
+        img = Image(str(path), width=w, height=h, mask="auto")
+        img.hAlign = "LEFT"          # line the mark up with the cover text below it
+        return img
     t = Table([[Paragraph(f"<font color='#FFFFFF'><b>SP</b></font>",
                           ParagraphStyle("sp", fontName="Helvetica-Bold", fontSize=size, leading=size+2,
                                          textColor=WHITE, alignment=TA_CENTER))]],
@@ -182,13 +199,14 @@ def _render(lead: dict, out_pdf: Path):
     # ================================================== PAGE 1 — cover
     story.append(Spacer(1, 6*mm))
     _lp = logo_asset()
-    if _lp and _logo_box(_lp, 12*mm, 46*mm)[2]:
+    if _lp and _logo_box(_lp, 16*mm, 46*mm)[2]:
         hdr = Table([[_sp_logo()]], colWidths=[70*mm])
     else:
         hdr = Table([[_sp_logo(), Paragraph("SMART PURSUIT", S["logo"])]],
                     colWidths=[16*mm, 60*mm])
     hdr.setStyle(TableStyle([("VALIGN", (0,0), (-1,-1), "MIDDLE"),
                              ("LEFTPADDING", (0,0), (-1,-1), 0)]))
+    hdr.hAlign = "LEFT"          # platypus tables centre by default; the cover must line up left
     story.append(hdr)
     story.append(Spacer(1, 1.5*mm))
     story.append(Paragraph("Performance Marketing &amp; Growth Audits", S["logo_sub"]))
