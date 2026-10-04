@@ -1,0 +1,211 @@
+{
+  "brand": "Fish Mart",
+  "slug": "fish-mart",
+  "website": "https://www.fishmart.online/",
+  "instagram": "",
+  "niche": "Online seafood, meat and grocery storefront",
+  "headline": "An active seafood card links to the Fish Mart storefront; its published contact inbox appears only in first-party indexed snippets.",
+  "market_signal": "FishMart's own storefront describes the business as based in Bengaluru, Karnataka. The selected card promotes seafood and sends viewers to fishmart.online; its copy does not establish a service radius or ad targeting.",
+  "local_evidence_status": "MEASURED — the official storefront describes FishMart as based in Bengaluru; the selected creative itself is not used to infer targeting.",
+  "contact": {
+    "email": "holdingscitrine@gmail.com",
+    "phone": "+91 78298 57007",
+    "entity": "",
+    "address": "Citrine Holdings, No. 10, South End Main Road, near Jayanagar 9th Block East End, Bengaluru, Karnataka 560069 (first-party indexed store-page snippet; direct text extraction did not render this line)",
+    "route_role": "Store contact mailbox shown in first-party indexed contact/structured data; verify before sending; no paid-media buyer is named.",
+    "additional_emails": []
+  },
+  "contact_source": "First-party Fish Mart homepage and categories-page indexed contact/structured-data snippets on 04 Oct 2026 list holdingscitrine@gmail.com and phone 7829857007. The static page extraction did not render the email, so this provenance is explicitly limited to the brand site's own indexed snippets; verify the route before sending.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "email_role": "Store contact mailbox in first-party indexed site content; direct static extraction did not expose it. Verify before sending; not identified as paid-media buyer."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=fishmart.online",
+    "detail": "India-region Google Ads Transparency domain view for fishmart.online returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Fish Mart-linked card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=530960299819710&view_all_page_id=105361281632887",
+      "source_type": "Platform individual-card record",
+      "observed": "Ad Library page header is Fish Mart (facebook.com/fishmartindia); the individual card label is Quick Fish Shoppe, linked to that Fish Mart page. Library ID 530960299819710 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2025; creative promotes seafood and See Menu links to fishmart.online.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Fish Mart official storefront homepage",
+      "url": "https://www.fishmart.online/",
+      "source_type": "Brand first-party storefront",
+      "observed": "Static page content describes FishMart as based in Bengaluru, Karnataka and exposes its online storefront. The site's indexed contact/structured-data snippet lists holdingscitrine@gmail.com and 7829857007; the email was not rendered in static extraction.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Fish Mart official categories/store page — indexed contact snippet",
+      "url": "https://www.fishmart.online/categories",
+      "source_type": "Brand first-party store page (indexed snippet)",
+      "observed": "First-party indexed page identifies FISH MART, Bengaluru and shows Citrine Holdings, No. 10, South End Main Road, near Jayanagar 9th Block East End, Bengaluru 560069, with holdingscitrine@gmail.com and phone 7829857007. Direct static extraction showed product categories but not the contact block; verify before sending.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — fishmart.online domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=fishmart.online",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active seafood card links to the Fish Mart storefront under a different card label",
+      "evidence": "Library ID 530960299819710; page header Fish Mart; individual card label Quick Fish Shoppe links to facebook.com/fishmartindia; Active and Sponsored on 04 Oct 2026; started 15 Apr 2025; See Menu points to fishmart.online.",
+      "analysis": "The page link connects the card to the Fish Mart profile, while the card label differs. The card demonstrates a public seafood creative and route only, not an order or performance result.",
+      "next_check": "Re-open the card and confirm the page link and storefront path; with authorization, map the Library ID to the agreed order event and source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A first-party store contact is indexed but was not visible in static extraction",
+      "evidence": "Fish Mart's own indexed homepage/categories contact block lists holdingscitrine@gmail.com, +91 7829857007 and a Jayanagar-area Bengaluru address; direct static extraction did not show the contact block.",
+      "analysis": "The source is the brand's own store site, but the contact provenance is weaker than a directly rendered email. The mailbox is not identified as a paid-media buyer.",
+      "next_check": "Open the first-party site/contact block in a normal browser and confirm the email before sending; ask for the measurement owner only if the route is appropriate.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for fishmart.online returned zero results on 04 Oct 2026.",
+      "analysis": "A zero-result query does not prove that the brand does not advertise on Google.",
+      "next_check": "If revisited, check an individual creative and verify advertiser identity, brand content, destination and last-shown/status.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "530960299819710",
+      "page_id": "105361281632887",
+      "page_name": "Quick Fish Shoppe (card link points to Fish Mart)",
+      "started_on": "2025-04-15",
+      "creative_excerpt": "Quality Seafood Delivered to Your Doorstep: Fish Mart's Decade of Excellence; card versions feature Seer Fish, White Pomfret and Sardines.",
+      "cta": "See Menu → fishmart.online storefront",
+      "destination_url": "https://www.fishmart.online/",
+      "destination_status": "The page header is Fish Mart; the individual sponsored-card label is Quick Fish Shoppe and links to facebook.com/fishmartindia. Its See Menu link points to fishmart.online. No checkout or order event was tested, and no legal entity is inferred from the card label.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=530960299819710&view_all_page_id=105361281632887"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A direct individual card displayed Active/Sponsored, a page header and linked advertiser label, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The official storefront identifies FishMart as based in Bengaluru; no ad audience geography is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "See Menu links from the card to the brand storefront; checkout/order completion is not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 3,
+      "basis": "The official homepage and indexed categories/contact content were reviewed with the direct card and Google query; email rendering is caveated."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published store inbox may route a note but is not a named paid-media or measurement contact; verify first."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Fish Mart-linked card; checked 2026-10-04; Ad Library page header is Fish Mart (facebook.com/fishmartindia); the individual card label is Quick Fish Shoppe, linked to that Fish Mart page. Library ID 530960299819710 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2025; creative promotes seafood and See Menu links to fishmart.online.",
+    "S2 — Fish Mart official storefront homepage; checked 2026-10-04; Static page content describes FishMart as based in Bengaluru, Karnataka and exposes its online storefront. The site's indexed contact/structured-data snippet lists holdingscitrine@gmail.com and 7829857007; the email was not rendered in static extraction.",
+    "S3 — Fish Mart official categories/store page — indexed contact snippet; checked 2026-10-04; First-party indexed page identifies FISH MART, Bengaluru and shows Citrine Holdings, No. 10, South End Main Road, near Jayanagar 9th Block East End, Bengaluru 560069, with holdingscitrine@gmail.com and phone 7829857007. Direct static extraction showed product categories but not the contact block; verify before sending.",
+    "S4 — Google Ads Transparency Center — fishmart.online domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 530960299819710 and page ID 105361281632887; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for fishmart.online returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the official storefront describes FishMart as based in Bengaluru; the selected creative itself is not used to infer targeting.",
+      "method": "FishMart's own storefront describes the business as based in Bengaluru, Karnataka. The selected card promotes seafood and sends viewers to fishmart.online; its copy does not establish a service radius or ad targeting. Store contact mailbox shown in first-party indexed contact/structured data; verify before sending; no paid-media buyer is named.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The page header is Fish Mart; the individual sponsored-card label is Quick Fish Shoppe and links to facebook.com/fishmartindia. Its See Menu link points to fishmart.online. No checkout or order event was tested, and no legal entity is inferred from the card label.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "fish mart card",
+      "Hi Fish Mart team,\n\nThe Fish Mart direct library page shows card 530960299819710 as Active and Sponsored from 15 Apr 2025. The individual card label is Quick Fish Shoppe and links to the Fish Mart profile; its seafood creative sends viewers to fishmart.online.\n\nThe public record does not expose private spend, orders or event firing. The published route, holdingscitrine@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "menu path",
+      "Hi Fish Mart team,\n\nThe official storefront describes FishMart as based in Bengaluru. Its indexed contact block lists holdingscitrine@gmail.com, though static extraction did not render the email; please verify the route before sending. No buyer role is published.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order events",
+      "Hi Fish Mart team,\n\nThe card's See Menu route does not show what the site records as a completed order. Internally, the useful check would be how an agreed order event is mapped to this ad; no orders are inferred here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right contact",
+      "Hi Fish Mart team,\n\nIf the listed store mailbox is not the right route, please point me to whoever owns paid-media measurement. I have not treated the creative's 'Decade of Excellence' wording as a verified company figure.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

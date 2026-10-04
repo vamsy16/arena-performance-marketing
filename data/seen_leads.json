@@ -845,9 +845,69 @@
       "day": 6,
       "website": "chaayos.com",
       "niche": "Food/Bengaluru/Chai cafe and quick-service restaurant chain"
+    },
+    "NATUF": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.natuf.com/",
+      "niche": "Food/Bengaluru/Levantine cafe and D2C food"
+    },
+    "Swish Now": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://justswish.in/",
+      "niche": "Food/Bengaluru/App-led food delivery and cloud kitchens"
+    },
+    "Thalairaj Biryani": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thalairajbiryani.com/",
+      "niche": "Food/Bengaluru/Biryani restaurant chain"
+    },
+    "Tuk Tuk Thai India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.tuktukthai.in/",
+      "niche": "Food/Bengaluru/Pan-Asian restaurant chain"
+    },
+    "Chelvies Coffee": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://chelviescoffee.com/",
+      "niche": "Food/Bengaluru/Specialty coffee and cafe chain"
+    },
+    "Liliyum Patisserie Cafe": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://liliyum.com/",
+      "niche": "Food/Bengaluru/Patisserie, cafe and celebration cakes"
+    },
+    "Fish Mart": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.fishmart.online/",
+      "niche": "Food/Bengaluru/Online seafood, meat and grocery storefront"
+    },
+    "Mixnosh Art Cafe": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.mixnosh.in/",
+      "niche": "Food/Bengaluru/Art cafe, workshops and celebrations"
+    },
+    "The Cuisine Story": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thecuisinestory.com/",
+      "niche": "Food/Bengaluru/Bengali restaurant and catering"
+    },
+    "Sawadee": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thethaivegankitchen.com/",
+      "niche": "Food/Bengaluru/Thai vegan restaurant"
     }
   },
-  "total_found": 141,
+  "total_found": 151,
   "daily_log": [
     {
       "day": 1,
@@ -1043,6 +1103,26 @@
         "Chaayos"
       ],
       "note": "Batch 4 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 7,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 151,
+      "brands": [
+        "NATUF",
+        "Swish Now",
+        "Thalairaj Biryani",
+        "Tuk Tuk Thai India",
+        "Chelvies Coffee",
+        "Liliyum Patisserie Cafe",
+        "Fish Mart",
+        "Mixnosh Art Cafe",
+        "The Cuisine Story",
+        "Sawadee"
+      ],
+      "note": "Batch 5 manually verified public-source shortlist; existing batches preserved."
     }
   ]
 }

@@ -1,0 +1,202 @@
+{
+  "brand": "The Cuisine Story",
+  "slug": "the-cuisine-story",
+  "website": "https://thecuisinestory.com/",
+  "instagram": "",
+  "niche": "Bengali restaurant and catering",
+  "headline": "A Sarjapur Bong Feast card shows an order-to-WhatsApp link; the individual card renders despite an unavailable page header.",
+  "market_signal": "The selected creative names Sarjapur, Bangalore, and the official homepage lists Kaggadasapura and Sarjapur Road outlets. Its copy states an offer-validity date of 15 Oct 2026; this is the card's text, not a separately verified current offer or result.",
+  "local_evidence_status": "MEASURED — selected card and first-party homepage explicitly name Bengaluru outlets; no ad targeting is inferred.",
+  "contact": {
+    "email": "cuisinestory.info@gmail.com",
+    "phone": "+91 63646 98860 (Kaggadasapura); +91 87777 36770 (Sarjapur Road)",
+    "entity": "",
+    "address": "Kaggadasapura: Shop No. 182, 6th G Cross, C V Raman Nagar, Bengaluru 560093; Sarjapur Road: Shop No. 37, Confident Oxygen Mall, Bengaluru 562125",
+    "route_role": "Published general contact email on the official homepage; no paid-media buyer is identified.",
+    "additional_emails": [
+      "cuisinestory.sarjapura@gmail.com"
+    ]
+  },
+  "contact_source": "Crawled from The Cuisine Story's own homepage on 04 Oct 2026: https://thecuisinestory.com/ publishes cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com alongside its Bengaluru outlet addresses and order links. The email is a public general contact, not a named paid-media owner.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published general email on the first-party restaurant homepage; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=thecuisinestory.com",
+    "detail": "India-region Google Ads Transparency domain view for thecuisinestory.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct The Cuisine Story card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1443992777603201&view_all_page_id=430188154064409",
+      "source_type": "Platform individual-card record",
+      "observed": "The surrounding page response says page unpublished/deleted/no ads match, but the direct card details render as an individual URL-linked ad: Library ID 1443992777603201, Active and Sponsored, started 30 Sep 2026, page label The Cuisine Story. Copy names the Sarjapur Bong Feast and validity through 15 Oct 2026; Order Now link is api.whatsapp.com/send without a recipient.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "The Cuisine Story official homepage",
+      "url": "https://thecuisinestory.com/",
+      "source_type": "Brand first-party page",
+      "observed": "Lists Kaggadasapura and Sarjapur Road Bengaluru outlets, addresses, phone/order routes, cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com. The general email is not described as a paid-media route.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — thecuisinestory.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=thecuisinestory.com",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; this is not proof of no Google advertising.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The individual active card names Sarjapur and points to a WhatsApp send URL",
+      "evidence": "Library ID 1443992777603201; The Cuisine Story page ID 430188154064409; Active and Sponsored on 04 Oct 2026; started 30 Sep 2026; copy names Sarjapur, Bangalore and validity through 15 Oct; Order Now points to api.whatsapp.com/send without a recipient. Surrounding page header says unpublished/deleted.",
+      "analysis": "The individual card details establish a public creative and visible click route only. The printed offer date is not a separately checked live offer, and the route does not establish a reservation/order or event.",
+      "next_check": "Re-open the current card and its WhatsApp destination; confirm the recipient and current offer terms, then map any authorized booking/order event to the selected ID.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party homepage publishes outlet routes and a general email",
+      "evidence": "The official homepage lists Kaggadasapura and Sarjapur Road Bengaluru outlets, order links, cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com.",
+      "analysis": "This confirms first-party local context and contact provenance, not the ad's audience geography or who manages paid media.",
+      "next_check": "Ask the published general contact to route the note to the owner of paid-media measurement if appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for thecuisinestory.com returned zero results on 04 Oct 2026.",
+      "analysis": "A zero-result view does not prove that the brand is not advertising on Google.",
+      "next_check": "If revisited, open an individual creative and confirm advertiser identity, brand tie, destination and last-shown/status fields.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1443992777603201",
+      "page_id": "430188154064409",
+      "page_name": "The Cuisine Story",
+      "started_on": "2026-09-30",
+      "creative_excerpt": "Pujo is coming, and so is the grand Bong Feast! The card names Sarjapur, Bangalore and states validity through 15 Oct 2026.",
+      "cta": "Order Now → api.whatsapp.com/send (recipient not exposed)",
+      "destination_url": "https://api.whatsapp.com/send",
+      "destination_status": "The card's Order Now link exposes an api.whatsapp.com/send URL without a recipient in the captured link. The direct response also says the surrounding page was unpublished or deleted, while the individual card rendered Active/Sponsored. No reservation, order or event was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1443992777603201&view_all_page_id=430188154064409"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "An individual URL-linked Meta card displayed Active/Sponsored, advertiser label, start date and direct Library ID; page-header caveat is explicit."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative and the official homepage name Sarjapur/Kaggadasapura Bengaluru locations; no audience targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "An Order Now WhatsApp link is visible, but its recipient and completed order are not."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official homepage/contact/outlet details and direct card were reviewed with a Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published general inbox is a routing contact, not a confirmed paid-media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct The Cuisine Story card; checked 2026-10-04; The surrounding page response says page unpublished/deleted/no ads match, but the direct card details render as an individual URL-linked ad: Library ID 1443992777603201, Active and Sponsored, started 30 Sep 2026, page label The Cuisine Story. Copy names the Sarjapur Bong Feast and validity through 15 Oct 2026; Order Now link is api.whatsapp.com/send without a recipient.",
+    "S2 — The Cuisine Story official homepage; checked 2026-10-04; Lists Kaggadasapura and Sarjapur Road Bengaluru outlets, addresses, phone/order routes, cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com. The general email is not described as a paid-media route.",
+    "S3 — Google Ads Transparency Center — thecuisinestory.com domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; this is not proof of no Google advertising."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1443992777603201 and page ID 430188154064409; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for thecuisinestory.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — selected card and first-party homepage explicitly name Bengaluru outlets; no ad targeting is inferred.",
+      "method": "The selected creative names Sarjapur, Bangalore, and the official homepage lists Kaggadasapura and Sarjapur Road outlets. Its copy states an offer-validity date of 15 Oct 2026; this is the card's text, not a separately verified current offer or result. Published general contact email on the official homepage; no paid-media buyer is identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card's Order Now link exposes an api.whatsapp.com/send URL without a recipient in the captured link. The direct response also says the surrounding page was unpublished or deleted, while the individual card rendered Active/Sponsored. No reservation, order or event was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "sarjapur feast",
+      "Hi The Cuisine Story team,\n\nThe individual card for The Cuisine Story (1443992777603201) is marked Active and Sponsored, started 30 Sep 2026 and names the Sarjapur Bong Feast. Its copy states validity through 15 Oct; the visible Order Now link is a WhatsApp send URL. I have not treated it as a booked table.\n\nThe public record does not expose private spend, orders or event firing. The published route, cuisinestory.info@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "whatsapp path",
+      "Hi The Cuisine Story team,\n\nYour homepage lists Kaggadasapura and Sarjapur Road outlets with separate order routes. The direct ad response says the surrounding page is unpublished or deleted, while the individual card renders Active/Sponsored; I only claim the card details.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "reservation source",
+      "Hi The Cuisine Story team,\n\nA WhatsApp send URL alone does not show a reservation, order or event record. The useful internal check would be how that path is connected to an agreed booking/order event and source-of-record.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right route",
+      "Hi The Cuisine Story team,\n\nThe public info@ email is not identified as a paid-media buyer; please redirect this note to the right measurement owner if appropriate. I have not assumed offer terms beyond the date printed in the card copy.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

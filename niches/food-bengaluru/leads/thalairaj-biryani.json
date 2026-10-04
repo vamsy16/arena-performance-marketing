@@ -1,0 +1,200 @@
+{
+  "brand": "Thalairaj Biryani",
+  "slug": "thalairaj-biryani",
+  "website": "https://thalairajbiryani.com/",
+  "instagram": "",
+  "niche": "Biryani restaurant chain",
+  "headline": "An active Gunjur delivery card exposes an Order now link to Linktree; order outcomes are private.",
+  "market_signal": "The selected individual ad says 'Now Delivering at Gunjur, Bangalore'. The official homepage publishes a general email and phone; the Bengaluru locality claim is tied to the ad copy, not inferred audience targeting.",
+  "local_evidence_status": "MEASURED — the selected individual creative explicitly names Gunjur, Bangalore; audience geography is not inferred.",
+  "contact": {
+    "email": "thalairajbiryani@gmail.com",
+    "phone": "80 4719 2229",
+    "entity": "",
+    "address": "No corporate address asserted from the reviewed homepage.",
+    "route_role": "Published Contact Us email on the official homepage; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Thalairaj Biryani's official homepage on 04 Oct 2026: https://thalairajbiryani.com/ publishes thalairajbiryani@gmail.com and phone 80 4719 2229 under Contact Us. The site does not identify a paid-media owner.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published general Contact Us email; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=thalairajbiryani.com",
+    "detail": "India-region Google Ads Transparency domain view for thalairajbiryani.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Thalairaj Gunjur card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1602922944095582&view_all_page_id=109012997494427",
+      "source_type": "Platform record",
+      "observed": "Meta page label Thalairaj Biryani (page ID 109012997494427); individual Library ID 1602922944095582 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2026. Copy says 'Now Delivering at Gunjur, Bangalore'; CTA Order now links to Linktree.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Thalairaj Biryani official homepage — Contact Us",
+      "url": "https://thalairajbiryani.com/",
+      "source_type": "Brand first-party page",
+      "observed": "Official homepage publishes thalairajbiryani@gmail.com and phone 80 4719 2229 under Contact Us. No paid-media owner or corporate street address is named.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — Thalairaj domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=thalairajbiryani.com",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; this does not prove no Google advertising or no activity.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected card names a Bengaluru locality and links to Linktree",
+      "evidence": "Library ID 1602922944095582; page Thalairaj Biryani (109012997494427); Active and Sponsored on 04 Oct 2026; started 15 Apr 2026; copy names Gunjur, Bangalore; Order now links to linktr.ee/thalairajbiryani.",
+      "analysis": "The card establishes a public placement and click route only. It does not show whether an order completed or was attributed to the ad.",
+      "next_check": "Re-open the card and Linktree; if authorized, map the Library ID to the internal order event, deduplication rule and date window.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A first-party contact route is published",
+      "evidence": "The official homepage lists thalairajbiryani@gmail.com and 80 4719 2229 under Contact Us.",
+      "analysis": "The public page supports a general routing contact only; it does not identify a paid-media buyer.",
+      "next_check": "Ask the published contact to direct the note to the owner of paid-media measurement, if appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for thalairajbiryani.com returned zero results on 04 Oct 2026.",
+      "analysis": "A zero-result domain query cannot establish that there are no Google ads.",
+      "next_check": "If revisited, open a current individual creative and check advertiser, brand content, destination and last-shown/status before making a brand-activity claim.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1602922944095582",
+      "page_id": "109012997494427",
+      "page_name": "Thalairaj Biryani",
+      "started_on": "2026-04-15",
+      "creative_excerpt": "Hello Friends, try Thalairaj 21 Spice Biryani, Chicken Kebab and more. Now Delivering at Gunjur, Bangalore.",
+      "cta": "Order now → Linktree /thalairajbiryani",
+      "destination_url": "https://linktr.ee/thalairajbiryani",
+      "destination_status": "The card exposes a Linktree destination and an Order now label. Linktree menu/checkout content, offer terms and event firing were not inspected; no order is inferred.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1602922944095582&view_all_page_id=109012997494427"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A direct page-resolved card displayed Active/Sponsored, the named page, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The individual creative explicitly names Gunjur, Bangalore; no targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "An Order now label and Linktree URL are visible; an order completion is not."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official Contact Us page and direct card were reviewed with a Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published general inbox is usable for routing only; no buyer is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Thalairaj Gunjur card; checked 2026-10-04; Meta page label Thalairaj Biryani (page ID 109012997494427); individual Library ID 1602922944095582 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2026. Copy says 'Now Delivering at Gunjur, Bangalore'; CTA Order now links to Linktree.",
+    "S2 — Thalairaj Biryani official homepage — Contact Us; checked 2026-10-04; Official homepage publishes thalairajbiryani@gmail.com and phone 80 4719 2229 under Contact Us. No paid-media owner or corporate street address is named.",
+    "S3 — Google Ads Transparency Center — Thalairaj domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; this does not prove no Google advertising or no activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1602922944095582 and page ID 109012997494427; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for thalairajbiryani.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the selected individual creative explicitly names Gunjur, Bangalore; audience geography is not inferred.",
+      "method": "The selected individual ad says 'Now Delivering at Gunjur, Bangalore'. The official homepage publishes a general email and phone; the Bengaluru locality claim is tied to the ad copy, not inferred audience targeting. Published Contact Us email on the official homepage; no paid-media buyer is identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card exposes a Linktree destination and an Order now label. Linktree menu/checkout content, offer terms and event firing were not inspected; no order is inferred.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "gunjur creative",
+      "Hi Thalairaj Biryani team,\n\nThe selected Thalairaj Biryani card (1602922944095582) is shown Sponsored and Active, started 15 Apr 2026 and says it is now delivering at Gunjur, Bangalore. Its Order now action points to Linktree; I did not test checkout or event firing.\n\nThe public record does not expose private spend, orders or event firing. The published route, thalairajbiryani@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order route",
+      "Hi Thalairaj Biryani team,\n\nThe visible Linktree handoff does not disclose which internal order record, if any, is attributed to the ad. I have not inferred sales from the CTA.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "outcome mapping",
+      "Hi Thalairaj Biryani team,\n\nThe official site publishes thalairajbiryani@gmail.com and a Contact Us route, but does not name a measurement owner. A useful internal check would be the event definition, identity mapping and date window.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right contact",
+      "Hi Thalairaj Biryani team,\n\nIf this published contact is not the right team, I would appreciate a pointer to the paid-media measurement owner. No current offer or performance figure has been assumed.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "brand": "Chelvies Coffee",
+  "slug": "chelvies-coffee",
+  "website": "https://chelviescoffee.com/",
+  "instagram": "",
+  "niche": "Specialty coffee and cafe chain",
+  "headline": "A Bengaluru Spiderweb Pizza card and the official Indiranagar order/call routes are publicly visible.",
+  "market_signal": "The selected individual Meta creative explicitly says Bengaluru and promotes the Spiderweb Pizza. Chelvies' official locator lists its Indiranagar outlet with online ordering, directions and a call route; no ad audience or visit result is inferred.",
+  "local_evidence_status": "MEASURED — Bengaluru appears in the selected card and official Indiranagar locator; no targeting inference.",
+  "contact": {
+    "email": "info@chelviescoffee.com",
+    "phone": "+91 98450 63368",
+    "entity": "",
+    "address": "No. 34, Sir C.V. Raman Hospital Road, HAL Stage 3, Bengaluru, Karnataka 560075 (official locator)",
+    "route_role": "The official privacy page identifies this as the Grievance Officer email; it is not described as a paid-media route. Verify suitability before sending.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Chelvies Coffee's official Privacy Policy on 04 Oct 2026: https://chelviescoffee.com/privacy-policy names info@chelviescoffee.com as the Grievance Officer email. The official Indiranagar locator separately publishes its Bengaluru address and outlet call route. The email is not identified as a paid-media contact; verify suitability before sending.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S4"
+    ],
+    "email_role": "Officially published Grievance Officer email; paid-media suitability is not established."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=chelviescoffee.com",
+    "detail": "India-region Google Ads Transparency domain view for chelviescoffee.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct selected card link (static fetch returned 403)",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1448800300746966&view_all_page_id=459166307273890",
+      "source_type": "Platform individual-card link",
+      "observed": "Direct URL for Library ID 1448800300746966 and page ID 459166307273890; standalone static fetch returned HTTP 403. The direct advertiser-page results that exposed this individual card are recorded separately as S2.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Meta Ad Library — accessible ChelviesCoffee advertiser-page results",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1601905584843602&view_all_page_id=459166307273890",
+      "source_type": "Platform advertiser-page results with individual card",
+      "observed": "Page label ChelviesCoffee (page ID 459166307273890). Results displayed Library ID 1448800300746966 as Active and Sponsored, started 07 Sep 2026; copy says 'Bengaluru's viral Spiderweb Pizza is here!' and See details opens instagram.com. The exact card was visible; the standalone card URL returned 403.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Chelvies official Indiranagar store locator",
+      "url": "https://chelviescoffee.com/store-locator/bengaluru/chelvies-coffee-indiranagar-bengaluru",
+      "source_type": "Brand first-party locator",
+      "observed": "Lists Chelvies Coffee — Indiranagar, Bengaluru; Order Online, Direct Pay, Directions and Call routes; outlet phone +91 98450 63368. The page labels the outlet business name Plente; no corporate legal entity is inferred.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Chelvies official Privacy Policy — Grievance Officer route",
+      "url": "https://chelviescoffee.com/privacy-policy",
+      "source_type": "Brand first-party policy/contact page",
+      "observed": "Names info@chelviescoffee.com as the Grievance Officer email and lists a policy contact number. This is a published first-party address, not a confirmed paid-media route; verify suitability before sending.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S5",
+      "label": "Google Ads Transparency Center — Chelvies domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=chelviescoffee.com",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; this is not proof that Chelvies has no Google advertising.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The individual card has Bengaluru copy; its standalone fetch was blocked",
+      "evidence": "Library ID 1448800300746966; page ChelviesCoffee (459166307273890); Active and Sponsored on 04 Oct 2026; started 07 Sep 2026; creative says 'Bengaluru's viral Spiderweb Pizza is here!' and See details opens Instagram. The advertiser-page result was accessible; the card-specific fetch returned HTTP 403.",
+      "analysis": "The card-level details were visible in the direct advertiser-page results, not a keyword-only result. The limitation is the standalone fetch and untested final Instagram path; no restaurant visit or order is inferred.",
+      "next_check": "Re-open both the individual card link and the advertiser-page result; confirm current status and destination before reusing the observation.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official Indiranagar locator exposes ordering and call routes",
+      "evidence": "The first-party store page lists an Indiranagar, Bengaluru outlet with Order Online, Direct Pay, Directions and Call; the outlet phone is +91 98450 63368.",
+      "analysis": "A public ordering/call path is visible, but no booking, order, visit or event outcome is measured. The outlet business-name field is not treated as a legal entity.",
+      "next_check": "If the brand authorizes an account-side review, agree an outcome definition and reconcile it with the relevant outlet/order record and date window.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The published email is a grievance route, not a confirmed media contact",
+      "evidence": "Chelvies' official Privacy Policy names info@chelviescoffee.com as the Grievance Officer email.",
+      "analysis": "The email is first-party and public, but the page does not say that it handles marketing or paid-media requests.",
+      "next_check": "Check whether this route is appropriate before sending; otherwise use the official store/contact channels to request the correct paid-media measurement owner.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for chelviescoffee.com returned zero results on 04 Oct 2026.",
+      "analysis": "Zero results do not establish that the brand does not advertise on Google.",
+      "next_check": "If revisited, open an individual creative and verify the named advertiser, brand tie, destination and last-shown/status fields.",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1448800300746966",
+      "page_id": "459166307273890",
+      "page_name": "ChelviesCoffee",
+      "started_on": "2026-09-07",
+      "creative_excerpt": "Bengaluru's viral Spiderweb Pizza is here! Made with 72-hour fermented dough and served till 2:00 AM.",
+      "cta": "See details → Instagram.com (card copy references @chelviescoffee)",
+      "destination_url": "https://www.instagram.com/",
+      "destination_status": "The exact card's creative, Active/Sponsored status, date and Instagram destination were visible in direct advertiser-page results (ID 1601905584843602). A standalone fetch of ID 1448800300746966 returned HTTP 403; the final profile/order path and event firing were not tested.",
+      "source_id": "S2",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1448800300746966&view_all_page_id=459166307273890"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A specific active/sponsored ChelviesCoffee card with page identity/date was visible in advertiser-page results; the standalone card fetch caveat is recorded."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The card explicitly names Bengaluru and an official Bengaluru outlet locator was opened."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "A visible Instagram next step exists; it is not a measured restaurant visit or order."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact policy and Indiranagar locator were reviewed along with the card and Google query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published email is a Grievance Officer route; suitability for commercial outreach is not established."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct selected card link (static fetch returned 403); checked 2026-10-04; Direct URL for Library ID 1448800300746966 and page ID 459166307273890; standalone static fetch returned HTTP 403. The direct advertiser-page results that exposed this individual card are recorded separately as S2.",
+    "S2 — Meta Ad Library — accessible ChelviesCoffee advertiser-page results; checked 2026-10-04; Page label ChelviesCoffee (page ID 459166307273890). Results displayed Library ID 1448800300746966 as Active and Sponsored, started 07 Sep 2026; copy says 'Bengaluru's viral Spiderweb Pizza is here!' and See details opens instagram.com. The exact card was visible; the standalone card URL returned 403.",
+    "S3 — Chelvies official Indiranagar store locator; checked 2026-10-04; Lists Chelvies Coffee — Indiranagar, Bengaluru; Order Online, Direct Pay, Directions and Call routes; outlet phone +91 98450 63368. The page labels the outlet business name Plente; no corporate legal entity is inferred.",
+    "S4 — Chelvies official Privacy Policy — Grievance Officer route; checked 2026-10-04; Names info@chelviescoffee.com as the Grievance Officer email and lists a policy contact number. This is a published first-party address, not a confirmed paid-media route; verify suitability before sending.",
+    "S5 — Google Ads Transparency Center — Chelvies domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; this is not proof that Chelvies has no Google advertising."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1448800300746966 and page ID 459166307273890; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for chelviescoffee.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru appears in the selected card and official Indiranagar locator; no targeting inference.",
+      "method": "The selected individual Meta creative explicitly says Bengaluru and promotes the Spiderweb Pizza. Chelvies' official locator lists its Indiranagar outlet with online ordering, directions and a call route; no ad audience or visit result is inferred. The official privacy page identifies this as the Grievance Officer email; it is not described as a paid-media route. Verify suitability before sending.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The exact card's creative, Active/Sponsored status, date and Instagram destination were visible in direct advertiser-page results (ID 1601905584843602). A standalone fetch of ID 1448800300746966 returned HTTP 403; the final profile/order path and event firing were not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "spiderweb pizza",
+      "Hi Chelvies Coffee team,\n\nThe accessible ChelviesCoffee advertiser-page results show individual card ID 1448800300746966 as Active and Sponsored from 07 Sep 2026. Its copy says 'Bengaluru's viral Spiderweb Pizza is here!' and points to Instagram. The standalone card URL returned 403 in my static fetch, so I relied on the direct advertiser-page result.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@chelviescoffee.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store route",
+      "Hi Chelvies Coffee team,\n\nYour official Indiranagar locator has online-order, directions and call routes. I have not inferred that the ad generated a visit or that an event fires on any of those paths.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "outcome definition",
+      "Hi Chelvies Coffee team,\n\nIf an account-side review is useful, the internal check would be which order, booking or visit event the team uses and how it is reconciled to the selected card ID. No private records are public.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Chelvies Coffee team,\n\nThe published info@ address is identified in the official policy as the Grievance Officer route, not a media-buyer inbox. Please redirect this note to the paid-media measurement owner if appropriate; no outcome estimate is attached.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

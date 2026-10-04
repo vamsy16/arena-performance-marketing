@@ -1,0 +1,1356 @@
+{
+  "batch": 5,
+  "niche": "Food / Bengaluru, India",
+  "verified_on": "2026-10-04",
+  "score_definition": {
+    "name": "Public-evidence fit (triage only)",
+    "scale": "Five dimensions scored 0–4; total /20; displayed /10 is total divided by two.",
+    "dimensions": [
+      "Direct paid signal: whether a page-resolved, active Meta Ad Library record was observed.",
+      "Bengaluru relevance: strength of explicit local evidence in the creative or first-party material.",
+      "Public CTA visibility: how clearly the public card exposes a next step, not whether it converts.",
+      "First-party source coverage: breadth of official product, store, contact or corporate evidence reviewed.",
+      "Contact-route relevance: fit of the published route to a request for the paid-media owner; no buyer identity is inferred."
+    ],
+    "qualification": "This is a public-evidence and routing score, not an effectiveness or revenue score, sales probability, spend estimate, forecast, or ROI claim. Private account and conversion results were not accessed."
+  },
+  "scope_decisions": [
+    "Working target: ten new leads, subject to page-resolved ad evidence, first-party contact provenance and duplicate checks across data/seen_leads.json and every existing niches/ folder. No candidate is included on a keyword-only ad result.",
+    "All ten selected Meta cards were individually opened and showed the named page/card label, Sponsored/Active status, start date and direct Library ID on 04 Oct 2026. A selected card is not an account-wide count; public inventory changes daily.",
+    "Liliyum, Mixnosh Art Cafe and The Cuisine Story had an unavailable/unpublished surrounding page response while the exact individual card still rendered Active/Sponsored. Their reports make only card-level claims and preserve the page-response caveat.",
+    "Chelvies Coffee's selected individual card 1448800300746966 was visible in accessible direct advertiser-page results, while its standalone static fetch returned HTTP 403; both links and the limitation are recorded.",
+    "Fish Mart's selected contact email is taken from indexed contact/structured-data snippets on its own website because direct static page extraction did not render the email; verify this route before sending.",
+    "Google Ads Transparency any-time/domain results are not current-ad counts. NATUF's natuf.com result was under a different verified advertiser and was not tied to NATUF; Liliyum's brand-specific creative was last shown 03 Oct and marked removed, not current active status; zero results do not prove no activity.",
+    "Domino's India was not selected because the official Jubilant FoodWorks profile lists Domino's and Popeyes among its franchise brands, while Popeyes India is already in the pack under Jubilant FoodWorks Limited. It was excluded to avoid repeating corporate-group outreach; see https://www.jubilantfoodworks.com/about-us/company-profile and the existing LEADS-INDEX.csv entry.",
+    "No site tags, pixels, rendered event firing, spend, ROAS, CPA, orders, bookings or conversion outcomes were measured or estimated. No audience targeting is inferred from city copy or first-party location pages."
+  ],
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_dimensions": [
+    "Direct paid signal",
+    "Bengaluru relevance",
+    "Public CTA visibility",
+    "First-party source coverage",
+    "Contact-route relevance"
+  ],
+  "leads": [
+    {
+      "brand": "NATUF",
+      "slug": "natuf",
+      "website": "https://www.natuf.com/",
+      "instagram": "",
+      "niche": "Levantine cafe and D2C food",
+      "headline": "A page-resolved Koramangala cafe card and first-party contact route are visible; public order outcomes are not.",
+      "market_signal": "The selected Meta creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. NATUF's own contact page separately lists Electronic City, Bengaluru. These establish local context, not ad audience geography.",
+      "local_evidence_status": "MEASURED — Bengaluru localities appear in a public ad creative and first-party contact page; targeting is not inferred.",
+      "contact": {
+        "email": "hello@natuf.in",
+        "phone": "+91 63667 94402",
+        "entity": "",
+        "address": "39A, Chikkathoguru, Basapura Main Road, Electronic City, Bengaluru 560100, India",
+        "route_role": "Published support route with a separate business-partnership form; no paid-media buyer is named.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from NATUF's own Contact page on 04 Oct 2026: https://www.natuf.com/pages/contact publishes hello@natuf.in, phone +91 63667 94402 and an Electronic City, Bengaluru address. The same page offers business-partnership routing but does not identify a paid-media owner.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "First-party customer-support contact; the page also offers a business-partnership form. Paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "NATUF",
+        "page_id": "293220663873617",
+        "library_id": "1976436179706369",
+        "started_on": "2026-07-24",
+        "creative_excerpt": "Koramangala, your new favorite cafe is here! Introducing Natuf Cafe; the card names Koramangala, Bengaluru.",
+        "cta": "See Details → Maps short link labelled for the Koramangala opening",
+        "destination_url": "https://maps.app.goo.gl/SX9B7xXtehLhRruU7",
+        "destination_status": "The card exposes a Maps short link labelled 'Now Open in Koramangala | Grand Opening Offers'. The final place/action was not independently resolved here; no visit, order or event outcome was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — one domain result under verified Ardelle Foods Private Limited; opened creative does not establish a NATUF tie; not counted as NATUF activity",
+        "url": "https://adstransparency.google.com/?region=IN&domain=natuf.com",
+        "detail": "The India-region natuf.com view returned one result under verified advertiser Ardelle Foods Private Limited. The opened creative page showed last shown 10 Sep 2026 and a policy-violation removal notice, but no NATUF-identifying creative content was available. No NATUF Google ad is claimed; the .com and .in advertiser views are not merged."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct NATUF card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1976436179706369&view_all_page_id=293220663873617",
+          "source_type": "Platform record",
+          "observed": "Meta page label NATUF (page ID 293220663873617); individual Library ID 1976436179706369 displayed Active and Sponsored on 04 Oct 2026, started 24 Jul 2026. Creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. One card only; no account-wide count or targeting claim.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "NATUF official Contact page",
+          "url": "https://www.natuf.com/pages/contact",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes hello@natuf.in, +91 63667 94402 and 39A, Chikkathoguru, Basapura Main Road, Electronic City, Bengaluru 560100. It also offers business-partnership routing; it does not name a paid-media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "NATUF official D2C shop",
+          "url": "https://shop.natuf.com/",
+          "source_type": "Brand first-party storefront",
+          "observed": "The official Natuf D2C shop is live; previously inspected product pages label selected pantry products 'Only Bangalore'. This is published availability language, not order volume or paid attribution.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — natuf.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=natuf.com",
+          "source_type": "Platform query",
+          "observed": "One India-region domain result was associated with verified Ardelle Foods Private Limited; an individual creative did not establish a NATUF tie. Not a current-ad count.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S5",
+          "label": "Google Ads Transparency Center — opened natuf.com result",
+          "url": "https://adstransparency.google.com/advertiser/AR08303920496282435585/creative/CR14789950961606459393?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Advertiser page names verified Ardelle Foods Private Limited; last shown 10 Sep 2026; page shows removed for a policy violation. Creative content did not identify NATUF; no brand tie is claimed.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active Koramangala card exposes a Maps route, not a measured visit",
+          "evidence": "Library ID 1976436179706369; page NATUF (293220663873617); Active and Sponsored on 04 Oct 2026; started 24 Jul 2026; copy names Natuf Cafe, Koramangala, Bengaluru; See Details links to a Maps short URL.",
+          "analysis": "The individual card supports a public placement and a visible Maps next step only. It does not establish audience geography, store visits, online orders or event firing.",
+          "next_check": "Re-open the individual card and short link; if authorized, map the card ID to a defined store-visit or order event and its source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party contact and D2C context are available",
+          "evidence": "NATUF's Contact page publishes hello@natuf.in and an Electronic City, Bengaluru address; the first-party shop shows Bangalore-only product availability labels.",
+          "analysis": "These pages establish a published routing contact and local business context, not paid-media ownership or sales performance.",
+          "next_check": "Recheck the contact route and current product availability before outreach; ask the recipient to forward the note to the measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain result is not attributable to NATUF",
+          "evidence": "The natuf.com query returned one result under verified Ardelle Foods Private Limited; the opened creative was last shown 10 Sep 2026 and marked removed, without NATUF-identifying content.",
+          "analysis": "A domain match or mixed advertiser result does not establish a NATUF creative. No Google activity is attributed to the brand.",
+          "next_check": "If revisited, open a specific current creative and confirm its named advertiser, brand-identifying content, destination and last-shown/status fields.",
+          "source_ids": [
+            "S4",
+            "S5"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "score_bases": [
+        "An individual page-resolved Meta card displayed Active and Sponsored, page identity, start date and Library ID.",
+        "The creative names Koramangala, Bengaluru and the first-party contact page lists Electronic City; no audience geography is inferred.",
+        "A Maps short link is visible, but the final business action and outcome are not measured.",
+        "Official contact and D2C shop pages were reviewed alongside the direct card and Google query/creative.",
+        "The published inbox is a support route, not a confirmed paid-media or measurement owner."
+      ],
+      "email_subjects": [
+        "koramangala card",
+        "map handoff",
+        "order source",
+        "measurement owner"
+      ],
+      "email_notes": [
+        "I checked the individual India-filtered Meta card 1976436179706369: it is labelled Sponsored and Active, started 24 Jul 2026 and names Natuf Cafe in Koramangala. I have not treated its Maps link as proof of a visit or order.",
+        "The card's visible next step is a Maps short link labelled for the Koramangala opening. The public record does not show whether store visits, online orders or another agreed event are reconciled to that route.",
+        "For a measurement review, the internal definition would start with the chosen outcome (such as a store visit or completed online order) and its source-of-record. Neither is public in this snapshot.",
+        "The official contact page publishes a support route and a separate business-partnership form, but it does not name a media buyer. I can share the source-linked audit with the right owner if you can point me there."
+      ]
+    },
+    {
+      "brand": "Swish Now",
+      "slug": "swish-now",
+      "website": "https://justswish.in/",
+      "instagram": "",
+      "niche": "App-led food delivery and cloud kitchens",
+      "headline": "A current Swish Now card uses a ten-minute delivery claim; the captured CTA does not expose an order destination.",
+      "market_signal": "The official homepage says Swish started in Bengaluru in 2024. The selected ad copy says 'serving fresh food in 10 minutes (or less)'; that is creative text, not a measured delivery-time or ad-targeting result.",
+      "local_evidence_status": "MEASURED — official homepage identifies Bengaluru as the company's origin; no audience geography is inferred.",
+      "contact": {
+        "email": "support@justswish.in",
+        "phone": "",
+        "entity": "",
+        "address": "Bengaluru origin stated on the official homepage; no corporate street address asserted.",
+        "route_role": "Published customer-support inbox on the official homepage; paid-media buyer not identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Swish's official homepage on 04 Oct 2026: https://justswish.in/ states the company started in Bengaluru and publishes support@justswish.in under Contact. The address is a support route, not a confirmed paid-media owner.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published support inbox; no paid-media or measurement owner is named."
+      },
+      "meta": {
+        "page_name": "Swish Now",
+        "page_id": "376986995505672",
+        "library_id": "1471457201452711",
+        "started_on": "2026-08-12",
+        "creative_excerpt": "Swish - serving fresh food in 10 minutes (or less).",
+        "cta": "Learn more; final business destination not exposed in the captured card text",
+        "destination_url": "",
+        "destination_status": "The individual card is Active and Sponsored; static extraction rendered a Learn more label but did not expose a brand destination. No app store, order flow or event was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=justswish.in",
+        "detail": "India-region Google Ads Transparency domain view for justswish.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Swish Now card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1471457201452711&view_all_page_id=376986995505672",
+          "source_type": "Platform record",
+          "observed": "Meta page label Swish Now (page ID 376986995505672); individual Library ID 1471457201452711 displayed Active and Sponsored on 04 Oct 2026, started 12 Aug 2026. Copy: 'Swish - serving fresh food in 10 minutes (or less)'. Learn more destination was not exposed in the captured card text.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Swish official homepage and contact",
+          "url": "https://justswish.in/",
+          "source_type": "Brand first-party page",
+          "observed": "Homepage says Swish started in Bengaluru in 2024, describes its own kitchens/app and publishes support@justswish.in. Published company statements are not ad-targeting or order-performance measurements.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — justswish.in domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=justswish.in",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture. This does not prove no Google advertising or no activity.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected card's delivery line is creative copy, not a measured outcome",
+          "evidence": "Library ID 1471457201452711; page Swish Now (376986995505672); Active and Sponsored on 04 Oct 2026; started 12 Aug 2026; copy says 'serving fresh food in 10 minutes (or less)'.",
+          "analysis": "The card establishes a public sponsored placement and the exact wording shown. It does not validate delivery times, conversions, audience, spend or ROAS.",
+          "next_check": "If the team wants a measurement review, compare the approved delivery-time definition with internal order timestamps only if authorized; do not use the ad copy as a measurement.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The captured Learn more CTA has no public order destination",
+          "evidence": "The selected card shows a Learn more label; the static capture did not expose a brand/app/order destination. The official homepage publishes support@justswish.in and a Bengaluru origin statement.",
+          "analysis": "No order flow or event can be inferred from a label whose final destination is not visible. The contact route is not identified as a paid-media owner.",
+          "next_check": "Re-open the current card in a normal browser and confirm the destination; ask support to route the note to the paid-media measurement owner.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for justswish.in returned zero results on 04 Oct 2026.",
+          "analysis": "Zero results in one public view are not evidence that the brand does not advertise on Google.",
+          "next_check": "If revisited, search a current individual creative and check the advertiser identity, creative, destination and last-shown/status fields.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        3,
+        1,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The individual page-resolved Meta card displayed Active and Sponsored, a named page, start date and Library ID.",
+        "The first-party homepage says the company started in Bengaluru; this is origin context, not ad targeting.",
+        "A Learn more label is visible but the captured card did not expose a brand destination.",
+        "The official homepage/contact route and direct individual card were reviewed with a Google domain query.",
+        "The published email is support, not a named paid-media or measurement owner."
+      ],
+      "email_subjects": [
+        "10 minute card",
+        "route check",
+        "event definition",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Swish Now card 1471457201452711 is shown Sponsored and Active, started 12 Aug 2026. Its copy says 'serving fresh food in 10 minutes (or less)'; I have not treated that as a measured delivery time or conversion result.",
+        "In the captured card view, the CTA is Learn more but the final destination was not exposed. I have not inferred an order path or event from the label.",
+        "The official site says Swish started in Bengaluru and publishes support@justswish.in. For an account-side review, which order event and time window would your team reconcile against the selected ad ID?",
+        "If support is not the right route, could you direct this note to whoever owns paid-media measurement? No private outcome is assumed."
+      ]
+    },
+    {
+      "brand": "Thalairaj Biryani",
+      "slug": "thalairaj-biryani",
+      "website": "https://thalairajbiryani.com/",
+      "instagram": "",
+      "niche": "Biryani restaurant chain",
+      "headline": "An active Gunjur delivery card exposes an Order now link to Linktree; order outcomes are private.",
+      "market_signal": "The selected individual ad says 'Now Delivering at Gunjur, Bangalore'. The official homepage publishes a general email and phone; the Bengaluru locality claim is tied to the ad copy, not inferred audience targeting.",
+      "local_evidence_status": "MEASURED — the selected individual creative explicitly names Gunjur, Bangalore; audience geography is not inferred.",
+      "contact": {
+        "email": "thalairajbiryani@gmail.com",
+        "phone": "80 4719 2229",
+        "entity": "",
+        "address": "No corporate address asserted from the reviewed homepage.",
+        "route_role": "Published Contact Us email on the official homepage; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Thalairaj Biryani's official homepage on 04 Oct 2026: https://thalairajbiryani.com/ publishes thalairajbiryani@gmail.com and phone 80 4719 2229 under Contact Us. The site does not identify a paid-media owner.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published general Contact Us email; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Thalairaj Biryani",
+        "page_id": "109012997494427",
+        "library_id": "1602922944095582",
+        "started_on": "2026-04-15",
+        "creative_excerpt": "Hello Friends, try Thalairaj 21 Spice Biryani, Chicken Kebab and more. Now Delivering at Gunjur, Bangalore.",
+        "cta": "Order now → Linktree /thalairajbiryani",
+        "destination_url": "https://linktr.ee/thalairajbiryani",
+        "destination_status": "The card exposes a Linktree destination and an Order now label. Linktree menu/checkout content, offer terms and event firing were not inspected; no order is inferred."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=thalairajbiryani.com",
+        "detail": "India-region Google Ads Transparency domain view for thalairajbiryani.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Thalairaj Gunjur card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1602922944095582&view_all_page_id=109012997494427",
+          "source_type": "Platform record",
+          "observed": "Meta page label Thalairaj Biryani (page ID 109012997494427); individual Library ID 1602922944095582 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2026. Copy says 'Now Delivering at Gunjur, Bangalore'; CTA Order now links to Linktree.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Thalairaj Biryani official homepage — Contact Us",
+          "url": "https://thalairajbiryani.com/",
+          "source_type": "Brand first-party page",
+          "observed": "Official homepage publishes thalairajbiryani@gmail.com and phone 80 4719 2229 under Contact Us. No paid-media owner or corporate street address is named.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — Thalairaj domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=thalairajbiryani.com",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; this does not prove no Google advertising or no activity.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected card names a Bengaluru locality and links to Linktree",
+          "evidence": "Library ID 1602922944095582; page Thalairaj Biryani (109012997494427); Active and Sponsored on 04 Oct 2026; started 15 Apr 2026; copy names Gunjur, Bangalore; Order now links to linktr.ee/thalairajbiryani.",
+          "analysis": "The card establishes a public placement and click route only. It does not show whether an order completed or was attributed to the ad.",
+          "next_check": "Re-open the card and Linktree; if authorized, map the Library ID to the internal order event, deduplication rule and date window.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A first-party contact route is published",
+          "evidence": "The official homepage lists thalairajbiryani@gmail.com and 80 4719 2229 under Contact Us.",
+          "analysis": "The public page supports a general routing contact only; it does not identify a paid-media buyer.",
+          "next_check": "Ask the published contact to direct the note to the owner of paid-media measurement, if appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for thalairajbiryani.com returned zero results on 04 Oct 2026.",
+          "analysis": "A zero-result domain query cannot establish that there are no Google ads.",
+          "next_check": "If revisited, open a current individual creative and check advertiser, brand content, destination and last-shown/status before making a brand-activity claim.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "A direct page-resolved card displayed Active/Sponsored, the named page, start date and Library ID.",
+        "The individual creative explicitly names Gunjur, Bangalore; no targeting is inferred.",
+        "An Order now label and Linktree URL are visible; an order completion is not.",
+        "Official Contact Us page and direct card were reviewed with a Google domain query.",
+        "The published general inbox is usable for routing only; no buyer is named."
+      ],
+      "email_subjects": [
+        "gunjur creative",
+        "order route",
+        "outcome mapping",
+        "right contact"
+      ],
+      "email_notes": [
+        "The selected Thalairaj Biryani card (1602922944095582) is shown Sponsored and Active, started 15 Apr 2026 and says it is now delivering at Gunjur, Bangalore. Its Order now action points to Linktree; I did not test checkout or event firing.",
+        "The visible Linktree handoff does not disclose which internal order record, if any, is attributed to the ad. I have not inferred sales from the CTA.",
+        "The official site publishes thalairajbiryani@gmail.com and a Contact Us route, but does not name a measurement owner. A useful internal check would be the event definition, identity mapping and date window.",
+        "If this published contact is not the right team, I would appreciate a pointer to the paid-media measurement owner. No current offer or performance figure has been assumed."
+      ]
+    },
+    {
+      "brand": "Tuk Tuk Thai India",
+      "slug": "tuk-tuk-thai-india",
+      "website": "https://www.tuktukthai.in/",
+      "instagram": "",
+      "niche": "Pan-Asian restaurant chain",
+      "headline": "A Bengaluru-heavy creative links to Instagram; the official India contact page provides a first-party route.",
+      "market_signal": "The selected card says it is bringing Bangkok-inspired dining to Bengaluru and lists Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road (plus Ahmedabad). This is creative/local-business context, not audience targeting.",
+      "local_evidence_status": "MEASURED — Bengaluru outlet areas are named in the individual ad and the official India contact page lists a Bengaluru address; no ad-targeting inference.",
+      "contact": {
+        "email": "Tuktukthaiind@gmail.com",
+        "phone": "+91 97315 79935",
+        "entity": "Sama Hospitality LLP (named on the official India Contact Us page)",
+        "address": "AC.No. 30, WS No. 2B, Golden Square Hebbal, Esteem Mall, TF-01, 3rd Floor, No. 127 and 128, Kempapura, Bellary Road, Hebbal Bangalore North, Karnataka 560024",
+        "route_role": "Published India contact email; no paid-media role or buyer is stated.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Tuk Tuk Thai's official India Contact Us page on 04 Oct 2026: https://www.tuktukthai.in/contact-3 lists Tuktukthaiind@gmail.com under the India contact section for Sama Hospitality LLP, with a Bengaluru address and phone. It does not identify a paid-media buyer.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published India contact route for Sama Hospitality LLP; no paid-media buyer is identified."
+      },
+      "meta": {
+        "page_name": "Tuk Tuk India Offical",
+        "page_id": "401998406326790",
+        "library_id": "3411800248981078",
+        "started_on": "2026-08-26",
+        "creative_excerpt": "The vibes are immaculate, but the food? Completely next level. We are bringing the energetic warmth of Bangkok right into the heart of Bengaluru.",
+        "cta": "See details → Instagram @tuk_tuk_thai_india_official",
+        "destination_url": "https://www.instagram.com/tuk_tuk_thai_india_official?igsi=MXRvYjRoc3pmODB4ag%3D%3D",
+        "destination_status": "The ad's visible Instagram handle differs from the official Contact page's linked Instagram handle (@tuk.tuk.thai.ind); equivalence was not established. No booking/order flow or event firing was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=tuktukthai.in",
+        "detail": "India-region Google Ads Transparency domain view for tuktukthai.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Tuk Tuk India card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=3411800248981078&view_all_page_id=401998406326790",
+          "source_type": "Platform record",
+          "observed": "Meta page label Tuk Tuk India Offical (page ID 401998406326790); individual Library ID 3411800248981078 displayed Active and Sponsored on 04 Oct 2026, started 26 Aug 2026. Creative names Bengaluru, Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road; See details links to @tuk_tuk_thai_india_official.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Tuk Tuk Thai official India Contact Us page",
+          "url": "https://www.tuktukthai.in/contact-3",
+          "source_type": "Brand first-party contact page",
+          "observed": "Lists Sama Hospitality LLP for India, Tuktukthaiind@gmail.com, +91 97315 79935 and a Hebbal/Bellary Road Bengaluru address. The page links Instagram @tuk.tuk.thai.ind, different from the selected ad's handle; no equivalence is asserted.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — Tuk Tuk Thai domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=tuktukthai.in",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; this is not proof of no Google advertising or no activity.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected card names Bengaluru outlets and links to Instagram",
+          "evidence": "Library ID 3411800248981078; page label Tuk Tuk India Offical (401998406326790); Active and Sponsored on 04 Oct 2026; started 26 Aug 2026; copy names Bengaluru and five Bengaluru areas; CTA links to @tuk_tuk_thai_india_official.",
+          "analysis": "The individual card supports a public placement and the listed creative/location text. It does not show audience targeting, table bookings, orders or event firing.",
+          "next_check": "Re-open the card and confirm the current Instagram destination; if appropriate, ask which internal event is used for reservation or order outcomes.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official India contact route is published, with an Instagram-handle difference",
+          "evidence": "The Contact Us page lists Tuktukthaiind@gmail.com under Sama Hospitality LLP and links @tuk.tuk.thai.ind; the card CTA uses @tuk_tuk_thai_india_official.",
+          "analysis": "The first-party email is directly visible, but the two Instagram handles are not assumed to be the same account.",
+          "next_check": "Verify the intended social destination with the brand and ask the published India contact to route the measurement note to the right owner.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for tuktukthai.in returned zero results on 04 Oct 2026.",
+          "analysis": "Zero results in a domain view do not prove that no Google ads exist.",
+          "next_check": "If revisited, inspect an individual creative and confirm its named advertiser, brand tie, destination and last-shown/status.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "score_bases": [
+        "The individual page-resolved Meta card displayed Active/Sponsored, named page, start date and Library ID.",
+        "The creative names Bengaluru and specific neighborhoods; the official India page also lists a Bengaluru address.",
+        "A See details link to Instagram is visible; it is not a reservation conversion.",
+        "The official India Contact Us page and direct card were reviewed; one secondary Instagram search snippet was not used for contact provenance.",
+        "The official India email is a general routing route; the page does not identify a paid-media owner."
+      ],
+      "email_subjects": [
+        "bengaluru creative",
+        "instagram handoff",
+        "booking signals",
+        "right team"
+      ],
+      "email_notes": [
+        "The individual India Ad Library card 3411800248981078 is shown Active and Sponsored from 26 Aug 2026. It names Bengaluru and lists Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road, with a See details Instagram link.",
+        "The ad link uses @tuk_tuk_thai_india_official, while the official Contact Us page links @tuk.tuk.thai.ind. I have not treated these as the same profile or inferred a booking path.",
+        "If you measure table enquiries or orders internally, which event definition and source-of-record would you want tied to an individual paid card? No conversion is visible in the public library.",
+        "This note is going to the India contact printed for Sama Hospitality LLP. If that is not the right route, could you direct it to whoever owns paid-media measurement?"
+      ]
+    },
+    {
+      "brand": "Chelvies Coffee",
+      "slug": "chelvies-coffee",
+      "website": "https://chelviescoffee.com/",
+      "instagram": "",
+      "niche": "Specialty coffee and cafe chain",
+      "headline": "A Bengaluru Spiderweb Pizza card and the official Indiranagar order/call routes are publicly visible.",
+      "market_signal": "The selected individual Meta creative explicitly says Bengaluru and promotes the Spiderweb Pizza. Chelvies' official locator lists its Indiranagar outlet with online ordering, directions and a call route; no ad audience or visit result is inferred.",
+      "local_evidence_status": "MEASURED — Bengaluru appears in the selected card and official Indiranagar locator; no targeting inference.",
+      "contact": {
+        "email": "info@chelviescoffee.com",
+        "phone": "+91 98450 63368",
+        "entity": "",
+        "address": "No. 34, Sir C.V. Raman Hospital Road, HAL Stage 3, Bengaluru, Karnataka 560075 (official locator)",
+        "route_role": "The official privacy page identifies this as the Grievance Officer email; it is not described as a paid-media route. Verify suitability before sending.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Chelvies Coffee's official Privacy Policy on 04 Oct 2026: https://chelviescoffee.com/privacy-policy names info@chelviescoffee.com as the Grievance Officer email. The official Indiranagar locator separately publishes its Bengaluru address and outlet call route. The email is not identified as a paid-media contact; verify suitability before sending.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S4"
+        ],
+        "email_role": "Officially published Grievance Officer email; paid-media suitability is not established."
+      },
+      "meta": {
+        "page_name": "ChelviesCoffee",
+        "page_id": "459166307273890",
+        "library_id": "1448800300746966",
+        "started_on": "2026-09-07",
+        "creative_excerpt": "Bengaluru's viral Spiderweb Pizza is here! Made with 72-hour fermented dough and served till 2:00 AM.",
+        "cta": "See details → Instagram.com (card copy references @chelviescoffee)",
+        "destination_url": "https://www.instagram.com/",
+        "destination_status": "The exact card's creative, Active/Sponsored status, date and Instagram destination were visible in direct advertiser-page results (ID 1601905584843602). A standalone fetch of ID 1448800300746966 returned HTTP 403; the final profile/order path and event firing were not tested.",
+        "source_id": "S2"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=chelviescoffee.com",
+        "detail": "India-region Google Ads Transparency domain view for chelviescoffee.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct selected card link (static fetch returned 403)",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1448800300746966&view_all_page_id=459166307273890",
+          "source_type": "Platform individual-card link",
+          "observed": "Direct URL for Library ID 1448800300746966 and page ID 459166307273890; standalone static fetch returned HTTP 403. The direct advertiser-page results that exposed this individual card are recorded separately as S2.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Meta Ad Library — accessible ChelviesCoffee advertiser-page results",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1601905584843602&view_all_page_id=459166307273890",
+          "source_type": "Platform advertiser-page results with individual card",
+          "observed": "Page label ChelviesCoffee (page ID 459166307273890). Results displayed Library ID 1448800300746966 as Active and Sponsored, started 07 Sep 2026; copy says 'Bengaluru's viral Spiderweb Pizza is here!' and See details opens instagram.com. The exact card was visible; the standalone card URL returned 403.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Chelvies official Indiranagar store locator",
+          "url": "https://chelviescoffee.com/store-locator/bengaluru/chelvies-coffee-indiranagar-bengaluru",
+          "source_type": "Brand first-party locator",
+          "observed": "Lists Chelvies Coffee — Indiranagar, Bengaluru; Order Online, Direct Pay, Directions and Call routes; outlet phone +91 98450 63368. The page labels the outlet business name Plente; no corporate legal entity is inferred.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Chelvies official Privacy Policy — Grievance Officer route",
+          "url": "https://chelviescoffee.com/privacy-policy",
+          "source_type": "Brand first-party policy/contact page",
+          "observed": "Names info@chelviescoffee.com as the Grievance Officer email and lists a policy contact number. This is a published first-party address, not a confirmed paid-media route; verify suitability before sending.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S5",
+          "label": "Google Ads Transparency Center — Chelvies domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=chelviescoffee.com",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; this is not proof that Chelvies has no Google advertising.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The individual card has Bengaluru copy; its standalone fetch was blocked",
+          "evidence": "Library ID 1448800300746966; page ChelviesCoffee (459166307273890); Active and Sponsored on 04 Oct 2026; started 07 Sep 2026; creative says 'Bengaluru's viral Spiderweb Pizza is here!' and See details opens Instagram. The advertiser-page result was accessible; the card-specific fetch returned HTTP 403.",
+          "analysis": "The card-level details were visible in the direct advertiser-page results, not a keyword-only result. The limitation is the standalone fetch and untested final Instagram path; no restaurant visit or order is inferred.",
+          "next_check": "Re-open both the individual card link and the advertiser-page result; confirm current status and destination before reusing the observation.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official Indiranagar locator exposes ordering and call routes",
+          "evidence": "The first-party store page lists an Indiranagar, Bengaluru outlet with Order Online, Direct Pay, Directions and Call; the outlet phone is +91 98450 63368.",
+          "analysis": "A public ordering/call path is visible, but no booking, order, visit or event outcome is measured. The outlet business-name field is not treated as a legal entity.",
+          "next_check": "If the brand authorizes an account-side review, agree an outcome definition and reconcile it with the relevant outlet/order record and date window.",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The published email is a grievance route, not a confirmed media contact",
+          "evidence": "Chelvies' official Privacy Policy names info@chelviescoffee.com as the Grievance Officer email.",
+          "analysis": "The email is first-party and public, but the page does not say that it handles marketing or paid-media requests.",
+          "next_check": "Check whether this route is appropriate before sending; otherwise use the official store/contact channels to request the correct paid-media measurement owner.",
+          "source_ids": [
+            "S4"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for chelviescoffee.com returned zero results on 04 Oct 2026.",
+          "analysis": "Zero results do not establish that the brand does not advertise on Google.",
+          "next_check": "If revisited, open an individual creative and verify the named advertiser, brand tie, destination and last-shown/status fields.",
+          "source_ids": [
+            "S5"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "A specific active/sponsored ChelviesCoffee card with page identity/date was visible in advertiser-page results; the standalone card fetch caveat is recorded.",
+        "The card explicitly names Bengaluru and an official Bengaluru outlet locator was opened.",
+        "A visible Instagram next step exists; it is not a measured restaurant visit or order.",
+        "Official contact policy and Indiranagar locator were reviewed along with the card and Google query.",
+        "The published email is a Grievance Officer route; suitability for commercial outreach is not established."
+      ],
+      "email_subjects": [
+        "spiderweb pizza",
+        "store route",
+        "outcome definition",
+        "right owner"
+      ],
+      "email_notes": [
+        "The accessible ChelviesCoffee advertiser-page results show individual card ID 1448800300746966 as Active and Sponsored from 07 Sep 2026. Its copy says 'Bengaluru's viral Spiderweb Pizza is here!' and points to Instagram. The standalone card URL returned 403 in my static fetch, so I relied on the direct advertiser-page result.",
+        "Your official Indiranagar locator has online-order, directions and call routes. I have not inferred that the ad generated a visit or that an event fires on any of those paths.",
+        "If an account-side review is useful, the internal check would be which order, booking or visit event the team uses and how it is reconciled to the selected card ID. No private records are public.",
+        "The published info@ address is identified in the official policy as the Grievance Officer route, not a media-buyer inbox. Please redirect this note to the paid-media measurement owner if appropriate; no outcome estimate is attached."
+      ]
+    },
+    {
+      "brand": "Liliyum Patisserie Cafe",
+      "slug": "liliyum-patisserie-cafe",
+      "website": "https://liliyum.com/",
+      "instagram": "",
+      "niche": "Patisserie, cafe and celebration cakes",
+      "headline": "An active cake-product card links to the official store; a recent Google creative is archived, not currently active.",
+      "market_signal": "Liliyum's official contact page publishes a Bengaluru operating address. The selected Meta card links to Liliyum product pages; a separate Google archive creative explicitly mentions Bangalore but was marked removed and is not current-activity evidence.",
+      "local_evidence_status": "MEASURED — first-party Bengaluru operating address is published; the archived Google creative is not treated as current activity or targeting.",
+      "contact": {
+        "email": "support@liliyum.com",
+        "phone": "+91 99863 50349",
+        "entity": "",
+        "address": "Plot No. 3, Khatha No. 1178, Lakshmi Layout Main Road, Chikkabegur Gate, Hongasandra Village, Bangalore 560068",
+        "route_role": "Published customer-support email on the official contact page; paid-media buyer not identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Liliyum's own Contact Us page on 04 Oct 2026: https://liliyum.com/pages/contact-us publishes support@liliyum.com, phone +91-9986350349 and an operational address in Bengaluru. This is a support route, not a confirmed paid-media contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published customer-support route; no paid-media owner is identified."
+      },
+      "meta": {
+        "page_name": "Liliyum Patisserie Cafe",
+        "page_id": "687481308002878",
+        "library_id": "1893067388109477",
+        "started_on": "2025-06-18",
+        "creative_excerpt": "Liliyum is our love for creation; card versions display Butterfly Ombre Cake and Butterscotch Cake with Order Now links to Liliyum product pages.",
+        "cta": "Order Now → Liliyum celebration-cake product page",
+        "destination_url": "https://liliyum.com/collections/celebration-cakes/products/ombre-cake-colorful-cake",
+        "destination_status": "The card displays multiple product versions linking to Liliyum's own store. The surrounding Meta page response said the page was unpublished or deleted, while the individual card still rendered Active/Sponsored; no checkout or event firing was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — brand-specific archive creative; last shown 03 Oct 2026 and marked removed for a policy violation; not current activity",
+        "url": "https://adstransparency.google.com/?region=IN&domain=liliyum.com",
+        "detail": "The India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The opened creative CR10100277055867322369 explicitly names Liliyum Patisserie/Bangalore and was last shown 03 Oct 2026; Google's page marked it removed for a policy violation. This is archive evidence, not a current active-ad claim; 22 is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Liliyum product-card record",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1893067388109477&view_all_page_id=687481308002878",
+          "source_type": "Platform individual-card record",
+          "observed": "Individual Library ID 1893067388109477 displayed Active and Sponsored on 04 Oct 2026; started 18 Jun 2025; page label Liliyum Patisserie Cafe. Product versions show Order Now links to Liliyum celebration-cake pages. The surrounding page response said the page was unpublished or deleted; the individual card details still rendered.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Liliyum official Contact Us page",
+          "url": "https://liliyum.com/pages/contact-us",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes support@liliyum.com, phone +91-9986350349 and operational address Plot No. 3, Khatha No. 1178, Lakshmi Layout Main Road, Chikkabegur Gate, Hongasandra Village, Bangalore 560068.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — liliyum.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=liliyum.com",
+          "source_type": "Platform query",
+          "observed": "India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The count is not a current-active count; see opened individual creative S4.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Liliyum Patisserie creative",
+          "url": "https://adstransparency.google.com/advertiser/AR14111876119212851201/creative/CR10100277055867322369?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser SHARATH JOSE; creative explicitly says Liliyum Patisserie/Bangalore; last shown 03 Oct 2026; page states removed for a policy violation. It is not current active-ad evidence.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The Meta card links cake creatives to the official store",
+          "evidence": "Library ID 1893067388109477; page Liliyum Patisserie Cafe (687481308002878); Active and Sponsored on 04 Oct 2026; started 18 Jun 2025; versions include Butterfly Ombre Cake/Butterscotch Cake with Order Now links to liliyum.com.",
+          "analysis": "The direct individual card shows a public placement and product-page path only. The surrounding page response said unpublished or deleted; no broader page/account claim or completed order is inferred.",
+          "next_check": "Re-open the individual ad card, confirm its current status and product destination, and reconcile any authorized order event by card ID and date window.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party support and operating address are published",
+          "evidence": "The official contact page lists support@liliyum.com and a Hongasandra/Bengaluru operating address.",
+          "analysis": "This is a public routing contact and locality source, not a named paid-media buyer or proof of campaign geography.",
+          "next_check": "Recheck the contact details and ask the support route to forward the note to the paid-media measurement owner if appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A recent Google creative is archived and marked removed",
+          "evidence": "Creative CR10100277055867322369 names Liliyum Patisserie/Bangalore, last shown 03 Oct 2026, under verified advertiser SHARATH JOSE; Google marks it removed for a policy violation.",
+          "analysis": "This establishes a recent brand-specific archived creative, not a current Google-active ad. The domain view's 22 any-time results are not an active count.",
+          "next_check": "If revisited, open an individual creative and confirm its current status, advertiser, brand destination and last-shown fields before making an activity claim.",
+          "source_ids": [
+            "S3",
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The individual Meta card displayed Active/Sponsored, a named page, start date and direct Library ID; page-header limitation is disclosed.",
+        "The official contact page publishes a Bengaluru operational address; no ad targeting is inferred.",
+        "Order Now links to specific official product pages; this does not establish checkout or purchase completion.",
+        "Official contact page, direct Meta card, Google domain query and a brand-specific archived creative were reviewed.",
+        "A first-party support inbox is published, but no paid-media or measurement owner is named."
+      ],
+      "email_subjects": [
+        "cake order path",
+        "delivery query",
+        "local card",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Liliyum Patisserie Cafe card 1893067388109477 is shown Active and Sponsored from 18 Jun 2025. It lists cake-product versions with Order Now links to Liliyum's own store. The surrounding page response said unpublished or deleted, so I rely only on the rendered individual-card details.",
+        "The official Contact Us page publishes support@liliyum.com and a Bengaluru operating address. This is first-party context, not evidence of ad targeting or completed orders.",
+        "Google's individual Liliyum creative names Liliyum Patisserie/Bangalore and was last shown 03 Oct; Google's page marks it removed for a policy violation. I do not describe it as current Google activity.",
+        "If support is not the right place for a measurement note, could you redirect it to the relevant owner? The public sources do not reveal private spend or order outcomes."
+      ]
+    },
+    {
+      "brand": "Fish Mart",
+      "slug": "fish-mart",
+      "website": "https://www.fishmart.online/",
+      "instagram": "",
+      "niche": "Online seafood, meat and grocery storefront",
+      "headline": "An active seafood card links to the Fish Mart storefront; its published contact inbox appears only in first-party indexed snippets.",
+      "market_signal": "FishMart's own storefront describes the business as based in Bengaluru, Karnataka. The selected card promotes seafood and sends viewers to fishmart.online; its copy does not establish a service radius or ad targeting.",
+      "local_evidence_status": "MEASURED — the official storefront describes FishMart as based in Bengaluru; the selected creative itself is not used to infer targeting.",
+      "contact": {
+        "email": "holdingscitrine@gmail.com",
+        "phone": "+91 78298 57007",
+        "entity": "",
+        "address": "Citrine Holdings, No. 10, South End Main Road, near Jayanagar 9th Block East End, Bengaluru, Karnataka 560069 (first-party indexed store-page snippet; direct text extraction did not render this line)",
+        "route_role": "Store contact mailbox shown in first-party indexed contact/structured data; verify before sending; no paid-media buyer is named.",
+        "additional_emails": []
+      },
+      "contact_source": "First-party Fish Mart homepage and categories-page indexed contact/structured-data snippets on 04 Oct 2026 list holdingscitrine@gmail.com and phone 7829857007. The static page extraction did not render the email, so this provenance is explicitly limited to the brand site's own indexed snippets; verify the route before sending.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2",
+          "S3"
+        ],
+        "email_role": "Store contact mailbox in first-party indexed site content; direct static extraction did not expose it. Verify before sending; not identified as paid-media buyer."
+      },
+      "meta": {
+        "page_name": "Quick Fish Shoppe (card link points to Fish Mart)",
+        "page_id": "105361281632887",
+        "library_id": "530960299819710",
+        "started_on": "2025-04-15",
+        "creative_excerpt": "Quality Seafood Delivered to Your Doorstep: Fish Mart's Decade of Excellence; card versions feature Seer Fish, White Pomfret and Sardines.",
+        "cta": "See Menu → fishmart.online storefront",
+        "destination_url": "https://www.fishmart.online/",
+        "destination_status": "The page header is Fish Mart; the individual sponsored-card label is Quick Fish Shoppe and links to facebook.com/fishmartindia. Its See Menu link points to fishmart.online. No checkout or order event was tested, and no legal entity is inferred from the card label."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=fishmart.online",
+        "detail": "India-region Google Ads Transparency domain view for fishmart.online returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Fish Mart-linked card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=530960299819710&view_all_page_id=105361281632887",
+          "source_type": "Platform individual-card record",
+          "observed": "Ad Library page header is Fish Mart (facebook.com/fishmartindia); the individual card label is Quick Fish Shoppe, linked to that Fish Mart page. Library ID 530960299819710 displayed Active and Sponsored on 04 Oct 2026, started 15 Apr 2025; creative promotes seafood and See Menu links to fishmart.online.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Fish Mart official storefront homepage",
+          "url": "https://www.fishmart.online/",
+          "source_type": "Brand first-party storefront",
+          "observed": "Static page content describes FishMart as based in Bengaluru, Karnataka and exposes its online storefront. The site's indexed contact/structured-data snippet lists holdingscitrine@gmail.com and 7829857007; the email was not rendered in static extraction.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Fish Mart official categories/store page — indexed contact snippet",
+          "url": "https://www.fishmart.online/categories",
+          "source_type": "Brand first-party store page (indexed snippet)",
+          "observed": "First-party indexed page identifies FISH MART, Bengaluru and shows Citrine Holdings, No. 10, South End Main Road, near Jayanagar 9th Block East End, Bengaluru 560069, with holdingscitrine@gmail.com and phone 7829857007. Direct static extraction showed product categories but not the contact block; verify before sending.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — fishmart.online domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=fishmart.online",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active seafood card links to the Fish Mart storefront under a different card label",
+          "evidence": "Library ID 530960299819710; page header Fish Mart; individual card label Quick Fish Shoppe links to facebook.com/fishmartindia; Active and Sponsored on 04 Oct 2026; started 15 Apr 2025; See Menu points to fishmart.online.",
+          "analysis": "The page link connects the card to the Fish Mart profile, while the card label differs. The card demonstrates a public seafood creative and route only, not an order or performance result.",
+          "next_check": "Re-open the card and confirm the page link and storefront path; with authorization, map the Library ID to the agreed order event and source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A first-party store contact is indexed but was not visible in static extraction",
+          "evidence": "Fish Mart's own indexed homepage/categories contact block lists holdingscitrine@gmail.com, +91 7829857007 and a Jayanagar-area Bengaluru address; direct static extraction did not show the contact block.",
+          "analysis": "The source is the brand's own store site, but the contact provenance is weaker than a directly rendered email. The mailbox is not identified as a paid-media buyer.",
+          "next_check": "Open the first-party site/contact block in a normal browser and confirm the email before sending; ask for the measurement owner only if the route is appropriate.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for fishmart.online returned zero results on 04 Oct 2026.",
+          "analysis": "A zero-result query does not prove that the brand does not advertise on Google.",
+          "next_check": "If revisited, check an individual creative and verify advertiser identity, brand content, destination and last-shown/status.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "score_bases": [
+        "A direct individual card displayed Active/Sponsored, a page header and linked advertiser label, start date and Library ID.",
+        "The official storefront identifies FishMart as based in Bengaluru; no ad audience geography is inferred.",
+        "See Menu links from the card to the brand storefront; checkout/order completion is not measured.",
+        "The official homepage and indexed categories/contact content were reviewed with the direct card and Google query; email rendering is caveated.",
+        "The published store inbox may route a note but is not a named paid-media or measurement contact; verify first."
+      ],
+      "email_subjects": [
+        "fish mart card",
+        "menu path",
+        "order events",
+        "right contact"
+      ],
+      "email_notes": [
+        "The Fish Mart direct library page shows card 530960299819710 as Active and Sponsored from 15 Apr 2025. The individual card label is Quick Fish Shoppe and links to the Fish Mart profile; its seafood creative sends viewers to fishmart.online.",
+        "The official storefront describes FishMart as based in Bengaluru. Its indexed contact block lists holdingscitrine@gmail.com, though static extraction did not render the email; please verify the route before sending. No buyer role is published.",
+        "The card's See Menu route does not show what the site records as a completed order. Internally, the useful check would be how an agreed order event is mapped to this ad; no orders are inferred here.",
+        "If the listed store mailbox is not the right route, please point me to whoever owns paid-media measurement. I have not treated the creative's 'Decade of Excellence' wording as a verified company figure."
+      ]
+    },
+    {
+      "brand": "Mixnosh Art Cafe",
+      "slug": "mixnosh-art-cafe",
+      "website": "https://www.mixnosh.in/",
+      "instagram": "",
+      "niche": "Art cafe, workshops and celebrations",
+      "headline": "A Jayanagar/HSR booking card points to the official site; the individual card renders despite an unavailable page header.",
+      "market_signal": "The selected card names Jayanagar and HSR Layout, Bangalore; Mixnosh's own contact page lists both Bengaluru locations. This is local context only, not evidence of ad targeting.",
+      "local_evidence_status": "MEASURED — Bengaluru neighborhoods appear in the card and first-party contact page; audience targeting is not inferred.",
+      "contact": {
+        "email": "mixnosharts@gmail.com",
+        "phone": "+91 63643 30840 / +91 63643 30860 / +91 99000 18115",
+        "entity": "",
+        "address": "1919, 21st Main Road, 25th Cross, Sector 2, HSR Layout, Bengaluru; Ground Floor, 13th Cross, 732, 36th Cross Road, 7th Block, Jayanagar, Bengaluru 560070",
+        "route_role": "Published 'Let's Connect / Drop Us a Line' email on the official contact page; no paid-media buyer is named.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Mixnosh's own Contact Us page on 04 Oct 2026: https://www.mixnosh.in/contact.php publishes mixnosharts@gmail.com, phone numbers and HSR/Jayanagar Bengaluru addresses. The page describes the email as a general 'Drop Us a Line' route, not a paid-media buyer.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "General first-party contact route; not identified as paid-media or measurement owner."
+      },
+      "meta": {
+        "page_name": "Mixnosh Art Cafe with CheekySneeky",
+        "page_id": "112591047247243",
+        "library_id": "1361122659444561",
+        "started_on": "2026-07-07",
+        "creative_excerpt": "Come and celebrate with us at Mixnosh Art Cafe, Bangalore; the card copy names Jayanagar and HSR Layout.",
+        "cta": "Book now → mixnosh.in",
+        "destination_url": "http://www.mixnosh.in/",
+        "destination_status": "The direct individual card shows Active and Sponsored with a Book now link to mixnosh.in. The surrounding Meta page response says the page was unpublished or deleted; only the card-level record is relied on. No booking event or website flow was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=mixnosh.in",
+        "detail": "India-region Google Ads Transparency domain view for mixnosh.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Mixnosh individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1361122659444561&view_all_page_id=112591047247243",
+          "source_type": "Platform individual-card record",
+          "observed": "The surrounding page response says the page was unpublished or deleted/no ads match, but the direct individual-card details render Library ID 1361122659444561 as Active and Sponsored, started 07 Jul 2026. Advertiser label Mixnosh Art Cafe with CheekySneeky; copy names Jayanagar/Bangalore and HSR; Book now links to mixnosh.in.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Mixnosh official Contact Us page",
+          "url": "https://www.mixnosh.in/contact.php",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes mixnosharts@gmail.com, phone numbers, HSR and Jayanagar Bengaluru addresses and a general 'Let's Connect / Drop Us a Line' route. No paid-media owner is named.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — mixnosh.in domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=mixnosh.in",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The individual card names local areas and exposes a Book now route",
+          "evidence": "Library ID 1361122659444561; Active and Sponsored on 04 Oct 2026; started 07 Jul 2026; copy names Mixnosh Art Cafe, Jayanagar/Bangalore and HSR; Book now links to mixnosh.in. Surrounding page response says unpublished or deleted.",
+          "analysis": "The exact card-level record is visible, but the surrounding page header is unavailable. The button does not reveal a completed reservation, workshop booking or event.",
+          "next_check": "Re-open the card and current official site; confirm the page status and destination before relying on the link, then map any authorized booking event by ID and date window.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party contact page publishes two Bengaluru outlets",
+          "evidence": "The official Contact Us page lists HSR Layout and Jayanagar Bengaluru addresses plus mixnosharts@gmail.com.",
+          "analysis": "This supports city context and a published routing inbox, not ad targeting or the identity of a paid-media owner.",
+          "next_check": "Ask the general contact to forward the note to the measurement owner if the route is appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for mixnosh.in returned zero results on 04 Oct 2026.",
+          "analysis": "Zero results in a domain query do not establish no Google activity.",
+          "next_check": "If revisited, open a specific creative and verify advertiser, brand tie, destination and last-shown/status.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The direct card-level record displayed Active/Sponsored, advertiser label, start date and Library ID; unavailable page header is disclosed.",
+        "The selected copy and official contact page name Jayanagar/HSR in Bengaluru; no audience targeting is inferred.",
+        "Book now and the official site URL are visible; a booking outcome is not.",
+        "Official contact page and direct individual card were reviewed with a Google domain query.",
+        "A general contact inbox is available, but no paid-media owner is named."
+      ],
+      "email_subjects": [
+        "jayanagar booking",
+        "creative handoff",
+        "workshop journey",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Mixnosh Art Cafe individual card 1361122659444561 is marked Active and Sponsored, started 07 Jul 2026. It names Jayanagar and HSR and shows Book now to mixnosh.in. The surrounding Meta page response says unpublished or deleted, so I rely only on the card-level details.",
+        "Your official contact page lists Jayanagar and HSR locations. That is local business context, not evidence of who saw the card or booked a visit.",
+        "A visible Book now route does not show what the site counts as a booking, store visit or completed event. I have not inferred results from the click path.",
+        "If the published 'Let's Connect' inbox is not the right owner, could you route me to the person responsible for paid-media measurement? No private campaign result is assumed."
+      ]
+    },
+    {
+      "brand": "The Cuisine Story",
+      "slug": "the-cuisine-story",
+      "website": "https://thecuisinestory.com/",
+      "instagram": "",
+      "niche": "Bengali restaurant and catering",
+      "headline": "A Sarjapur Bong Feast card shows an order-to-WhatsApp link; the individual card renders despite an unavailable page header.",
+      "market_signal": "The selected creative names Sarjapur, Bangalore, and the official homepage lists Kaggadasapura and Sarjapur Road outlets. Its copy states an offer-validity date of 15 Oct 2026; this is the card's text, not a separately verified current offer or result.",
+      "local_evidence_status": "MEASURED — selected card and first-party homepage explicitly name Bengaluru outlets; no ad targeting is inferred.",
+      "contact": {
+        "email": "cuisinestory.info@gmail.com",
+        "phone": "+91 63646 98860 (Kaggadasapura); +91 87777 36770 (Sarjapur Road)",
+        "entity": "",
+        "address": "Kaggadasapura: Shop No. 182, 6th G Cross, C V Raman Nagar, Bengaluru 560093; Sarjapur Road: Shop No. 37, Confident Oxygen Mall, Bengaluru 562125",
+        "route_role": "Published general contact email on the official homepage; no paid-media buyer is identified.",
+        "additional_emails": [
+          "cuisinestory.sarjapura@gmail.com"
+        ]
+      },
+      "contact_source": "Crawled from The Cuisine Story's own homepage on 04 Oct 2026: https://thecuisinestory.com/ publishes cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com alongside its Bengaluru outlet addresses and order links. The email is a public general contact, not a named paid-media owner.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published general email on the first-party restaurant homepage; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "The Cuisine Story",
+        "page_id": "430188154064409",
+        "library_id": "1443992777603201",
+        "started_on": "2026-09-30",
+        "creative_excerpt": "Pujo is coming, and so is the grand Bong Feast! The card names Sarjapur, Bangalore and states validity through 15 Oct 2026.",
+        "cta": "Order Now → api.whatsapp.com/send (recipient not exposed)",
+        "destination_url": "https://api.whatsapp.com/send",
+        "destination_status": "The card's Order Now link exposes an api.whatsapp.com/send URL without a recipient in the captured link. The direct response also says the surrounding page was unpublished or deleted, while the individual card rendered Active/Sponsored. No reservation, order or event was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=thecuisinestory.com",
+        "detail": "India-region Google Ads Transparency domain view for thecuisinestory.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct The Cuisine Story card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1443992777603201&view_all_page_id=430188154064409",
+          "source_type": "Platform individual-card record",
+          "observed": "The surrounding page response says page unpublished/deleted/no ads match, but the direct card details render as an individual URL-linked ad: Library ID 1443992777603201, Active and Sponsored, started 30 Sep 2026, page label The Cuisine Story. Copy names the Sarjapur Bong Feast and validity through 15 Oct 2026; Order Now link is api.whatsapp.com/send without a recipient.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "The Cuisine Story official homepage",
+          "url": "https://thecuisinestory.com/",
+          "source_type": "Brand first-party page",
+          "observed": "Lists Kaggadasapura and Sarjapur Road Bengaluru outlets, addresses, phone/order routes, cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com. The general email is not described as a paid-media route.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — thecuisinestory.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=thecuisinestory.com",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; this is not proof of no Google advertising.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The individual active card names Sarjapur and points to a WhatsApp send URL",
+          "evidence": "Library ID 1443992777603201; The Cuisine Story page ID 430188154064409; Active and Sponsored on 04 Oct 2026; started 30 Sep 2026; copy names Sarjapur, Bangalore and validity through 15 Oct; Order Now points to api.whatsapp.com/send without a recipient. Surrounding page header says unpublished/deleted.",
+          "analysis": "The individual card details establish a public creative and visible click route only. The printed offer date is not a separately checked live offer, and the route does not establish a reservation/order or event.",
+          "next_check": "Re-open the current card and its WhatsApp destination; confirm the recipient and current offer terms, then map any authorized booking/order event to the selected ID.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party homepage publishes outlet routes and a general email",
+          "evidence": "The official homepage lists Kaggadasapura and Sarjapur Road Bengaluru outlets, order links, cuisinestory.info@gmail.com and cuisinestory.sarjapura@gmail.com.",
+          "analysis": "This confirms first-party local context and contact provenance, not the ad's audience geography or who manages paid media.",
+          "next_check": "Ask the published general contact to route the note to the owner of paid-media measurement if appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for thecuisinestory.com returned zero results on 04 Oct 2026.",
+          "analysis": "A zero-result view does not prove that the brand is not advertising on Google.",
+          "next_check": "If revisited, open an individual creative and confirm advertiser identity, brand tie, destination and last-shown/status fields.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "An individual URL-linked Meta card displayed Active/Sponsored, advertiser label, start date and direct Library ID; page-header caveat is explicit.",
+        "The creative and the official homepage name Sarjapur/Kaggadasapura Bengaluru locations; no audience targeting is inferred.",
+        "An Order Now WhatsApp link is visible, but its recipient and completed order are not.",
+        "Official homepage/contact/outlet details and direct card were reviewed with a Google domain query.",
+        "The published general inbox is a routing contact, not a confirmed paid-media owner."
+      ],
+      "email_subjects": [
+        "sarjapur feast",
+        "whatsapp path",
+        "reservation source",
+        "right route"
+      ],
+      "email_notes": [
+        "The individual card for The Cuisine Story (1443992777603201) is marked Active and Sponsored, started 30 Sep 2026 and names the Sarjapur Bong Feast. Its copy states validity through 15 Oct; the visible Order Now link is a WhatsApp send URL. I have not treated it as a booked table.",
+        "Your homepage lists Kaggadasapura and Sarjapur Road outlets with separate order routes. The direct ad response says the surrounding page is unpublished or deleted, while the individual card renders Active/Sponsored; I only claim the card details.",
+        "A WhatsApp send URL alone does not show a reservation, order or event record. The useful internal check would be how that path is connected to an agreed booking/order event and source-of-record.",
+        "The public info@ email is not identified as a paid-media buyer; please redirect this note to the right measurement owner if appropriate. I have not assumed offer terms beyond the date printed in the card copy."
+      ]
+    },
+    {
+      "brand": "Sawadee",
+      "slug": "sawadee",
+      "website": "https://thethaivegankitchen.com/",
+      "instagram": "",
+      "niche": "Thai vegan restaurant",
+      "headline": "An active origin-story card points to a Maps Contact us link; the official site publishes a partnership route.",
+      "market_signal": "The ad card includes Bangalore-related tags and a Maps Contact us short link. Sawadee's own homepage describes the current restaurant in Frazer Town, Bengaluru and says an Indiranagar restaurant is planned to open in November 2026; that future location is not described as already open.",
+      "local_evidence_status": "MEASURED — first-party homepage establishes current Frazer Town context; planned Indiranagar opening is dated future context only.",
+      "contact": {
+        "email": "thethaivegankitchen5@gmail.com",
+        "phone": "+91 99161 35764",
+        "entity": "",
+        "address": "Frazer Town, Bengaluru, Karnataka (current restaurant location stated on the official homepage; no street address asserted here)",
+        "route_role": "Published Franchise / Collaborations / Partnerships contact; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Sawadee / The Thai Vegan Kitchen's own homepage on 04 Oct 2026: https://thethaivegankitchen.com/ presents the franchise/collaborations/partnerships section and publishes thethaivegankitchen5@gmail.com and +91 99161 35764. It is a partnership route, not a paid-media owner.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "First-party franchise/collaborations/partnerships route; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Sawadee: Authentic Thai Vegan Kitchen",
+        "page_id": "166520571852732",
+        "library_id": "1600729371632852",
+        "started_on": "2026-09-24",
+        "creative_excerpt": "Some stories don't start with a business plan. This one started with a cooking class in Thailand, and never really stopped. Here is how Sawadee came into being.",
+        "cta": "Contact us → Maps short link",
+        "destination_url": "https://maps.app.goo.gl/qGRF7uZCvnUB8Ftf6?g_st=iw",
+        "destination_status": "The individual card exposes a Maps short link labelled Contact us. The final map/contact destination was not resolved for this report; no reservation, visit or event is inferred."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=thethaivegankitchen.com",
+        "detail": "India-region Google Ads Transparency domain view for thethaivegankitchen.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Sawadee card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1600729371632852&view_all_page_id=166520571852732",
+          "source_type": "Platform individual-card record",
+          "observed": "Page label Sawadee: Authentic Thai Vegan Kitchen (page ID 166520571852732); individual Library ID 1600729371632852 displayed Active and Sponsored on 04 Oct 2026, started 24 Sep 2026. Origin-story copy references a Thailand cooking class; card includes Bangalore-related tags and a Maps Contact us short link.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Sawadee / The Thai Vegan Kitchen official homepage",
+          "url": "https://thethaivegankitchen.com/",
+          "source_type": "Brand first-party page/contact",
+          "observed": "Homepage identifies Sawadee, describes its current Frazer Town/Bangalore restaurant, and states that a new Indiranagar restaurant is planned for November 2026. Its Franchise / Collaborations / Partnerships section publishes thethaivegankitchen5@gmail.com and +91 99161 35764.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency Center — thethaivegankitchen.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=thethaivegankitchen.com",
+          "source_type": "Platform query",
+          "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active origin-story card exposes a Maps Contact us route",
+          "evidence": "Library ID 1600729371632852; page Sawadee: Authentic Thai Vegan Kitchen (166520571852732); Active and Sponsored on 04 Oct 2026; started 24 Sep 2026; story copy begins with a cooking class in Thailand; Contact us links to a Maps short URL.",
+          "analysis": "The card shows a public placement and contact-labelled Maps route only. The final destination, reservation, visit and event firing were not measured.",
+          "next_check": "Re-open the current card and resolve the Maps link to its final business/contact action; map a booking/visit event only with authorized internal data.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party site distinguishes the current restaurant from a planned location",
+          "evidence": "The official homepage describes the current Sawadee restaurant in Frazer Town/Bangalore and says the new Indiranagar restaurant is planned for November 2026; it publishes a partnership email.",
+          "analysis": "This supports Bengaluru business context and a published partnership route. The future outlet is not counted as open, and neither fact establishes ad targeting or paid-media ownership.",
+          "next_check": "Recheck the official page after the stated opening date and ask the published partnership route to forward the measurement note if appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned no result in this capture",
+          "evidence": "India-region domain view for thethaivegankitchen.com returned zero results on 04 Oct 2026.",
+          "analysis": "Zero results do not establish that the brand does not advertise on Google.",
+          "next_check": "If revisited, open any individual creative and confirm advertiser, brand tie, destination and last-shown/status fields.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        3
+      ],
+      "score_bases": [
+        "A direct page-resolved Meta card displayed Active/Sponsored, page identity, start date and Library ID.",
+        "The official homepage describes a current Frazer Town/Bangalore location; a planned Indiranagar opening is not treated as current.",
+        "A Maps Contact us short link is visible, but its final action/outcome was not checked.",
+        "Official brand/contact homepage and individual Meta card were reviewed with a Google domain query.",
+        "The published franchise/partnership route is relevant to business routing but is not a named media buyer."
+      ],
+      "email_subjects": [
+        "sawadee card",
+        "maps route",
+        "reservation records",
+        "right team"
+      ],
+      "email_notes": [
+        "The individual Sawadee card 1600729371632852 is shown Active and Sponsored from 24 Sep 2026 and tells the origin story. Its visible Contact us route is a Maps short link; I have not treated it as a reservation or visit.",
+        "Your official homepage describes the current Frazer Town restaurant and publishes a franchise/collaboration/partnership email. It describes the Indiranagar location as planned for November, not already open.",
+        "For a measurement review, the internal question would be which record defines a completed reservation, order or visit and how a card ID is matched; no outcome data is public.",
+        "Because the published inbox is for partnerships rather than paid media, could you redirect this to the measurement owner if that's more appropriate? No performance claim is being made."
+      ]
+    }
+  ]
+}
