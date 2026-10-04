@@ -1,0 +1,209 @@
+{
+  "brand": "Theobroma",
+  "slug": "theobroma",
+  "website": "theobroma.in",
+  "instagram": "@theobromapatisserie",
+  "niche": "Bakery, patisserie and cafe chain",
+  "headline": "The public Meta card links to an Instagram profile; the official locator separately lists Bengaluru outlets.",
+  "market_signal": "The official Bengaluru locator listed multiple outlet entries and displayed 37 results found on 04 Oct 2026; this is a dynamic locator display, not ad targeting.",
+  "contact": {
+    "email": "marketing@theobroma.in",
+    "phone": "",
+    "entity": "Theobroma Foods Private Limited",
+    "address": "Bengaluru outlets listed on the official locator; no corporate address asserted.",
+    "route_role": "Published marketing/PR route for collaboration and PR queries; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Theobroma's own FAQ on 04 Oct 2026: https://theobroma.in/pages/faqs — the page directs marketing/PR and collaboration queries to marketing@theobroma.in.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published marketing/PR and collaboration route; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=theobroma.in",
+    "detail": "India-region domain view displayed 13 any-time results. A preview named Theobroma Bakery and Cake Shop - Vasant Vihar, New Delhi, under verified Puretech Internet Private Limited; the advertiser relationship and current brand activity were not established. Thirteen is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1780819583258589&view_all_page_id=115196010990",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page label Theobroma Patisserie India (page ID 115196010990); started 08 Sep 2026; copy ‘Any tips on how to pick just one?’; Learn more link to an Instagram profile labelled Theobroma Patisserie India.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Theobroma official FAQ — marketing / PR contact",
+      "url": "https://theobroma.in/pages/faqs",
+      "source_type": "Brand first-party page",
+      "observed": "FAQ directs marketing/PR and collaboration queries to marketing@theobroma.in; the route is not described as a paid-media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Theobroma official Bengaluru store locator",
+      "url": "https://theobroma.in/store-locator/bengaluru",
+      "source_type": "Brand first-party locator",
+      "observed": "Bengaluru locator showed multiple outlet entries and displayed 37 results found when checked 04 Oct 2026; locator results can change. This does not establish the selected ad's audience geography.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Theobroma domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=theobroma.in",
+      "source_type": "Platform query",
+      "observed": "13 any-time results; a preview appeared under verified Puretech Internet Private Limited. Relationship to Theobroma and current brand-specific activity were not established; not an active-ad count.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active card sends viewers to Instagram, not a public order record",
+      "evidence": "Meta Library ID 1780819583258589; page Theobroma Patisserie India (page ID 115196010990); Sponsored and Active on 04 Oct 2026; started 08 Sep 2026; copy: ‘Any tips on how to pick just one?’; CTA: Learn more to Instagram.",
+      "analysis": "The card establishes a visible sponsored placement and Instagram next step only. It does not reveal audience, spend, order or conversion data.",
+      "next_check": "Re-open the card and confirm the current profile link and intended business action; compare with internal order or store data only if authorized.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party Bengaluru context and a published marketing route are available",
+      "evidence": "The FAQ publishes marketing@theobroma.in for marketing/PR queries; the Bengaluru locator displayed 37 results found on 04 Oct 2026.",
+      "analysis": "The cited pages support local context and the published route only; they do not establish the ad's geographic targeting or identify a paid-media buyer.",
+      "next_check": "Recheck the dynamic locator and ask the published marketing route to direct the note to the paid-media measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google domain results do not establish current Theobroma activity",
+      "evidence": "The India-domain view displayed 13 any-time results; a preview appeared under Puretech Internet Private Limited, with no advertiser relationship or current Theobroma creative established.",
+      "analysis": "Any-time and mixed-advertiser results are not current brand-ad counts. No Google activity is asserted.",
+      "next_check": "If revisited, open an individual creative and verify advertiser identity, brand destination and last-shown/status fields.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1780819583258589",
+      "page_id": "115196010990",
+      "page_name": "Theobroma Patisserie India",
+      "started_on": "2026-09-08",
+      "creative_excerpt": "Any tips on how to pick just one?",
+      "cta": "Learn more → Instagram profile labelled Theobroma Patisserie India",
+      "destination_url": "https://instagram.com/theobromapatisserie",
+      "destination_status": "The public card links to an Instagram profile labelled Theobroma Patisserie India; no order path or event firing was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1780819583258589&view_all_page_id=115196010990"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A page-resolved Meta card displayed Active and Sponsored, page identity, start date and direct Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The brand's own Bengaluru locator showed outlet entries; no audience geography is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "A Learn more CTA reaches an Instagram profile; the card does not show an order or booking path."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official marketing/PR FAQ and Bengaluru store locator were reviewed alongside the direct card and Google domain view."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 4,
+      "basis": "A published marketing/PR inbox is relevant for referral, but no paid-media owner is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page label Theobroma Patisserie India (page ID 115196010990); started 08 Sep 2026; copy ‘Any tips on how to pick just one?’; Learn more link to an Instagram profile labelled Theobroma Patisserie India.",
+    "S2 — Theobroma official FAQ — marketing / PR contact; checked 2026-10-04; FAQ directs marketing/PR and collaboration queries to marketing@theobroma.in; the route is not described as a paid-media buyer.",
+    "S3 — Theobroma official Bengaluru store locator; checked 2026-10-04; Bengaluru locator showed multiple outlet entries and displayed 37 results found when checked 04 Oct 2026; locator results can change. This does not establish the selected ad's audience geography.",
+    "S4 — Google Ads Transparency Center — Theobroma domain query; checked 2026-10-04; 13 any-time results; a preview appeared under verified Puretech Internet Private Limited. Relationship to Theobroma and current brand-specific activity were not established; not an active-ad count."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1780819583258589 and page ID 115196010990; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed 13 any-time results. A preview named Theobroma Bakery and Cake Shop - Vasant Vihar, New Delhi, under verified Puretech Internet Private Limited; the advertiser relationship and current brand activity were not established. Thirteen is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The official Bengaluru locator listed multiple outlet entries and displayed 37 results found on 04 Oct 2026; this is a dynamic locator display, not ad targeting. Published marketing/PR route for collaboration and PR queries; no paid-media buyer is identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The public card links to an Instagram profile labelled Theobroma Patisserie India; no order path or event firing was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Instagram CTA",
+      "Hi Theobroma team,\n\nThe India-filtered Meta Library shows Theobroma Patisserie India card 1780819583258589 as Active and Sponsored, starting 08 Sep 2026. Its copy asks ‘Any tips on how to pick just one?’ and the Learn more link opens an Instagram profile labelled Theobroma Patisserie India.\n\nThe public record does not expose private spend, orders or event firing. The published route, marketing@theobroma.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Google query",
+      "Hi Theobroma team,\n\nThe Google Transparency domain view returned 13 any-time results and showed a preview under verified Puretech Internet Private Limited. I could not establish the advertiser relationship or current Theobroma-specific activity, so I have not called it a live Theobroma count.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order outcome",
+      "Hi Theobroma team,\n\nYour Bengaluru store locator displayed outlet results on 04 Oct. If the Instagram CTA is intended to lead toward an order or store visit, the useful internal question is which completed event or order record is the agreed outcome and how the path is reconciled.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Theobroma team,\n\nI have a source-linked public snapshot of the active card, Bengaluru locator and published marketing/PR route. It contains no spend or outcome estimate; I can share the audit if a short handoff would help.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

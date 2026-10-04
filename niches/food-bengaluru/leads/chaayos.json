@@ -1,0 +1,220 @@
+{
+  "brand": "Chaayos",
+  "slug": "chaayos",
+  "website": "chaayos.com",
+  "instagram": "@chaayos",
+  "niche": "Chai cafe and quick-service restaurant chain",
+  "headline": "An active Dine@99 card displays a Maps link, but the short link returned Dynamic Link Not Found in the static check.",
+  "market_signal": "Chaayos' first-party store locator lists Bengaluru outlets and publishes letstalk@chaayos.com; the selected Maps link is not verified as a local destination.",
+  "contact": {
+    "email": "letstalk@chaayos.com",
+    "phone": "",
+    "entity": "Not identified on the cited store/contact pages",
+    "address": "Official store locator lists Bengaluru outlets; no corporate address asserted.",
+    "route_role": "Published general contact on the first-party store locator/homepage; not identified as a paid-media buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Chaayos' own store locator at https://chaayos.com/pages/mantrimallsquare and official homepage https://chaayos.com/ on 04 Oct 2026: the locator card publishes letstalk@chaayos.com as its contact route.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "email_role": "Published general store/contact route; paid-media buyer not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=chaayos.com",
+    "detail": "India-region domain view displayed 0 results for chaayos.com on 04 Oct 2026. A zero-result domain query does not prove that no Google ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2110584583181157&view_all_page_id=376971899046755",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page Chaayos (376971899046755); started 18 Sep 2026; Dine@99 offer with Maps short link; final location not verified.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Chaayos official store locator — Bengaluru outlet directory",
+      "url": "https://chaayos.com/pages/mantrimallsquare",
+      "source_type": "Brand first-party location page",
+      "observed": "Store-locator page includes Bengaluru outlet records (including Bagmane Tech Park) and publishes letstalk@chaayos.com; the dynamic locator displayed 109 total results at capture, not a Bengaluru count.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Chaayos official homepage / contact route",
+      "url": "https://chaayos.com/",
+      "source_type": "Brand first-party contact page",
+      "observed": "Homepage publishes letstalk@chaayos.com and the general contact route; no paid-media owner identified.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Chaayos domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=chaayos.com",
+      "source_type": "Platform query",
+      "observed": "Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S5",
+      "label": "Maps short link exposed in the selected Meta card",
+      "url": "https://maps.app.goo.gl/Q27bfq4mXw3BRtA6A",
+      "source_type": "Ad destination resolution check",
+      "observed": "Static fetch returned Dynamic Link Not Found; final location/destination not verified.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active Dine@99 card's Maps short link did not resolve in the static check",
+      "evidence": "Meta Library ID 2110584583181157; page Chaayos (376971899046755); Sponsored and Active on 04 Oct 2026; started 18 Sep; Dine@99 copy links to a Maps short URL that returned Dynamic Link Not Found.",
+      "analysis": "The active sponsored record is visible, but the short URL does not establish a local destination, store visit or order result.",
+      "next_check": "Re-open the ad and link in a normal browser; confirm the current destination and intended action before referring to a location.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party store locator lists Bengaluru locations and a general contact route",
+      "evidence": "The store-locator page includes Bengaluru outlet records and publishes letstalk@chaayos.com; it also displayed 109 total locator results across all areas.",
+      "analysis": "This supports Bengaluru presence and a published contact route only; the total is not a Bengaluru count and the selected ad's audience is unknown.",
+      "next_check": "Recheck the locator for a current Bengaluru outlet and ask the general route to direct the note to the paid-media measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A zero-result Google query is not evidence of no advertising",
+      "evidence": "The India-region domain query displayed 0 results for chaayos.com on 04 Oct 2026.",
+      "analysis": "No conclusion about the absence of Google advertising is drawn from this domain view.",
+      "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "2110584583181157",
+      "page_id": "376971899046755",
+      "page_name": "Chaayos",
+      "started_on": "2026-09-18",
+      "creative_excerpt": "India's most-loved chai cafe is FINALLY in your neighbourhood! Check out our Dine@99 offer at your nearest chaayos.",
+      "cta": "Maps link; card labels offer ‘See details’",
+      "destination_url": "https://maps.app.goo.gl/Q27bfq4mXw3BRtA6A",
+      "destination_status": "The card shows a Maps short link for Dine@99; static fetch returned Dynamic Link Not Found. No final location or order path was verified.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2110584583181157&view_all_page_id=376971899046755"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A page-resolved Chaayos card displayed Active/Sponsored, named page, direct Library ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The first-party store locator contains Bengaluru outlet records; the selected Maps destination itself is unverified."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "The card exposes a Dine@99 Maps link, but static resolution failed and final location is unavailable."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "First-party locator/contact pages, direct Meta card, Maps-link check and Google domain query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "A general published contact route is available, but no paid-media owner is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page Chaayos (376971899046755); started 18 Sep 2026; Dine@99 offer with Maps short link; final location not verified.",
+    "S2 — Chaayos official store locator — Bengaluru outlet directory; checked 2026-10-04; Store-locator page includes Bengaluru outlet records (including Bagmane Tech Park) and publishes letstalk@chaayos.com; the dynamic locator displayed 109 total results at capture, not a Bengaluru count.",
+    "S3 — Chaayos official homepage / contact route; checked 2026-10-04; Homepage publishes letstalk@chaayos.com and the general contact route; no paid-media owner identified.",
+    "S4 — Google Ads Transparency Center — Chaayos domain query; checked 2026-10-04; Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads.",
+    "S5 — Maps short link exposed in the selected Meta card; checked 2026-10-04; Static fetch returned Dynamic Link Not Found; final location/destination not verified."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 2110584583181157 and page ID 376971899046755; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region domain view displayed 0 results for chaayos.com on 04 Oct 2026. A zero-result domain query does not prove that no Google ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "Chaayos' first-party store locator lists Bengaluru outlets and publishes letstalk@chaayos.com; the selected Maps link is not verified as a local destination. Published general contact on the first-party store locator/homepage; not identified as a paid-media buyer.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card shows a Maps short link for Dine@99; static fetch returned Dynamic Link Not Found. No final location or order path was verified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Dine@99 map",
+      "Hi Chaayos team,\n\nThe Chaayos page shows active card 2110584583181157, started 18 Sep 2026, with a Dine@99 offer and a Maps short link. The static fetch returned Dynamic Link Not Found, so I could not verify the final location.\n\nThe public record does not expose private spend, orders or event firing. The published route, letstalk@chaayos.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store locator",
+      "Hi Chaayos team,\n\nChaayos' first-party locator includes Bengaluru outlet records and publishes letstalk@chaayos.com. It displayed 109 locator results overall, not a Bengaluru count; the Google domain query returned zero results, which is not proof of no campaigns.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store outcome",
+      "Hi Chaayos team,\n\nIf the Maps step is intended to drive a store visit, one internal check is to confirm the exact current pin and agree which store-visit, order or redemption event is authoritative. The public link did not reveal that result.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Chaayos team,\n\nI have a source-linked note on the active card, first-party locator and unresolved Maps short link. If the general inbox is not right for measurement questions, could you direct me to the appropriate owner?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

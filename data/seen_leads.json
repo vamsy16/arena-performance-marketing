@@ -785,9 +785,69 @@
       "day": 5,
       "website": "krispykremeindia.in",
       "niche": "Food/Bengaluru/Doughnuts, gifting and Bengaluru stores"
+    },
+    "Theobroma": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "theobroma.in",
+      "niche": "Food/Bengaluru/Bakery, patisserie and cafe chain"
+    },
+    "The Belgian Waffle Co.": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "thebelgianwaffle.co",
+      "niche": "Food/Bengaluru/Waffle, dessert and cafe chain"
+    },
+    "Behrouz Biryani": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "behrouzbiryani.com",
+      "niche": "Food/Bengaluru/Biryani and prepared-food delivery brand"
+    },
+    "Bakingo": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "bakingo.com",
+      "niche": "Food/Bengaluru/Online bakery, designer cakes and gifting"
+    },
+    "Taco Bell India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "tacobell.co.in",
+      "niche": "Food/Bengaluru/Quick-service restaurant chain (India master-franchisee operations)"
+    },
+    "Wow! Momo": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "wowmomo.com",
+      "niche": "Food/Bengaluru/Momo and quick-service restaurant chain"
+    },
+    "Polar Bear": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "polarbear.co.in",
+      "niche": "Food/Bengaluru/Ice-cream and sundae restaurant chain"
+    },
+    "Jumboking": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "jumboking.co.in",
+      "niche": "Food/Bengaluru/Vegetarian burger QSR chain"
+    },
+    "Swiggy": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "swiggy.com",
+      "niche": "Food/Bengaluru/Food-delivery and dining platform (platform lead, not restaurant)"
+    },
+    "Chaayos": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "chaayos.com",
+      "niche": "Food/Bengaluru/Chai cafe and quick-service restaurant chain"
     }
   },
-  "total_found": 131,
+  "total_found": 141,
   "daily_log": [
     {
       "day": 1,
@@ -963,6 +1023,26 @@
         "Starbucks India",
         "Krispy Kreme India"
       ]
+    },
+    {
+      "day": 6,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 141,
+      "brands": [
+        "Theobroma",
+        "The Belgian Waffle Co.",
+        "Behrouz Biryani",
+        "Bakingo",
+        "Taco Bell India",
+        "Wow! Momo",
+        "Polar Bear",
+        "Jumboking",
+        "Swiggy",
+        "Chaayos"
+      ],
+      "note": "Batch 4 manually verified public-source shortlist; existing batches preserved."
     }
   ]
 }

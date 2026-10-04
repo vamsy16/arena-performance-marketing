@@ -1,0 +1,1396 @@
+{
+  "batch": 4,
+  "niche": "Food / Bengaluru, India",
+  "verified_on": "2026-10-04",
+  "score_definition": {
+    "name": "Public-evidence fit (triage only)",
+    "scale": "Five dimensions scored 0–4; total /20; displayed /10 is total divided by two.",
+    "dimensions": [
+      "Direct paid signal: whether a page-resolved, active Meta Ad Library record was observed.",
+      "Bengaluru relevance: strength of explicit local evidence in the creative or first-party material.",
+      "Public CTA visibility: how clearly the public card exposes a next step, not whether it converts.",
+      "First-party source coverage: breadth of official product, store, contact or corporate evidence reviewed.",
+      "Contact-route relevance: fit of the published route to a request for the paid-media owner; no buyer identity is inferred."
+    ],
+    "qualification": "This is a public-evidence and routing score, not an effectiveness or revenue score, sales probability, spend estimate, forecast, or ROI claim. Private account and conversion results were not accessed."
+  },
+  "scope_decisions": [
+    "Swiggy is intentionally included as a food-delivery and dining platform, not a restaurant. Its selected Meta card has multiple versions: the latest direct fetch rendered a Ludhiana restaurant listing, while a prior capture showed a Mumbai listing. Bengaluru corporate presence is local context only, not evidence of Bengaluru ad targeting.",
+    "The Belgian Waffle Co. is retained with an explicit locality caveat: first-party indexed Bengaluru store snippets were found, but their current deep links returned 404 in direct fetches; the selected ad's Maps short link did not resolve to a verifiable brand outlet. Do not claim its ad targets Bengaluru.",
+    "Polar Bear's official contact page displays customercare@polarbear.co.in but the underlying mailto target is polarbear@polarbear.co.in. Both values are preserved; verify the route before sending.",
+    "The batch is a working shortlist of 10. The selected Meta records were individually opened and showed the named page, Sponsored label, Active status, start date and direct Library ID on 04 Oct 2026. Public inventory can change.",
+    "Google Ads Transparency any-time/domain query totals are not current-ad counts. No brand-specific current Google activity is asserted without a specific creative tied to the brand and advertiser; zero results do not prove no ads."
+  ],
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_dimensions": [
+    "Direct paid signal",
+    "Bengaluru relevance",
+    "Public CTA visibility",
+    "First-party source coverage",
+    "Contact-route relevance"
+  ],
+  "leads": [
+    {
+      "brand": "Theobroma",
+      "slug": "theobroma",
+      "website": "theobroma.in",
+      "instagram": "@theobromapatisserie",
+      "niche": "Bakery, patisserie and cafe chain",
+      "headline": "The public Meta card links to an Instagram profile; the official locator separately lists Bengaluru outlets.",
+      "market_signal": "The official Bengaluru locator listed multiple outlet entries and displayed 37 results found on 04 Oct 2026; this is a dynamic locator display, not ad targeting.",
+      "contact": {
+        "email": "marketing@theobroma.in",
+        "phone": "",
+        "entity": "Theobroma Foods Private Limited",
+        "address": "Bengaluru outlets listed on the official locator; no corporate address asserted.",
+        "route_role": "Published marketing/PR route for collaboration and PR queries; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Theobroma's own FAQ on 04 Oct 2026: https://theobroma.in/pages/faqs — the page directs marketing/PR and collaboration queries to marketing@theobroma.in.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published marketing/PR and collaboration route; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Theobroma Patisserie India",
+        "page_id": "115196010990",
+        "library_id": "1780819583258589",
+        "started_on": "2026-09-08",
+        "creative_excerpt": "Any tips on how to pick just one?",
+        "cta": "Learn more → Instagram profile labelled Theobroma Patisserie India",
+        "destination_url": "https://instagram.com/theobromapatisserie",
+        "destination_status": "The public card links to an Instagram profile labelled Theobroma Patisserie India; no order path or event firing was tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=theobroma.in",
+        "detail": "India-region domain view displayed 13 any-time results. A preview named Theobroma Bakery and Cake Shop - Vasant Vihar, New Delhi, under verified Puretech Internet Private Limited; the advertiser relationship and current brand activity were not established. Thirteen is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1780819583258589&view_all_page_id=115196010990",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page label Theobroma Patisserie India (page ID 115196010990); started 08 Sep 2026; copy ‘Any tips on how to pick just one?’; Learn more link to an Instagram profile labelled Theobroma Patisserie India.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Theobroma official FAQ — marketing / PR contact",
+          "url": "https://theobroma.in/pages/faqs",
+          "source_type": "Brand first-party page",
+          "observed": "FAQ directs marketing/PR and collaboration queries to marketing@theobroma.in; the route is not described as a paid-media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Theobroma official Bengaluru store locator",
+          "url": "https://theobroma.in/store-locator/bengaluru",
+          "source_type": "Brand first-party locator",
+          "observed": "Bengaluru locator showed multiple outlet entries and displayed 37 results found when checked 04 Oct 2026; locator results can change. This does not establish the selected ad's audience geography.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Theobroma domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=theobroma.in",
+          "source_type": "Platform query",
+          "observed": "13 any-time results; a preview appeared under verified Puretech Internet Private Limited. Relationship to Theobroma and current brand-specific activity were not established; not an active-ad count.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active card sends viewers to Instagram, not a public order record",
+          "evidence": "Meta Library ID 1780819583258589; page Theobroma Patisserie India (page ID 115196010990); Sponsored and Active on 04 Oct 2026; started 08 Sep 2026; copy: ‘Any tips on how to pick just one?’; CTA: Learn more to Instagram.",
+          "analysis": "The card establishes a visible sponsored placement and Instagram next step only. It does not reveal audience, spend, order or conversion data.",
+          "next_check": "Re-open the card and confirm the current profile link and intended business action; compare with internal order or store data only if authorized.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party Bengaluru context and a published marketing route are available",
+          "evidence": "The FAQ publishes marketing@theobroma.in for marketing/PR queries; the Bengaluru locator displayed 37 results found on 04 Oct 2026.",
+          "analysis": "The cited pages support local context and the published route only; they do not establish the ad's geographic targeting or identify a paid-media buyer.",
+          "next_check": "Recheck the dynamic locator and ask the published marketing route to direct the note to the paid-media measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google domain results do not establish current Theobroma activity",
+          "evidence": "The India-domain view displayed 13 any-time results; a preview appeared under Puretech Internet Private Limited, with no advertiser relationship or current Theobroma creative established.",
+          "analysis": "Any-time and mixed-advertiser results are not current brand-ad counts. No Google activity is asserted.",
+          "next_check": "If revisited, open an individual creative and verify advertiser identity, brand destination and last-shown/status fields.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        4
+      ],
+      "score_bases": [
+        "A page-resolved Meta card displayed Active and Sponsored, page identity, start date and direct Library ID.",
+        "The brand's own Bengaluru locator showed outlet entries; no audience geography is inferred.",
+        "A Learn more CTA reaches an Instagram profile; the card does not show an order or booking path.",
+        "Official marketing/PR FAQ and Bengaluru store locator were reviewed alongside the direct card and Google domain view.",
+        "A published marketing/PR inbox is relevant for referral, but no paid-media owner is named."
+      ],
+      "email_subjects": [
+        "Instagram CTA",
+        "Google query",
+        "order outcome",
+        "right owner"
+      ],
+      "email_notes": [
+        "The India-filtered Meta Library shows Theobroma Patisserie India card 1780819583258589 as Active and Sponsored, starting 08 Sep 2026. Its copy asks ‘Any tips on how to pick just one?’ and the Learn more link opens an Instagram profile labelled Theobroma Patisserie India.",
+        "The Google Transparency domain view returned 13 any-time results and showed a preview under verified Puretech Internet Private Limited. I could not establish the advertiser relationship or current Theobroma-specific activity, so I have not called it a live Theobroma count.",
+        "Your Bengaluru store locator displayed outlet results on 04 Oct. If the Instagram CTA is intended to lead toward an order or store visit, the useful internal question is which completed event or order record is the agreed outcome and how the path is reconciled.",
+        "I have a source-linked public snapshot of the active card, Bengaluru locator and published marketing/PR route. It contains no spend or outcome estimate; I can share the audit if a short handoff would help."
+      ]
+    },
+    {
+      "brand": "The Belgian Waffle Co.",
+      "slug": "the-belgian-waffle-co",
+      "website": "thebelgianwaffle.co",
+      "instagram": "@thebelgianwafflecoindia",
+      "niche": "Waffle, dessert and cafe chain",
+      "headline": "An active Meta card exposes a Maps short link; official indexed Bengaluru locator evidence needs a live recheck.",
+      "market_signal": "Official indexed Karnataka/Bengaluru location content showed store entries, but the deep links returned 404 in direct fetches. Re-open the interactive locator before relying on exact current location details; the selected ad does not establish Bengaluru targeting.",
+      "contact": {
+        "email": "marketing@bloombay.in",
+        "phone": "",
+        "entity": "Not identified in the cited contact page",
+        "address": "First-party indexed location content lists Bengaluru; recheck the interactive locator for current outlet details.",
+        "route_role": "Official marketing inbox for campaign, content and partnership enquiries; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from The Belgian Waffle Co.'s own About Us / FAQ page at https://thebelgianwaffle.co/about-us on 04 Oct 2026: the page directs campaign, content and partnership ideas to marketing@bloombay.in.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Official marketing inbox for campaigns, content and partnerships; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "The Belgian Waffle Co.",
+        "page_id": "937113036310326",
+        "library_id": "1130453286074164",
+        "started_on": "2026-10-01",
+        "creative_excerpt": "The video preview was not available in the captured card; its Maps link was labelled for The Belgian Waffle Co.",
+        "cta": "Maps link labelled ‘See details’ / Learn more",
+        "destination_url": "https://maps.app.goo.gl/YyuvUGmDPvzZRfEZ8",
+        "destination_status": "The card exposed a Maps short link. Static resolution returned Pan Bazaar, Guwahati, not a verifiable Belgian Waffle outlet; do not treat it as a Bengaluru destination or tested conversion path."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=thebelgianwaffle.co",
+        "detail": "India-region domain view displayed about 500 any-time results under verified Shrey Yogesh Aggarwal. The opened preview content was blocked in the static view; advertiser-to-brand and Bengaluru creative relationships were not established. About 500 is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1130453286074164&view_all_page_id=937113036310326",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page label The Belgian Waffle Co. (page ID 937113036310326); started 01 Oct 2026; card exposes a Maps short link, not validated as a brand store.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "The Belgian Waffle Co. official About Us / FAQ",
+          "url": "https://thebelgianwaffle.co/about-us",
+          "source_type": "Brand first-party page",
+          "observed": "Official page directs marketing, content, campaign and partnership queries to marketing@bloombay.in; it does not identify a paid-media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Official indexed Bengaluru locator page (deep link currently unavailable)",
+          "url": "https://thebelgianwaffle.co/location/karnataka/bengaluru/page/5/",
+          "source_type": "Brand first-party locator (indexed page)",
+          "observed": "Official search index surfaced Bengaluru store entries including HSR Layout, BEL Road, Bellandur, Koramangala, JP Nagar and others. The page and a linked JP Nagar store deep link returned 404 in direct fetch; the live /store-locator selector did not render city rows in the static capture. No exact current outlet count is asserted.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Belgian Waffle domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=thebelgianwaffle.co",
+          "source_type": "Platform query",
+          "observed": "About 500 any-time results under verified Shrey Yogesh Aggarwal; opened preview content blocked; no advertiser-to-brand or Bengaluru creative relationship established.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S5",
+          "label": "Maps short link exposed in the selected Meta card",
+          "url": "https://maps.app.goo.gl/YyuvUGmDPvzZRfEZ8",
+          "source_type": "Ad destination resolution check",
+          "observed": "Static link resolution returned Pan Bazaar, Guwahati, Assam; not verified as a Belgian Waffle Co. location. This route is not treated as a Bengaluru destination.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active card exposes a Maps short link whose final place is unconfirmed",
+          "evidence": "Meta Library ID 1130453286074164 is labelled The Belgian Waffle Co. (page ID 937113036310326), Sponsored and Active on 04 Oct 2026, started 01 Oct 2026. The Maps short link resolved in the static check to Pan Bazaar, Guwahati.",
+          "analysis": "The page-resolved card proves a sponsored placement on the named page. Its short-link destination is not verified as a brand store and is not a Bengaluru signal.",
+          "next_check": "Re-open the card and Maps link in a normal browser; verify the final business/place before describing the offer or city.",
+          "source_ids": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Bengaluru location evidence is first-party indexed content, not a reachable live listing",
+          "evidence": "The official indexed Karnataka/Bengaluru page showed outlet snippets, but direct fetch returned 404; the interactive locator did not render city results in the static capture. The About Us page publishes marketing@bloombay.in.",
+          "analysis": "Retain Bengaluru relevance as a caveated first-party index signal, not a fully re-opened live store listing and not ad targeting.",
+          "next_check": "Re-open the official store locator and confirm at least one current Bengaluru location before sending the local-context line.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google domain results do not establish current Belgian Waffle activity",
+          "evidence": "The India-domain view displayed about 500 any-time results under verified Shrey Yogesh Aggarwal; the opened preview was blocked and no brand relationship was established.",
+          "analysis": "Any-time and mixed-advertiser results are not current brand-ad counts. No Google activity is asserted.",
+          "next_check": "If revisited, verify an individual creative, named advertiser, brand-specific destination and last-shown/status fields.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        2,
+        2,
+        4,
+        4
+      ],
+      "score_bases": [
+        "A direct page-resolved Meta card displayed Active and Sponsored, with page ID and start date.",
+        "First-party indexed content lists Bengaluru stores, but direct retrieval failed; local evidence is weak/caveated and requires a live recheck.",
+        "A Maps short link is visible, but its resolved place was not verified as the brand or city destination.",
+        "Official marketing FAQ, indexed locator, domain-level Google query and individual Meta card were reviewed.",
+        "The published inbox is explicitly for campaign/content/partnership enquiries, but not confirmed as a media owner."
+      ],
+      "email_subjects": [
+        "Maps link",
+        "locator check",
+        "store outcome",
+        "right owner"
+      ],
+      "email_notes": [
+        "The active Meta card on The Belgian Waffle Co. page is Library ID 1130453286074164 (started 01 Oct 2026). Its Maps short link resolved in the static check to Pan Bazaar, Guwahati, not a verifiable Belgian Waffle outlet; I am not calling it a Bengaluru destination.",
+        "The official FAQ publishes marketing@bloombay.in for campaign/content/partnership enquiries. Its indexed Karnataka location page lists Bengaluru entries, but the direct page returned 404 and the interactive locator did not render the city rows. I have recorded that limitation rather than assuming a current outlet count.",
+        "If a Maps step is intended to drive store visits, one internal check is to confirm the exact store URL/pin and agree which store-visit or order event is authoritative. The public record alone does not show a visit or order.",
+        "I have a source-linked note on the active card, its unverified Maps link and the first-party locator caveat. If this route is not the right place for measurement questions, could you point me to the owner?"
+      ],
+      "local_evidence_status": "PARTIALLY VERIFIED — official indexed location snippets; deep-link pages return 404 and current locator rows do not load in the static capture."
+    },
+    {
+      "brand": "Behrouz Biryani",
+      "slug": "behrouz-biryani",
+      "website": "behrouzbiryani.com",
+      "instagram": "@behrouzbiryani",
+      "niche": "Biryani and prepared-food delivery brand",
+      "headline": "An active app-order card promotes Behrouz's Long Lost Menu; official ordering pages list Bengaluru service locations.",
+      "market_signal": "The brand's official Bengaluru ordering page lists service locations; no Bengaluru audience targeting is inferred from the selected general app ad.",
+      "contact": {
+        "email": "help@behrouzbiryani.com",
+        "phone": "",
+        "entity": "Rebel Foods Private Limited (official terms identify ownership/operation)",
+        "address": "Official Bengaluru order page lists local serving locations; no head-office address asserted.",
+        "route_role": "Official customer-support email for platform questions; not identified as a paid-media buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Behrouz's own terms at https://www.behrouzbiryani.com/terms on 04 Oct 2026: the page publishes help@behrouzbiryani.com for platform questions.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Customer support for platform questions; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Behrouz Biryani",
+        "page_id": "229492534096049",
+        "library_id": "963874089761793",
+        "started_on": "2026-05-12",
+        "creative_excerpt": "Taste Biryani & more from our Long Lost Menu. New to Behrouz? Order Today from Behrouz Biryani.",
+        "cta": "Order Now → Behrouz Biryani app (Google Play)",
+        "destination_url": "http://play.google.com/store/apps/details?id=com.behrouzbiryani",
+        "destination_status": "The card linked to the Behrouz Biryani app listing; the app-install/order path and any in-app event were not tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=behrouzbiryani.com",
+        "detail": "India-region domain view displayed 59 any-time results under verified REBEL FOODS PVT. LTD. A reviewed preview promoted Oven Story rather than Behrouz Biryani; no Behrouz-specific current creative was established. Fifty-nine is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=963874089761793&view_all_page_id=229492534096049",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page label Behrouz Biryani (page ID 229492534096049); started 12 May 2026; Long Lost Menu copy; Order Now link to the Behrouz app listing.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Behrouz official terms — contact and operating entity",
+          "url": "https://www.behrouzbiryani.com/terms",
+          "source_type": "Brand first-party page",
+          "observed": "Terms publish help@behrouzbiryani.com for platform questions and identify Rebel Foods operations; the email is support, not a media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Behrouz official Bengaluru ordering page",
+          "url": "https://www.behrouzbiryani.com/behrouz-biryani/bengaluru",
+          "source_type": "Brand first-party ordering page",
+          "observed": "Page is titled Biryani Near Me in Bengaluru and lists Bengaluru serving locations; it does not prove that the selected Meta card targets Bengaluru.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Behrouz domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=behrouzbiryani.com",
+          "source_type": "Platform query",
+          "observed": "59 any-time results under verified Rebel Foods; reviewed preview promoted Oven Story rather than Behrouz; no current Behrouz creative established.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected card uses an app-order CTA, not a public outcome measure",
+          "evidence": "Meta Library ID 963874089761793; page Behrouz Biryani (229492534096049); Sponsored and Active on 04 Oct 2026; started 12 May 2026; copy promotes the Long Lost Menu; Order Now links to the Behrouz app.",
+          "analysis": "The public record links the menu message to the brand app. It does not show app installs, completed orders, spend or attribution results.",
+          "next_check": "Re-open the card and reconcile any authorized app/order record to the internal campaign event only with permission.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official order page provides Bengaluru service context; the support email is not a buyer route",
+          "evidence": "Behrouz terms publish help@behrouzbiryani.com; the Bengaluru ordering page lists local serving locations.",
+          "analysis": "These first-party pages support the contact and local context only; they do not establish ad targeting or media ownership.",
+          "next_check": "Ask the support route to forward the question to the paid-media measurement owner; verify service area before reusing local claims.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google domain results include another Rebel Foods brand",
+          "evidence": "The domain view displayed 59 any-time results under verified Rebel Foods; the reviewed preview promoted Oven Story rather than Behrouz.",
+          "analysis": "The query is not a Behrouz current-ad count and no Google activity is claimed.",
+          "next_check": "Open a specific creative and tie advertiser, brand destination and recency before making any Google-activity claim.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        1
+      ],
+      "score_bases": [
+        "The individual Behrouz page card displayed Active/Sponsored, direct Library ID, named page and start date.",
+        "The first-party order page names Bengaluru and lists local serving locations.",
+        "The card exposes an Order Now link to the named brand app; in-app path and events were not tested.",
+        "Official terms, Bengaluru order page, direct Meta card and Google domain query were reviewed.",
+        "The only published email route checked is customer support; no paid-media owner is identified."
+      ],
+      "email_subjects": [
+        "app-order path",
+        "Google check",
+        "order event",
+        "right owner"
+      ],
+      "email_notes": [
+        "Meta Library ID 963874089761793 is labelled Behrouz Biryani, Sponsored and Active when checked 04 Oct 2026, with a 12 May start date. Its copy promotes the Long Lost Menu and the Order Now link points to the Behrouz app.",
+        "The Google domain view showed 59 any-time results under verified Rebel Foods, and a reviewed preview promoted Oven Story rather than Behrouz. I have not treated those mixed results as current Behrouz Google activity.",
+        "Your official ordering page lists Bengaluru serving locations. If the app CTA is meant to drive a completed order, the useful private check is the agreed order event, attribution window and source field—not an outcome inferred from the public card.",
+        "The public snapshot contains a specific active card and local ordering context, but no account results. If the help inbox is not the right place for measurement questions, would you forward this to the relevant owner?"
+      ]
+    },
+    {
+      "brand": "Bakingo",
+      "slug": "bakingo",
+      "website": "bakingo.com",
+      "instagram": "@bakingo_official",
+      "niche": "Online bakery, designer cakes and gifting",
+      "headline": "An active Butterfly Cakes card exposes an own-site CTA and encoded campaign/ad-set template tokens.",
+      "market_signal": "The official cake-store page lists Bengaluru/Bangalore addresses; the selected ad does not establish local audience targeting.",
+      "contact": {
+        "email": "care@bakingo.com",
+        "phone": "",
+        "entity": "Official grievance page names Bake Wish Private Limited; storefront footer separately displays FA GIFTS PVT. LTD. (relationship not reconciled).",
+        "address": "Official cake-store page lists Bengaluru/Bangalore addresses; no head-office address asserted.",
+        "route_role": "Published grievance/customer-care route; not identified as a paid-media buyer. Use only to request the correct referral.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Bakingo's own customer grievance policy at https://www.bakingo.com/customer-grievance-redressal on 04 Oct 2026: it lists care@bakingo.com as the grievance officer contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Grievance/customer-care route; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Bakingo",
+        "page_id": "646372602191662",
+        "library_id": "1180961354140420",
+        "started_on": "2025-12-03",
+        "creative_excerpt": "Butterfly Cakes — Flat 15% Off with code CK15.",
+        "cta": "Order Now → Bakingo butterfly-cakes page",
+        "destination_url": "https://www.bakingo.com/designer-cakes/butterfly-cakes?utm_source=facebook&utm_medium=cpc&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D",
+        "destination_status": "Own-site product-category URL was exposed; its query string contains encoded literal campaign.name and adset.name template tokens. Final rendered URL and analytics values were not tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=bakingo.com",
+        "detail": "India-region domain view displayed about 800 any-time results under verified FA GIFTS PRIVATE LIMITED. The relationship to Bakingo and current activity of an individual Bakingo creative were not established in this check. About 800 is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1180961354140420&view_all_page_id=646372602191662",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page label Bakingo (page ID 646372602191662); started 03 Dec 2025; Butterfly Cakes offer with 15% off and CK15; Order Now own-site category URL exposes encoded template tokens.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Bakingo official customer grievance policy",
+          "url": "https://www.bakingo.com/customer-grievance-redressal",
+          "source_type": "Brand first-party help page",
+          "observed": "Policy lists care@bakingo.com as grievance officer contact. It names Bake Wish Private Limited; storefront footer separately displays FA GIFTS PVT. LTD.; relationship not reconciled.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Bakingo official Bengaluru cake-store page",
+          "url": "https://www.bakingo.com/cake-stores-in-bangalore",
+          "source_type": "Brand first-party location page",
+          "observed": "Page lists Bengaluru/Bangalore cake-store addresses and care@bakingo.com; storefront footer displays FA GIFTS PVT. LTD. Store listings are dynamic and should be rechecked.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Bakingo domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=bakingo.com",
+          "source_type": "Platform query",
+          "observed": "About 800 any-time results under verified FA GIFTS PRIVATE LIMITED; relationship to Bakingo and a current brand creative not established.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The public product URL exposes campaign/ad-set template tokens",
+          "evidence": "The card displays Order Now to the brand's butterfly-cakes category; the visible query string contains encoded {{campaign.name}} and {{adset.name}} tokens.",
+          "analysis": "That is a visible URL value only. No live redirect, analytics capture or event firing was tested, so this is not described as a tracking failure.",
+          "next_check": "Check the final URL in an approved test session and confirm whether platform macros resolve in the landing request and authorized analytics records.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party store page lists Bengaluru addresses; the public email is a grievance route",
+          "evidence": "The official cake-store page lists Bengaluru addresses and care@bakingo.com; the grievance page identifies care@ as grievance officer. Entity labels differ between the grievance page and storefront footer.",
+          "analysis": "These sources establish a local public listing and routing inbox only; they do not identify a paid-media buyer or reconcile the legal-entity labels.",
+          "next_check": "Recheck live store listings, ask the support route for a referral, and reconcile legal-entity labels with an official corporate source before using them.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google domain results do not establish current Bakingo activity",
+          "evidence": "The India-domain view displayed about 800 any-time results under verified FA GIFTS PRIVATE LIMITED; advertiser relationship and current Bakingo creative were not established.",
+          "analysis": "The any-time total is not an active Bakingo count; no Google activity is claimed.",
+          "next_check": "Verify an individual creative, advertiser relationship, brand destination and recency before claiming Google activity.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        1
+      ],
+      "score_bases": [
+        "A page-resolved Bakingo card displayed Active/Sponsored, exact Library ID, page identity and start date.",
+        "The brand's own cake-store page lists Bengaluru locations.",
+        "The card exposes an Order Now CTA and own-site product-category URL; the destination was not tested beyond the visible link.",
+        "Official grievance policy, Bengaluru store page, direct Meta card and Google domain query were reviewed.",
+        "Published care@ is a grievance route, not a confirmed marketing or paid-media contact."
+      ],
+      "email_subjects": [
+        "campaign URL",
+        "store route",
+        "macro check",
+        "right owner"
+      ],
+      "email_notes": [
+        "The active Meta card 1180961354140420 (started 03 Dec 2025) promotes Butterfly Cakes with 15% off using CK15 and an Order Now link to Bakingo's own category page. The visible URL includes encoded campaign.name and adset.name template tokens; I did not test whether they resolve in the live request.",
+        "Bakingo's official Bengaluru cake-store page lists local shop addresses and the grievance policy publishes care@bakingo.com. That is a support route, not a media buyer; I would use it only to ask for the right referral.",
+        "If the campaign URL is intended to preserve source data, the useful internal check is whether the final click URL resolves its template tokens and whether an authorized test order records the agreed campaign fields. The public card alone cannot confirm either result.",
+        "I have kept this to the visible card, first-party Bengaluru store listing and published support route. There is no account performance estimate in the note; please redirect me if a different team owns measurement."
+      ]
+    },
+    {
+      "brand": "Taco Bell India",
+      "slug": "taco-bell-india",
+      "website": "tacobell.co.in",
+      "instagram": "@tacobellindia",
+      "niche": "Quick-service restaurant chain (India master-franchisee operations)",
+      "headline": "An active Taco Bell India card advertises Meal Mania from ₹89 and links to the app; local outlets are listed separately.",
+      "market_signal": "Official first-party search-index snippets list Bengaluru outlets; direct fetch of the official store locator returned HTTP 500 on 04 Oct 2026. The selected app campaign does not establish Bengaluru audience targeting.",
+      "contact": {
+        "email": "tacobellcare@burmanhospitality.com",
+        "phone": "",
+        "entity": "Burman Hospitality Private Limited (officially identified as Taco Bell India master franchisee)",
+        "address": "Official Taco Bell locator lists Bengaluru outlets; corporate office is in New Delhi.",
+        "route_role": "Published Taco Bell customer-care email on the master-franchisee's site; not identified as a paid-media buyer. The corporate form separately offers a Marketing and Media category.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Burman Hospitality's own contact page at https://burmanhospitality.com/contact-us/ on 04 Oct 2026: it publishes tacobellcare@burmanhospitality.com and offers a Marketing and Media category in its contact form.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Master-franchisee customer-care routing inbox; corporate form separately offers Marketing and Media; no owner identity published."
+      },
+      "meta": {
+        "page_name": "Taco Bell India",
+        "page_id": "380872194812",
+        "library_id": "2167460064200925",
+        "started_on": "2026-10-02",
+        "creative_excerpt": "More flavour, more value. Dive into Taco Bell Meal Mania with flavour-loaded meals starting at ₹89.",
+        "cta": "Order Now → Taco Bell India app link",
+        "destination_url": "http://tacobell-in.app.link/",
+        "destination_status": "The card exposes an app short link and Order Now label; the deep link, menu availability and in-app event were not tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=tacobell.co.in",
+        "detail": "India-region domain view displayed 2 any-time results under Matrix Publicities and Media India Private Limited; advertiser identity was not verified in the reviewed view. The opened video was last shown 05 Jul 2026 and its content was inaccessible. No current Taco Bell India creative was established; the total is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2167460064200925&view_all_page_id=380872194812",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page label Taco Bell India (page ID 380872194812); started 02 Oct 2026; copy says meals start at ₹89; Order Now app link.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Burman Hospitality official contact page",
+          "url": "https://burmanhospitality.com/contact-us/",
+          "source_type": "Master-franchisee/corporate first-party page",
+          "observed": "Official contact page publishes tacobellcare@burmanhospitality.com; form includes Marketing and Media. Burman Hospitality identifies itself as Taco Bell India's master franchisee; email is a routing contact, not a named paid-media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Taco Bell India official store locator (index evidence; direct fetch failed)",
+          "url": "https://www.tacobell.co.in/store-locator",
+          "source_type": "Brand first-party locator",
+          "observed": "Official search-index snippets list Bengaluru outlets such as RMZ Galleria Mall, HSR Layout, BEL Road and Koramangala. Direct fetch of https://www.tacobell.co.in/store-locator returned HTTP 500 on 04 Oct 2026, so these are indexed first-party snippets rather than a directly opened live locator; no audience targeting is inferred.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Taco Bell India domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=tacobell.co.in",
+          "source_type": "Platform query",
+          "observed": "Two any-time results under Matrix Publicities and Media India Private Limited; opened video last shown 05 Jul 2026 and content inaccessible; no current Taco Bell creative established.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "Meal Mania is a public app-order offer; the card does not expose order outcomes",
+          "evidence": "Meta Library ID 2167460064200925; page Taco Bell India (380872194812); Sponsored and Active on 04 Oct 2026, started 02 Oct; copy promotes meals from ₹89 with an Order Now app short link.",
+          "analysis": "The sponsored card shows an offer and app next step only. No app session, redemption or order event was accessed.",
+          "next_check": "Confirm the current offer and app destination, then reconcile an authorized test/order record to the intended campaign event.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Bengaluru locator evidence is index-only; the media inquiry route is separate",
+          "evidence": "Official Taco Bell locator/search snippets list Bengaluru outlets; direct fetch of https://www.tacobell.co.in/store-locator returned HTTP 500. Burman Hospitality publishes tacobellcare@burmanhospitality.com and a Marketing and Media form category.",
+          "analysis": "The Bengaluru evidence is limited to indexed first-party snippets; it does not directly verify a current outlet or ad audience. The corporate media-form category is a routing option, while the published customer-care inbox is not assumed to be the marketing team.",
+          "next_check": "Re-open the locator in a normal browser; if it remains unavailable, confirm the current Bengaluru listing with the company and use its Marketing and Media route for measurement questions.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google query results do not establish current Taco Bell India activity",
+          "evidence": "The domain view displayed two any-time items under Matrix Publicities and Media India Private Limited; the reviewed video was last shown 05 Jul 2026 and could not be inspected.",
+          "analysis": "The result total is not a current brand-ad count; no Google activity is claimed.",
+          "next_check": "Open a specific creative and verify advertiser, Taco Bell destination and current/last-shown status before making a brand activity claim.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The direct Taco Bell India card showed Active/Sponsored, page identity, start date and an individual Library ID.",
+        "Official search-index snippets list Bengaluru outlets, but direct locator retrieval returned HTTP 500; local presence is caveated and does not establish ad targeting.",
+        "The Order Now label and app short link are visible, but the app deep link was not tested.",
+        "Official master-franchisee contact, brand locator, direct Meta card and Google domain query were reviewed.",
+        "The published email is customer care; the corporate form offers a Marketing and Media category, but no owner identity is published."
+      ],
+      "email_subjects": [
+        "Meal Mania",
+        "Google query",
+        "order event",
+        "media referral"
+      ],
+      "email_notes": [
+        "Meta Library ID 2167460064200925 is on the Taco Bell India page, Active and Sponsored when checked 04 Oct 2026, starting 02 Oct. The copy promotes Meal Mania meals from ₹89 with an Order Now app link.",
+        "The Google domain query returned two any-time items under Matrix Publicities and Media India Private Limited. The reviewed video was last shown 05 Jul 2026 and could not be inspected, so I have not attributed it as current Taco Bell activity.",
+        "Official locator search snippets list Bengaluru restaurants, but direct fetch of the locator returned HTTP 500 on 04 Oct. The selected app creative does not identify an audience city. If an order is the intended outcome, a useful private check is the app event definition, source field and date window used to reconcile completed orders.",
+        "Burman Hospitality's corporate form includes a Marketing and Media category; the published email is a customer-care route. If that form is more appropriate, I am happy to direct the note there."
+      ],
+      "local_evidence_status": "PARTIALLY VERIFIED — official locator snippets list Bengaluru outlets; direct locator fetch returned HTTP 500."
+    },
+    {
+      "brand": "Wow! Momo",
+      "slug": "wow-momo",
+      "website": "wowmomo.com",
+      "instagram": "@wowmomos",
+      "niche": "Momo and quick-service restaurant chain",
+      "headline": "An active ₹99 offer card names four non-Bengaluru cities; the official locator separately lists Bengaluru restaurants.",
+      "market_signal": "The official locator lists Bengaluru restaurants. The selected active offer copy names other cities only; no Bengaluru targeting is inferred.",
+      "contact": {
+        "email": "info@wowmomo.co.in",
+        "phone": "",
+        "entity": "Wow! Momo Foods Private Limited",
+        "address": "Official restaurant locator lists Bengaluru locations; no head-office address asserted.",
+        "route_role": "Official general contact published in the privacy page; not identified as a paid-media buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Wow! Momo's own privacy page at https://www.wowmomo.com/privacy/ on 04 Oct 2026: it identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in as a contact route.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Official general contact; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Wow! Momo",
+        "page_id": "165456736798479",
+        "library_id": "2300405184049353",
+        "started_on": "2026-09-22",
+        "creative_excerpt": "Craving momos? Get EVERYTHING at just ₹99! Available only at Satya Niketan — Delhi, Vega Circle Mall — Siliguri, Ukilpara — Jalpaiguri, and OP Road — Vadodara.",
+        "cta": "Not exposed in the captured card text",
+        "destination_url": null,
+        "destination_status": "The selected card's destination URL and button label were not exposed in the captured text; the listed offer cities do not include Bengaluru."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=wowmomo.com",
+        "detail": "India-region domain view displayed 0 results for wowmomo.com on 04 Oct 2026. A zero-result domain query does not prove no Google activity or that no ads exist elsewhere."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2300405184049353&view_all_page_id=165456736798479",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page Wow! Momo (165456736798479); started 22 Sep 2026; ₹99 copy names Delhi, Siliguri, Jalpaiguri and Vadodara, not Bengaluru; destination not exposed.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Wow! Momo official privacy/contact page",
+          "url": "https://www.wowmomo.com/privacy/",
+          "source_type": "Brand first-party page",
+          "observed": "Identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in; page does not identify a paid-media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Wow! Momo official Bengaluru restaurant locator",
+          "url": "https://restaurants.wowmomo.com/location/karnataka/bangalore",
+          "source_type": "Brand first-party locator",
+          "observed": "Locator lists Bengaluru restaurants and outlet addresses; some entries show open hours while another is marked temporarily closed. No current outlet count or ad targeting is inferred.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Wow! Momo domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=wowmomo.com",
+          "source_type": "Platform query",
+          "observed": "Zero domain-query results on 04 Oct 2026; this is not proof that no advertiser ads exist.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The live ₹99 creative names four cities, none of them Bengaluru",
+          "evidence": "Meta Library ID 2300405184049353; page Wow! Momo (165456736798479); Sponsored and Active on 04 Oct 2026, started 22 Sep; copy names Delhi, Siliguri, Jalpaiguri and Vadodara.",
+          "analysis": "The active card is a brand-page sponsored record, but its offer copy lists other cities. It is not evidence of Bengaluru targeting or a Bengaluru offer.",
+          "next_check": "Before using the creative as a Bengaluru example, confirm a separate Bengaluru card and inspect that individual card and destination.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official locator separately lists Bengaluru outlets and a general contact",
+          "evidence": "The official restaurant locator lists Bengaluru entries; the privacy page identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in.",
+          "analysis": "This supports local service context and a published route only; no ad audience or buyer is inferred.",
+          "next_check": "Re-open the locator for current outlet status and ask the general contact to route measurement questions to the appropriate owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A zero-result Google query is not evidence of no advertising",
+          "evidence": "The India-region domain query displayed 0 results for wowmomo.com on 04 Oct 2026.",
+          "analysis": "Domain-query coverage can be incomplete; no claim of no Google advertising is made.",
+          "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "score_bases": [
+        "An individual Wow! Momo page card displayed Active/Sponsored, page identity, direct Library ID and start date.",
+        "Official locator lists Bengaluru outlets, while the selected creative itself names other cities only.",
+        "The captured card did not expose a CTA button or destination link.",
+        "Official privacy/contact and Bengaluru locator pages were checked alongside the direct Meta card and Google domain query.",
+        "The published info@ address is a general contact route, not a named media owner."
+      ],
+      "email_subjects": [
+        "₹99 cities",
+        "local locator",
+        "store outcome",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Wow! Momo card 2300405184049353 is Active and Sponsored when checked 04 Oct 2026, starting 22 Sep. Its ₹99 copy names Delhi, Siliguri, Jalpaiguri and Vadodara; I am not treating it as a Bengaluru-targeted offer.",
+        "The official restaurant locator separately lists Bengaluru outlets. The Google domain query returned no results, which does not prove there are no Google campaigns; I have not made a zero-ad claim.",
+        "If the local objective is a store visit or an order, a useful internal check is to define which event is authoritative and how its store/city is recorded. The public card does not show that outcome.",
+        "The public snapshot keeps the non-Bengaluru offer copy separate from the first-party Bengaluru locator. If info@ is not suitable for campaign questions, could you point me to the right owner?"
+      ]
+    },
+    {
+      "brand": "Polar Bear",
+      "slug": "polar-bear",
+      "website": "polarbear.co.in",
+      "instagram": "@polarbearicecreams",
+      "niche": "Ice-cream and sundae restaurant chain",
+      "headline": "An active Hot Chocolate Fudge creative is visible; the official contact page's displayed email and mailto target differ.",
+      "market_signal": "The official Contact Us page gives a Bengaluru address and the store locator lists Bengaluru outlets; no audience targeting is inferred.",
+      "contact": {
+        "email": "polarbear@polarbear.co.in",
+        "phone": "",
+        "entity": "Honeycomb Retail (India) Pvt. Ltd.",
+        "address": "No. 47/2, 80 ft Road, Banashankari 6th Stage, Bengaluru 560061 (official contact page).",
+        "route_role": "Official customer-care mailto target. The visible label says customercare@polarbear.co.in while the mailto target is polarbear@polarbear.co.in; verify the route before sending. Not a confirmed media buyer.",
+        "additional_emails": [
+          "customercare@polarbear.co.in"
+        ]
+      },
+      "contact_source": "Crawled from Polar Bear's own Contact Us page at https://polarbear.co.in/contact-us/ on 04 Oct 2026: the displayed customer-care label is customercare@polarbear.co.in, but its mailto target is polarbear@polarbear.co.in. The target is transcribed literally, not guessed; verify before sending.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Visible customer-care label and underlying mailto target differ; verify before sending."
+      },
+      "meta": {
+        "page_name": "Polar Bear-The Ice Cream Sundae Zone",
+        "page_id": "219875252424",
+        "library_id": "1569205697824965",
+        "started_on": "2026-09-27",
+        "creative_excerpt": "Here’s your reminder to slow down today. Find a cozy corner, grab a HCF sundae, and enjoy the little moments. #HotChocolateFudge #RainyDayTreats.",
+        "cta": "Learn more; final destination not exposed in captured text",
+        "destination_url": null,
+        "destination_status": "The public card shows a Learn more platform label but no tested brand landing destination or order path."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=polarbear.co.in",
+        "detail": "India-region domain view displayed 0 results for polarbear.co.in on 04 Oct 2026. This domain-query observation does not prove Polar Bear has no Google ads."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1569205697824965&view_all_page_id=219875252424",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page Polar Bear-The Ice Cream Sundae Zone (219875252424); started 27 Sep 2026; Hot Chocolate Fudge rainy-day copy; Learn more; final destination not exposed.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Polar Bear official contact page",
+          "url": "https://polarbear.co.in/contact-us/",
+          "source_type": "Brand first-party page",
+          "observed": "Identifies Honeycomb Retail (India) Pvt. Ltd. and a Bengaluru address. Customer-care text displays customercare@polarbear.co.in, but mailto target is polarbear@polarbear.co.in; mismatch preserved.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Polar Bear official store locator",
+          "url": "https://polarbear.co.in/store-locator-v2/",
+          "source_type": "Brand first-party locator",
+          "observed": "Official locator lists Karnataka/Bengaluru branches including Jayanagar, Koramangala, Indiranagar, Whitefield, Bellandur and others; no single current outlet count asserted.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Polar Bear domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=polarbear.co.in",
+          "source_type": "Platform query",
+          "observed": "Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active sundae creative has a Learn more label but no measured landing result",
+          "evidence": "Meta Library ID 1569205697824965; page Polar Bear-The Ice Cream Sundae Zone (219875252424); Sponsored and Active on 04 Oct 2026, started 27 Sep; Hot Chocolate Fudge/rainy-day copy; Learn more.",
+          "analysis": "No accessible destination or order outcome was captured. The card does not expose spend or conversion data.",
+          "next_check": "Re-open the card and confirm the current landing URL and intended action; inspect event firing only in an authorized test environment.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party Bengaluru context exists, but the displayed email and mailto target differ",
+          "evidence": "The contact page identifies Honeycomb Retail (India) Pvt. Ltd. at a Bengaluru address; visible customer-care text is customercare@polarbear.co.in and its mailto target is polarbear@polarbear.co.in. The locator lists Bengaluru branches.",
+          "analysis": "The mailto target is copied from the official link, not guessed; confirm it before sending. Neither route is a confirmed media buyer.",
+          "next_check": "Verify the exact mailbox and recheck a current Bengaluru store listing before using either in outreach.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A zero-result Google query is not evidence of no advertising",
+          "evidence": "The India-region domain query displayed 0 results for polarbear.co.in on 04 Oct 2026.",
+          "analysis": "No conclusion about absence of Google advertising is drawn from the domain query.",
+          "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The direct Polar Bear page card showed Active/Sponsored, page identity, direct Library ID and start date.",
+        "Official contact and store-locator pages provide Bengaluru address/outlet context.",
+        "Learn more is displayed, but the final destination and order path were not exposed in the captured card.",
+        "Official contact and locator pages plus the direct Meta and Google domain records were reviewed.",
+        "An official mailto target exists but differs from the visible email label; revalidation is required and buyer identity is unknown."
+      ],
+      "email_subjects": [
+        "HCF creative",
+        "contact route",
+        "CTA outcome",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Polar Bear-The Ice Cream Sundae Zone page shows active card 1569205697824965, started 27 Sep 2026, with Hot Chocolate Fudge and rainy-day copy. The captured card labels Learn more, but I could not verify a final landing or order path.",
+        "The official store locator lists Bengaluru-area branches. One contact detail needs care: the Contact Us page displays customercare@polarbear.co.in, while the linked mailto target is polarbear@polarbear.co.in. I have recorded that mismatch rather than treating the displayed label as a confirmed mailbox.",
+        "If Learn more is intended to lead to an order or store action, an internal check could identify the final landing URL and the agreed event or store record used for reconciliation. No public result is available from the card.",
+        "I have a source-linked note on the creative, Bengaluru presence and the email-label mismatch. Please verify the correct inbox before sending and redirect this question if another team owns measurement."
+      ]
+    },
+    {
+      "brand": "Jumboking",
+      "slug": "jumboking",
+      "website": "jumboking.co.in",
+      "instagram": "@jumbokingindia",
+      "niche": "Vegetarian burger QSR chain",
+      "headline": "The active Jumboking ad and its Zomato destination are Kolkata-specific; the official locator separately lists Bengaluru outlets.",
+      "market_signal": "The official Bengaluru locator lists two outlets; the selected active creative and destination are for Kolkata, so no Bengaluru targeting is inferred.",
+      "contact": {
+        "email": "customersupport@jumboking.co.in",
+        "phone": "",
+        "entity": "Not identified on the cited contact page",
+        "address": "Official locator lists Bengaluru outlets; no corporate address asserted.",
+        "route_role": "Published customer-support email; not identified as a paid-media buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Jumboking's own contact page at https://www.jumboking.co.in/contact/ on 04 Oct 2026: it publishes customersupport@jumboking.co.in.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Customer-support route; paid-media owner not identified."
+      },
+      "meta": {
+        "page_name": "Jumboking",
+        "page_id": "382628663486",
+        "library_id": "1649763583386413",
+        "started_on": "2026-09-28",
+        "creative_excerpt": "Jumboking Kolkata | Homegrown Burgers, World’s Yummiest Veg Burger! Hey Kolkata! Find your nearest outlet and order today.",
+        "cta": "Order now → Zomato Kolkata listing",
+        "destination_url": "https://www.zomato.com/kolkata/jumboking-burgers-theatre-road/order",
+        "destination_status": "The public card points to a Kolkata Zomato listing; final order flow and any purchase event were not tested."
+      },
+      "google_evidence": {
+        "status": "CHECKED — current brand-specific activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=jumboking.co.in",
+        "detail": "India-region domain view displayed 4 any-time results under verified Jumboking Foods Pvt. Ltd. No current individual Jumboking Google creative was established; four is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1649763583386413&view_all_page_id=382628663486",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page Jumboking (382628663486); started 28 Sep 2026; card explicitly says Kolkata and links to a Zomato Kolkata listing; Order now.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Jumboking official contact page",
+          "url": "https://www.jumboking.co.in/contact/",
+          "source_type": "Brand first-party page",
+          "observed": "Official contact page lists customersupport@jumboking.co.in and a Bengaluru support phone number (+91 80500 09321); email is first-party and used only as a routing contact, not assumed to be a media buyer.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Jumboking official Bengaluru store locator",
+          "url": "https://www.jumboking.co.in/store-locator/?location=Bengaluru",
+          "source_type": "Brand first-party locator",
+          "observed": "Bengaluru view lists two addresses, including H.S.R. Layout and Basavanagudi, with opening hours displayed at capture.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Jumboking domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=jumboking.co.in",
+          "source_type": "Platform query",
+          "observed": "Four any-time results under verified Jumboking Foods Pvt. Ltd.; no individual current brand-specific Google creative established.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected active ad is a Kolkata order path, not a Bengaluru offer",
+          "evidence": "Meta Library ID 1649763583386413; page Jumboking (382628663486); Sponsored and Active on 04 Oct 2026, started 28 Sep; creative names Kolkata and the Zomato destination is a Kolkata listing.",
+          "analysis": "This is not evidence of Bengaluru targeting or local order results.",
+          "next_check": "For Bengaluru outreach, inspect a separate Bengaluru-specific creative or destination if publicly available.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Bengaluru locator and published customer-support route are separate evidence",
+          "evidence": "The official Bengaluru locator lists two addresses; the contact page publishes customersupport@jumboking.co.in.",
+          "analysis": "This supports local presence and a published routing contact only; no media buyer is identified.",
+          "next_check": "Keep Kolkata campaign facts and Bengaluru outlet facts distinct; ask support for a paid-media referral if appropriate.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google any-time results do not establish current Jumboking activity",
+          "evidence": "The domain view displayed four any-time results under verified Jumboking Foods Pvt. Ltd.; no individual current creative was established.",
+          "analysis": "The result total is not an active-ad count; no current Google activity is asserted.",
+          "next_check": "Open an individual creative and verify its advertiser, brand destination and current/last-shown status before making a claim.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        1
+      ],
+      "score_bases": [
+        "The direct Jumboking card displayed Active/Sponsored, page identity, a direct ID and start date.",
+        "Official locator lists Bengaluru outlets, but the selected creative itself is Kolkata-specific.",
+        "The card shows an Order now link to a named Zomato Kolkata listing.",
+        "Official contact and Bengaluru locator plus direct Meta and Google domain records were checked.",
+        "Only a customer-support route was published; no paid-media owner is identified."
+      ],
+      "email_subjects": [
+        "Kolkata route",
+        "Google results",
+        "city outcome",
+        "support referral"
+      ],
+      "email_notes": [
+        "The Jumboking page shows active card 1649763583386413, started 28 Sep 2026. The creative explicitly says Kolkata and its Order now link points to a Zomato Kolkata listing; I am not presenting it as a Bengaluru ad.",
+        "The official Bengaluru locator lists two outlet addresses. The Google domain view returned four any-time results under verified Jumboking Foods Pvt. Ltd.; I have not treated that total as current active creative inventory.",
+        "If the relevant local outcome is a Bengaluru order or visit, the useful internal check is to define the specific store, event and source field before reconciling it with campaign data. The public Kolkata card does not show that result.",
+        "I have kept the Kolkata ad and Bengaluru locator evidence distinct. If the customer-support address is not appropriate, could you redirect me to the paid-media measurement owner?"
+      ]
+    },
+    {
+      "brand": "Swiggy",
+      "slug": "swiggy",
+      "website": "swiggy.com",
+      "instagram": "@swiggy.in",
+      "niche": "Food-delivery and dining platform (platform lead, not restaurant)",
+      "headline": "Swiggy is a platform lead; its active versioned card links to restaurant listings that differed across captures, with no Bengaluru route established.",
+      "market_signal": "Swiggy's corporate contact page lists a Bengaluru corporate office. The selected Meta card has multiple versions; the latest direct fetch rendered a Ludhiana Pizza Wings listing while a prior capture showed a Mumbai Subway listing. This is local corporate context only, not evidence of Bengaluru ad targeting.",
+      "contact": {
+        "email": "akanksha.j@swiggy.in",
+        "phone": "",
+        "entity": "Swiggy Limited",
+        "address": "Corporate office: Sumadhura Capitol Towers, Tower 1, Pattanduru Agrahara, Bengaluru, Karnataka 560066 (official contact page).",
+        "route_role": "Published Food and Dineout PR / Corporate Communications route (AVP); not a paid-media buyer. Use only for referral to the relevant measurement owner.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Swiggy's own corporate contact page at https://www.swiggy.com/corporate/contact-us/ on 04 Oct 2026: Akanksha Jain is listed for Swiggy Food and Swiggy Dineout PR/Corporate Communications at akanksha.j@swiggy.in.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Food and Dineout PR / Corporate Communications (AVP); referral route, not a paid-media buyer."
+      },
+      "meta": {
+        "page_name": "Swiggy",
+        "page_id": "313788932116395",
+        "library_id": "1004826868771702",
+        "started_on": "2026-05-19",
+        "creative_excerpt": "Stop scrolling. Start eating. Your favourite meals are just a tap away on Swiggy.",
+        "cta": "Order Now → Swiggy restaurant listing; the card says it has multiple versions",
+        "destination_url": null,
+        "destination_status": "The direct page says the ad has multiple versions. The latest capture rendered a Ludhiana Pizza Wings listing, while a prior capture showed a Mumbai Subway listing. No Bengaluru route or stable single destination was verified."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no Swiggy consumer-brand Google creative established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=swiggy.com",
+        "detail": "India-region domain view displayed about 5K any-time results and says the domain includes multiple advertiser accounts. A verified SWIGGY LIMITED advertiser appears in results. The individual creative linked in S5 promotes the Toing food-delivery app, not Swiggy's consumer food-order brand. This does not establish current Swiggy consumer-brand Google activity; about 5K is not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct Swiggy page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1004826868771702&view_all_page_id=313788932116395",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored; started 19 May 2026. Card says multiple versions; latest capture linked to Ludhiana Pizza Wings and a prior capture to Mumbai Subway.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Swiggy official corporate contact page — Food/Dineout PR route and Bengaluru office",
+          "url": "https://www.swiggy.com/corporate/contact-us/",
+          "source_type": "Corporate first-party page",
+          "observed": "Lists Akanksha Jain (Swiggy Food/Dineout PR) and the published email. The same page lists a Bengaluru corporate office; the route is PR, not a buyer, and office presence is not ad-targeting evidence.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Swiggy domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=swiggy.com",
+          "source_type": "Platform query",
+          "observed": "About 5K mixed-account any-time results. Verified SWIGGY LIMITED advertiser appears; a reviewed creative promoted Toing, not the Swiggy consumer brand.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S5",
+          "label": "Google Ads Transparency Center — individual SWIGGY LIMITED creative",
+          "url": "https://adstransparency.google.com/advertiser/AR04872672420588158977/creative/CR12702785112756977665?region=IN",
+          "source_type": "Platform creative",
+          "observed": "Individual creative is by SWIGGY LIMITED and promotes Toing; it is not treated as Swiggy consumer-brand activity.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S6",
+          "label": "Swiggy restaurant destination exposed in one rendered card version",
+          "url": "https://www.swiggy.com/city/Ludhiana/pizza-wings-hargobind-nagar-chaura-bazar-rest1006676?utm_source=meta_web&utm_campaign=MetaRxFeedAds&is_retargeting=true&media_source=RxFeed",
+          "source_type": "Ad destination link",
+          "observed": "Latest capture linked to Ludhiana Pizza Wings; a prior capture showed Mumbai Subway. The card has multiple versions; neither establishes a Bengaluru route.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The versioned platform card exposes changing restaurant-listing destinations",
+          "evidence": "Meta Library ID 1004826868771702; page Swiggy (313788932116395); Sponsored and Active on 04 Oct 2026, started 19 May; the direct card says it has multiple versions. The latest capture linked to Ludhiana Pizza Wings; a prior capture showed Mumbai Subway.",
+          "analysis": "The public record establishes a Swiggy platform placement and versioned listing links only, not Bengaluru targeting or an order outcome. Swiggy is a platform lead, not a restaurant.",
+          "next_check": "Reopen each current version, confirm whether a Bengaluru route exists, and reconcile any authorized order to that version's campaign identifier.",
+          "source_ids": [
+            "S1",
+            "S6"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Bengaluru corporate presence and a published PR route do not identify a media owner",
+          "evidence": "The corporate page lists a Bengaluru office and publishes akanksha.j@swiggy.in for Food and Dineout PR/Corporate Communications.",
+          "analysis": "This establishes corporate local context and a routing contact only; it is not evidence that the selected ad targets Bengaluru.",
+          "next_check": "Ask the published Food/Dineout PR route for a referral to the team responsible for consumer paid-media measurement.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A verified Swiggy advertiser's reviewed Google creative promotes Toing",
+          "evidence": "Google's mixed domain view displayed about 5K any-time results; individual creative CR12702785112756977665 is under verified SWIGGY LIMITED and promotes Toing food delivery.",
+          "analysis": "The creative is tied to SWIGGY LIMITED but promotes Toing, not Swiggy's consumer food-order brand. It is not counted as current Swiggy consumer-brand activity.",
+          "next_check": "Do not describe this as a Swiggy consumer ad; if revisited, verify an individual creative's product destination and last-shown/status fields.",
+          "source_ids": [
+            "S4",
+            "S5"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "score_bases": [
+        "The individual Swiggy page card displayed Active/Sponsored, direct Library ID, page label and start date.",
+        "The corporate page identifies a Bengaluru office; the selected click destination is Mumbai, not Bengaluru.",
+        "The captured version exposes an Order Now restaurant-listing URL, but destinations vary by version and no Bengaluru route is established.",
+        "Official corporate contact/office, direct Meta card, Google domain query and individual Google creative were reviewed.",
+        "The published contact is PR/Corporate Communications for Food and Dineout, not a media buyer; referral only."
+      ],
+      "email_subjects": [
+        "versioned ad",
+        "Toing creative",
+        "listing clicks",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Swiggy page shows active card 1004826868771702, started 19 May 2026, with ‘Your favourite meals are just a tap away on Swiggy’ and an Order Now link. The card says it has multiple versions: the latest capture linked to Ludhiana Pizza Wings, while a prior capture showed Mumbai Subway. I am including Swiggy as a food-delivery platform, not a restaurant, and not calling this a Bengaluru-targeted ad.",
+        "The Google domain query is a mixed any-time view. A verified SWIGGY LIMITED advertiser's individual creative CR12702785112756977665 promotes Toing, not Swiggy's consumer food-order brand. I have not counted it as current Swiggy consumer-brand activity.",
+        "If a restaurant-listing click is intended to drive an order, the useful private check is which event, city and campaign/source identifier connect that version's click to a completed order. The public card does not show that outcome.",
+        "I have a source-linked public snapshot of the platform card, Bengaluru corporate contact and the separate Toing creative. If the Food/Dineout PR route is not suitable, could you point me to the team responsible for measurement?"
+      ]
+    },
+    {
+      "brand": "Chaayos",
+      "slug": "chaayos",
+      "website": "chaayos.com",
+      "instagram": "@chaayos",
+      "niche": "Chai cafe and quick-service restaurant chain",
+      "headline": "An active Dine@99 card displays a Maps link, but the short link returned Dynamic Link Not Found in the static check.",
+      "market_signal": "Chaayos' first-party store locator lists Bengaluru outlets and publishes letstalk@chaayos.com; the selected Maps link is not verified as a local destination.",
+      "contact": {
+        "email": "letstalk@chaayos.com",
+        "phone": "",
+        "entity": "Not identified on the cited store/contact pages",
+        "address": "Official store locator lists Bengaluru outlets; no corporate address asserted.",
+        "route_role": "Published general contact on the first-party store locator/homepage; not identified as a paid-media buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Chaayos' own store locator at https://chaayos.com/pages/mantrimallsquare and official homepage https://chaayos.com/ on 04 Oct 2026: the locator card publishes letstalk@chaayos.com as its contact route.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2",
+          "S3"
+        ],
+        "email_role": "Published general store/contact route; paid-media buyer not identified."
+      },
+      "meta": {
+        "page_name": "Chaayos",
+        "page_id": "376971899046755",
+        "library_id": "2110584583181157",
+        "started_on": "2026-09-18",
+        "creative_excerpt": "India's most-loved chai cafe is FINALLY in your neighbourhood! Check out our Dine@99 offer at your nearest chaayos.",
+        "cta": "Maps link; card labels offer ‘See details’",
+        "destination_url": "https://maps.app.goo.gl/Q27bfq4mXw3BRtA6A",
+        "destination_status": "The card shows a Maps short link for Dine@99; static fetch returned Dynamic Link Not Found. No final location or order path was verified."
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=chaayos.com",
+        "detail": "India-region domain view displayed 0 results for chaayos.com on 04 Oct 2026. A zero-result domain query does not prove that no Google ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2110584583181157&view_all_page_id=376971899046755",
+          "source_type": "Platform record",
+          "observed": "Active and Sponsored on 04 Oct 2026; page Chaayos (376971899046755); started 18 Sep 2026; Dine@99 offer with Maps short link; final location not verified.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Chaayos official store locator — Bengaluru outlet directory",
+          "url": "https://chaayos.com/pages/mantrimallsquare",
+          "source_type": "Brand first-party location page",
+          "observed": "Store-locator page includes Bengaluru outlet records (including Bagmane Tech Park) and publishes letstalk@chaayos.com; the dynamic locator displayed 109 total results at capture, not a Bengaluru count.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Chaayos official homepage / contact route",
+          "url": "https://chaayos.com/",
+          "source_type": "Brand first-party contact page",
+          "observed": "Homepage publishes letstalk@chaayos.com and the general contact route; no paid-media owner identified.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Chaayos domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=chaayos.com",
+          "source_type": "Platform query",
+          "observed": "Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S5",
+          "label": "Maps short link exposed in the selected Meta card",
+          "url": "https://maps.app.goo.gl/Q27bfq4mXw3BRtA6A",
+          "source_type": "Ad destination resolution check",
+          "observed": "Static fetch returned Dynamic Link Not Found; final location/destination not verified.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active Dine@99 card's Maps short link did not resolve in the static check",
+          "evidence": "Meta Library ID 2110584583181157; page Chaayos (376971899046755); Sponsored and Active on 04 Oct 2026; started 18 Sep; Dine@99 copy links to a Maps short URL that returned Dynamic Link Not Found.",
+          "analysis": "The active sponsored record is visible, but the short URL does not establish a local destination, store visit or order result.",
+          "next_check": "Re-open the ad and link in a normal browser; confirm the current destination and intended action before referring to a location.",
+          "source_ids": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party store locator lists Bengaluru locations and a general contact route",
+          "evidence": "The store-locator page includes Bengaluru outlet records and publishes letstalk@chaayos.com; it also displayed 109 total locator results across all areas.",
+          "analysis": "This supports Bengaluru presence and a published contact route only; the total is not a Bengaluru count and the selected ad's audience is unknown.",
+          "next_check": "Recheck the locator for a current Bengaluru outlet and ask the general route to direct the note to the paid-media measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "A zero-result Google query is not evidence of no advertising",
+          "evidence": "The India-region domain query displayed 0 results for chaayos.com on 04 Oct 2026.",
+          "analysis": "No conclusion about the absence of Google advertising is drawn from this domain view.",
+          "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "A page-resolved Chaayos card displayed Active/Sponsored, named page, direct Library ID and start date.",
+        "The first-party store locator contains Bengaluru outlet records; the selected Maps destination itself is unverified.",
+        "The card exposes a Dine@99 Maps link, but static resolution failed and final location is unavailable.",
+        "First-party locator/contact pages, direct Meta card, Maps-link check and Google domain query were reviewed.",
+        "A general published contact route is available, but no paid-media owner is named."
+      ],
+      "email_subjects": [
+        "Dine@99 map",
+        "store locator",
+        "store outcome",
+        "right owner"
+      ],
+      "email_notes": [
+        "The Chaayos page shows active card 2110584583181157, started 18 Sep 2026, with a Dine@99 offer and a Maps short link. The static fetch returned Dynamic Link Not Found, so I could not verify the final location.",
+        "Chaayos' first-party locator includes Bengaluru outlet records and publishes letstalk@chaayos.com. It displayed 109 locator results overall, not a Bengaluru count; the Google domain query returned zero results, which is not proof of no campaigns.",
+        "If the Maps step is intended to drive a store visit, one internal check is to confirm the exact current pin and agree which store-visit, order or redemption event is authoritative. The public link did not reveal that result.",
+        "I have a source-linked note on the active card, first-party locator and unresolved Maps short link. If the general inbox is not right for measurement questions, could you direct me to the appropriate owner?"
+      ]
+    }
+  ]
+}

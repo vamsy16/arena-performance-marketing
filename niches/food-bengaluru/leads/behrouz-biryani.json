@@ -1,0 +1,209 @@
+{
+  "brand": "Behrouz Biryani",
+  "slug": "behrouz-biryani",
+  "website": "behrouzbiryani.com",
+  "instagram": "@behrouzbiryani",
+  "niche": "Biryani and prepared-food delivery brand",
+  "headline": "An active app-order card promotes Behrouz's Long Lost Menu; official ordering pages list Bengaluru service locations.",
+  "market_signal": "The brand's official Bengaluru ordering page lists service locations; no Bengaluru audience targeting is inferred from the selected general app ad.",
+  "contact": {
+    "email": "help@behrouzbiryani.com",
+    "phone": "",
+    "entity": "Rebel Foods Private Limited (official terms identify ownership/operation)",
+    "address": "Official Bengaluru order page lists local serving locations; no head-office address asserted.",
+    "route_role": "Official customer-support email for platform questions; not identified as a paid-media buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Behrouz's own terms at https://www.behrouzbiryani.com/terms on 04 Oct 2026: the page publishes help@behrouzbiryani.com for platform questions.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Customer support for platform questions; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=behrouzbiryani.com",
+    "detail": "India-region domain view displayed 59 any-time results under verified REBEL FOODS PVT. LTD. A reviewed preview promoted Oven Story rather than Behrouz Biryani; no Behrouz-specific current creative was established. Fifty-nine is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=963874089761793&view_all_page_id=229492534096049",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page label Behrouz Biryani (page ID 229492534096049); started 12 May 2026; Long Lost Menu copy; Order Now link to the Behrouz app listing.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Behrouz official terms — contact and operating entity",
+      "url": "https://www.behrouzbiryani.com/terms",
+      "source_type": "Brand first-party page",
+      "observed": "Terms publish help@behrouzbiryani.com for platform questions and identify Rebel Foods operations; the email is support, not a media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Behrouz official Bengaluru ordering page",
+      "url": "https://www.behrouzbiryani.com/behrouz-biryani/bengaluru",
+      "source_type": "Brand first-party ordering page",
+      "observed": "Page is titled Biryani Near Me in Bengaluru and lists Bengaluru serving locations; it does not prove that the selected Meta card targets Bengaluru.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Behrouz domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=behrouzbiryani.com",
+      "source_type": "Platform query",
+      "observed": "59 any-time results under verified Rebel Foods; reviewed preview promoted Oven Story rather than Behrouz; no current Behrouz creative established.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected card uses an app-order CTA, not a public outcome measure",
+      "evidence": "Meta Library ID 963874089761793; page Behrouz Biryani (229492534096049); Sponsored and Active on 04 Oct 2026; started 12 May 2026; copy promotes the Long Lost Menu; Order Now links to the Behrouz app.",
+      "analysis": "The public record links the menu message to the brand app. It does not show app installs, completed orders, spend or attribution results.",
+      "next_check": "Re-open the card and reconcile any authorized app/order record to the internal campaign event only with permission.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official order page provides Bengaluru service context; the support email is not a buyer route",
+      "evidence": "Behrouz terms publish help@behrouzbiryani.com; the Bengaluru ordering page lists local serving locations.",
+      "analysis": "These first-party pages support the contact and local context only; they do not establish ad targeting or media ownership.",
+      "next_check": "Ask the support route to forward the question to the paid-media measurement owner; verify service area before reusing local claims.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google domain results include another Rebel Foods brand",
+      "evidence": "The domain view displayed 59 any-time results under verified Rebel Foods; the reviewed preview promoted Oven Story rather than Behrouz.",
+      "analysis": "The query is not a Behrouz current-ad count and no Google activity is claimed.",
+      "next_check": "Open a specific creative and tie advertiser, brand destination and recency before making any Google-activity claim.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "963874089761793",
+      "page_id": "229492534096049",
+      "page_name": "Behrouz Biryani",
+      "started_on": "2026-05-12",
+      "creative_excerpt": "Taste Biryani & more from our Long Lost Menu. New to Behrouz? Order Today from Behrouz Biryani.",
+      "cta": "Order Now → Behrouz Biryani app (Google Play)",
+      "destination_url": "http://play.google.com/store/apps/details?id=com.behrouzbiryani",
+      "destination_status": "The card linked to the Behrouz Biryani app listing; the app-install/order path and any in-app event were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=963874089761793&view_all_page_id=229492534096049"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The individual Behrouz page card displayed Active/Sponsored, direct Library ID, named page and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The first-party order page names Bengaluru and lists local serving locations."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The card exposes an Order Now link to the named brand app; in-app path and events were not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official terms, Bengaluru order page, direct Meta card and Google domain query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "The only published email route checked is customer support; no paid-media owner is identified."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page label Behrouz Biryani (page ID 229492534096049); started 12 May 2026; Long Lost Menu copy; Order Now link to the Behrouz app listing.",
+    "S2 — Behrouz official terms — contact and operating entity; checked 2026-10-04; Terms publish help@behrouzbiryani.com for platform questions and identify Rebel Foods operations; the email is support, not a media buyer.",
+    "S3 — Behrouz official Bengaluru ordering page; checked 2026-10-04; Page is titled Biryani Near Me in Bengaluru and lists Bengaluru serving locations; it does not prove that the selected Meta card targets Bengaluru.",
+    "S4 — Google Ads Transparency Center — Behrouz domain query; checked 2026-10-04; 59 any-time results under verified Rebel Foods; reviewed preview promoted Oven Story rather than Behrouz; no current Behrouz creative established."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 963874089761793 and page ID 229492534096049; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed 59 any-time results under verified REBEL FOODS PVT. LTD. A reviewed preview promoted Oven Story rather than Behrouz Biryani; no Behrouz-specific current creative was established. Fifty-nine is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The brand's official Bengaluru ordering page lists service locations; no Bengaluru audience targeting is inferred from the selected general app ad. Official customer-support email for platform questions; not identified as a paid-media buyer.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card linked to the Behrouz Biryani app listing; the app-install/order path and any in-app event were not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "app-order path",
+      "Hi Behrouz Biryani team,\n\nMeta Library ID 963874089761793 is labelled Behrouz Biryani, Sponsored and Active when checked 04 Oct 2026, with a 12 May start date. Its copy promotes the Long Lost Menu and the Order Now link points to the Behrouz app.\n\nThe public record does not expose private spend, orders or event firing. The published route, help@behrouzbiryani.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Google check",
+      "Hi Behrouz Biryani team,\n\nThe Google domain view showed 59 any-time results under verified Rebel Foods, and a reviewed preview promoted Oven Story rather than Behrouz. I have not treated those mixed results as current Behrouz Google activity.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order event",
+      "Hi Behrouz Biryani team,\n\nYour official ordering page lists Bengaluru serving locations. If the app CTA is meant to drive a completed order, the useful private check is the agreed order event, attribution window and source field—not an outcome inferred from the public card.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Behrouz Biryani team,\n\nThe public snapshot contains a specific active card and local ordering context, but no account results. If the help inbox is not the right place for measurement questions, would you forward this to the relevant owner?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

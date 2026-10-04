@@ -1,0 +1,209 @@
+{
+  "brand": "Bakingo",
+  "slug": "bakingo",
+  "website": "bakingo.com",
+  "instagram": "@bakingo_official",
+  "niche": "Online bakery, designer cakes and gifting",
+  "headline": "An active Butterfly Cakes card exposes an own-site CTA and encoded campaign/ad-set template tokens.",
+  "market_signal": "The official cake-store page lists Bengaluru/Bangalore addresses; the selected ad does not establish local audience targeting.",
+  "contact": {
+    "email": "care@bakingo.com",
+    "phone": "",
+    "entity": "Official grievance page names Bake Wish Private Limited; storefront footer separately displays FA GIFTS PVT. LTD. (relationship not reconciled).",
+    "address": "Official cake-store page lists Bengaluru/Bangalore addresses; no head-office address asserted.",
+    "route_role": "Published grievance/customer-care route; not identified as a paid-media buyer. Use only to request the correct referral.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Bakingo's own customer grievance policy at https://www.bakingo.com/customer-grievance-redressal on 04 Oct 2026: it lists care@bakingo.com as the grievance officer contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Grievance/customer-care route; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=bakingo.com",
+    "detail": "India-region domain view displayed about 800 any-time results under verified FA GIFTS PRIVATE LIMITED. The relationship to Bakingo and current activity of an individual Bakingo creative were not established in this check. About 800 is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1180961354140420&view_all_page_id=646372602191662",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page label Bakingo (page ID 646372602191662); started 03 Dec 2025; Butterfly Cakes offer with 15% off and CK15; Order Now own-site category URL exposes encoded template tokens.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Bakingo official customer grievance policy",
+      "url": "https://www.bakingo.com/customer-grievance-redressal",
+      "source_type": "Brand first-party help page",
+      "observed": "Policy lists care@bakingo.com as grievance officer contact. It names Bake Wish Private Limited; storefront footer separately displays FA GIFTS PVT. LTD.; relationship not reconciled.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Bakingo official Bengaluru cake-store page",
+      "url": "https://www.bakingo.com/cake-stores-in-bangalore",
+      "source_type": "Brand first-party location page",
+      "observed": "Page lists Bengaluru/Bangalore cake-store addresses and care@bakingo.com; storefront footer displays FA GIFTS PVT. LTD. Store listings are dynamic and should be rechecked.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Bakingo domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=bakingo.com",
+      "source_type": "Platform query",
+      "observed": "About 800 any-time results under verified FA GIFTS PRIVATE LIMITED; relationship to Bakingo and a current brand creative not established.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The public product URL exposes campaign/ad-set template tokens",
+      "evidence": "The card displays Order Now to the brand's butterfly-cakes category; the visible query string contains encoded {{campaign.name}} and {{adset.name}} tokens.",
+      "analysis": "That is a visible URL value only. No live redirect, analytics capture or event firing was tested, so this is not described as a tracking failure.",
+      "next_check": "Check the final URL in an approved test session and confirm whether platform macros resolve in the landing request and authorized analytics records.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party store page lists Bengaluru addresses; the public email is a grievance route",
+      "evidence": "The official cake-store page lists Bengaluru addresses and care@bakingo.com; the grievance page identifies care@ as grievance officer. Entity labels differ between the grievance page and storefront footer.",
+      "analysis": "These sources establish a local public listing and routing inbox only; they do not identify a paid-media buyer or reconcile the legal-entity labels.",
+      "next_check": "Recheck live store listings, ask the support route for a referral, and reconcile legal-entity labels with an official corporate source before using them.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google domain results do not establish current Bakingo activity",
+      "evidence": "The India-domain view displayed about 800 any-time results under verified FA GIFTS PRIVATE LIMITED; advertiser relationship and current Bakingo creative were not established.",
+      "analysis": "The any-time total is not an active Bakingo count; no Google activity is claimed.",
+      "next_check": "Verify an individual creative, advertiser relationship, brand destination and recency before claiming Google activity.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1180961354140420",
+      "page_id": "646372602191662",
+      "page_name": "Bakingo",
+      "started_on": "2025-12-03",
+      "creative_excerpt": "Butterfly Cakes — Flat 15% Off with code CK15.",
+      "cta": "Order Now → Bakingo butterfly-cakes page",
+      "destination_url": "https://www.bakingo.com/designer-cakes/butterfly-cakes?utm_source=facebook&utm_medium=cpc&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D",
+      "destination_status": "Own-site product-category URL was exposed; its query string contains encoded literal campaign.name and adset.name template tokens. Final rendered URL and analytics values were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1180961354140420&view_all_page_id=646372602191662"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A page-resolved Bakingo card displayed Active/Sponsored, exact Library ID, page identity and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The brand's own cake-store page lists Bengaluru locations."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The card exposes an Order Now CTA and own-site product-category URL; the destination was not tested beyond the visible link."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official grievance policy, Bengaluru store page, direct Meta card and Google domain query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "Published care@ is a grievance route, not a confirmed marketing or paid-media contact."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page label Bakingo (page ID 646372602191662); started 03 Dec 2025; Butterfly Cakes offer with 15% off and CK15; Order Now own-site category URL exposes encoded template tokens.",
+    "S2 — Bakingo official customer grievance policy; checked 2026-10-04; Policy lists care@bakingo.com as grievance officer contact. It names Bake Wish Private Limited; storefront footer separately displays FA GIFTS PVT. LTD.; relationship not reconciled.",
+    "S3 — Bakingo official Bengaluru cake-store page; checked 2026-10-04; Page lists Bengaluru/Bangalore cake-store addresses and care@bakingo.com; storefront footer displays FA GIFTS PVT. LTD. Store listings are dynamic and should be rechecked.",
+    "S4 — Google Ads Transparency Center — Bakingo domain query; checked 2026-10-04; About 800 any-time results under verified FA GIFTS PRIVATE LIMITED; relationship to Bakingo and a current brand creative not established."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1180961354140420 and page ID 646372602191662; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed about 800 any-time results under verified FA GIFTS PRIVATE LIMITED. The relationship to Bakingo and current activity of an individual Bakingo creative were not established in this check. About 800 is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The official cake-store page lists Bengaluru/Bangalore addresses; the selected ad does not establish local audience targeting. Published grievance/customer-care route; not identified as a paid-media buyer. Use only to request the correct referral.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "Own-site product-category URL was exposed; its query string contains encoded literal campaign.name and adset.name template tokens. Final rendered URL and analytics values were not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "campaign URL",
+      "Hi Bakingo team,\n\nThe active Meta card 1180961354140420 (started 03 Dec 2025) promotes Butterfly Cakes with 15% off using CK15 and an Order Now link to Bakingo's own category page. The visible URL includes encoded campaign.name and adset.name template tokens; I did not test whether they resolve in the live request.\n\nThe public record does not expose private spend, orders or event firing. The published route, care@bakingo.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store route",
+      "Hi Bakingo team,\n\nBakingo's official Bengaluru cake-store page lists local shop addresses and the grievance policy publishes care@bakingo.com. That is a support route, not a media buyer; I would use it only to ask for the right referral.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "macro check",
+      "Hi Bakingo team,\n\nIf the campaign URL is intended to preserve source data, the useful internal check is whether the final click URL resolves its template tokens and whether an authorized test order records the agreed campaign fields. The public card alone cannot confirm either result.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Bakingo team,\n\nI have kept this to the visible card, first-party Bengaluru store listing and published support route. There is no account performance estimate in the note; please redirect me if a different team owns measurement.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "brand": "Jumboking",
+  "slug": "jumboking",
+  "website": "jumboking.co.in",
+  "instagram": "@jumbokingindia",
+  "niche": "Vegetarian burger QSR chain",
+  "headline": "The active Jumboking ad and its Zomato destination are Kolkata-specific; the official locator separately lists Bengaluru outlets.",
+  "market_signal": "The official Bengaluru locator lists two outlets; the selected active creative and destination are for Kolkata, so no Bengaluru targeting is inferred.",
+  "contact": {
+    "email": "customersupport@jumboking.co.in",
+    "phone": "",
+    "entity": "Not identified on the cited contact page",
+    "address": "Official locator lists Bengaluru outlets; no corporate address asserted.",
+    "route_role": "Published customer-support email; not identified as a paid-media buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Jumboking's own contact page at https://www.jumboking.co.in/contact/ on 04 Oct 2026: it publishes customersupport@jumboking.co.in.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Customer-support route; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=jumboking.co.in",
+    "detail": "India-region domain view displayed 4 any-time results under verified Jumboking Foods Pvt. Ltd. No current individual Jumboking Google creative was established; four is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1649763583386413&view_all_page_id=382628663486",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page Jumboking (382628663486); started 28 Sep 2026; card explicitly says Kolkata and links to a Zomato Kolkata listing; Order now.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Jumboking official contact page",
+      "url": "https://www.jumboking.co.in/contact/",
+      "source_type": "Brand first-party page",
+      "observed": "Official contact page lists customersupport@jumboking.co.in and a Bengaluru support phone number (+91 80500 09321); email is first-party and used only as a routing contact, not assumed to be a media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Jumboking official Bengaluru store locator",
+      "url": "https://www.jumboking.co.in/store-locator/?location=Bengaluru",
+      "source_type": "Brand first-party locator",
+      "observed": "Bengaluru view lists two addresses, including H.S.R. Layout and Basavanagudi, with opening hours displayed at capture.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Jumboking domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=jumboking.co.in",
+      "source_type": "Platform query",
+      "observed": "Four any-time results under verified Jumboking Foods Pvt. Ltd.; no individual current brand-specific Google creative established.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected active ad is a Kolkata order path, not a Bengaluru offer",
+      "evidence": "Meta Library ID 1649763583386413; page Jumboking (382628663486); Sponsored and Active on 04 Oct 2026, started 28 Sep; creative names Kolkata and the Zomato destination is a Kolkata listing.",
+      "analysis": "This is not evidence of Bengaluru targeting or local order results.",
+      "next_check": "For Bengaluru outreach, inspect a separate Bengaluru-specific creative or destination if publicly available.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Bengaluru locator and published customer-support route are separate evidence",
+      "evidence": "The official Bengaluru locator lists two addresses; the contact page publishes customersupport@jumboking.co.in.",
+      "analysis": "This supports local presence and a published routing contact only; no media buyer is identified.",
+      "next_check": "Keep Kolkata campaign facts and Bengaluru outlet facts distinct; ask support for a paid-media referral if appropriate.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google any-time results do not establish current Jumboking activity",
+      "evidence": "The domain view displayed four any-time results under verified Jumboking Foods Pvt. Ltd.; no individual current creative was established.",
+      "analysis": "The result total is not an active-ad count; no current Google activity is asserted.",
+      "next_check": "Open an individual creative and verify its advertiser, brand destination and current/last-shown status before making a claim.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1649763583386413",
+      "page_id": "382628663486",
+      "page_name": "Jumboking",
+      "started_on": "2026-09-28",
+      "creative_excerpt": "Jumboking Kolkata | Homegrown Burgers, World’s Yummiest Veg Burger! Hey Kolkata! Find your nearest outlet and order today.",
+      "cta": "Order now → Zomato Kolkata listing",
+      "destination_url": "https://www.zomato.com/kolkata/jumboking-burgers-theatre-road/order",
+      "destination_status": "The public card points to a Kolkata Zomato listing; final order flow and any purchase event were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1649763583386413&view_all_page_id=382628663486"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The direct Jumboking card displayed Active/Sponsored, page identity, a direct ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official locator lists Bengaluru outlets, but the selected creative itself is Kolkata-specific."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The card shows an Order now link to a named Zomato Kolkata listing."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact and Bengaluru locator plus direct Meta and Google domain records were checked."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "Only a customer-support route was published; no paid-media owner is identified."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page Jumboking (382628663486); started 28 Sep 2026; card explicitly says Kolkata and links to a Zomato Kolkata listing; Order now.",
+    "S2 — Jumboking official contact page; checked 2026-10-04; Official contact page lists customersupport@jumboking.co.in and a Bengaluru support phone number (+91 80500 09321); email is first-party and used only as a routing contact, not assumed to be a media buyer.",
+    "S3 — Jumboking official Bengaluru store locator; checked 2026-10-04; Bengaluru view lists two addresses, including H.S.R. Layout and Basavanagudi, with opening hours displayed at capture.",
+    "S4 — Google Ads Transparency Center — Jumboking domain query; checked 2026-10-04; Four any-time results under verified Jumboking Foods Pvt. Ltd.; no individual current brand-specific Google creative established."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1649763583386413 and page ID 382628663486; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed 4 any-time results under verified Jumboking Foods Pvt. Ltd. No current individual Jumboking Google creative was established; four is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The official Bengaluru locator lists two outlets; the selected active creative and destination are for Kolkata, so no Bengaluru targeting is inferred. Published customer-support email; not identified as a paid-media buyer.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The public card points to a Kolkata Zomato listing; final order flow and any purchase event were not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Kolkata route",
+      "Hi Jumboking team,\n\nThe Jumboking page shows active card 1649763583386413, started 28 Sep 2026. The creative explicitly says Kolkata and its Order now link points to a Zomato Kolkata listing; I am not presenting it as a Bengaluru ad.\n\nThe public record does not expose private spend, orders or event firing. The published route, customersupport@jumboking.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Google results",
+      "Hi Jumboking team,\n\nThe official Bengaluru locator lists two outlet addresses. The Google domain view returned four any-time results under verified Jumboking Foods Pvt. Ltd.; I have not treated that total as current active creative inventory.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "city outcome",
+      "Hi Jumboking team,\n\nIf the relevant local outcome is a Bengaluru order or visit, the useful internal check is to define the specific store, event and source field before reconciling it with campaign data. The public Kolkata card does not show that result.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "support referral",
+      "Hi Jumboking team,\n\nI have kept the Kolkata ad and Bengaluru locator evidence distinct. If the customer-support address is not appropriate, could you redirect me to the paid-media measurement owner?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

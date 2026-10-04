@@ -1,0 +1,210 @@
+{
+  "brand": "Taco Bell India",
+  "slug": "taco-bell-india",
+  "website": "tacobell.co.in",
+  "instagram": "@tacobellindia",
+  "niche": "Quick-service restaurant chain (India master-franchisee operations)",
+  "headline": "An active Taco Bell India card advertises Meal Mania from ₹89 and links to the app; local outlets are listed separately.",
+  "market_signal": "Official first-party search-index snippets list Bengaluru outlets; direct fetch of the official store locator returned HTTP 500 on 04 Oct 2026. The selected app campaign does not establish Bengaluru audience targeting.",
+  "contact": {
+    "email": "tacobellcare@burmanhospitality.com",
+    "phone": "",
+    "entity": "Burman Hospitality Private Limited (officially identified as Taco Bell India master franchisee)",
+    "address": "Official Taco Bell locator lists Bengaluru outlets; corporate office is in New Delhi.",
+    "route_role": "Published Taco Bell customer-care email on the master-franchisee's site; not identified as a paid-media buyer. The corporate form separately offers a Marketing and Media category.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Burman Hospitality's own contact page at https://burmanhospitality.com/contact-us/ on 04 Oct 2026: it publishes tacobellcare@burmanhospitality.com and offers a Marketing and Media category in its contact form.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Master-franchisee customer-care routing inbox; corporate form separately offers Marketing and Media; no owner identity published."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=tacobell.co.in",
+    "detail": "India-region domain view displayed 2 any-time results under Matrix Publicities and Media India Private Limited; advertiser identity was not verified in the reviewed view. The opened video was last shown 05 Jul 2026 and its content was inaccessible. No current Taco Bell India creative was established; the total is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2167460064200925&view_all_page_id=380872194812",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page label Taco Bell India (page ID 380872194812); started 02 Oct 2026; copy says meals start at ₹89; Order Now app link.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Burman Hospitality official contact page",
+      "url": "https://burmanhospitality.com/contact-us/",
+      "source_type": "Master-franchisee/corporate first-party page",
+      "observed": "Official contact page publishes tacobellcare@burmanhospitality.com; form includes Marketing and Media. Burman Hospitality identifies itself as Taco Bell India's master franchisee; email is a routing contact, not a named paid-media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Taco Bell India official store locator (index evidence; direct fetch failed)",
+      "url": "https://www.tacobell.co.in/store-locator",
+      "source_type": "Brand first-party locator",
+      "observed": "Official search-index snippets list Bengaluru outlets such as RMZ Galleria Mall, HSR Layout, BEL Road and Koramangala. Direct fetch of https://www.tacobell.co.in/store-locator returned HTTP 500 on 04 Oct 2026, so these are indexed first-party snippets rather than a directly opened live locator; no audience targeting is inferred.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Taco Bell India domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=tacobell.co.in",
+      "source_type": "Platform query",
+      "observed": "Two any-time results under Matrix Publicities and Media India Private Limited; opened video last shown 05 Jul 2026 and content inaccessible; no current Taco Bell creative established.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "Meal Mania is a public app-order offer; the card does not expose order outcomes",
+      "evidence": "Meta Library ID 2167460064200925; page Taco Bell India (380872194812); Sponsored and Active on 04 Oct 2026, started 02 Oct; copy promotes meals from ₹89 with an Order Now app short link.",
+      "analysis": "The sponsored card shows an offer and app next step only. No app session, redemption or order event was accessed.",
+      "next_check": "Confirm the current offer and app destination, then reconcile an authorized test/order record to the intended campaign event.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Bengaluru locator evidence is index-only; the media inquiry route is separate",
+      "evidence": "Official Taco Bell locator/search snippets list Bengaluru outlets; direct fetch of https://www.tacobell.co.in/store-locator returned HTTP 500. Burman Hospitality publishes tacobellcare@burmanhospitality.com and a Marketing and Media form category.",
+      "analysis": "The Bengaluru evidence is limited to indexed first-party snippets; it does not directly verify a current outlet or ad audience. The corporate media-form category is a routing option, while the published customer-care inbox is not assumed to be the marketing team.",
+      "next_check": "Re-open the locator in a normal browser; if it remains unavailable, confirm the current Bengaluru listing with the company and use its Marketing and Media route for measurement questions.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google query results do not establish current Taco Bell India activity",
+      "evidence": "The domain view displayed two any-time items under Matrix Publicities and Media India Private Limited; the reviewed video was last shown 05 Jul 2026 and could not be inspected.",
+      "analysis": "The result total is not a current brand-ad count; no Google activity is claimed.",
+      "next_check": "Open a specific creative and verify advertiser, Taco Bell destination and current/last-shown status before making a brand activity claim.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "local_evidence_status": "PARTIALLY VERIFIED — official locator snippets list Bengaluru outlets; direct locator fetch returned HTTP 500.",
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "2167460064200925",
+      "page_id": "380872194812",
+      "page_name": "Taco Bell India",
+      "started_on": "2026-10-02",
+      "creative_excerpt": "More flavour, more value. Dive into Taco Bell Meal Mania with flavour-loaded meals starting at ₹89.",
+      "cta": "Order Now → Taco Bell India app link",
+      "destination_url": "http://tacobell-in.app.link/",
+      "destination_status": "The card exposes an app short link and Order Now label; the deep link, menu availability and in-app event were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2167460064200925&view_all_page_id=380872194812"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The direct Taco Bell India card showed Active/Sponsored, page identity, start date and an individual Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official search-index snippets list Bengaluru outlets, but direct locator retrieval returned HTTP 500; local presence is caveated and does not establish ad targeting."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "The Order Now label and app short link are visible, but the app deep link was not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official master-franchisee contact, brand locator, direct Meta card and Google domain query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published email is customer care; the corporate form offers a Marketing and Media category, but no owner identity is published."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page label Taco Bell India (page ID 380872194812); started 02 Oct 2026; copy says meals start at ₹89; Order Now app link.",
+    "S2 — Burman Hospitality official contact page; checked 2026-10-04; Official contact page publishes tacobellcare@burmanhospitality.com; form includes Marketing and Media. Burman Hospitality identifies itself as Taco Bell India's master franchisee; email is a routing contact, not a named paid-media buyer.",
+    "S3 — Taco Bell India official store locator (index evidence; direct fetch failed); checked 2026-10-04; Official search-index snippets list Bengaluru outlets such as RMZ Galleria Mall, HSR Layout, BEL Road and Koramangala. Direct fetch of https://www.tacobell.co.in/store-locator returned HTTP 500 on 04 Oct 2026, so these are indexed first-party snippets rather than a directly opened live locator; no audience targeting is inferred.",
+    "S4 — Google Ads Transparency Center — Taco Bell India domain query; checked 2026-10-04; Two any-time results under Matrix Publicities and Media India Private Limited; opened video last shown 05 Jul 2026 and content inaccessible; no current Taco Bell creative established."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 2167460064200925 and page ID 380872194812; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed 2 any-time results under Matrix Publicities and Media India Private Limited; advertiser identity was not verified in the reviewed view. The opened video was last shown 05 Jul 2026 and its content was inaccessible. No current Taco Bell India creative was established; the total is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "PARTIALLY VERIFIED — official locator snippets list Bengaluru outlets; direct locator fetch returned HTTP 500.",
+      "method": "Official first-party search-index snippets list Bengaluru outlets; direct fetch of the official store locator returned HTTP 500 on 04 Oct 2026. The selected app campaign does not establish Bengaluru audience targeting. Published Taco Bell customer-care email on the master-franchisee's site; not identified as a paid-media buyer. The corporate form separately offers a Marketing and Media category.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card exposes an app short link and Order Now label; the deep link, menu availability and in-app event were not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Meal Mania",
+      "Hi Taco Bell India team,\n\nMeta Library ID 2167460064200925 is on the Taco Bell India page, Active and Sponsored when checked 04 Oct 2026, starting 02 Oct. The copy promotes Meal Mania meals from ₹89 with an Order Now app link.\n\nThe public record does not expose private spend, orders or event firing. The published route, tacobellcare@burmanhospitality.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Google query",
+      "Hi Taco Bell India team,\n\nThe Google domain query returned two any-time items under Matrix Publicities and Media India Private Limited. The reviewed video was last shown 05 Jul 2026 and could not be inspected, so I have not attributed it as current Taco Bell activity.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order event",
+      "Hi Taco Bell India team,\n\nOfficial locator search snippets list Bengaluru restaurants, but direct fetch of the locator returned HTTP 500 on 04 Oct. The selected app creative does not identify an audience city. If an order is the intended outcome, a useful private check is the app event definition, source field and date window used to reconcile completed orders.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "media referral",
+      "Hi Taco Bell India team,\n\nBurman Hospitality's corporate form includes a Marketing and Media category; the published email is a customer-care route. If that form is more appropriate, I am happy to direct the note there.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}
