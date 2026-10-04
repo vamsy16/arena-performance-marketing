@@ -1,0 +1,211 @@
+{
+  "batch": 3,
+  "brand": "Krispy Kreme India",
+  "slug": "krispy-kreme-india",
+  "website": "krispykremeindia.in",
+  "instagram": "@krispykreme_ind",
+  "niche": "Doughnuts, gifting and Bengaluru stores",
+  "verified_on": "04 OCT 2026",
+  "score": 8.5,
+  "score_20": 17,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google domain query returned 6 results under verified Curefoods; Krispy-specific ad attribution not established",
+  "headline": "A new Instagram teaser is page-resolved; the official FAQ publishes Bengaluru store coverage and a corporate/birthday-order route, while Google domain results are entity-level only.",
+  "contact": {
+    "email": "manish.ramu@curefoods.in",
+    "phone": "",
+    "entity": "Curefoods India Private Limited (master-franchise rights stated in the official FAQ; specific store operator not independently checked)",
+    "address": "Multiple Bengaluru stores are listed on the official locator; see the source page for branch addresses.",
+    "route_role": "Official FAQ publishes this address for corporate and birthday orders; not a verified paid-media buyer.",
+    "additional_emails": [
+      "kk.feedback@krispykremeindia.in"
+    ]
+  },
+  "contact_source": "Crawled from Krispy Kreme India's own FAQ on 04 Oct 2026: https://krispykremeindia.in/faq (manish.ramu@curefoods.in is listed for corporate and birthday orders; kk.feedback@krispykremeindia.in for questions; FAQ says stores are present in Bangalore, Chennai, Hyderabad and Delhi).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Corporate and birthday orders route; a separate general question email is published."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1080503658064091",
+      "page_id": "405984909505512",
+      "page_name": "Krispy Kreme India",
+      "started_on": "2026-10-02",
+      "creative_excerpt": "Who is he waiting for? Any guesses?",
+      "cta": "Visit Instagram profile",
+      "destination_url": "https://instagram.com/krispykreme_ind",
+      "destination_status": "Public card links to the Instagram profile; order or store-redemption path not shown.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "CHECKED — domain results associated with Curefoods; product attribution not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=krispykremeindia.in",
+    "detail": "Six domain-query results appeared under verified CUREFOODS INDIA PRIVATE LIMITED. The official FAQ states Curefoods India Private Limited holds master-franchise rights, but the domain view alone does not establish that each result is Krispy Kreme-specific. No Krispy-specific Google ad count is reported."
+  },
+  "market_signal": "The official FAQ says Krispy Kreme stores are present in Bangalore and routes corporate/birthday orders to manish.ramu@curefoods.in. The official locator page lists multiple Bengaluru locations. The selected teaser creative itself routes to Instagram.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 405984909505512 and Library ID 1080503658064091; selected creative, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "CHECKED — 6 domain results under verified Curefoods; Krispy-specific attribution not established",
+      "method": "Domain query plus official FAQ entity context; no brand-specific ad count asserted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party FAQ and store locator",
+      "status": "MEASURED — page content",
+      "method": "FAQ lists corporate/birthday order email, general feedback email and Bengaluru presence; locator lists Bengaluru branch addresses.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and teaser-to-order outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or transaction analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Teaser click destination",
+      "status": "MEASURED — Instagram profile link",
+      "method": "The public card links to the brand's Instagram profile; no order/redemption result was measured.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The newest selected creative is an Instagram teaser, not a direct order link",
+      "evidence": "Meta Ad Library ID 1080503658064091 was Active on 04 Oct and started 02 Oct 2026; copy says ‘Who is he waiting for? Any guesses?’ and the CTA opens the Krispy Kreme India Instagram profile.",
+      "analysis": "The public route is teaser-to-social. The card does not show whether the campaign objective is awareness, a launch, birthday orders or store visits, and no results are public.",
+      "next_check": "Confirm the intended next action and the business event that will be used to assess it; compare with order/store data only inside the company systems.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official FAQ and locator substantiate Bengaluru presence and a corporate/birthday contact route",
+      "evidence": "FAQ says stores are present in Bangalore and publishes manish.ramu@curefoods.in for corporate and birthday orders; the locator lists multiple Bengaluru branches.",
+      "analysis": "The published contact is relevant to corporate/birthday orders, not identified as a paid-media buyer.",
+      "next_check": "Ask for referral to the digital marketing owner if the campaign-measurement request is outside that route.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google domain results are entity-level and were not counted as Krispy Kreme ads",
+      "evidence": "The Google domain query returned six items under verified CUREFOODS INDIA PRIVATE LIMITED; the FAQ states Curefoods holds master-franchise rights for Krispy Kreme India.",
+      "analysis": "The entity relationship is relevant context, but the domain view does not prove each item promotes Krispy Kreme. No Krispy-specific Google inventory count is asserted.",
+      "next_check": "Attribute individual creatives only after confirming their advertiser and product in the Transparency Center.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Selected active Meta teaser resolved to Krispy Kreme India's page with an exact ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official FAQ and locator identify Bengaluru stores."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "The active card routes to Instagram rather than a visible product/booking path."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official FAQ and location pages include store presence, contact routes and franchise-entity context."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Published corporate/birthday order email is related to a commercial enquiry but not a confirmed media buyer."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, Krispy Kreme India ad 1080503658064091; active, started 02 Oct 2026; checked 04 Oct 2026.",
+    "S2 — Krispy Kreme official FAQ; corporate/birthday and general contact emails, Bengaluru presence and Curefoods master-franchise statement; checked 04 Oct 2026.",
+    "S3 — Krispy Kreme official location page; Bengaluru branches; checked 04 Oct 2026.",
+    "S4 — Google Ads Transparency Center domain query; six results under verified Curefoods; not attributed item-by-item to Krispy Kreme; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Krispy Kreme India teaser",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1080503658064091&view_all_page_id=405984909505512",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 02 Oct 2026; teaser text ‘Who is he waiting for? Any guesses?’; CTA to Instagram profile.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Krispy Kreme India official FAQ",
+      "url": "https://krispykremeindia.in/faq",
+      "source_type": "Brand first-party FAQ",
+      "observed": "manish.ramu@curefoods.in for corporate/birthday orders; kk.feedback@krispykremeindia.in for questions; FAQ says stores are present in Bangalore; identifies Curefoods India Private Limited as master-franchise rights holder.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Krispy Kreme India official location page",
+      "url": "https://krispykremeindia.in/locate-us",
+      "source_type": "Brand first-party locator",
+      "observed": "Lists multiple Bengaluru branches, including Whitefield, Brigade Orion Mall, Indiranagar, Koramangala, Adarsh Opus, Vega City Mall and others.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Krispy Kreme domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=krispykremeindia.in",
+      "source_type": "Platform domain query",
+      "observed": "Six results under verified CUREFOODS INDIA PRIVATE LIMITED; official FAQ provides franchise-entity context; items not attributed individually to Krispy Kreme.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "A teaser-to-store measurement question",
+      "Hi Krispy Kreme India team,\n\nI saw the active Meta teaser “Who is he waiting for? Any guesses?” (Library ID 1080503658064091; started 02 Oct; checked 04 Oct). Its public CTA opens the Krispy Kreme India Instagram profile. Your FAQ also publishes a corporate/birthday-order route at manish.ramu@curefoods.in and says stores are present in Bangalore.\n\nI cannot see campaign outcomes from the public card. A useful private check is to confirm the intended next action and the event that connects social attention to an order or store visit.\n\nIf this inbox is not right for campaign measurement, could you point me to the digital marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Keep the Google attribution precise",
+      "Hi Krispy Kreme India team,\n\nA careful note from the public check: the Google domain query returned six items under verified Curefoods. Your FAQ states Curefoods holds master-franchise rights, but the domain view alone does not establish that each creative is Krispy Kreme-specific. I have not counted them as Krispy ads.\n\nIf the team wants a Google inventory review, the next step is to attribute each individual creative to the relevant brand and advertiser before using a count.\n\nWould a short source-linked note be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A clear route from social to an order",
+      "Hi Krispy Kreme India team,\n\nYour official locator lists Bengaluru branches and the FAQ publishes a route for corporate and birthday orders. The selected ad is a teaser with an Instagram CTA, so the public evidence does not tell me whether the intended outcome is awareness, an order, or a store visit.\n\nThe useful check is to define that next action and connect it to the appropriate private event or store report; I have not inferred a result.\n\nCould you direct me to the team that owns this work?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the teaser",
+      "Hi Krispy Kreme India team,\n\nLast note from me. I checked the active Instagram teaser, the official FAQ and the Bengaluru locator on 04 Oct. I have not accessed ad-account performance, store sales or birthday-order data, and I have not attributed the Google domain results item-by-item to Krispy Kreme.\n\nIf a short evidence map would help the campaign owner, I can send it; otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

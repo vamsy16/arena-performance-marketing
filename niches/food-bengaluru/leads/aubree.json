@@ -1,0 +1,189 @@
+{
+  "batch": 3,
+  "brand": "Aubree",
+  "slug": "aubree",
+  "website": "aubree.in",
+  "instagram": "@aubree.in",
+  "niche": "Bakery, patisserie and celebration cakes",
+  "verified_on": "04 OCT 2026",
+  "score": 8.5,
+  "score_20": 17,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "A Bengaluru-focused blueberry-cake creative is directly visible in Meta Ad Library; the official contact page publishes city delivery terms and a sales-team form.",
+  "contact": {
+    "email": "connect@aubree.in",
+    "phone": "+91 9008175757",
+    "entity": "Not identified on the reviewed contact page",
+    "address": "#307, Manisha Complex, Thimmaiah Road, Shivaji Nagar, Bangalore 560051, Karnataka, India",
+    "route_role": "Official contact-page email; the page also says its form reaches the sales team. No paid-media buyer was identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Aubree's own contact page on 04 Oct 2026: https://aubree.in/contact-us (Mail Us: connect@aubree.in; contact form described as reaching the sales team; Bengaluru address and delivery terms are published there).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "General contact email; sales-team form is separately described on the same official page."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1818186182646048",
+      "page_id": "202087063277813",
+      "page_name": "Aubree Haute Chocolaterie",
+      "started_on": "2026-09-18",
+      "creative_excerpt": "Bangalore, meet your new blueberry obsession … Aubree’s Blueberry Cake … 100% Eggless.",
+      "cta": "Learn more",
+      "destination_url": null,
+      "destination_status": "The captured public card did not expose a destination URL; landing-page match not measured.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=aubree.in",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch. This is not a zero-ad finding."
+  },
+  "market_signal": "Aubree's own contact page describes delivery within 3 hours across Bangalore and free delivery above ₹1,499. The page also offers a sales-team contact form. These are brand-published statements captured 04 Oct 2026, not independently tested delivery promises.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 202087063277813 and Library ID 1818186182646048; one selected creative, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party contact and local service copy",
+      "status": "MEASURED — page content",
+      "method": "Aubree contact page lists connect@aubree.in, a Shivaji Nagar address, Bangalore delivery within 3 hours, and free delivery above ₹1,499.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversions",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Ad destination to order match",
+      "status": "NOT MEASURED",
+      "method": "Destination URL was not exposed in the captured card; the official contact page is not assumed to be the campaign landing page.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The live creative names Bengaluru and a specific eggless cake",
+      "evidence": "Meta Ad Library ID 1818186182646048 was marked Active and showed start date 18 Sep 2026; copy begins ‘Bangalore, meet your new blueberry obsession’ and lists ‘100% Eggless.’",
+      "analysis": "The public creative gives a clear product-and-city message. The library card proves the visible ad record only; it does not reveal spend, audience, orders or conversion quality.",
+      "next_check": "Compare the creative's actual destination and order record inside the account before drawing performance conclusions.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official site publishes local delivery conditions that can be checked against the campaign path",
+      "evidence": "The contact page states ‘Delivery within 3hrs across Bangalore’ and ‘Free delivery above ₹1499.00.’",
+      "analysis": "These terms are brand-published. The captured ad card did not expose a landing URL, so this audit does not claim that the ad lands on that page or that the delivery promise was tested.",
+      "next_check": "Confirm that the selected product page and checkout display the same terms and preserve campaign source fields.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The published email is a contact route, not a confirmed paid-media owner",
+      "evidence": "The official contact page lists connect@aubree.in and describes its form as reaching the sales team.",
+      "analysis": "A public route is available, but no individual's role or media-buying responsibility is published.",
+      "next_check": "Ask the recipient to route the note to the person responsible for paid-media measurement if needed.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A page-resolved active Meta record and exact Library ID were verified."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative says ‘Bangalore’ and the contact page publishes Bangalore-wide delivery copy and a Bengaluru address."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "The card labels a ‘Learn more’ CTA, but its destination was not exposed in the captured result."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "The official contact page supplies local service, address and sales-contact context."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "The page describes a sales-team form, but the listed email is not identified as a paid-media buyer."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, direct page-resolved ad 1818186182646048; active and started 18 Sep 2026; checked 04 Oct 2026.",
+    "S2 — Aubree official contact page; connect@aubree.in, sales-team form, Bengaluru address and published delivery terms; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1818186182646048&view_all_page_id=202087063277813",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 18 Sep 2026; Bengaluru blueberry-cake copy includes ‘100% Eggless’; CTA label Learn more.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Aubree official contact page",
+      "url": "https://aubree.in/contact-us",
+      "source_type": "Brand first-party page",
+      "observed": "connect@aubree.in; sales-team form; #307 Manisha Complex, Thimmaiah Road, Shivaji Nagar, Bangalore 560051; page states delivery within 3 hours across Bangalore and free delivery above ₹1,499.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Bangalore blueberry creative: order path",
+      "Hi Aubree team,\n\nI saw the active Meta creative that opens “Bangalore, meet your new blueberry obsession” and calls the cake 100% eggless (Library ID 1818186182646048; active when checked 04 Oct). Your contact page also publishes Bangalore delivery within three hours and free delivery above ₹1,499.\n\nI mapped only public evidence; I did not review account spend or orders. A useful next check is whether the ad's actual destination and order record preserve campaign source through fulfilment.\n\nWould a short, source-linked handoff note be useful? If this inbox is not right for paid media, could you point me to the person who owns it?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Keep the cake offer aligned",
+      "Hi Aubree team,\n\nOne follow-up on the blueberry creative. The first-party contact page publishes both the Bangalore delivery statement and the ₹1,499 free-delivery threshold. The public ad card did not expose its landing URL, so I cannot tell whether those terms appear on the route a customer sees after clicking.\n\nA quick account-side check would be to compare the live destination, product availability, order type and campaign source field. That is a verification step, not a claim that the current path is broken.\n\nWould the short checklist be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A simple measurement question",
+      "Hi Aubree team,\n\nThe public record gives a strong creative cue—blueberry cake, Bangalore and 100% eggless—but the Ad Library cannot show which clicks became orders. If the team already tracks that in its own reports, the useful review is whether the product, delivery area and order-source label stay connected end to end.\n\nI can send a one-page map of the public evidence and the exact private checks to run, without guessing at results.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the cake ad",
+      "Hi Aubree team,\n\nLast note from me. I checked the public blueberry-cake ad and the contact-page delivery copy on 04 Oct; I have not accessed campaign or order data. The only proposed next step is to confirm the click destination and source capture in your own reporting.\n\nIf this belongs with another person, a pointer would help. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

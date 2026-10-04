@@ -1,0 +1,215 @@
+{
+  "batch": 3,
+  "brand": "MTR Foods",
+  "slug": "mtr-foods",
+  "website": "mtrfoods.com",
+  "instagram": "",
+  "niche": "Packaged foods and Bengaluru-headquartered FMCG",
+  "verified_on": "04 OCT 2026",
+  "score": 8.5,
+  "score_20": 17,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "An active North Karnataka pudi creative sits alongside a page-resolved MTR spices ad linking to Orkla's MTR shopping page; Bengaluru corporate contact is published.",
+  "contact": {
+    "email": "mediacell@orklaindia.com",
+    "phone": "18001037455",
+    "entity": "Orkla India Limited (MTR Division)",
+    "address": "Corporate Office: No. 1, 2nd & 3rd floor, 100 Feet Inner Ring Road, Ejipura, Bengaluru 560047; factory office also published in Bengaluru",
+    "route_role": "Official page labels this for media enquiries; not a verified paid-media buyer.",
+    "additional_emails": [
+      "feedback@mtrfoods.com"
+    ]
+  },
+  "contact_source": "Crawled from MTR Foods' own contact page on 04 Oct 2026: https://www.mtrfoods.com/contact_us (feedback@mtrfoods.com; media enquiries at mediacell@orklaindia.com; Orkla India Ltd. MTR Division corporate and factory offices in Bengaluru).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S3"
+    ],
+    "email_role": "mediacell@orklaindia.com is explicitly labeled for media enquiries; feedback@mtrfoods.com is the published general feedback route."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "3845959365570323",
+      "page_id": "373720106169016",
+      "page_name": "MTR Foods",
+      "started_on": "2026-09-15",
+      "creative_excerpt": "Every North Karnataka home has a pudi recipe it treasures. This taste is inspired by it.",
+      "cta": "No destination shown in the captured card",
+      "destination_url": null,
+      "destination_status": "Selected regional creative; destination was not exposed in the captured card.",
+      "source_id": "S1"
+    },
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1031401109942215",
+      "page_id": "373720106169016",
+      "page_name": "MTR Foods",
+      "started_on": "2026-09-30",
+      "creative_excerpt": "The secret to flavourful everyday meals starts with the right spices … Explore MTR's spices and masalas … exclusive offers.",
+      "cta": "Shop now",
+      "destination_url": "https://shop.orklaindia.com/pages/mtr-categories?collection=spices-masalas-mtr",
+      "destination_status": "Public card links to an Orkla India MTR category page; final purchase events not tested.",
+      "source_id": "S2"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=mtrfoods.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The regional creative names North Karnataka. MTR's official contact page publishes its Orkla India (MTR Division) corporate office in Ejipura, Bengaluru. This is local business context, not proof of ad-targeting geography.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — two selected direct ad records active on capture date",
+      "method": "Direct MTR advertiser-page cards IDs 3845959365570323 and 1031401109942215; selected records only, not an account-wide total.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party corporate/contact and shopping pages",
+      "status": "MEASURED — page content",
+      "method": "Official contact page publishes Bengaluru office and media/general email routes; the second ad links to Orkla's MTR spices category.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and retail sales",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or sales analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Regional creative to product-sale attribution",
+      "status": "NOT MEASURED",
+      "method": "The regional card's destination and any retailer-level attribution were not exposed in the captured card.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The public page shows a regional story and a separate direct shopping route",
+      "evidence": "ID 3845959365570323, active from 15 Sep 2026, says ‘Every North Karnataka home has a pudi recipe it treasures.’ A separate active MTR spices card, ID 1031401109942215, started 30 Sep and links to the Orkla India MTR spices category.",
+      "analysis": "The two public records show distinct creative and shopping routes; the public evidence does not link a regional impression to a retailer sale or establish campaign targeting.",
+      "next_check": "Compare campaign source, product/category destination and first-party or retailer order signals inside the relevant reporting systems.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official company contact page identifies the Bengaluru corporate office and a media route",
+      "evidence": "The MTR contact page names Orkla India Limited (MTR Division), an Ejipura, Bengaluru corporate office, feedback@mtrfoods.com and mediacell@orklaindia.com for media enquiries.",
+      "analysis": "The media inbox is a published corporate route, not evidence that the recipient buys media or owns acquisition reporting.",
+      "next_check": "Ask the recipient to route the question to the digital commerce or paid-media owner.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Private performance and event data were not available publicly",
+      "evidence": "Meta cards expose creative, dates and a destination on one selected ad; no spend, ROAS, CPA or retail conversion values appear in the cited public pages.",
+      "analysis": "No performance conclusion is drawn from the visible ad records.",
+      "next_check": "Use the brand's own platform, commerce and retailer data to confirm outcomes.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Two selected active records are resolved to the official MTR page."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 3,
+      "basis": "The official corporate page publishes a Bengaluru office; the selected story names North Karnataka, not Bengaluru targeting."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "A separate active MTR spices creative exposes a Shop Now link to the Orkla MTR category page."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact page, corporate address and MTR shopping destination were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published route is explicitly media enquiries, not a confirmed campaign owner."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, MTR Foods ad 3845959365570323; active, started 15 Sep 2026; North Karnataka pudi copy; checked 04 Oct 2026.",
+    "S2 — Meta Ad Library, MTR Foods ad 1031401109942215; active, started 30 Sep 2026; spices/masalas Shop Now to Orkla MTR category; checked 04 Oct 2026.",
+    "S3 — MTR official contact page; Bengaluru offices, feedback and media enquiry email; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — MTR regional pudi creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=3845959365570323&view_all_page_id=373720106169016",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 15 Sep 2026; North Karnataka pudi copy; no destination exposed in captured card.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Meta Ad Library — MTR spices and masalas shopping creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1031401109942215&view_all_page_id=373720106169016",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 30 Sep 2026; Shop Now to shop.orklaindia.com/pages/mtr-categories?collection=spices-masalas-mtr.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "MTR Foods official contact page",
+      "url": "https://www.mtrfoods.com/contact_us",
+      "source_type": "Brand first-party corporate page",
+      "observed": "feedback@mtrfoods.com; mediacell@orklaindia.com for media enquiries; Orkla India Ltd. (MTR Division) corporate office at Ejipura, Bengaluru, and factory office in Bengaluru.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "North Karnataka pudi creative and the shopping route",
+      "Hi MTR team,\n\nI checked two active cards on the MTR Foods page: the North Karnataka pudi creative (Library ID 3845959365570323) and a spices-and-masalas Shop Now ad (ID 1031401109942215) linking to Orkla's MTR category page. Your official contact page lists mediacell@orklaindia.com for media enquiries and the Ejipura corporate office.\n\nThe public records show the creative and one shopping destination; they do not show retail sales or campaign attribution. A useful review would connect the regional creative, product/category route and first-party or retailer order signals using your own data.\n\nIf this inbox is not the right owner, could you route me to the digital-commerce or paid-media team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A source-to-retail question for MTR",
+      "Hi MTR team,\n\nOne follow-up on the public ad check. The North Karnataka pudi card has no destination in the captured view; another active MTR spices ad links to the Orkla MTR category. I cannot tell from outside how either route is credited to retailer or ecommerce sales.\n\nIf that attribution is already handled internally, this is simply a way to confirm it across campaign, category and order records. I have not estimated sales or performance.\n\nMay I send the short evidence-linked checklist to the team that owns digital commerce?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Keep the regional story and product path connected",
+      "Hi MTR team,\n\nThe captured North Karnataka creative leads with a regional food tradition, while the separate spices ad exposes a product-category shopping link. A private check could confirm whether the chosen category, product availability and campaign-source field align for the intended market.\n\nThe public ad cards do not reveal purchase results, so I have kept the review to visible copy, dates and destinations.\n\nWould a one-page path map be useful to the media or ecommerce owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the MTR ads",
+      "Hi MTR team,\n\nLast note from me. I checked the two selected MTR creatives and the official contact page on 04 Oct. I have not accessed ad accounts, retail orders or attribution data.\n\nIf a source-to-retail check is useful, I can send the exact public evidence and the private questions to confirm. If another team owns that work, a pointer would be appreciated; otherwise I will close this out.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

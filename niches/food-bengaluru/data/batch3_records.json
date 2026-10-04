@@ -1,0 +1,2054 @@
+{
+  "batch": 3,
+  "niche": "Food / Bengaluru, India",
+  "verified_on": "2026-10-04",
+  "score_definition": {
+    "name": "Public-evidence fit (triage only)",
+    "scale": "Five dimensions scored 0–4; total /20; displayed /10 is total divided by two.",
+    "dimensions": [
+      "Direct paid signal: whether a page-resolved, active Meta Ad Library record was observed.",
+      "Bengaluru relevance: strength of explicit local evidence in the creative or first-party material.",
+      "Public CTA visibility: how clearly the public card exposes a next step, not whether it converts.",
+      "First-party source coverage: breadth of official product, store, contact or corporate evidence reviewed.",
+      "Contact-route relevance: fit of the published route to a request for the paid-media owner; no buyer identity is inferred."
+    ],
+    "qualification": "This is a public-evidence and routing score, not an ad-performance score, sales probability, spend estimate, forecast, or ROI claim. Private account and conversion results were not accessed."
+  },
+  "leads": [
+    {
+      "batch": 3,
+      "brand": "Aubree",
+      "slug": "aubree",
+      "website": "aubree.in",
+      "instagram": "@aubree.in",
+      "niche": "Bakery, patisserie and celebration cakes",
+      "verified_on": "04 OCT 2026",
+      "score": 8.5,
+      "score_20": 17,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "A Bengaluru-focused blueberry-cake creative is directly visible in Meta Ad Library; the official contact page publishes city delivery terms and a sales-team form.",
+      "contact": {
+        "email": "connect@aubree.in",
+        "phone": "+91 9008175757",
+        "entity": "Not identified on the reviewed contact page",
+        "address": "#307, Manisha Complex, Thimmaiah Road, Shivaji Nagar, Bangalore 560051, Karnataka, India",
+        "route_role": "Official contact-page email; the page also says its form reaches the sales team. No paid-media buyer was identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Aubree's own contact page on 04 Oct 2026: https://aubree.in/contact-us (Mail Us: connect@aubree.in; contact form described as reaching the sales team; Bengaluru address and delivery terms are published there).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "General contact email; sales-team form is separately described on the same official page."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1818186182646048",
+          "page_id": "202087063277813",
+          "page_name": "Aubree Haute Chocolaterie",
+          "started_on": "2026-09-18",
+          "creative_excerpt": "Bangalore, meet your new blueberry obsession … Aubree’s Blueberry Cake … 100% Eggless.",
+          "cta": "Learn more",
+          "destination_url": null,
+          "destination_status": "The captured public card did not expose a destination URL; landing-page match not measured.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=aubree.in",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch. This is not a zero-ad finding."
+      },
+      "market_signal": "Aubree's own contact page describes delivery within 3 hours across Bangalore and free delivery above ₹1,499. The page also offers a sales-team contact form. These are brand-published statements captured 04 Oct 2026, not independently tested delivery promises.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 202087063277813 and Library ID 1818186182646048; one selected creative, not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party contact and local service copy",
+          "status": "MEASURED — page content",
+          "method": "Aubree contact page lists connect@aubree.in, a Shivaji Nagar address, Bangalore delivery within 3 hours, and free delivery above ₹1,499.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and conversions",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Ad destination to order match",
+          "status": "NOT MEASURED",
+          "method": "Destination URL was not exposed in the captured card; the official contact page is not assumed to be the campaign landing page.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The live creative names Bengaluru and a specific eggless cake",
+          "evidence": "Meta Ad Library ID 1818186182646048 was marked Active and showed start date 18 Sep 2026; copy begins ‘Bangalore, meet your new blueberry obsession’ and lists ‘100% Eggless.’",
+          "analysis": "The public creative gives a clear product-and-city message. The library card proves the visible ad record only; it does not reveal spend, audience, orders or conversion quality.",
+          "next_check": "Compare the creative's actual destination and order record inside the account before drawing performance conclusions.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official site publishes local delivery conditions that can be checked against the campaign path",
+          "evidence": "The contact page states ‘Delivery within 3hrs across Bangalore’ and ‘Free delivery above ₹1499.00.’",
+          "analysis": "These terms are brand-published. The captured ad card did not expose a landing URL, so this audit does not claim that the ad lands on that page or that the delivery promise was tested.",
+          "next_check": "Confirm that the selected product page and checkout display the same terms and preserve campaign source fields.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The published email is a contact route, not a confirmed paid-media owner",
+          "evidence": "The official contact page lists connect@aubree.in and describes its form as reaching the sales team.",
+          "analysis": "A public route is available, but no individual's role or media-buying responsibility is published.",
+          "next_check": "Ask the recipient to route the note to the person responsible for paid-media measurement if needed.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "A page-resolved active Meta record and exact Library ID were verified."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "The creative says ‘Bangalore’ and the contact page publishes Bangalore-wide delivery copy and a Bengaluru address."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 2,
+          "basis": "The card labels a ‘Learn more’ CTA, but its destination was not exposed in the captured result."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "The official contact page supplies local service, address and sales-contact context."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 3,
+          "basis": "The page describes a sales-team form, but the listed email is not identified as a paid-media buyer."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, direct page-resolved ad 1818186182646048; active and started 18 Sep 2026; checked 04 Oct 2026.",
+        "S2 — Aubree official contact page; connect@aubree.in, sales-team form, Bengaluru address and published delivery terms; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1818186182646048&view_all_page_id=202087063277813",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 18 Sep 2026; Bengaluru blueberry-cake copy includes ‘100% Eggless’; CTA label Learn more.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Aubree official contact page",
+          "url": "https://aubree.in/contact-us",
+          "source_type": "Brand first-party page",
+          "observed": "connect@aubree.in; sales-team form; #307 Manisha Complex, Thimmaiah Road, Shivaji Nagar, Bangalore 560051; page states delivery within 3 hours across Bangalore and free delivery above ₹1,499.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Bangalore blueberry creative: order path",
+          "Hi Aubree team,\n\nI saw the active Meta creative that opens “Bangalore, meet your new blueberry obsession” and calls the cake 100% eggless (Library ID 1818186182646048; active when checked 04 Oct). Your contact page also publishes Bangalore delivery within three hours and free delivery above ₹1,499.\n\nI mapped only public evidence; I did not review account spend or orders. A useful next check is whether the ad's actual destination and order record preserve campaign source through fulfilment.\n\nWould a short, source-linked handoff note be useful? If this inbox is not right for paid media, could you point me to the person who owns it?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Keep the cake offer aligned",
+          "Hi Aubree team,\n\nOne follow-up on the blueberry creative. The first-party contact page publishes both the Bangalore delivery statement and the ₹1,499 free-delivery threshold. The public ad card did not expose its landing URL, so I cannot tell whether those terms appear on the route a customer sees after clicking.\n\nA quick account-side check would be to compare the live destination, product availability, order type and campaign source field. That is a verification step, not a claim that the current path is broken.\n\nWould the short checklist be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A simple measurement question",
+          "Hi Aubree team,\n\nThe public record gives a strong creative cue—blueberry cake, Bangalore and 100% eggless—but the Ad Library cannot show which clicks became orders. If the team already tracks that in its own reports, the useful review is whether the product, delivery area and order-source label stay connected end to end.\n\nI can send a one-page map of the public evidence and the exact private checks to run, without guessing at results.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the cake ad",
+          "Hi Aubree team,\n\nLast note from me. I checked the public blueberry-cake ad and the contact-page delivery copy on 04 Oct; I have not accessed campaign or order data. The only proposed next step is to confirm the click destination and source capture in your own reporting.\n\nIf this belongs with another person, a pointer would help. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Nandhana Palace",
+      "slug": "nandhana-palace",
+      "website": "nandhanarestaurants.com",
+      "instagram": "@nandhanapalace",
+      "niche": "Bengaluru casual dining and Andhra cuisine",
+      "verified_on": "04 OCT 2026",
+      "score": 7.5,
+      "score_20": 15,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "A page-resolved active founder-story ad routes viewers to Instagram; the official contact page lists a Koramangala address and customer-service emails.",
+      "contact": {
+        "email": "customerservices@nandhanahotels.com",
+        "phone": "080 46131111",
+        "entity": "Nandhana Foods Private Limited",
+        "address": "#7, 4th B block, near BDA Complex, Koramangala, Bangalore 560034",
+        "route_role": "Official page labels this Email Support; not a verified marketing or media buyer.",
+        "additional_emails": [
+          "customercare@nandhana.in"
+        ]
+      },
+      "contact_source": "Crawled from Nandhana Palace's own contact page on 04 Oct 2026: https://nandhanarestaurants.com/contact-us/ (customerservices@nandhanahotels.com is labeled Email Support; customercare@nandhana.in appears in the footer; Nandhana Foods Private Limited and Koramangala address are published).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Email Support; a separate customercare@nandhana.in footer address is also published."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "4610923952560301",
+          "page_id": "379028098788348",
+          "page_name": "Nandhana Palace",
+          "started_on": "2026-09-30",
+          "creative_excerpt": "Before the queues, the branches, and the buzz … Nandhana Palace wasn’t launched. It was earned.",
+          "cta": "Visit Instagram profile",
+          "destination_url": "https://instagram.com/nandhanapalace",
+          "destination_status": "Destination label and Instagram profile URL shown on the public card.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=nandhanarestaurants.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The official contact page publishes a Koramangala, Bangalore address. The ad caption includes Bangalore among its visible keyword-style text; this is not evidence of audience targeting.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 379028098788348 and Library ID 4610923952560301; not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party contact and local address",
+          "status": "MEASURED — page content",
+          "method": "Official contact page lists Koramangala address, Nandhana Foods Private Limited and customer-service email routes.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and conversions",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Booking or order outcome from social CTA",
+          "status": "NOT MEASURED",
+          "method": "The ad card routes to Instagram; no authenticated social or transaction data reviewed.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The active creative is a founder story with an Instagram handoff",
+          "evidence": "Meta Ad Library ID 4610923952560301 was marked Active and started 30 Sep 2026. Copy: ‘Before the queues, the branches, and the buzz … Nandhana Palace wasn’t launched. It was earned.’ CTA: Visit Instagram profile.",
+          "analysis": "The visible route is social-profile engagement, not a direct booking or order link. The card does not establish the campaign's objective or its results.",
+          "next_check": "If orders or store visits are an objective, compare Instagram click activity with the relevant booking/order records inside the business systems.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official contact page confirms a local Koramangala address",
+          "evidence": "The page lists #7, 4th B block, near BDA Complex, Koramangala, Bangalore 560034, and names Nandhana Foods Private Limited.",
+          "analysis": "This is a first-party local presence signal; no claim about the ad's geographic audience is made.",
+          "next_check": "Route the audit to the team that owns digital campaigns or local-store acquisition.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Published emails are customer-support routes",
+          "evidence": "customerservices@nandhanahotels.com is labeled Email Support; customercare@nandhana.in appears in the same page footer.",
+          "analysis": "Neither address is identified as a marketing buyer or campaign owner.",
+          "next_check": "Ask for the appropriate marketing or digital contact before discussing account-specific changes.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Active page-resolved Meta record with exact ID and start date."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "The official page gives a Koramangala address; the caption includes Bangalore in visible text, not targeting data."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 2,
+          "basis": "Public CTA routes to Instagram rather than a visible direct order/booking flow."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official contact page identifies local address, legal name and support routes."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 1,
+          "basis": "The published addresses are explicitly customer-support routes."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, direct page-resolved ad 4610923952560301; active, started 30 Sep 2026; checked 04 Oct 2026.",
+        "S2 — Nandhana Palace official contact page; support emails, Koramangala address and Nandhana Foods Private Limited; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — direct advertiser page and selected creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4610923952560301&view_all_page_id=379028098788348",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 30 Sep 2026; founder-story copy; CTA Visit Instagram profile.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Nandhana Palace official contact page",
+          "url": "https://nandhanarestaurants.com/contact-us/",
+          "source_type": "Brand first-party page",
+          "observed": "Email Support customerservices@nandhanahotels.com; footer customercare@nandhana.in; Nandhana Foods Private Limited; Koramangala, Bangalore 560034; phone 080 46131111.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Founder-story ad: where should I route a measurement note?",
+          "Hi Nandhana team,\n\nI saw the active founder-story creative in Meta Ad Library (Library ID 4610923952560301; started 30 Sep; checked 04 Oct). The card's CTA opens the Nandhana Palace Instagram profile, while your contact page lists the Koramangala address.\n\nI can map the public handoff and list the private checks needed to connect social activity to store or order outcomes. I cannot see spend or conversions from the public card, and I am not assuming the ad is meant to drive orders.\n\nWould it be useful if I sent a concise, source-linked note? If this support inbox is not the right route, could you direct me to the digital-marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A small check after the Instagram click",
+          "Hi Nandhana team,\n\nFollowing up with one specific question from the public audit: the selected Meta card sends viewers to Instagram rather than showing a direct booking or ordering page. If the campaign is intended to support store visits or orders, the relevant comparison would be between social click activity and your own store/order records.\n\nThat is a check for your team, not a claim that the current setup is missing measurement.\n\nMay I send the one-page route map to the person who owns digital campaigns?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "The local contact route is clear; the campaign owner is not",
+          "Hi Nandhana team,\n\nYour public contact page gives a Koramangala address and labels customerservices@nandhanahotels.com as Email Support. I am writing to that published route only to ask for the right owner; I have not identified a marketing buyer from public pages.\n\nThe audit separates what the ad card shows from private outcomes and includes the source links so your team can verify each point.\n\nWould you point me to the appropriate marketing contact?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the founder-story creative",
+          "Hi Nandhana team,\n\nLast note from me. I checked the public founder-story ad and official contact page on 04 Oct. I have not accessed campaign, store-visit or order data, so I have not made any performance claim.\n\nIf a route map would help the team review the Instagram handoff, I can send it; otherwise I will leave this here. If another team owns paid media, a pointer is appreciated.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Byg Brewski",
+      "slug": "byg-brewski",
+      "website": "bygbrewski.com",
+      "instagram": "@bygbrewskibrewingco",
+      "niche": "Bengaluru brewery, dining and events",
+      "verified_on": "04 OCT 2026",
+      "score": 9.0,
+      "score_20": 18,
+      "score_band": "High public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "A Sarjapur Retro Brunch ad is page-resolved and links to a District short URL; the official contact page publishes a Sarjapur branch GM route.",
+      "contact": {
+        "email": "gm.sjp@bygbrewski.com",
+        "phone": "080 47166256",
+        "entity": "Not identified on the reviewed contact page",
+        "address": "Near WIPRO Corporate Office, 10/62/2A/2 & 3, behind MK Retail, Sarjapura Road, Bengaluru 560035",
+        "route_role": "Official contact page labels this as the Sarjapur branch GM email; not a confirmed marketing buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Byg Brewski's own contact page on 04 Oct 2026: https://bygbrewski.com/contact-us/ (Sarjapur Road branch address, gm.sjp@bygbrewski.com and phone 08047166256).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Sarjapur branch GM route."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "2250887912432714",
+          "page_id": "839782262726143",
+          "page_name": "Byg Brewski Brewing Company — Sarjapur page",
+          "started_on": "2026-09-16",
+          "creative_excerpt": "Some Sundays deserve a rewind … The Byg Retro Brunch: Friendship Day Edition … Byg Brewski Brewing Company, Sarjapur … Every Sunday | 12 PM onwards.",
+          "cta": "See details",
+          "destination_url": "https://link.district.in/DSTRKT/jdw9byh6",
+          "destination_status": "Public card exposes a District short link; final booking or redemption behavior was not tested.",
+          "source_id": "S1"
+        },
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1438490928201098",
+          "page_id": "839782262726143",
+          "page_name": "Byg Brewski Brewing Company — Sarjapur page",
+          "started_on": "2026-09-28",
+          "creative_excerpt": "Byg Retro Brunch: Friendship Day Edition; every Sunday, 12 PM onwards, at Sarjapur.",
+          "cta": "See details",
+          "destination_url": "https://link.district.in/DSTRKT/jdw9byh6",
+          "destination_status": "Related active card surfaced on the same page; no total campaign count inferred.",
+          "source_id": "S1B"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=bygbrewski.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The selected ad names Sarjapur and a recurring Sunday brunch. The official contact page lists the Sarjapur Road branch address. The ad's Friendship Day wording is quoted as published; current event terms should be reconfirmed before use.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad records active on capture date",
+          "method": "Direct Sarjapur advertiser-page cards IDs 2250887912432714 and 1438490928201098; no all-account total inferred.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party branch contact",
+          "status": "MEASURED — page content",
+          "method": "Official contact page lists Sarjapur Road address, branch GM email and phone.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Ad click path",
+          "status": "PARTLY MEASURED — District short link visible",
+          "method": "Meta card exposes link.district.in/DSTRKT/jdw9byh6; no redirect, booking or redemption test performed.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and bookings",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or booking analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The active Sarjapur creative promotes a recurring brunch and exposes a District handoff",
+          "evidence": "Ad Library ID 2250887912432714 was Active on 04 Oct and started 16 Sep 2026; copy names the Sarjapur venue, every Sunday from 12 PM, and a District ‘See details’ link.",
+          "analysis": "The public link identifies a third-party destination, but it does not reveal whether a reservation, table visit or redemption is recorded against the ad.",
+          "next_check": "Confirm the District landing, reservation identifier and branch-side reconciliation with the team before treating the click path as a measurable booking flow.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Friendship Day wording should be checked against the current brunch offer",
+          "evidence": "The active card says ‘Friendship Day Edition’ and also says ‘Every Sunday | 12 PM onwards.’",
+          "analysis": "The report quotes the card as observed and does not assert that any dated event or promotion remains available.",
+          "next_check": "Ask the Sarjapur team to confirm current schedule, terms and the intended District destination.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The published email is the Sarjapur branch GM route",
+          "evidence": "The official contact page lists gm.sjp@bygbrewski.com under the Sarjapur Road branch address.",
+          "analysis": "This is a relevant local route, but the page does not identify the recipient as the brand's media buyer.",
+          "next_check": "Request routing to the person responsible for paid media or event measurement if appropriate.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Two page-resolved active Meta cards were observed with exact IDs."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "Both ad and official address identify the Sarjapur Road branch."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 4,
+          "basis": "The selected ad displays a ‘See details’ CTA and District short URL."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official site provides branch address, GM contact and phone."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 2,
+          "basis": "Published email routes to the Sarjapur branch GM, not a confirmed media buyer."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, direct Sarjapur-page ad 2250887912432714; active, started 16 Sep 2026; checked 04 Oct 2026.",
+        "S1B — Related active Sarjapur-page card 1438490928201098; started 28 Sep 2026; same visible District handoff.",
+        "S2 — Byg Brewski official contact page; Sarjapur Road branch address, GM email and phone; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — selected Sarjapur brunch ad",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2250887912432714&view_all_page_id=839782262726143",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 16 Sep 2026; recurring Sunday brunch copy; CTA See details to District short link.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S1B",
+          "label": "Meta Ad Library — related Sarjapur brunch card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1438490928201098&view_all_page_id=839782262726143",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 28 Sep 2026; related Sunday brunch creative and the same District destination.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Byg Brewski official contact page",
+          "url": "https://bygbrewski.com/contact-us/",
+          "source_type": "Brand first-party page",
+          "observed": "Sarjapur Road branch location; gm.sjp@bygbrewski.com; 080 47166256.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Sarjapur brunch creative: District handoff",
+          "Hi Byg team,\n\nI checked the Sarjapur-page Meta card for the Retro Brunch (Library ID 2250887912432714; active when checked 04 Oct). It says every Sunday from 12 PM and sends the ‘See details’ click to a District short link. Your contact page publishes gm.sjp@bygbrewski.com for the Sarjapur branch.\n\nA useful account-side check is whether the District reservation or visit can be reconciled to the campaign source. I did not test the destination or see booking data, so I am not calling the current path broken.\n\nWould a source-linked handoff map be useful? If this branch inbox is not the right route, could you point me to the digital or events-marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Confirm the current brunch terms",
+          "Hi Byg team,\n\nOne follow-up: the active card uses the phrase ‘Friendship Day Edition’ while also describing the brunch as a recurring Sunday event at Sarjapur. I am quoting what the library displayed on 04 Oct, not assuming that a dated promotion or any current offer is available.\n\nBefore putting more traffic behind it, the useful check is to confirm the current schedule, terms and the District landing from the branch side.\n\nMay I send the one-page public-evidence note to the right owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A branch-level reconciliation question",
+          "Hi Byg team,\n\nThe public ad card exposes a District short link, and your site publishes a Sarjapur branch contact. What I cannot see from outside is whether the click, reservation and eventual visit share a source identifier.\n\nIf your team already reconciles those systems, no issue—the note simply lists the checks that can be confirmed with the branch and campaign owner.\n\nWould you direct me to the person responsible for that handoff?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the Sarjapur brunch",
+          "Hi Byg team,\n\nLast note from me. I checked two active Sarjapur brunch cards and the official branch contact page on 04 Oct. The proposed follow-up is limited to the District destination, current offer details and campaign-to-booking reconciliation; I have not accessed bookings or campaign performance.\n\nIf another person owns this, a pointer is appreciated. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Hatti Kaapi",
+      "slug": "hatti-kaapi",
+      "website": "hattikaapi.com",
+      "instagram": "@hattikaapi.official",
+      "niche": "Coffee, packaged foods and direct-to-consumer retail",
+      "verified_on": "04 OCT 2026",
+      "score": 9.0,
+      "score_20": 18,
+      "score_band": "High public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "A Bengaluru filter-coffee ad uses WELCOME5 and links directly to the promoted product; the official site also publishes the first-order threshold.",
+      "contact": {
+        "email": "info@hattikaapi.in",
+        "phone": "9591999434",
+        "entity": "Hatti Kaapi (trade name shown; legal entity not established from the reviewed page)",
+        "address": "Hatti Kaapi, Maruthi Arcade, No. 17/A1-2, Yeshwanthapura, Bengaluru, Karnataka 560022, India",
+        "route_role": "Official contact-information page; general contact, not a verified marketing buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Hatti Kaapi's own contact-information policy on 04 Oct 2026: https://www.hattikaapi.com/policies/contact-information (trade name, info@hattikaapi.in, phone and Bengaluru physical address).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Official general contact email."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1467413768539691",
+          "page_id": "100531166152056",
+          "page_name": "HattiKaapi.Official",
+          "started_on": "2026-09-29",
+          "creative_excerpt": "Bengaluru, let’s make mornings a little more Mysuru … Mysuru Filter Coffee Powder … 90% coffee and 10% chicory … Use WELCOME5 at checkout.",
+          "cta": "Shop Now",
+          "destination_url": "https://www.hattikaapi.com/collections/coffee-powder/products/mysore-coffee-powder-250g",
+          "destination_status": "Public card links to the promoted product page.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=hattikaapi.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The ad and official contact-information page both identify Bengaluru/Karnataka. The official site banner states ‘Flat 5% OFF on Your First Order Above ₹1000 | Use Code: WELCOME5’; the ad says 5% off with WELCOME5. No checkout redemption was tested.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 100531166152056 and Library ID 1467413768539691; selected creative, not account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party product and contact pages",
+          "status": "MEASURED — page content",
+          "method": "Official contact-information page lists email/phone/address; product page matches promoted Mysuru coffee blend; site banner publishes WELCOME5 terms.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and code redemptions",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or checkout analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Checkout behavior",
+          "status": "NOT MEASURED",
+          "method": "The public product page was reviewed; checkout and coupon redemption were not tested.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The ad has a direct product CTA and a memorable code",
+          "evidence": "Library ID 1467413768539691 was Active on 04 Oct and started 29 Sep 2026; copy offers 5% off with WELCOME5 and links to the Mysore Coffee Powder 250g product page.",
+          "analysis": "The public handoff is product-specific. The existence of a code does not show how many orders used it or whether purchase events are attributed.",
+          "next_check": "Inside the account, compare the campaign source, code application and completed-order record without inferring results from the public card.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official site publishes an additional first-order threshold",
+          "evidence": "The site banner reads ‘Flat 5% OFF on Your First Order Above ₹1000 | Use Code: WELCOME5’; the ad says 5% off with WELCOME5.",
+          "analysis": "The threshold and first-order condition are published by the brand. This audit does not report a checkout test or claim a mismatch.",
+          "next_check": "Keep the same eligibility wording visible on the product page and at checkout, then verify redemption in first-party order data.",
+          "source_ids": [
+            "S1",
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The published email is a general contact route",
+          "evidence": "Hatti Kaapi's contact-information page lists info@hattikaapi.in and a Bengaluru physical address.",
+          "analysis": "The route is brand-owned and checkable, but no paid-media buyer is named on that page.",
+          "next_check": "Ask for routing to the person who owns ecommerce acquisition or campaign measurement.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Page-resolved active Meta record with exact ID and start date."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "The creative addresses Bengaluru; the official contact page publishes a Bengaluru address."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 4,
+          "basis": "Shop Now links to the exact promoted product page and displays WELCOME5."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official product, policy/contact and offer-banner content were reviewed."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 2,
+          "basis": "Published general brand contact route, not a verified marketing buyer."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, direct page-resolved ad 1467413768539691; active, started 29 Sep 2026; checked 04 Oct 2026.",
+        "S2 — Hatti Kaapi official contact-information policy; email, phone and address; checked 04 Oct 2026.",
+        "S3 — Hatti Kaapi official product page and site offer banner; product, blend and WELCOME5 condition; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — selected Hatti Kaapi product ad",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1467413768539691&view_all_page_id=100531166152056",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 29 Sep; Bengaluru-oriented copy, 90:10 coffee/chicory blend, WELCOME5; Shop Now to product page.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Hatti Kaapi official contact-information page",
+          "url": "https://www.hattikaapi.com/policies/contact-information",
+          "source_type": "Brand first-party policy page",
+          "observed": "info@hattikaapi.in; phone 9591999434; Bengaluru address at Yeshwanthapura; trade name Hatti Kaapi.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Hatti Kaapi official product page and offer banner",
+          "url": "https://www.hattikaapi.com/collections/coffee-powder/products/mysore-coffee-powder-250g",
+          "source_type": "Brand first-party product page",
+          "observed": "Mysore Filter Coffee Powder product page; site banner states first order above ₹1,000, 5% off, WELCOME5.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "WELCOME5: confirm the product-to-order handoff",
+          "Hi Hatti Kaapi team,\n\nI saw the active Bengaluru-facing Meta creative for Mysuru Filter Coffee Powder (Library ID 1467413768539691; active when checked 04 Oct). It shows the 90:10 coffee/chicory blend, code WELCOME5 and a Shop Now link to the product page. Your official site banner adds the first-order-above-₹1,000 condition.\n\nI have not tested checkout or seen redemption data. A useful private check is whether the eligibility text, code and campaign source stay together through a completed order.\n\nWould a short evidence-linked route map be useful? If this inbox is not the right one for ecommerce media, could you point me to that owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Keep the offer condition visible",
+          "Hi Hatti Kaapi team,\n\nFollowing up on the WELCOME5 promotion. The ad card says 5% off; the first-party site banner specifies first order above ₹1,000. That is a published condition, not a claim that the checkout is unclear or malfunctioning.\n\nThe check I would run with your team is simply whether the product page and checkout carry the same terms and whether the order record captures code plus campaign source.\n\nMay I send the one-page checklist to the person who owns this flow?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A code is useful when redemption is traceable",
+          "Hi Hatti Kaapi team,\n\nThe visible WELCOME5 code gives the campaign a concrete measurement question: can your own order report connect the ad source, coupon application and completed order? The public Ad Library cannot answer that, and I have not inferred a redemption rate.\n\nI can share the exact field-level checks to run in the account and ecommerce reports, using only the public product and campaign evidence as the starting point.\n\nWould that be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on WELCOME5",
+          "Hi Hatti Kaapi team,\n\nLast note from me. I checked the active Mysuru coffee ad, its product destination, and the official WELCOME5 condition on 04 Oct. I have not accessed spend, coupon redemptions or checkout events.\n\nIf a simple source-to-order check would help the ecommerce team, I can send it. Otherwise I will close the file here; if someone else owns it, a pointer is appreciated.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "MTR Foods",
+      "slug": "mtr-foods",
+      "website": "mtrfoods.com",
+      "instagram": "",
+      "niche": "Packaged foods and Bengaluru-headquartered FMCG",
+      "verified_on": "04 OCT 2026",
+      "score": 8.5,
+      "score_20": 17,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "An active North Karnataka pudi creative sits alongside a page-resolved MTR spices ad linking to Orkla's MTR shopping page; Bengaluru corporate contact is published.",
+      "contact": {
+        "email": "mediacell@orklaindia.com",
+        "phone": "18001037455",
+        "entity": "Orkla India Limited (MTR Division)",
+        "address": "Corporate Office: No. 1, 2nd & 3rd floor, 100 Feet Inner Ring Road, Ejipura, Bengaluru 560047; factory office also published in Bengaluru",
+        "route_role": "Official page labels this for media enquiries; not a verified paid-media buyer.",
+        "additional_emails": [
+          "feedback@mtrfoods.com"
+        ]
+      },
+      "contact_source": "Crawled from MTR Foods' own contact page on 04 Oct 2026: https://www.mtrfoods.com/contact_us (feedback@mtrfoods.com; media enquiries at mediacell@orklaindia.com; Orkla India Ltd. MTR Division corporate and factory offices in Bengaluru).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S3"
+        ],
+        "email_role": "mediacell@orklaindia.com is explicitly labeled for media enquiries; feedback@mtrfoods.com is the published general feedback route."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "3845959365570323",
+          "page_id": "373720106169016",
+          "page_name": "MTR Foods",
+          "started_on": "2026-09-15",
+          "creative_excerpt": "Every North Karnataka home has a pudi recipe it treasures. This taste is inspired by it.",
+          "cta": "No destination shown in the captured card",
+          "destination_url": null,
+          "destination_status": "Selected regional creative; destination was not exposed in the captured card.",
+          "source_id": "S1"
+        },
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1031401109942215",
+          "page_id": "373720106169016",
+          "page_name": "MTR Foods",
+          "started_on": "2026-09-30",
+          "creative_excerpt": "The secret to flavourful everyday meals starts with the right spices … Explore MTR's spices and masalas … exclusive offers.",
+          "cta": "Shop now",
+          "destination_url": "https://shop.orklaindia.com/pages/mtr-categories?collection=spices-masalas-mtr",
+          "destination_status": "Public card links to an Orkla India MTR category page; final purchase events not tested.",
+          "source_id": "S2"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=mtrfoods.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The regional creative names North Karnataka. MTR's official contact page publishes its Orkla India (MTR Division) corporate office in Ejipura, Bengaluru. This is local business context, not proof of ad-targeting geography.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — two selected direct ad records active on capture date",
+          "method": "Direct MTR advertiser-page cards IDs 3845959365570323 and 1031401109942215; selected records only, not an account-wide total.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party corporate/contact and shopping pages",
+          "status": "MEASURED — page content",
+          "method": "Official contact page publishes Bengaluru office and media/general email routes; the second ad links to Orkla's MTR spices category.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and retail sales",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or sales analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Regional creative to product-sale attribution",
+          "status": "NOT MEASURED",
+          "method": "The regional card's destination and any retailer-level attribution were not exposed in the captured card.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The public page shows a regional story and a separate direct shopping route",
+          "evidence": "ID 3845959365570323, active from 15 Sep 2026, says ‘Every North Karnataka home has a pudi recipe it treasures.’ A separate active MTR spices card, ID 1031401109942215, started 30 Sep and links to the Orkla India MTR spices category.",
+          "analysis": "The two public records show distinct creative and shopping routes; the public evidence does not link a regional impression to a retailer sale or establish campaign targeting.",
+          "next_check": "Compare campaign source, product/category destination and first-party or retailer order signals inside the relevant reporting systems.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official company contact page identifies the Bengaluru corporate office and a media route",
+          "evidence": "The MTR contact page names Orkla India Limited (MTR Division), an Ejipura, Bengaluru corporate office, feedback@mtrfoods.com and mediacell@orklaindia.com for media enquiries.",
+          "analysis": "The media inbox is a published corporate route, not evidence that the recipient buys media or owns acquisition reporting.",
+          "next_check": "Ask the recipient to route the question to the digital commerce or paid-media owner.",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Private performance and event data were not available publicly",
+          "evidence": "Meta cards expose creative, dates and a destination on one selected ad; no spend, ROAS, CPA or retail conversion values appear in the cited public pages.",
+          "analysis": "No performance conclusion is drawn from the visible ad records.",
+          "next_check": "Use the brand's own platform, commerce and retailer data to confirm outcomes.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Two selected active records are resolved to the official MTR page."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 3,
+          "basis": "The official corporate page publishes a Bengaluru office; the selected story names North Karnataka, not Bengaluru targeting."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 4,
+          "basis": "A separate active MTR spices creative exposes a Shop Now link to the Orkla MTR category page."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official contact page, corporate address and MTR shopping destination were reviewed."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 2,
+          "basis": "Published route is explicitly media enquiries, not a confirmed campaign owner."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, MTR Foods ad 3845959365570323; active, started 15 Sep 2026; North Karnataka pudi copy; checked 04 Oct 2026.",
+        "S2 — Meta Ad Library, MTR Foods ad 1031401109942215; active, started 30 Sep 2026; spices/masalas Shop Now to Orkla MTR category; checked 04 Oct 2026.",
+        "S3 — MTR official contact page; Bengaluru offices, feedback and media enquiry email; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — MTR regional pudi creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=3845959365570323&view_all_page_id=373720106169016",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 15 Sep 2026; North Karnataka pudi copy; no destination exposed in captured card.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Meta Ad Library — MTR spices and masalas shopping creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1031401109942215&view_all_page_id=373720106169016",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 30 Sep 2026; Shop Now to shop.orklaindia.com/pages/mtr-categories?collection=spices-masalas-mtr.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "MTR Foods official contact page",
+          "url": "https://www.mtrfoods.com/contact_us",
+          "source_type": "Brand first-party corporate page",
+          "observed": "feedback@mtrfoods.com; mediacell@orklaindia.com for media enquiries; Orkla India Ltd. (MTR Division) corporate office at Ejipura, Bengaluru, and factory office in Bengaluru.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "North Karnataka pudi creative and the shopping route",
+          "Hi MTR team,\n\nI checked two active cards on the MTR Foods page: the North Karnataka pudi creative (Library ID 3845959365570323) and a spices-and-masalas Shop Now ad (ID 1031401109942215) linking to Orkla's MTR category page. Your official contact page lists mediacell@orklaindia.com for media enquiries and the Ejipura corporate office.\n\nThe public records show the creative and one shopping destination; they do not show retail sales or campaign attribution. A useful review would connect the regional creative, product/category route and first-party or retailer order signals using your own data.\n\nIf this inbox is not the right owner, could you route me to the digital-commerce or paid-media team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A source-to-retail question for MTR",
+          "Hi MTR team,\n\nOne follow-up on the public ad check. The North Karnataka pudi card has no destination in the captured view; another active MTR spices ad links to the Orkla MTR category. I cannot tell from outside how either route is credited to retailer or ecommerce sales.\n\nIf that attribution is already handled internally, this is simply a way to confirm it across campaign, category and order records. I have not estimated sales or performance.\n\nMay I send the short evidence-linked checklist to the team that owns digital commerce?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Keep the regional story and product path connected",
+          "Hi MTR team,\n\nThe captured North Karnataka creative leads with a regional food tradition, while the separate spices ad exposes a product-category shopping link. A private check could confirm whether the chosen category, product availability and campaign-source field align for the intended market.\n\nThe public ad cards do not reveal purchase results, so I have kept the review to visible copy, dates and destinations.\n\nWould a one-page path map be useful to the media or ecommerce owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the MTR ads",
+          "Hi MTR team,\n\nLast note from me. I checked the two selected MTR creatives and the official contact page on 04 Oct. I have not accessed ad accounts, retail orders or attribution data.\n\nIf a source-to-retail check is useful, I can send the exact public evidence and the private questions to confirm. If another team owns that work, a pointer would be appreciated; otherwise I will close this out.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Popeyes India",
+      "slug": "popeyes-india",
+      "website": "popeyes.in",
+      "instagram": "@popeyes_india",
+      "niche": "Quick-service restaurant and store openings",
+      "verified_on": "04 OCT 2026",
+      "score": 8.0,
+      "score_20": 16,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "Two page-resolved active Bengaluru opening creatives use comment-to-DM offer codes; the official contact route is customer care and the offer is stock/terms-limited.",
+      "contact": {
+        "email": "wecare@popeyes.in",
+        "phone": "18003091234",
+        "entity": "Jubilant FoodWorks Limited",
+        "address": "15th Floor, Tower E, Skymark One, Plot No. H-10/A, Sector 98, Noida 201301, Uttar Pradesh, India",
+        "route_role": "Official ‘Write to Us’ customer-care route; not a verified marketing buyer.",
+        "additional_emails": [
+          "escalation@popeyes.in"
+        ]
+      },
+      "contact_source": "Crawled from Popeyes India's own contact page on 04 Oct 2026: https://www.popeyes.in/contact (wecare@popeyes.in is labeled Write to Us; Jubilant FoodWorks Limited and its office address are published).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S3"
+        ],
+        "email_role": "Published customer-care route; escalation@popeyes.in is separately labeled for grievances."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "2190804264833947",
+          "page_id": "102771998577973",
+          "page_name": "Popeyes India",
+          "started_on": "2026-09-24",
+          "creative_excerpt": "Bengaluru … celebrate the opening of Popeyes at Sai Meadows, Kudlu from 1st October with FREE Signature Fried Chicken … comment ‘Popeyes Chicken’ for a code by DM; offer valid until stocks last, min order ₹199.",
+          "cta": "Comment keyword; code via DM; Instagram profile link on card",
+          "destination_url": "https://instagram.com/popeyes_india",
+          "destination_status": "Public creative describes a comment-to-DM code flow; it does not expose order/redemption records.",
+          "source_id": "S1"
+        },
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "2327094064759580",
+          "page_id": "102771998577973",
+          "page_name": "Popeyes India",
+          "started_on": "2026-09-24",
+          "creative_excerpt": "Bengaluru … celebrate the opening of Popeyes at J R Plaza, Kanakpura Road from 1st October with FREE Signature Fried Chicken; comment for a DM code; offer valid until stocks last, min order ₹199.",
+          "cta": "Comment keyword; code via DM; Instagram profile link on card",
+          "destination_url": "https://instagram.com/popeyes_india",
+          "destination_status": "Related Bengaluru variant; live offer redemption/stock not confirmed.",
+          "source_id": "S2"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=popeyes.in",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The selected ads name Sai Meadows, Kudlu and J R Plaza, Kanakpura Road, and describe a 1 Oct opening. Their terms say stock-limited and the card does not verify current offer availability on 04 Oct. No current redemption claim is made.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — two selected direct Bengaluru cards active on capture date",
+          "method": "Direct Popeyes advertiser-page IDs 2190804264833947 and 2327094064759580; selected records, not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party contact page",
+          "status": "MEASURED — page content",
+          "method": "Official page lists wecare@popeyes.in, grievance email, Jubilant FoodWorks Limited and Noida office.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Offer redemption and current stock",
+          "status": "UNCONFIRMED",
+          "method": "The ad's own terms say offer valid until stocks last; no store redemption or stock check was performed.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and store conversions",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or order analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "Bengaluru opening ads use a comment-to-DM code mechanic",
+          "evidence": "ID 2190804264833947 names Sai Meadows, Kudlu; ID 2327094064759580 names J R Plaza, Kanakpura Road. Both were Active on 04 Oct, started 24 Sep, ask viewers to comment ‘Popeyes Chicken’ for a DM code, and state a ₹199 minimum order and ‘until stocks last.’",
+          "analysis": "The public action path has several stages—comment, DM code, order and redemption. The card does not show whether each stage is reconciled in the brand's own reporting.",
+          "next_check": "With account and store access, compare comment/DM code issuance with eligible order redemption; first confirm whether the advertised offer remains available.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The ad's own terms make current offer availability unconfirmed",
+          "evidence": "The cards say the offer is valid until stocks last and reserve the right to change terms; the creative advertises opening from 1 Oct.",
+          "analysis": "This report records the published ad copy and does not state that the free item is currently redeemable.",
+          "next_check": "Check current offer terms and branch availability before reusing the creative or code.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official email is customer care, not an established campaign owner",
+          "evidence": "The contact page labels wecare@popeyes.in as ‘Write to Us’ and names Jubilant FoodWorks Limited.",
+          "analysis": "The source is the brand's own official page, but it does not identify a media buyer.",
+          "next_check": "Ask the published route to forward the request to the digital marketing or store-acquisition owner.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Two page-resolved active Meta cards with exact IDs and dates."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "Both selected creatives name Bengaluru locations."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 3,
+          "basis": "Comment-to-DM code path and terms are visible; final redemption is private."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official contact and corporate details reviewed; local location evidence comes from the direct ad copy."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 1,
+          "basis": "Published contact route is customer care, not a verified marketing owner."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, Popeyes Bengaluru ad 2190804264833947; active, started 24 Sep 2026; checked 04 Oct 2026.",
+        "S2 — Meta Ad Library, Popeyes Bengaluru ad 2327094064759580; active, started 24 Sep 2026; checked 04 Oct 2026.",
+        "S3 — Popeyes India official contact page; wecare@popeyes.in, phone and Jubilant FoodWorks Ltd office; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Sai Meadows, Kudlu opening creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2190804264833947&view_all_page_id=102771998577973",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 24 Sep; names Sai Meadows, Kudlu, 1 Oct opening, comment-to-DM code, stock limit and ₹199 minimum order.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Meta Ad Library — J R Plaza, Kanakpura Road opening creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2327094064759580&view_all_page_id=102771998577973",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 24 Sep; names Bengaluru J R Plaza, Kanakpura Road and the same stock-limited comment-to-DM offer mechanic.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Popeyes India official contact page",
+          "url": "https://www.popeyes.in/contact",
+          "source_type": "Brand first-party page",
+          "observed": "wecare@popeyes.in; escalation@popeyes.in; phone 18003091234; Jubilant FoodWorks Limited office in Noida.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Bengaluru opening ads: comment-to-DM measurement",
+          "Hi Popeyes team,\n\nI checked two active Bengaluru creatives in Meta Ad Library: Sai Meadows, Kudlu (ID 2190804264833947) and J R Plaza, Kanakpura Road (ID 2327094064759580). Both ask people to comment ‘Popeyes Chicken’ for a code by DM and state a ₹199 minimum order. The cards say the offer is subject to stocks and terms, so I am not assuming it is still redeemable.\n\nA useful private check is whether comment, code issue and eligible order redemption can be reconciled by branch. The public ads do not expose those results.\n\nI found wecare@popeyes.in on your official contact page; if customer care is not the right team, could you route this to the digital or store-acquisition owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Confirm the offer before measuring redemption",
+          "Hi Popeyes team,\n\nFollowing up on the Bengaluru opening cards. Their terms say the free item is valid until stocks last and can change without notice. I have recorded the copy as observed on 04 Oct, not as a claim about current branch stock or offer availability.\n\nOnce the current terms are confirmed, the useful measurement question is whether the DM code can be matched to an eligible order at the named store.\n\nWould a short source-linked checklist help the team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A branch-level redemption map",
+          "Hi Popeyes team,\n\nThe public mechanic has a clear sequence: comment, receive a code by DM, then place an eligible order. If your team already reconciles that sequence, the next check is simply whether the store and campaign identifiers remain attached to the redemption record.\n\nI cannot see code issuance or order data from the Ad Library, so I have not made a conversion claim.\n\nMay I send the one-page route map to the person who owns campaign measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the Bengaluru opening ads",
+          "Hi Popeyes team,\n\nLast note from me. I checked the two Bengaluru opening creatives and your official contact page on 04 Oct. The public copy is stock- and terms-limited, and I have not checked current redemption, spend or orders.\n\nIf a branch-level comment-to-order reconciliation check would be useful, I can send the exact evidence and private questions. Otherwise I will close this out; a pointer to the right owner is welcome.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Sagar Ratna",
+      "slug": "sagar-ratna",
+      "website": "sagarratna.com",
+      "instagram": "@sagar_ratna_",
+      "niche": "South Indian vegetarian restaurant chain",
+      "verified_on": "04 OCT 2026",
+      "score": 7.5,
+      "score_20": 15,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "An active Bengaluru-specific ‘BLR Benne Masala Dosa’ creative is visible; the current Bengaluru outlet was not confirmed in the official locator check.",
+      "contact": {
+        "email": "customercare@sagarratna.in",
+        "phone": "",
+        "entity": "Not identified on the reviewed contact page",
+        "address": "No Bengaluru address confirmed in the official location-list content reviewed on 04 Oct 2026",
+        "route_role": "Official contact page explicitly labels this email for press and media enquiries; not a confirmed marketing buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Sagar Ratna's own contact page on 04 Oct 2026: https://www.sagarratna.com/contact/ (customercare@sagarratna.in is explicitly listed for press and media enquiries; the official form separately offers Partnership Opportunities).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Press and media enquiries; the same official page has a Partnership Opportunities form option."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "4319462314993083",
+          "page_id": "105831168063749",
+          "page_name": "Sagar Ratna",
+          "started_on": "2026-06-22",
+          "creative_excerpt": "Bengaluru gave the world two superstars … BLR Benne Masala Dosa — The Thalaivar of the table. South Ke Superstar — Now Serving.",
+          "cta": "Locate Us",
+          "destination_url": "https://www.sagarratna.com/locations/",
+          "destination_status": "CTA and official locator link visible; a Bengaluru outlet was not confirmed in the locator content reviewed.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=sagarratna.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The active creative is explicitly Bengaluru-oriented and says ‘BLR Benne Masala Dosa.’ The official location page content reviewed on 04 Oct did not confirm a Bengaluru outlet; current Bengaluru physical presence is therefore unconfirmed from that locator check, not stated absent.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 105831168063749 and Library ID 4319462314993083; selected creative, not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party contact and location page",
+          "status": "MEASURED — page content; Bengaluru outlet UNCONFIRMED",
+          "method": "Contact page publishes press/media email and partnership form category; location page content reviewed did not confirm an individual Bengaluru outlet.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and outlet orders",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or transaction analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Current Bengaluru store presence",
+          "status": "UNCONFIRMED from reviewed locator content",
+          "method": "Bengaluru-specific ad is visible, but the reviewed official location page content did not establish a local store address.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The active creative is city-specific and exposes a Locate Us CTA",
+          "evidence": "Library ID 4319462314993083 was Active on 04 Oct and started 22 Jun 2026. Copy says ‘Bengaluru gave the world two superstars’ and ‘BLR Benne Masala Dosa’; CTA: Locate Us.",
+          "analysis": "The creative is a clear Bengaluru market signal. It does not, by itself, prove ad targeting or a current Bengaluru outlet.",
+          "next_check": "Confirm the intended Bengaluru destination and operating outlet with the brand before using local-store language.",
+          "source_ids": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "priority": "MEDIUM",
+          "title": "The official locator did not confirm a Bengaluru outlet in the reviewed content",
+          "evidence": "The location page content reviewed lists location sections but did not return a Bengaluru store address; the ad itself names Bengaluru and Karnataka.",
+          "analysis": "This is recorded as unconfirmed from one public locator check, not as proof that no outlet exists.",
+          "next_check": "Ask the company to confirm the current local outlet or franchise/partner destination before evaluating the city campaign path.",
+          "source_ids": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The email route is explicitly press and media; the contact form offers partnership routing",
+          "evidence": "The contact page says ‘For press and media enquiries, please write to customercare@sagarratna.in’ and includes a ‘Partnership Opportunities’ form option.",
+          "analysis": "The email is official and related to communications, but it is not identified as a performance-marketing contact.",
+          "next_check": "Use the official partnership form or request routing to the digital-marketing owner.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Active page-resolved Meta record with exact ID and start date."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 3,
+          "basis": "Creative explicitly names Bengaluru; current local outlet was not confirmed in the reviewed locator content."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 3,
+          "basis": "Locate Us CTA and official locator are visible; Bengaluru-specific destination not confirmed."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 3,
+          "basis": "Official contact and locations pages reviewed; local store presence remains unconfirmed."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 2,
+          "basis": "Official press/media email and partnership form are published; no media buyer identified."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, Sagar Ratna ad 4319462314993083; active, started 22 Jun 2026; Bengaluru/BLR creative; checked 04 Oct 2026.",
+        "S2 — Sagar Ratna official contact page; press/media email and partnership form option; checked 04 Oct 2026.",
+        "S3 — Sagar Ratna official locations page; reviewed for Bengaluru address, not confirmed in returned content; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Bengaluru ‘BLR Benne Masala Dosa’ creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4319462314993083&view_all_page_id=105831168063749",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 22 Jun 2026; ‘Bengaluru gave the world two superstars’ and ‘BLR Benne Masala Dosa’; Locate Us CTA.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Sagar Ratna official contact page",
+          "url": "https://www.sagarratna.com/contact/",
+          "source_type": "Brand first-party page",
+          "observed": "customercare@sagarratna.in explicitly for press/media; contact form offers Partnership Opportunities and other collaboration categories.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Sagar Ratna official locations page",
+          "url": "https://www.sagarratna.com/locations/",
+          "source_type": "Brand first-party locator",
+          "observed": "Location sections returned for review did not confirm a Bengaluru store address; report records local outlet as unconfirmed, not absent.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "BLR Benne Masala Dosa: confirm the local destination",
+          "Hi Sagar Ratna team,\n\nI saw the active Meta creative that says “Bengaluru gave the world two superstars” and promotes the BLR Benne Masala Dosa (Library ID 4319462314993083; active when checked 04 Oct). The card uses a Locate Us CTA.\n\nI also reviewed the official locations page, but the content returned to me did not confirm a Bengaluru outlet address. I am treating the ad as a city signal, not claiming a current local store. Could you confirm the intended Bengaluru destination and route this note to the team that owns the campaign?\n\nThe public card does not show spend or orders. I can share a short, source-linked note that separates what is visible from the private checks.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A destination check before the campaign review",
+          "Hi Sagar Ratna team,\n\nFollowing up on the BLR Benne Masala Dosa creative. The ad's Locate Us CTA is visible, but the Bengaluru outlet was not confirmed in the location-page content I reviewed. That is an unconfirmed result from one public locator check—not a claim that no outlet exists.\n\nBefore assessing the city journey, the useful check is to confirm the local destination, current store/partner details and any branch-level order source.\n\nWould the one-page evidence map be useful to the appropriate team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "The published contact route is for press and media",
+          "Hi Sagar Ratna team,\n\nYour official contact page publishes customercare@sagarratna.in for press and media enquiries and offers a separate Partnership Opportunities form option. I am using the published address only to ask for routing; I have not identified a paid-media buyer on public pages.\n\nIf performance marketing sits with another team or franchise partner, could you direct me to the right owner for the Bengaluru creative?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the Bengaluru creative",
+          "Hi Sagar Ratna team,\n\nLast note from me. I checked the active BLR Benne Masala Dosa creative, the official contact page and the location page on 04 Oct. A Bengaluru outlet was not confirmed by the locator content reviewed, so I have not described one as present or absent.\n\nIf the campaign is handled by a local partner, a pointer to that contact would be helpful. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "McDonald's India",
+      "slug": "mcdonalds-india",
+      "website": "mcdonaldsindia.com",
+      "instagram": "@mcdonalds_india",
+      "niche": "Quick-service restaurant chain (West and South India; HRPL)",
+      "verified_on": "04 OCT 2026",
+      "score": 8.5,
+      "score_20": 17,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google Ads NOT MEASURED",
+      "headline": "A page-resolved active Order Now creative exposes a multi-hop MFilterIt/DoubleClick/Smart.link route; the published corporate communications contact is not a verified media buyer.",
+      "contact": {
+        "email": "corpcomm@mcdonaldsindia.com",
+        "phone": "+91 22 49135000",
+        "entity": "Hardcastle Restaurants Private Limited (McDonald's India / HRPL)",
+        "address": "Registered office: 1001, Tower 3, 10th Floor, One International Center, Senapati Bapat Marg, Prabhadevi, Mumbai 400013, India",
+        "route_role": "Official reach-us page labels this Media Contact; not a verified paid-media buyer.",
+        "additional_emails": [
+          "info@mcdonaldsindia.com"
+        ]
+      },
+      "contact_source": "Crawled from McDonald's India HRPL reach-us page on 04 Oct 2026: https://www.mcdonaldsindia.com/reach-us.html (corpcomm@mcdonaldsindia.com is labeled Media Contact; info@mcdonaldsindia.com is listed for corporate offers; Hardcastle Restaurants Private Limited and registered office are shown).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "corpcomm@ is Media Contact; info@ is corporate offers/bulk gift-card enquiries."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1376996287487142",
+          "page_id": "109393465767252",
+          "page_name": "McDonald's India",
+          "started_on": "2026-09-08",
+          "creative_excerpt": "Celebrating 30 years of your every family at McDonald's. Let's family at McD.",
+          "cta": "Order Now",
+          "destination_url": "https://wafs.mfilterit.net/rdct/…",
+          "destination_status": "Captured click path includes an MFilterIt redirect, a DoubleClick trackclk URL and a Smart.link destination; parameter includes Bangalore_Anthem_Video_8Sept_Click. The route was not clicked through or tested for event firing.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "NOT MEASURED",
+        "url": "https://adstransparency.google.com/?region=IN&domain=mcdonaldsindia.com",
+        "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+      },
+      "market_signal": "The captured ad URL includes the campaign-name parameter Bangalore_Anthem_Video_8Sept_Click; the visible ad copy itself is a 30-years family message. The parameter is a campaign label, not proof of audience targeting or geographic delivery.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 109393465767252 and Library ID 1376996287487142; selected creative, not account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "NOT MEASURED",
+          "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party corporate/contact page",
+          "status": "MEASURED — page content",
+          "method": "HRPL reach-us page publishes media and corporate-offer email routes, legal name, registered address and Karnataka location link.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Public click URL structure",
+          "status": "MEASURED — URL layers visible",
+          "method": "Ad card URL shows MFilterIt redirect, DoubleClick trackclk URL and Smart.link; click-through resolution and tag firing not tested.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and conversion events",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser, tag-manager or order-event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and orders",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or order analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The selected active ad exposes a layered Order Now click path",
+          "evidence": "Meta ID 1376996287487142 was Active on 04 Oct and started 08 Sep 2026. The card says ‘Celebrating 30 years of your every family…’ and shows an MFilterIt redirect that contains a DoubleClick trackclk URL and Smart.link destination; a campaign parameter reads Bangalore_Anthem_Video_8Sept_Click.",
+          "analysis": "The visible URL structure is a useful QA starting point, but it does not prove that consent, click IDs, analytics events or order attribution work end to end.",
+          "next_check": "With account access, follow the route in a test environment and confirm redirect continuity, landing destination, campaign parameters and the order event.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Bangalore campaign label is not audience-targeting evidence",
+          "evidence": "Bangalore_Anthem_Video_8Sept_Click appears in the captured URL parameters; the ad copy itself celebrates 30 years of family at McDonald's.",
+          "analysis": "A URL label can describe a creative or internal campaign name; no audience geography is inferred.",
+          "next_check": "Confirm targeting and delivery geography in the advertiser account if the market question matters.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The published corporate route is communications, not a verified media buyer",
+          "evidence": "The HRPL reach-us page labels corpcomm@mcdonaldsindia.com as Media Contact and lists info@mcdonaldsindia.com for corporate offers.",
+          "analysis": "Both are official brand routes, but neither page names the person responsible for paid-media measurement.",
+          "next_check": "Ask the published contact to route the message to the relevant digital marketing or analytics owner.",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Active advertiser-page creative verified by exact Meta Library ID."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 3,
+          "basis": "A Bangalore-named URL parameter is present; it is not proof of audience geography."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 4,
+          "basis": "The card shows Order Now and a visible multi-hop destination structure."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official HRPL contact page, corporate routes, legal entity and Karnataka location path were reviewed."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 2,
+          "basis": "Published Media Contact route may route a campaign question but is not a confirmed media buyer."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, McDonald's India ad 1376996287487142; active, started 08 Sep 2026; Order Now URL structure; checked 04 Oct 2026.",
+        "S2 — McDonald's India (HRPL) official reach-us page; legal entity, media contact and corporate-offer contact; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — McDonald's India 30-year creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1376996287487142&view_all_page_id=109393465767252",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 08 Sep 2026; Order Now; captured URL layers include MFilterIt, DoubleClick trackclk and Smart.link; campaign parameter includes Bangalore_Anthem_Video_8Sept_Click.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "McDonald's India HRPL official reach-us page",
+          "url": "https://www.mcdonaldsindia.com/reach-us.html",
+          "source_type": "Brand first-party corporate page",
+          "observed": "Hardcastle Restaurants Private Limited; corpcomm@mcdonaldsindia.com labeled Media Contact; info@mcdonaldsindia.com for corporate offers; registered office and Karnataka location link.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Order Now path: a redirect continuity check",
+          "Hi McDonald's India team,\n\nI checked the active Meta creative that says “Celebrating 30 years of your every family at McDonald's” (Library ID 1376996287487142; started 08 Sep). Its public Order Now URL shows an MFilterIt redirect, a DoubleClick trackclk URL and a Smart.link destination; the URL also carries a Bangalore_Anthem_Video_8Sept_Click label.\n\nThat visible chain is not proof of a tracking fault. The useful account-side QA is to confirm that click IDs and campaign parameters survive each redirect and that the final order event is recorded.\n\nI found corpcomm@mcdonaldsindia.com labeled Media Contact on the HRPL page. If this is not the right owner, could you route the note to digital marketing or analytics?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Confirm the final destination and source fields",
+          "Hi McDonald's India team,\n\nFollowing up on the public click path for the 30-year creative. The Ad Library exposes several URL layers, but not the final order journey or event logs. I have not concluded that any redirect or measurement event is missing.\n\nA test click in the team's approved environment could confirm the final landing, campaign parameters, consent behavior and order-source capture.\n\nWould a short route map help the campaign owner review those points?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A public campaign label is not targeting data",
+          "Hi McDonald's India team,\n\nOne caution from the audit: the captured URL includes Bangalore_Anthem_Video_8Sept_Click, while the visible ad copy is a broad family message. I am treating that string as a campaign label only; it does not tell me who saw the ad or where it was delivered.\n\nIf Bengaluru delivery is the business question, the account-side audience and delivery report is the right evidence. The public card cannot answer it.\n\nCould you point me to the owner of that check?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the redirect chain",
+          "Hi McDonald's India team,\n\nLast note from me. I reviewed one active Order Now creative and the official HRPL contact page on 04 Oct. The only recommendation is to verify redirect and order-event continuity inside the approved test/reporting environment; I have not accessed performance data.\n\nIf another team owns the flow, a pointer would be appreciated. Otherwise I will close this out.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Starbucks India",
+      "slug": "starbucks-india",
+      "website": "starbucks.in",
+      "instagram": "",
+      "niche": "Coffeehouse and Bengaluru retail stores",
+      "verified_on": "04 OCT 2026",
+      "score": 7.0,
+      "score_20": 14,
+      "score_band": "Moderate public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google domain query checked; results surfaced under MIGHTYHIVE entities and were not attributed to Tata Starbucks",
+      "headline": "A page-resolved active birthday-experience creative and official Bengaluru store contact are visible; a Google domain query did not establish Starbucks-attributable ads.",
+      "contact": {
+        "email": "contact@tatastarbucks.com",
+        "phone": "18602660010",
+        "entity": "Tata Starbucks Private Limited (as identified on the official store listing)",
+        "address": "Unit R-04, Bagmane Solarium City Campus, Dodda Nekkundi Extension, Mahadevapura, Bengaluru 560037, Karnataka, India",
+        "route_role": "Published general contact on an official Bengaluru store listing; not a verified marketing buyer.",
+        "additional_emails": [
+          "customercare@tatastarbucks.com"
+        ]
+      },
+      "contact_source": "From Starbucks India's official Bengaluru store listing, https://stores.starbucks.in/store-pages/starbucks-bengaluru/ (search-indexed first-party page shows contact@tatastarbucks.com, Bengaluru address and Tata Starbucks Private Limited; direct crawler returned an HTTP error on 04 Oct). The official Starbucks rewards terms page also publishes customercare@tatastarbucks.com: https://rewards.starbucks.in/terms-and-conditions.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2",
+          "S3"
+        ],
+        "email_role": "contact@ is the general store-page contact; customercare@ is published on the official rewards terms page. Direct fetch of the dynamic store/terms pages failed during this check; the official indexed result supplied the contact text."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "2583381455437352",
+          "page_id": "412938118755623",
+          "page_name": "Starbucks India",
+          "started_on": "2026-09-11",
+          "creative_excerpt": "If you thought birthdays couldn’t get more fun, hold on. Introducing The Playhouse — Birthdays with Starbucks. From the first sip to the last smile, we’re here to make every celebration unforgettable. Want to plan one? The card publishes customercare@tatastarbucks.com and 1860 266 0010.",
+          "cta": "Reach out to plan a birthday; card shows customer-care email and phone, no external landing URL.",
+          "destination_url": null,
+          "destination_status": "The public card includes the email and phone contact but no external landing URL in the captured result.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "CHECKED — attribution not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=starbucks.in",
+        "detail": "The domain-filtered view surfaced MIGHTYHIVE entities rather than Tata Starbucks; results were not attributed to Starbucks. Do not report a Starbucks Google ad count or infer no activity."
+      },
+      "market_signal": "The official Starbucks Bengaluru store listing identifies a Bengaluru location and Tata Starbucks Private Limited. The selected birthday ad publishes a general enquiry email and phone; no campaign audience geography is inferred.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct Starbucks India page/Library ID 2583381455437352, page ID 412938118755623; selected creative, not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "CHECKED — brand attribution not established",
+          "method": "Domain-filtered query surfaced MIGHTYHIVE entities, not Tata Starbucks; no Starbucks count reported.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party store and contact listing",
+          "status": "MEASURED — official indexed page content; direct fetch returned error",
+          "method": "Official Starbucks store listing identifies Bengaluru address, contact@tatastarbucks.com and Tata Starbucks Private Limited; use direct link to recheck.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and birthday redemptions",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or order analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Ad click destination",
+          "status": "NOT MEASURED",
+          "method": "The public card shows a birthday contact email and phone but no external landing URL; booking/redemption results were not measured.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The selected active creative promotes a birthday experience",
+          "evidence": "Meta Library ID 2583381455437352 was Active and started 11 Sep 2026. Copy: ‘If you thought birthdays couldn’t get more fun … Introducing The Playhouse — Birthdays with Starbucks.’ The card says ‘Want to plan one?’ and lists customercare@tatastarbucks.com and 1860 266 0010.",
+          "analysis": "A public birthday-enquiry route is visible, but the captured card does not disclose booking, redemption or sales results.",
+          "next_check": "Confirm how enquiries received through the published contact route are recorded and reconciled to the campaign inside the company's systems.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "An official Bengaluru store listing publishes a contact route",
+          "evidence": "The official store listing shows a Bagmane Solarium City Campus, Bengaluru address, contact@tatastarbucks.com and Tata Starbucks Private Limited; a second official terms page lists customercare@tatastarbucks.com.",
+          "analysis": "These are published contact routes, not identified marketing contacts. Direct crawling of these dynamic pages returned errors on 04 Oct; the cited first-party URLs remain available for manual checking.",
+          "next_check": "Confirm the current contact route and request referral to the relevant campaign owner before sending account-level questions.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query did not establish Starbucks attribution",
+          "evidence": "The domain-filtered Transparency Center results surfaced MIGHTYHIVE entities rather than Tata Starbucks.",
+          "analysis": "No Starbucks Google ad count is reported; the query does not establish that the brand has no Google activity.",
+          "next_check": "Only attribute advertiser-level evidence where the verified account identity matches Tata Starbucks or the relevant operating entity.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Selected active Meta record resolved to the Starbucks India page with an exact ID."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "Official first-party store listing identifies a Bengaluru location."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 2,
+          "basis": "Birthday-experience theme is visible, but destination is not confirmed in the captured result."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 3,
+          "basis": "Official store and terms pages are indexed and cited; direct fetch returned errors during this check."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 1,
+          "basis": "Published contact/customer-care routes are general, not paid-media contacts."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, Starbucks India ad 2583381455437352; active, started 11 Sep 2026; birthday copy and contact details; checked 04 Oct 2026.",
+        "S2 — Starbucks India official Bengaluru store listing; indexed result shows contact, local address and Tata Starbucks Private Limited; direct fetch error on 04 Oct.",
+        "S3 — Official Starbucks rewards terms; customercare@tatastarbucks.com; direct fetch error on 04 Oct.",
+        "S4 — Google Ads Transparency Center domain query; surfaced MIGHTYHIVE entities, not attributed to Tata Starbucks; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Starbucks India birthday creative",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2583381455437352&view_all_page_id=412938118755623",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 11 Sep 2026; birthday experience copy; the public card includes customercare@tatastarbucks.com and 1860 266 0010; no external landing URL captured.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Starbucks India official Bengaluru store listing",
+          "url": "https://stores.starbucks.in/store-pages/starbucks-bengaluru/",
+          "source_type": "Brand first-party store listing (indexed content; fetch error during this check)",
+          "observed": "Indexed first-party content shows contact@tatastarbucks.com; Bengaluru store address at Bagmane Solarium City Campus; Tata Starbucks Private Limited.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Starbucks rewards official terms and conditions",
+          "url": "https://rewards.starbucks.in/terms-and-conditions",
+          "source_type": "Brand first-party terms page (indexed content; fetch error during this check)",
+          "observed": "Official terms page lists customercare@tatastarbucks.com.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Starbucks domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=starbucks.in",
+          "source_type": "Platform domain query",
+          "observed": "Results surfaced MIGHTYHIVE entities and were not attributed to Tata Starbucks; no brand count used.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "Birthday experience creative: verify the destination",
+          "Hi Starbucks India team,\n\nI checked the active Meta birthday creative “The Playhouse — Birthdays with Starbucks” (Library ID 2583381455437352; started 11 Sep; active when checked 04 Oct). The card asks people to plan a birthday and publishes a customer-care email and phone.\n\nI could not see bookings or enquiry outcomes from the public record. A useful private check is how enquiries received through that published route are recorded and reconciled to the campaign.\n\nYour official Bengaluru store listing publishes contact@tatastarbucks.com; I am using that general route only to ask for the campaign owner. Would a short, source-linked route note be useful, or could you point me to the person who owns paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A careful note on the Google search",
+          "Hi Starbucks India team,\n\nOne detail from the public check: a Google Ads Transparency query on the Starbucks domain surfaced MIGHTYHIVE entities, not Tata Starbucks. I did not attribute those results to Starbucks and did not report a brand Google count. That query also does not prove there is no Starbucks Google activity.\n\nThe active Meta birthday creative is directly page-resolved. If useful, I can share the source links and the exact questions to confirm in your own campaign account.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Confirm the first-party contact and measurement owner",
+          "Hi Starbucks India team,\n\nFollowing up on the birthday-experience creative. The official Bengaluru store listing shows contact@tatastarbucks.com, while the rewards terms page publishes customercare@tatastarbucks.com. The dynamic pages returned an error to my crawler on 04 Oct, so I have recorded that limitation and included both direct URLs for manual rechecking.\n\nNeither route is identified as a marketing buyer. If this is not the right inbox, would you direct me to the team responsible for campaign measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the birthday creative",
+          "Hi Starbucks India team,\n\nLast note from me. I checked the page-resolved Meta creative and official store/contact sources on 04 Oct. I have not accessed account performance or booking data, and I have not attributed the Google domain results to Tata Starbucks.\n\nIf a public-to-private measurement checklist would help the campaign owner, I can send it; otherwise I will close this out. A pointer to the right contact is welcome.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    },
+    {
+      "batch": 3,
+      "brand": "Krispy Kreme India",
+      "slug": "krispy-kreme-india",
+      "website": "krispykremeindia.in",
+      "instagram": "@krispykreme_ind",
+      "niche": "Doughnuts, gifting and Bengaluru stores",
+      "verified_on": "04 OCT 2026",
+      "score": 8.5,
+      "score_20": 17,
+      "score_band": "Good public-signal fit",
+      "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+      "ads_active": "Google domain query returned 6 results under verified Curefoods; Krispy-specific ad attribution not established",
+      "headline": "A new Instagram teaser is page-resolved; the official FAQ publishes Bengaluru store coverage and a corporate/birthday-order route, while Google domain results are entity-level only.",
+      "contact": {
+        "email": "manish.ramu@curefoods.in",
+        "phone": "",
+        "entity": "Curefoods India Private Limited (master-franchise rights stated in the official FAQ; specific store operator not independently checked)",
+        "address": "Multiple Bengaluru stores are listed on the official locator; see the source page for branch addresses.",
+        "route_role": "Official FAQ publishes this address for corporate and birthday orders; not a verified paid-media buyer.",
+        "additional_emails": [
+          "kk.feedback@krispykremeindia.in"
+        ]
+      },
+      "contact_source": "Crawled from Krispy Kreme India's own FAQ on 04 Oct 2026: https://krispykremeindia.in/faq (manish.ramu@curefoods.in is listed for corporate and birthday orders; kk.feedback@krispykremeindia.in for questions; FAQ says stores are present in Bangalore, Chennai, Hyderabad and Delhi).",
+      "contact_source_detail": {
+        "checked_on": "2026-10-04",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Corporate and birthday orders route; a separate general question email is published."
+      },
+      "ad_evidence": [
+        {
+          "platform": "Meta Ad Library",
+          "status": "Active on 2026-10-04",
+          "library_id": "1080503658064091",
+          "page_id": "405984909505512",
+          "page_name": "Krispy Kreme India",
+          "started_on": "2026-10-02",
+          "creative_excerpt": "Who is he waiting for? Any guesses?",
+          "cta": "Visit Instagram profile",
+          "destination_url": "https://instagram.com/krispykreme_ind",
+          "destination_status": "Public card links to the Instagram profile; order or store-redemption path not shown.",
+          "source_id": "S1"
+        }
+      ],
+      "google_evidence": {
+        "status": "CHECKED — domain results associated with Curefoods; product attribution not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=krispykremeindia.in",
+        "detail": "Six domain-query results appeared under verified CUREFOODS INDIA PRIVATE LIMITED. The official FAQ states Curefoods India Private Limited holds master-franchise rights, but the domain view alone does not establish that each result is Krispy Kreme-specific. No Krispy-specific Google ad count is reported."
+      },
+      "market_signal": "The official FAQ says Krispy Kreme stores are present in Bangalore and routes corporate/birthday orders to manish.ramu@curefoods.in. The official locator page lists multiple Bengaluru locations. The selected teaser creative itself routes to Instagram.",
+      "coverage": [
+        {
+          "surface": "Meta paid activity",
+          "status": "MEASURED — selected direct ad record active on capture date",
+          "method": "Direct advertiser-page/card URL with page ID 405984909505512 and Library ID 1080503658064091; selected creative, not an account-wide count.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Google Ads",
+          "status": "CHECKED — 6 domain results under verified Curefoods; Krispy-specific attribution not established",
+          "method": "Domain query plus official FAQ entity context; no brand-specific ad count asserted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "First-party FAQ and store locator",
+          "status": "MEASURED — page content",
+          "method": "FAQ lists corporate/birthday order email, general feedback email and Bengaluru presence; locator lists Bengaluru branch addresses.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Site tags and event firing",
+          "status": "NOT MEASURED",
+          "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Spend, ROAS, CPA and teaser-to-order outcomes",
+          "status": "UNAVAILABLE — private to advertiser",
+          "method": "No public account or transaction analytics data; no estimate substituted.",
+          "date": "04 OCT 2026"
+        },
+        {
+          "surface": "Teaser click destination",
+          "status": "MEASURED — Instagram profile link",
+          "method": "The public card links to the brand's Instagram profile; no order/redemption result was measured.",
+          "date": "04 OCT 2026"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "MEDIUM",
+          "title": "The newest selected creative is an Instagram teaser, not a direct order link",
+          "evidence": "Meta Ad Library ID 1080503658064091 was Active on 04 Oct and started 02 Oct 2026; copy says ‘Who is he waiting for? Any guesses?’ and the CTA opens the Krispy Kreme India Instagram profile.",
+          "analysis": "The public route is teaser-to-social. The card does not show whether the campaign objective is awareness, a launch, birthday orders or store visits, and no results are public.",
+          "next_check": "Confirm the intended next action and the business event that will be used to assess it; compare with order/store data only inside the company systems.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official FAQ and locator substantiate Bengaluru presence and a corporate/birthday contact route",
+          "evidence": "FAQ says stores are present in Bangalore and publishes manish.ramu@curefoods.in for corporate and birthday orders; the locator lists multiple Bengaluru branches.",
+          "analysis": "The published contact is relevant to corporate/birthday orders, not identified as a paid-media buyer.",
+          "next_check": "Ask for referral to the digital marketing owner if the campaign-measurement request is outside that route.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google domain results are entity-level and were not counted as Krispy Kreme ads",
+          "evidence": "The Google domain query returned six items under verified CUREFOODS INDIA PRIVATE LIMITED; the FAQ states Curefoods holds master-franchise rights for Krispy Kreme India.",
+          "analysis": "The entity relationship is relevant context, but the domain view does not prove each item promotes Krispy Kreme. No Krispy-specific Google inventory count is asserted.",
+          "next_check": "Attribute individual creatives only after confirming their advertiser and product in the Transparency Center.",
+          "source_ids": [
+            "S4",
+            "S2"
+          ]
+        }
+      ],
+      "score_breakdown": [
+        {
+          "dimension": "Direct paid signal",
+          "score": 4,
+          "basis": "Selected active Meta teaser resolved to Krispy Kreme India's page with an exact ID."
+        },
+        {
+          "dimension": "Bengaluru relevance",
+          "score": 4,
+          "basis": "Official FAQ and locator identify Bengaluru stores."
+        },
+        {
+          "dimension": "Public CTA visibility",
+          "score": 2,
+          "basis": "The active card routes to Instagram rather than a visible product/booking path."
+        },
+        {
+          "dimension": "First-party source coverage",
+          "score": 4,
+          "basis": "Official FAQ and location pages include store presence, contact routes and franchise-entity context."
+        },
+        {
+          "dimension": "Contact-route relevance",
+          "score": 3,
+          "basis": "Published corporate/birthday order email is related to a commercial enquiry but not a confirmed media buyer."
+        }
+      ],
+      "sources": [
+        "S1 — Meta Ad Library, Krispy Kreme India ad 1080503658064091; active, started 02 Oct 2026; checked 04 Oct 2026.",
+        "S2 — Krispy Kreme official FAQ; corporate/birthday and general contact emails, Bengaluru presence and Curefoods master-franchise statement; checked 04 Oct 2026.",
+        "S3 — Krispy Kreme official location page; Bengaluru branches; checked 04 Oct 2026.",
+        "S4 — Google Ads Transparency Center domain query; six results under verified Curefoods; not attributed item-by-item to Krispy Kreme; checked 04 Oct 2026."
+      ],
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Krispy Kreme India teaser",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1080503658064091&view_all_page_id=405984909505512",
+          "source_type": "Platform record",
+          "observed": "Active on 04 Oct 2026; started 02 Oct 2026; teaser text ‘Who is he waiting for? Any guesses?’; CTA to Instagram profile.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S2",
+          "label": "Krispy Kreme India official FAQ",
+          "url": "https://krispykremeindia.in/faq",
+          "source_type": "Brand first-party FAQ",
+          "observed": "manish.ramu@curefoods.in for corporate/birthday orders; kk.feedback@krispykremeindia.in for questions; FAQ says stores are present in Bangalore; identifies Curefoods India Private Limited as master-franchise rights holder.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S3",
+          "label": "Krispy Kreme India official location page",
+          "url": "https://krispykremeindia.in/locate-us",
+          "source_type": "Brand first-party locator",
+          "observed": "Lists multiple Bengaluru branches, including Whitefield, Brigade Orion Mall, Indiranagar, Koramangala, Adarsh Opus, Vega City Mall and others.",
+          "verified_on": "2026-10-04"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency Center — Krispy Kreme domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=krispykremeindia.in",
+          "source_type": "Platform domain query",
+          "observed": "Six results under verified CUREFOODS INDIA PRIVATE LIMITED; official FAQ provides franchise-entity context; items not attributed individually to Krispy Kreme.",
+          "verified_on": "2026-10-04"
+        }
+      ],
+      "outreach": [
+        [
+          "A teaser-to-store measurement question",
+          "Hi Krispy Kreme India team,\n\nI saw the active Meta teaser “Who is he waiting for? Any guesses?” (Library ID 1080503658064091; started 02 Oct; checked 04 Oct). Its public CTA opens the Krispy Kreme India Instagram profile. Your FAQ also publishes a corporate/birthday-order route at manish.ramu@curefoods.in and says stores are present in Bangalore.\n\nI cannot see campaign outcomes from the public card. A useful private check is to confirm the intended next action and the event that connects social attention to an order or store visit.\n\nIf this inbox is not right for campaign measurement, could you point me to the digital marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Keep the Google attribution precise",
+          "Hi Krispy Kreme India team,\n\nA careful note from the public check: the Google domain query returned six items under verified Curefoods. Your FAQ states Curefoods holds master-franchise rights, but the domain view alone does not establish that each creative is Krispy Kreme-specific. I have not counted them as Krispy ads.\n\nIf the team wants a Google inventory review, the next step is to attribute each individual creative to the relevant brand and advertiser before using a count.\n\nWould a short source-linked note be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "A clear route from social to an order",
+          "Hi Krispy Kreme India team,\n\nYour official locator lists Bengaluru branches and the FAQ publishes a route for corporate and birthday orders. The selected ad is a teaser with an Instagram CTA, so the public evidence does not tell me whether the intended outcome is awareness, an order, or a store visit.\n\nThe useful check is to define that next action and connect it to the appropriate private event or store report; I have not inferred a result.\n\nCould you direct me to the team that owns this work?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ],
+        [
+          "Closing the loop on the teaser",
+          "Hi Krispy Kreme India team,\n\nLast note from me. I checked the active Instagram teaser, the official FAQ and the Bengaluru locator on 04 Oct. I have not accessed ad-account performance, store sales or birthday-order data, and I have not attributed the Google domain results item-by-item to Krispy Kreme.\n\nIf a short evidence map would help the campaign owner, I can send it; otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+        ]
+      ]
+    }
+  ]
+}

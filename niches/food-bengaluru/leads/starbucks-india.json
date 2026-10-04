@@ -1,0 +1,211 @@
+{
+  "batch": 3,
+  "brand": "Starbucks India",
+  "slug": "starbucks-india",
+  "website": "starbucks.in",
+  "instagram": "",
+  "niche": "Coffeehouse and Bengaluru retail stores",
+  "verified_on": "04 OCT 2026",
+  "score": 7.0,
+  "score_20": 14,
+  "score_band": "Moderate public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google domain query checked; results surfaced under MIGHTYHIVE entities and were not attributed to Tata Starbucks",
+  "headline": "A page-resolved active birthday-experience creative and official Bengaluru store contact are visible; a Google domain query did not establish Starbucks-attributable ads.",
+  "contact": {
+    "email": "contact@tatastarbucks.com",
+    "phone": "18602660010",
+    "entity": "Tata Starbucks Private Limited (as identified on the official store listing)",
+    "address": "Unit R-04, Bagmane Solarium City Campus, Dodda Nekkundi Extension, Mahadevapura, Bengaluru 560037, Karnataka, India",
+    "route_role": "Published general contact on an official Bengaluru store listing; not a verified marketing buyer.",
+    "additional_emails": [
+      "customercare@tatastarbucks.com"
+    ]
+  },
+  "contact_source": "From Starbucks India's official Bengaluru store listing, https://stores.starbucks.in/store-pages/starbucks-bengaluru/ (search-indexed first-party page shows contact@tatastarbucks.com, Bengaluru address and Tata Starbucks Private Limited; direct crawler returned an HTTP error on 04 Oct). The official Starbucks rewards terms page also publishes customercare@tatastarbucks.com: https://rewards.starbucks.in/terms-and-conditions.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "email_role": "contact@ is the general store-page contact; customercare@ is published on the official rewards terms page. Direct fetch of the dynamic store/terms pages failed during this check; the official indexed result supplied the contact text."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "2583381455437352",
+      "page_id": "412938118755623",
+      "page_name": "Starbucks India",
+      "started_on": "2026-09-11",
+      "creative_excerpt": "If you thought birthdays couldn’t get more fun, hold on. Introducing The Playhouse — Birthdays with Starbucks. From the first sip to the last smile, we’re here to make every celebration unforgettable. Want to plan one? The card publishes customercare@tatastarbucks.com and 1860 266 0010.",
+      "cta": "Reach out to plan a birthday; card shows customer-care email and phone, no external landing URL.",
+      "destination_url": null,
+      "destination_status": "The public card includes the email and phone contact but no external landing URL in the captured result.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "CHECKED — attribution not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=starbucks.in",
+    "detail": "The domain-filtered view surfaced MIGHTYHIVE entities rather than Tata Starbucks; results were not attributed to Starbucks. Do not report a Starbucks Google ad count or infer no activity."
+  },
+  "market_signal": "The official Starbucks Bengaluru store listing identifies a Bengaluru location and Tata Starbucks Private Limited. The selected birthday ad publishes a general enquiry email and phone; no campaign audience geography is inferred.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct Starbucks India page/Library ID 2583381455437352, page ID 412938118755623; selected creative, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "CHECKED — brand attribution not established",
+      "method": "Domain-filtered query surfaced MIGHTYHIVE entities, not Tata Starbucks; no Starbucks count reported.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party store and contact listing",
+      "status": "MEASURED — official indexed page content; direct fetch returned error",
+      "method": "Official Starbucks store listing identifies Bengaluru address, contact@tatastarbucks.com and Tata Starbucks Private Limited; use direct link to recheck.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and birthday redemptions",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or order analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Ad click destination",
+      "status": "NOT MEASURED",
+      "method": "The public card shows a birthday contact email and phone but no external landing URL; booking/redemption results were not measured.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The selected active creative promotes a birthday experience",
+      "evidence": "Meta Library ID 2583381455437352 was Active and started 11 Sep 2026. Copy: ‘If you thought birthdays couldn’t get more fun … Introducing The Playhouse — Birthdays with Starbucks.’ The card says ‘Want to plan one?’ and lists customercare@tatastarbucks.com and 1860 266 0010.",
+      "analysis": "A public birthday-enquiry route is visible, but the captured card does not disclose booking, redemption or sales results.",
+      "next_check": "Confirm how enquiries received through the published contact route are recorded and reconciled to the campaign inside the company's systems.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "An official Bengaluru store listing publishes a contact route",
+      "evidence": "The official store listing shows a Bagmane Solarium City Campus, Bengaluru address, contact@tatastarbucks.com and Tata Starbucks Private Limited; a second official terms page lists customercare@tatastarbucks.com.",
+      "analysis": "These are published contact routes, not identified marketing contacts. Direct crawling of these dynamic pages returned errors on 04 Oct; the cited first-party URLs remain available for manual checking.",
+      "next_check": "Confirm the current contact route and request referral to the relevant campaign owner before sending account-level questions.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query did not establish Starbucks attribution",
+      "evidence": "The domain-filtered Transparency Center results surfaced MIGHTYHIVE entities rather than Tata Starbucks.",
+      "analysis": "No Starbucks Google ad count is reported; the query does not establish that the brand has no Google activity.",
+      "next_check": "Only attribute advertiser-level evidence where the verified account identity matches Tata Starbucks or the relevant operating entity.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Selected active Meta record resolved to the Starbucks India page with an exact ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official first-party store listing identifies a Bengaluru location."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "Birthday-experience theme is visible, but destination is not confirmed in the captured result."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 3,
+      "basis": "Official store and terms pages are indexed and cited; direct fetch returned errors during this check."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "Published contact/customer-care routes are general, not paid-media contacts."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, Starbucks India ad 2583381455437352; active, started 11 Sep 2026; birthday copy and contact details; checked 04 Oct 2026.",
+    "S2 — Starbucks India official Bengaluru store listing; indexed result shows contact, local address and Tata Starbucks Private Limited; direct fetch error on 04 Oct.",
+    "S3 — Official Starbucks rewards terms; customercare@tatastarbucks.com; direct fetch error on 04 Oct.",
+    "S4 — Google Ads Transparency Center domain query; surfaced MIGHTYHIVE entities, not attributed to Tata Starbucks; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Starbucks India birthday creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2583381455437352&view_all_page_id=412938118755623",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 11 Sep 2026; birthday experience copy; the public card includes customercare@tatastarbucks.com and 1860 266 0010; no external landing URL captured.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Starbucks India official Bengaluru store listing",
+      "url": "https://stores.starbucks.in/store-pages/starbucks-bengaluru/",
+      "source_type": "Brand first-party store listing (indexed content; fetch error during this check)",
+      "observed": "Indexed first-party content shows contact@tatastarbucks.com; Bengaluru store address at Bagmane Solarium City Campus; Tata Starbucks Private Limited.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Starbucks rewards official terms and conditions",
+      "url": "https://rewards.starbucks.in/terms-and-conditions",
+      "source_type": "Brand first-party terms page (indexed content; fetch error during this check)",
+      "observed": "Official terms page lists customercare@tatastarbucks.com.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Starbucks domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=starbucks.in",
+      "source_type": "Platform domain query",
+      "observed": "Results surfaced MIGHTYHIVE entities and were not attributed to Tata Starbucks; no brand count used.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Birthday experience creative: verify the destination",
+      "Hi Starbucks India team,\n\nI checked the active Meta birthday creative “The Playhouse — Birthdays with Starbucks” (Library ID 2583381455437352; started 11 Sep; active when checked 04 Oct). The card asks people to plan a birthday and publishes a customer-care email and phone.\n\nI could not see bookings or enquiry outcomes from the public record. A useful private check is how enquiries received through that published route are recorded and reconciled to the campaign.\n\nYour official Bengaluru store listing publishes contact@tatastarbucks.com; I am using that general route only to ask for the campaign owner. Would a short, source-linked route note be useful, or could you point me to the person who owns paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A careful note on the Google search",
+      "Hi Starbucks India team,\n\nOne detail from the public check: a Google Ads Transparency query on the Starbucks domain surfaced MIGHTYHIVE entities, not Tata Starbucks. I did not attribute those results to Starbucks and did not report a brand Google count. That query also does not prove there is no Starbucks Google activity.\n\nThe active Meta birthday creative is directly page-resolved. If useful, I can share the source links and the exact questions to confirm in your own campaign account.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Confirm the first-party contact and measurement owner",
+      "Hi Starbucks India team,\n\nFollowing up on the birthday-experience creative. The official Bengaluru store listing shows contact@tatastarbucks.com, while the rewards terms page publishes customercare@tatastarbucks.com. The dynamic pages returned an error to my crawler on 04 Oct, so I have recorded that limitation and included both direct URLs for manual rechecking.\n\nNeither route is identified as a marketing buyer. If this is not the right inbox, would you direct me to the team responsible for campaign measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the birthday creative",
+      "Hi Starbucks India team,\n\nLast note from me. I checked the page-resolved Meta creative and official store/contact sources on 04 Oct. I have not accessed account performance or booking data, and I have not attributed the Google domain results to Tata Starbucks.\n\nIf a public-to-private measurement checklist would help the campaign owner, I can send it; otherwise I will close this out. A pointer to the right contact is welcome.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

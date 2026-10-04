@@ -1,0 +1,212 @@
+{
+  "batch": 3,
+  "brand": "Byg Brewski",
+  "slug": "byg-brewski",
+  "website": "bygbrewski.com",
+  "instagram": "@bygbrewskibrewingco",
+  "niche": "Bengaluru brewery, dining and events",
+  "verified_on": "04 OCT 2026",
+  "score": 9.0,
+  "score_20": 18,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "A Sarjapur Retro Brunch ad is page-resolved and links to a District short URL; the official contact page publishes a Sarjapur branch GM route.",
+  "contact": {
+    "email": "gm.sjp@bygbrewski.com",
+    "phone": "080 47166256",
+    "entity": "Not identified on the reviewed contact page",
+    "address": "Near WIPRO Corporate Office, 10/62/2A/2 & 3, behind MK Retail, Sarjapura Road, Bengaluru 560035",
+    "route_role": "Official contact page labels this as the Sarjapur branch GM email; not a confirmed marketing buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Byg Brewski's own contact page on 04 Oct 2026: https://bygbrewski.com/contact-us/ (Sarjapur Road branch address, gm.sjp@bygbrewski.com and phone 08047166256).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Sarjapur branch GM route."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "2250887912432714",
+      "page_id": "839782262726143",
+      "page_name": "Byg Brewski Brewing Company — Sarjapur page",
+      "started_on": "2026-09-16",
+      "creative_excerpt": "Some Sundays deserve a rewind … The Byg Retro Brunch: Friendship Day Edition … Byg Brewski Brewing Company, Sarjapur … Every Sunday | 12 PM onwards.",
+      "cta": "See details",
+      "destination_url": "https://link.district.in/DSTRKT/jdw9byh6",
+      "destination_status": "Public card exposes a District short link; final booking or redemption behavior was not tested.",
+      "source_id": "S1"
+    },
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1438490928201098",
+      "page_id": "839782262726143",
+      "page_name": "Byg Brewski Brewing Company — Sarjapur page",
+      "started_on": "2026-09-28",
+      "creative_excerpt": "Byg Retro Brunch: Friendship Day Edition; every Sunday, 12 PM onwards, at Sarjapur.",
+      "cta": "See details",
+      "destination_url": "https://link.district.in/DSTRKT/jdw9byh6",
+      "destination_status": "Related active card surfaced on the same page; no total campaign count inferred.",
+      "source_id": "S1B"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=bygbrewski.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The selected ad names Sarjapur and a recurring Sunday brunch. The official contact page lists the Sarjapur Road branch address. The ad's Friendship Day wording is quoted as published; current event terms should be reconfirmed before use.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad records active on capture date",
+      "method": "Direct Sarjapur advertiser-page cards IDs 2250887912432714 and 1438490928201098; no all-account total inferred.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party branch contact",
+      "status": "MEASURED — page content",
+      "method": "Official contact page lists Sarjapur Road address, branch GM email and phone.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Ad click path",
+      "status": "PARTLY MEASURED — District short link visible",
+      "method": "Meta card exposes link.district.in/DSTRKT/jdw9byh6; no redirect, booking or redemption test performed.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and bookings",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or booking analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The active Sarjapur creative promotes a recurring brunch and exposes a District handoff",
+      "evidence": "Ad Library ID 2250887912432714 was Active on 04 Oct and started 16 Sep 2026; copy names the Sarjapur venue, every Sunday from 12 PM, and a District ‘See details’ link.",
+      "analysis": "The public link identifies a third-party destination, but it does not reveal whether a reservation, table visit or redemption is recorded against the ad.",
+      "next_check": "Confirm the District landing, reservation identifier and branch-side reconciliation with the team before treating the click path as a measurable booking flow.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Friendship Day wording should be checked against the current brunch offer",
+      "evidence": "The active card says ‘Friendship Day Edition’ and also says ‘Every Sunday | 12 PM onwards.’",
+      "analysis": "The report quotes the card as observed and does not assert that any dated event or promotion remains available.",
+      "next_check": "Ask the Sarjapur team to confirm current schedule, terms and the intended District destination.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The published email is the Sarjapur branch GM route",
+      "evidence": "The official contact page lists gm.sjp@bygbrewski.com under the Sarjapur Road branch address.",
+      "analysis": "This is a relevant local route, but the page does not identify the recipient as the brand's media buyer.",
+      "next_check": "Request routing to the person responsible for paid media or event measurement if appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Two page-resolved active Meta cards were observed with exact IDs."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Both ad and official address identify the Sarjapur Road branch."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The selected ad displays a ‘See details’ CTA and District short URL."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official site provides branch address, GM contact and phone."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published email routes to the Sarjapur branch GM, not a confirmed media buyer."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, direct Sarjapur-page ad 2250887912432714; active, started 16 Sep 2026; checked 04 Oct 2026.",
+    "S1B — Related active Sarjapur-page card 1438490928201098; started 28 Sep 2026; same visible District handoff.",
+    "S2 — Byg Brewski official contact page; Sarjapur Road branch address, GM email and phone; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — selected Sarjapur brunch ad",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2250887912432714&view_all_page_id=839782262726143",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 16 Sep 2026; recurring Sunday brunch copy; CTA See details to District short link.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S1B",
+      "label": "Meta Ad Library — related Sarjapur brunch card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1438490928201098&view_all_page_id=839782262726143",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 28 Sep 2026; related Sunday brunch creative and the same District destination.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Byg Brewski official contact page",
+      "url": "https://bygbrewski.com/contact-us/",
+      "source_type": "Brand first-party page",
+      "observed": "Sarjapur Road branch location; gm.sjp@bygbrewski.com; 080 47166256.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Sarjapur brunch creative: District handoff",
+      "Hi Byg team,\n\nI checked the Sarjapur-page Meta card for the Retro Brunch (Library ID 2250887912432714; active when checked 04 Oct). It says every Sunday from 12 PM and sends the ‘See details’ click to a District short link. Your contact page publishes gm.sjp@bygbrewski.com for the Sarjapur branch.\n\nA useful account-side check is whether the District reservation or visit can be reconciled to the campaign source. I did not test the destination or see booking data, so I am not calling the current path broken.\n\nWould a source-linked handoff map be useful? If this branch inbox is not the right route, could you point me to the digital or events-marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Confirm the current brunch terms",
+      "Hi Byg team,\n\nOne follow-up: the active card uses the phrase ‘Friendship Day Edition’ while also describing the brunch as a recurring Sunday event at Sarjapur. I am quoting what the library displayed on 04 Oct, not assuming that a dated promotion or any current offer is available.\n\nBefore putting more traffic behind it, the useful check is to confirm the current schedule, terms and the District landing from the branch side.\n\nMay I send the one-page public-evidence note to the right owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A branch-level reconciliation question",
+      "Hi Byg team,\n\nThe public ad card exposes a District short link, and your site publishes a Sarjapur branch contact. What I cannot see from outside is whether the click, reservation and eventual visit share a source identifier.\n\nIf your team already reconciles those systems, no issue—the note simply lists the checks that can be confirmed with the branch and campaign owner.\n\nWould you direct me to the person responsible for that handoff?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the Sarjapur brunch",
+      "Hi Byg team,\n\nLast note from me. I checked two active Sarjapur brunch cards and the official branch contact page on 04 Oct. The proposed follow-up is limited to the District destination, current offer details and campaign-to-booking reconciliation; I have not accessed bookings or campaign performance.\n\nIf another person owns this, a pointer is appreciated. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

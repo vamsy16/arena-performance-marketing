@@ -1,0 +1,215 @@
+{
+  "batch": 3,
+  "brand": "Popeyes India",
+  "slug": "popeyes-india",
+  "website": "popeyes.in",
+  "instagram": "@popeyes_india",
+  "niche": "Quick-service restaurant and store openings",
+  "verified_on": "04 OCT 2026",
+  "score": 8.0,
+  "score_20": 16,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "Two page-resolved active Bengaluru opening creatives use comment-to-DM offer codes; the official contact route is customer care and the offer is stock/terms-limited.",
+  "contact": {
+    "email": "wecare@popeyes.in",
+    "phone": "18003091234",
+    "entity": "Jubilant FoodWorks Limited",
+    "address": "15th Floor, Tower E, Skymark One, Plot No. H-10/A, Sector 98, Noida 201301, Uttar Pradesh, India",
+    "route_role": "Official ‘Write to Us’ customer-care route; not a verified marketing buyer.",
+    "additional_emails": [
+      "escalation@popeyes.in"
+    ]
+  },
+  "contact_source": "Crawled from Popeyes India's own contact page on 04 Oct 2026: https://www.popeyes.in/contact (wecare@popeyes.in is labeled Write to Us; Jubilant FoodWorks Limited and its office address are published).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S3"
+    ],
+    "email_role": "Published customer-care route; escalation@popeyes.in is separately labeled for grievances."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "2190804264833947",
+      "page_id": "102771998577973",
+      "page_name": "Popeyes India",
+      "started_on": "2026-09-24",
+      "creative_excerpt": "Bengaluru … celebrate the opening of Popeyes at Sai Meadows, Kudlu from 1st October with FREE Signature Fried Chicken … comment ‘Popeyes Chicken’ for a code by DM; offer valid until stocks last, min order ₹199.",
+      "cta": "Comment keyword; code via DM; Instagram profile link on card",
+      "destination_url": "https://instagram.com/popeyes_india",
+      "destination_status": "Public creative describes a comment-to-DM code flow; it does not expose order/redemption records.",
+      "source_id": "S1"
+    },
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "2327094064759580",
+      "page_id": "102771998577973",
+      "page_name": "Popeyes India",
+      "started_on": "2026-09-24",
+      "creative_excerpt": "Bengaluru … celebrate the opening of Popeyes at J R Plaza, Kanakpura Road from 1st October with FREE Signature Fried Chicken; comment for a DM code; offer valid until stocks last, min order ₹199.",
+      "cta": "Comment keyword; code via DM; Instagram profile link on card",
+      "destination_url": "https://instagram.com/popeyes_india",
+      "destination_status": "Related Bengaluru variant; live offer redemption/stock not confirmed.",
+      "source_id": "S2"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=popeyes.in",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The selected ads name Sai Meadows, Kudlu and J R Plaza, Kanakpura Road, and describe a 1 Oct opening. Their terms say stock-limited and the card does not verify current offer availability on 04 Oct. No current redemption claim is made.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — two selected direct Bengaluru cards active on capture date",
+      "method": "Direct Popeyes advertiser-page IDs 2190804264833947 and 2327094064759580; selected records, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party contact page",
+      "status": "MEASURED — page content",
+      "method": "Official page lists wecare@popeyes.in, grievance email, Jubilant FoodWorks Limited and Noida office.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Offer redemption and current stock",
+      "status": "UNCONFIRMED",
+      "method": "The ad's own terms say offer valid until stocks last; no store redemption or stock check was performed.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and store conversions",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or order analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "Bengaluru opening ads use a comment-to-DM code mechanic",
+      "evidence": "ID 2190804264833947 names Sai Meadows, Kudlu; ID 2327094064759580 names J R Plaza, Kanakpura Road. Both were Active on 04 Oct, started 24 Sep, ask viewers to comment ‘Popeyes Chicken’ for a DM code, and state a ₹199 minimum order and ‘until stocks last.’",
+      "analysis": "The public action path has several stages—comment, DM code, order and redemption. The card does not show whether each stage is reconciled in the brand's own reporting.",
+      "next_check": "With account and store access, compare comment/DM code issuance with eligible order redemption; first confirm whether the advertised offer remains available.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The ad's own terms make current offer availability unconfirmed",
+      "evidence": "The cards say the offer is valid until stocks last and reserve the right to change terms; the creative advertises opening from 1 Oct.",
+      "analysis": "This report records the published ad copy and does not state that the free item is currently redeemable.",
+      "next_check": "Check current offer terms and branch availability before reusing the creative or code.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official email is customer care, not an established campaign owner",
+      "evidence": "The contact page labels wecare@popeyes.in as ‘Write to Us’ and names Jubilant FoodWorks Limited.",
+      "analysis": "The source is the brand's own official page, but it does not identify a media buyer.",
+      "next_check": "Ask the published route to forward the request to the digital marketing or store-acquisition owner.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Two page-resolved active Meta cards with exact IDs and dates."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Both selected creatives name Bengaluru locations."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Comment-to-DM code path and terms are visible; final redemption is private."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact and corporate details reviewed; local location evidence comes from the direct ad copy."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "Published contact route is customer care, not a verified marketing owner."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, Popeyes Bengaluru ad 2190804264833947; active, started 24 Sep 2026; checked 04 Oct 2026.",
+    "S2 — Meta Ad Library, Popeyes Bengaluru ad 2327094064759580; active, started 24 Sep 2026; checked 04 Oct 2026.",
+    "S3 — Popeyes India official contact page; wecare@popeyes.in, phone and Jubilant FoodWorks Ltd office; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Sai Meadows, Kudlu opening creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2190804264833947&view_all_page_id=102771998577973",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 24 Sep; names Sai Meadows, Kudlu, 1 Oct opening, comment-to-DM code, stock limit and ₹199 minimum order.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Meta Ad Library — J R Plaza, Kanakpura Road opening creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2327094064759580&view_all_page_id=102771998577973",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 24 Sep; names Bengaluru J R Plaza, Kanakpura Road and the same stock-limited comment-to-DM offer mechanic.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Popeyes India official contact page",
+      "url": "https://www.popeyes.in/contact",
+      "source_type": "Brand first-party page",
+      "observed": "wecare@popeyes.in; escalation@popeyes.in; phone 18003091234; Jubilant FoodWorks Limited office in Noida.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Bengaluru opening ads: comment-to-DM measurement",
+      "Hi Popeyes team,\n\nI checked two active Bengaluru creatives in Meta Ad Library: Sai Meadows, Kudlu (ID 2190804264833947) and J R Plaza, Kanakpura Road (ID 2327094064759580). Both ask people to comment ‘Popeyes Chicken’ for a code by DM and state a ₹199 minimum order. The cards say the offer is subject to stocks and terms, so I am not assuming it is still redeemable.\n\nA useful private check is whether comment, code issue and eligible order redemption can be reconciled by branch. The public ads do not expose those results.\n\nI found wecare@popeyes.in on your official contact page; if customer care is not the right team, could you route this to the digital or store-acquisition owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Confirm the offer before measuring redemption",
+      "Hi Popeyes team,\n\nFollowing up on the Bengaluru opening cards. Their terms say the free item is valid until stocks last and can change without notice. I have recorded the copy as observed on 04 Oct, not as a claim about current branch stock or offer availability.\n\nOnce the current terms are confirmed, the useful measurement question is whether the DM code can be matched to an eligible order at the named store.\n\nWould a short source-linked checklist help the team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A branch-level redemption map",
+      "Hi Popeyes team,\n\nThe public mechanic has a clear sequence: comment, receive a code by DM, then place an eligible order. If your team already reconciles that sequence, the next check is simply whether the store and campaign identifiers remain attached to the redemption record.\n\nI cannot see code issuance or order data from the Ad Library, so I have not made a conversion claim.\n\nMay I send the one-page route map to the person who owns campaign measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the Bengaluru opening ads",
+      "Hi Popeyes team,\n\nLast note from me. I checked the two Bengaluru opening creatives and your official contact page on 04 Oct. The public copy is stock- and terms-limited, and I have not checked current redemption, spend or orders.\n\nIf a branch-level comment-to-order reconciliation check would be useful, I can send the exact evidence and private questions. Otherwise I will close this out; a pointer to the right owner is welcome.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

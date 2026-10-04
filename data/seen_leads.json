@@ -725,9 +725,69 @@
       "day": 1,
       "website": "upgrad.com",
       "niche": "Edtech/Coach"
+    },
+    "Aubree": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "aubree.in",
+      "niche": "Food/Bengaluru/Bakery, patisserie and celebration cakes"
+    },
+    "Nandhana Palace": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "nandhanarestaurants.com",
+      "niche": "Food/Bengaluru/Bengaluru casual dining and Andhra cuisine"
+    },
+    "Byg Brewski": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "bygbrewski.com",
+      "niche": "Food/Bengaluru/Bengaluru brewery, dining and events"
+    },
+    "Hatti Kaapi": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "hattikaapi.com",
+      "niche": "Food/Bengaluru/Coffee, packaged foods and direct-to-consumer retail"
+    },
+    "MTR Foods": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "mtrfoods.com",
+      "niche": "Food/Bengaluru/Packaged foods and Bengaluru-headquartered FMCG"
+    },
+    "Popeyes India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "popeyes.in",
+      "niche": "Food/Bengaluru/Quick-service restaurant and store openings"
+    },
+    "Sagar Ratna": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "sagarratna.com",
+      "niche": "Food/Bengaluru/South Indian vegetarian restaurant chain"
+    },
+    "McDonald's India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "mcdonaldsindia.com",
+      "niche": "Food/Bengaluru/Quick-service restaurant chain (West and South India; HRPL)"
+    },
+    "Starbucks India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "starbucks.in",
+      "niche": "Food/Bengaluru/Coffeehouse and Bengaluru retail stores"
+    },
+    "Krispy Kreme India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "krispykremeindia.in",
+      "niche": "Food/Bengaluru/Doughnuts, gifting and Bengaluru stores"
     }
   },
-  "total_found": 111,
+  "total_found": 131,
   "daily_log": [
     {
       "day": 1,
@@ -863,6 +923,45 @@
         "Akshayakalpa Organic",
         "Milky Mist",
         "Frozen Bottle"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-10-03",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 121,
+      "brands": [
+        "SMOOR",
+        "Sid's Farm",
+        "Barbeque Nation",
+        "Millet Amma",
+        "Adukale",
+        "Organic Mandya",
+        "Pure & Sure",
+        "Eat Better Co",
+        "Brik Oven",
+        "Araku Coffee"
+      ],
+      "note": "Reconciled from Batch 2 brand entries already present in brands; prior daily_log had omitted this entry."
+    },
+    {
+      "day": 5,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 131,
+      "brands": [
+        "Aubree",
+        "Nandhana Palace",
+        "Byg Brewski",
+        "Hatti Kaapi",
+        "MTR Foods",
+        "Popeyes India",
+        "Sagar Ratna",
+        "McDonald's India",
+        "Starbucks India",
+        "Krispy Kreme India"
       ]
     }
   ]
