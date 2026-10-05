@@ -1,0 +1,267 @@
+{
+  "brand": "Gold Coins Club & Resort",
+  "slug": "gold-coins-club-resort",
+  "website": "https://www.goldcoinsresort.in/",
+  "instagram": "",
+  "niche": "Resort, dining and event venue",
+  "headline": "A current Electronic City celebration card includes buffet copy and a published booking route; private booking results are unavailable.",
+  "market_signal": "Meta card describes birthday celebrations and an unlimited buffet at the Electronic City Phase II address. First-party contact page lists the same address and bookings email. Package wording is not treated as measured availability or performance.",
+  "local_evidence_status": "MEASURED — selected creative and first-party contact page name the Bengaluru/Electronic City location; no audience targeting inferred.",
+  "contact": {
+    "email": "bookings@goldcoinsresort.in",
+    "phone": "+91 90358 00200",
+    "entity": "",
+    "address": "No. 45/1, Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100",
+    "route_role": "Published enquiries, quotes and site visits; no paid-media owner identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Gold Coins Club & Resort’s own Contact page on 05 Oct 2026: https://www.goldcoinsresort.in/contact/ publishes bookings@goldcoinsresort.in, +91 90358 00200 and the Electronic City address for enquiries, quotes and site visits. It is not a confirmed media buyer.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Booking/quote/site-visit inbox; no buyer named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — one result under verified advertiser Gold Coin Club; opened creative last shown 25 Sep 2026 and marked removed; resort-brand Google activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in",
+    "detail": "The India-region goldcoinsresort.in query returned one result under verified advertiser Gold Coin Club. Creative CR09308172910529085441 was last shown 25 Sep 2026 and marked removed for policy violation; content unavailable. Name/domain similarity does not establish a tie to Gold Coins Club & Resort; no current Google activity is claimed."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Gold Coins birthday card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120",
+      "source_type": "Platform record",
+      "observed": "Gold Coins Club & Resort; Library ID 4243358122642238 displayed Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy promotes birthday celebrations, unlimited buffet and Andapura/Electronic City Phase II address; lists 9035800200 and bookings@goldcoinsresort.in; CTA Book now.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Gold Coins official Contact page",
+      "url": "https://www.goldcoinsresort.in/contact/",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes bookings@goldcoinsresort.in for new enquiries/quotes/site visits, +91 90358 00200 and No. 45/1 Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100; offers phone, WhatsApp and form.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency — goldcoinsresort.in query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region query returned one result under verified advertiser Gold Coin Club. Similar name alone does not identify it as Gold Coins Club & Resort.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — opened Gold Coin Club creative",
+      "url": "https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Verified advertiser legal name Gold Coin Club; creative CR09308172910529085441 last shown 25 Sep 2026 and marked removed for policy violation. Content unavailable; no resort tie/current Google activity claimed.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active birthday card exposes a booking CTA, not a confirmed event",
+      "evidence": "ID 4243358122642238; Gold Coins Club & Resort; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy mentions birthday celebrations, unlimited buffet and Electronic City Phase II; CTA Book now.",
+      "analysis": "This is public card copy and CTA only. The final redirect, package availability and completed bookings were not measured.",
+      "next_check": "Re-open the card and confirm current CTA/package details; if authorized, map the ID to a defined confirmed-event booking record.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party booking route matches the local address but not a media owner",
+      "evidence": "Official Contact page publishes bookings@goldcoinsresort.in for enquiries, quotes/site visits and the same Andapura/Electronic City address.",
+      "analysis": "A booking inbox is a routing contact only; the page does not name a buyer or expose booking outcomes.",
+      "next_check": "Ask bookings to forward the source-linked note to the paid-media measurement owner.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google result is not tied to the resort brand",
+      "evidence": "Query returned verified advertiser ‘Gold Coin Club’; opened creative last shown 25 Sep 2026 and marked removed, with content unavailable.",
+      "analysis": "Name/domain similarity does not establish that the advertiser or unavailable creative represents Gold Coins Club & Resort.",
+      "next_check": "If revisited, verify an accessible creative’s advertiser, brand-specific content, destination and status before attributing activity.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S2"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "4243358122642238",
+      "page_id": "927319817426120",
+      "page_name": "Gold Coins Club & Resort",
+      "page_profile_url": "https://www.facebook.com/goldcoinsclubresort/",
+      "started_on": "2026-09-22",
+      "creative_excerpt": "Birthday card promotes a venue with unlimited buffet, decorations/entertainment and gives the Electronic City Phase II address and bookings@goldcoinsresort.in.",
+      "cta": "Book now.",
+      "destination_url": null,
+      "destination_status": "The card displays Book now through an fb.me redirect; the final booking path and any booking outcome were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 19,
+  "score": 9.5,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual page-resolved Meta card displayed Active/Sponsored, page name, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Card and official Contact page name Electronic City Phase II, Bengaluru; no targeting inference."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Book now is visible; redirect and booking outcome were not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, first-party contact, Google query and individual creative reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Published route is bookings/quotes/site visits, not a named paid-media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — Gold Coins birthday card; checked 2026-10-05; Gold Coins Club & Resort; Library ID 4243358122642238 displayed Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy promotes birthday celebrations, unlimited buffet and Andapura/Electronic City Phase II address; lists 9035800200 and bookings@goldcoinsresort.in; CTA Book now.",
+    "S2 — Gold Coins official Contact page; checked 2026-10-05; Publishes bookings@goldcoinsresort.in for new enquiries/quotes/site visits, +91 90358 00200 and No. 45/1 Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100; offers phone, WhatsApp and form.",
+    "S3 — Google Ads Transparency — goldcoinsresort.in query; checked 2026-10-05; India-region query returned one result under verified advertiser Gold Coin Club. Similar name alone does not identify it as Gold Coins Club & Resort.",
+    "S4 — Google Ads Transparency — opened Gold Coin Club creative; checked 2026-10-05; Verified advertiser legal name Gold Coin Club; creative CR09308172910529085441 last shown 25 Sep 2026 and marked removed for policy violation. Content unavailable; no resort tie/current Google activity claimed."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 4243358122642238 and page ID 927319817426120; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — one result under verified advertiser Gold Coin Club; opened creative last shown 25 Sep 2026 and marked removed; resort-brand Google activity not established",
+      "method": "The India-region goldcoinsresort.in query returned one result under verified advertiser Gold Coin Club. Creative CR09308172910529085441 was last shown 25 Sep 2026 and marked removed for policy violation; content unavailable. Name/domain similarity does not establish a tie to Gold Coins Club & Resort; no current Google activity is claimed.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — selected creative and first-party contact page name the Bengaluru/Electronic City location; no audience targeting inferred.",
+      "method": "Meta card describes birthday celebrations and an unlimited buffet at the Electronic City Phase II address. First-party contact page lists the same address and bookings email. Package wording is not treated as measured availability or performance. Published enquiries, quotes and site visits; no paid-media owner identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The card displays Book now through an fb.me redirect; the final booking path and any booking outcome were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Birthday card",
+      "Hi Gold Coins Club & Resort team,\n\nI checked card 4243358122642238: Sponsored and Active, started 22 Sep 2026, with birthday/buffet copy at the Electronic City Phase II site. I have not treated the package wording as a verified current offer or booking result.\n\nThe public record does not expose private spend, orders or event firing. The published route, bookings@goldcoinsresort.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Booking path",
+      "Hi Gold Coins Club & Resort team,\n\nThe card says Book now; the official contact page lists a booking inbox and enquiry form. I did not test a completed booking.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Event definition",
+      "Hi Gold Coins Club & Resort team,\n\nAn account-side review could define a confirmed event booking and reconcile enquiries, site visits and bookings under one rule. Those records are private and were not accessed.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi Gold Coins Club & Resort team,\n\nThe published booking inbox is not identified as a paid-media owner. Could you route this source-linked note to the measurement lead?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Birthday card",
+      "body": "Hi Gold Coins Club & Resort team,\n\nI checked card 4243358122642238: Sponsored and Active, started 22 Sep 2026, with birthday/buffet copy at the Electronic City Phase II site. I have not treated the package wording as a verified current offer or booking result.\n\nThe public record does not expose private spend, orders or event firing. The published route, bookings@goldcoinsresort.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Booking path",
+      "body": "Hi Gold Coins Club & Resort team,\n\nThe card says Book now; the official contact page lists a booking inbox and enquiry form. I did not test a completed booking.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Event definition",
+      "body": "Hi Gold Coins Club & Resort team,\n\nAn account-side review could define a confirmed event booking and reconcile enquiries, site visits and bookings under one rule. Those records are private and were not accessed.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi Gold Coins Club & Resort team,\n\nThe published booking inbox is not identified as a paid-media owner. Could you route this source-linked note to the measurement lead?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

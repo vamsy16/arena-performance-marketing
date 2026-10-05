@@ -3209,3 +3209,657 @@ This is my last note. If this is not the right route, could you point me to the 
 — Smart Pursuit
 smartpursuit3@gmail.com | 7095024220
 ```
+
+---
+
+# Batch 6 — Food / Bengaluru (checked 05 Oct 2026)
+
+> 9 new leads · 36 messages · four-step sequence (Day 1 / 3 / 7 / 14). Working target: ten; excluded candidates are documented without padding. Every factual opener is mapped to the sources in `VERIFY-THE-DATA.md`; published contact routes are not presumed to be media buyers.
+
+## NIKAA Briyani
+
+**Published route:** `feedback@nikaabriyani.com` · Published feedback and catering-consultation route; no paid-media buyer identified.
+
+**Contact provenance:** Crawled from NIKAA Briyani’s own Contact page on 05 Oct 2026: https://nikaabriyani.com/contact publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited’s Salem address. This is a feedback/catering route, not a confirmed paid-media contact.
+
+### Email 1 (Day 1) — Marathahalli card
+
+```text
+Hi NIKAA Briyani team,
+
+I checked card 1105859485389342: Sponsored and Active, started 02 Oct 2026, naming NIKAA Briyani in Marathahalli. The ₹299 price is card copy, not a separately checked in-store price.
+
+The public record does not expose private spend, orders or event firing. The published route, feedback@nikaabriyani.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563)
+
+### Email 2 (Day 3) — Offer-copy check
+
+```text
+Hi NIKAA Briyani team,
+
+The card shows an Instagram ‘Send message’ route, while the official contact page publishes feedback/catering. I did not test either path or infer an order.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) · [S2](https://nikaabriyani.com/contact)
+
+### Email 3 (Day 7) — Order event
+
+```text
+Hi NIKAA Briyani team,
+
+A measurement review would define the chosen completed-order event and source-of-record, then map the card destination only if authorized. Those records are not public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563)
+
+### Email 4 (Day 14) — Right owner
+
+```text
+Hi NIKAA Briyani team,
+
+The official contact page does not identify a media buyer. Could you point me to the person responsible for paid-media measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://nikaabriyani.com/contact)
+
+## Black Pearl Barbeque
+
+**Published route:** `info@blackpearlmarathahalli.com` · Published general questions/terms inbox; no paid-media owner identified.
+
+**Contact provenance:** Crawled from Black Pearl’s own Terms page on 05 Oct 2026: https://blackpearlmarathahalli.com/terms-conditions/ publishes info@blackpearlmarathahalli.com for questions. The selected card shows reservation phone numbers. Official legal pages name different entities; this is a general route, not a confirmed media buyer.
+
+### Email 1 (Day 1) — Marathahalli buffet card
+
+```text
+Hi Black Pearl Barbeque team,
+
+Card 896967013290727 is shown Sponsored and Active, started 11 Sep 2026, and describes the Marathahalli buffet. I have not treated ‘180+’ as an audited menu count or a reservation result.
+
+The public record does not expose private spend, orders or event firing. The published route, info@blackpearlmarathahalli.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470)
+
+### Email 2 (Day 3) — Entity check
+
+```text
+Hi Black Pearl Barbeque team,
+
+The Terms page lists one operator while the official Careers result uses another. I have not assumed the entities are the same or that the inbox belongs to paid media.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://blackpearlmarathahalli.com/terms-conditions/) · [S3](https://blackpearlmarathahalli.com/careers/)
+
+### Email 3 (Day 7) — Reservation definition
+
+```text
+Hi Black Pearl Barbeque team,
+
+A useful internal outcome definition would be a confirmed reservation, with phone and online routes reconciled under one rule. No such records are public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470)
+
+### Email 4 (Day 14) — Right owner
+
+```text
+Hi Black Pearl Barbeque team,
+
+The official site publishes info@blackpearlmarathahalli.com but no media buyer. Could you route me to the right owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://blackpearlmarathahalli.com/terms-conditions/) · [S3](https://blackpearlmarathahalli.com/careers/)
+
+## Suvaii
+
+**Published route:** `info@suvaii.in` · Published restaurant/business contact; no paid-media buyer is identified.
+
+**Contact provenance:** Checked on 05 Oct 2026 against Suvaii’s official Page About and linked contact page: https://www.facebook.com/100091993127565/about and https://suvaii.in/contact publish info@suvaii.in, +91 78995 34344 and the Indiranagar address. No paid-media owner is named.
+
+### Email 1 (Day 1) — 100+ guest catering
+
+```text
+Hi Suvaii team,
+
+I checked card 1427256346177856: Sponsored and Active, started 28 Sep 2026, describing Suvaii catering for 100+ guests across Bangalore. The ₹850+ tax line is the card’s copy, not a separately validated current quote.
+
+The public record does not expose private spend, orders or event firing. The published route, info@suvaii.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+### Email 2 (Day 3) — Quote destination
+
+```text
+Hi Suvaii team,
+
+The CTA is Get Quote via an fb.me redirect. I did not resolve the final form or infer a completed inquiry.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+### Email 3 (Day 7) — Lead definition
+
+```text
+Hi Suvaii team,
+
+A review could define a qualified catering inquiry separately from a confirmed event booking. Neither is public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+### Email 4 (Day 14) — Right owner
+
+```text
+Hi Suvaii team,
+
+Suvaii’s official contact route is published, but the page does not name a paid-media owner. Could you point me to the right person?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100091993127565/about)
+
+## Gold Coins Club & Resort
+
+**Published route:** `bookings@goldcoinsresort.in` · Published enquiries, quotes and site visits; no paid-media owner identified.
+
+**Contact provenance:** Crawled from Gold Coins Club & Resort’s own Contact page on 05 Oct 2026: https://www.goldcoinsresort.in/contact/ publishes bookings@goldcoinsresort.in, +91 90358 00200 and the Electronic City address for enquiries, quotes and site visits. It is not a confirmed media buyer.
+
+### Email 1 (Day 1) — Birthday card
+
+```text
+Hi Gold Coins Club & Resort team,
+
+I checked card 4243358122642238: Sponsored and Active, started 22 Sep 2026, with birthday/buffet copy at the Electronic City Phase II site. I have not treated the package wording as a verified current offer or booking result.
+
+The public record does not expose private spend, orders or event firing. The published route, bookings@goldcoinsresort.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) · [S2](https://www.goldcoinsresort.in/contact/)
+
+### Email 2 (Day 3) — Booking path
+
+```text
+Hi Gold Coins Club & Resort team,
+
+The card says Book now; the official contact page lists a booking inbox and enquiry form. I did not test a completed booking.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) · [S2](https://www.goldcoinsresort.in/contact/)
+
+### Email 3 (Day 7) — Event definition
+
+```text
+Hi Gold Coins Club & Resort team,
+
+An account-side review could define a confirmed event booking and reconcile enquiries, site visits and bookings under one rule. Those records are private and were not accessed.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.goldcoinsresort.in/contact/)
+
+### Email 4 (Day 14) — Right owner
+
+```text
+Hi Gold Coins Club & Resort team,
+
+The published booking inbox is not identified as a paid-media owner. Could you route this source-linked note to the measurement lead?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.goldcoinsresort.in/contact/)
+
+## Paint the Town Restaurant
+
+**Published route:** `paint.the.town.workshop@gmail.com` · Published first-party general contact; no paid-media buyer identified.
+
+**Contact provenance:** Crawled from Paint the Town’s own Contact page on 05 Oct 2026: https://www.paintthetown.in/contact-3 publishes paint.the.town.workshop@gmail.com, +91 6366230141 and the Koramangala address named in the card. No paid-media owner is named.
+
+### Email 1 (Day 1) — Dining and events
+
+```text
+Hi Paint the Town Restaurant team,
+
+Card 1383590387259883 is shown Sponsored and Active, started 25 Sep 2026, and combines dining/art-menu copy with DMs for events. The official site has separate menus and booking pages; I have not inferred bookings.
+
+The public record does not expose private spend, orders or event firing. The published route, paint.the.town.workshop@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+### Email 2 (Day 3) — Two booking paths
+
+```text
+Hi Paint the Town Restaurant team,
+
+The site offers food/art menus and event pages, while the card uses Learn more and a DM invitation. I did not test a completed reservation or event booking.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+### Email 3 (Day 7) — Outcome definition
+
+```text
+Hi Paint the Town Restaurant team,
+
+A review could define a dining outcome separately from a qualified event enquiry or confirmed booking. No such results are public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+### Email 4 (Day 14) — Right owner
+
+```text
+Hi Paint the Town Restaurant team,
+
+The Contact page publishes a general inbox but no media buyer. Could you direct this to the measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.paintthetown.in/contact-3)
+
+## Chutney Chang
+
+**Published route:** `chutneychangmr@fusionfoods.co.in` · Published brand Page contact email and phone; not confirmed as paid-media owner.
+
+**Contact provenance:** Crawled from Chutney Chang’s official Facebook Page About section on 05 Oct 2026: https://www.facebook.com/chutneychangMuseumRoad/about lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234 / +91 88676 86810 and HM Eleganza, Bangalore. The linked Fusion Foods page returned HTTP 500; no other email was substituted.
+
+### Email 1 (Day 1) — Museum Road buffet card
+
+```text
+Hi Chutney Chang team,
+
+I checked card 25289523817380586: it is shown Sponsored and Active, started 05 Dec 2025, and names the Museum Road/Church Street location. The “75+” menu figure is your ad copy, not an independent menu audit.
+
+The public record does not expose private spend, orders or event firing. The published route, chutneychangmr@fusionfoods.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532)
+
+### Email 2 (Day 3) — contact route
+
+```text
+Hi Chutney Chang team,
+
+Your official Facebook About page lists chutneychangmr@fusionfoods.co.in and the Bangalore contact details; its linked Fusion Foods page returned HTTP 500 when checked. I have used the Page About route, not an unrelated address.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.facebook.com/chutneychangMuseumRoad/about) · [S3](https://fusionfoods.co.in/ws/chutneychang)
+
+### Email 3 (Day 7) — booking definition
+
+```text
+Hi Chutney Chang team,
+
+A measurement review could distinguish a buffet inquiry from a confirmed booking/order and map the selected card only with authorized account-side data. No such result is public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532)
+
+### Email 4 (Day 14) — measurement owner
+
+```text
+Hi Chutney Chang team,
+
+Could you confirm this is the current best contact and route this source-linked note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.facebook.com/chutneychangMuseumRoad/about)
+
+## Xin by MindEscapes
+
+**Published route:** `enquiry@xinbymindescapes.com` · Published Xin contact-page enquiry route; not a confirmed paid-media buyer.
+
+**Contact provenance:** Crawled from Xin’s own Contact page on 05 Oct 2026: https://www.xinbymindescapes.com/contact lists enquiry@xinbymindescapes.com, +91 97399 08844 / +91 96069 91560 and MindEscapes Club Pvt. Ltd.’s Koramangala registered office. It does not identify a paid-media buyer or state that the office is an outlet.
+
+### Email 1 (Day 1) — Xin order card
+
+```text
+Hi Xin by MindEscapes team,
+
+I checked card 1798771901502677: it is shown Sponsored and Active, started 06 Jul 2026, and says “Order From XIN” with delivery/Koramangala copy. I have not treated the short link as a completed order.
+
+The public record does not expose private spend, orders or event firing. The published route, enquiry@xinbymindescapes.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624)
+
+### Email 2 (Day 3) — Koramangala route
+
+```text
+Hi Xin by MindEscapes team,
+
+Xin’s own contact page publishes enquiry@xinbymindescapes.com and a registered-office address in Koramangala. I have not assumed the office is an outlet or a media team.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.xinbymindescapes.com/contact)
+
+### Email 3 (Day 7) — order event definition
+
+```text
+Hi Xin by MindEscapes team,
+
+A review could connect the selected card to a defined completed-order event and the business’s source-of-record, if authorized. Neither is public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624)
+
+### Email 4 (Day 14) — measurement owner
+
+```text
+Hi Xin by MindEscapes team,
+
+The brand contact page does not name a paid-media owner. Could you route this source-linked note to the person responsible for measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.xinbymindescapes.com/contact)
+
+## Roast Aroma
+
+**Published route:** `Orders.rcbkitchens@gmail.com` · Published orders/business inbox and phone on official website; no paid-media buyer identified.
+
+**Contact provenance:** Crawled from Roast Aroma’s own website on 05 Oct 2026: https://roastaromacafe.in/ publishes Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage, Bengaluru location. No paid-media buyer is named.
+
+### Email 1 (Day 1) — Banashankari opening card
+
+```text
+Hi Roast Aroma team,
+
+I checked card 1707287950342822: it is shown Sponsored and Active, started 08 Sep 2026, and names Banashankari 6th Stage. The BOGO/₹299 language is your card copy; I have not checked its current availability or treated it as order performance.
+
+The public record does not expose private spend, orders or event firing. The published route, Orders.rcbkitchens@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463) · [S2](https://roastaromacafe.in/)
+
+### Email 2 (Day 3) — offer and order route
+
+```text
+Hi Roast Aroma team,
+
+The card links to roastaromacafe.in and lists a direct-order/WhatsApp phone. I did not test an order or infer how phone, website and delivery outcomes are reconciled.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463)
+
+### Email 3 (Day 7) — completed-order source
+
+```text
+Hi Roast Aroma team,
+
+A measurement review could define a completed order and the source-of-record before connecting a public card to it. No order count, ROAS, CPA or conversion rate is public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463)
+
+### Email 4 (Day 14) — measurement owner
+
+```text
+Hi Roast Aroma team,
+
+The official site publishes an orders inbox but no media buyer. Could you confirm the current location and direct this note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://roastaromacafe.in/)
+
+## AN’s Events & Caterers
+
+**Published route:** `anusumesh.2009@gmail.com` · Public Facebook Page About email; general contact only, not a confirmed paid-media owner. Official site has a mismatched visible email label/mailto target.
+
+**Contact provenance:** Crawled from AN’s Events & Caterers Facebook Page About on 05 Oct 2026: https://www.facebook.com/100064927532767/about lists anusumesh.2009@gmail.com. Its official https://www.ansevents.org/ site lists the Hebbal Kempapura address and phone numbers, but displays contact@anskitchen.in linked to mailto:contact@ansevents.org. Conflict preserved; no email is silently substituted and no media buyer is identified.
+
+### Email 1 (Day 1) — Bangalore event card
+
+```text
+Hi AN’s Events & Caterers team,
+
+I checked card 2506487619856998: it is shown Sponsored and Active, started 22 Sep 2026, and says “Planning an event in Bangalore?” with Get Quote/WhatsApp labels. I have not inferred an event booking.
+
+The public record does not expose private spend, orders or event firing. The published route, anusumesh.2009@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767)
+
+### Email 2 (Day 3) — contact route check
+
+```text
+Hi AN’s Events & Caterers team,
+
+The Page About lists anusumesh.2009@gmail.com; the official site lists contact@anskitchen.in but links to contact@ansevents.org. I have kept that discrepancy visible rather than choosing for you.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100064927532767/about) · [S3](https://www.ansevents.org/)
+
+### Email 3 (Day 7) — event inquiry definition
+
+```text
+Hi AN’s Events & Caterers team,
+
+A review could separate qualified event inquiries from confirmed bookings using the team’s source-of-record. Those private outcomes are not public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767)
+
+### Email 4 (Day 14) — measurement owner
+
+```text
+Hi AN’s Events & Caterers team,
+
+Could you confirm the best contact route and direct this source-linked note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+```
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100064927532767/about) · [S3](https://www.ansevents.org/)

@@ -1,0 +1,262 @@
+{
+  "brand": "Suvaii",
+  "slug": "suvaii",
+  "website": "https://www.suvaii.in/",
+  "instagram": "https://www.instagram.com/suvaii.blr/",
+  "niche": "Restaurant and event catering",
+  "headline": "A current Bengaluru catering card exposes a quote CTA and public starting-price copy; quote outcomes are not public.",
+  "market_signal": "Selected Meta card describes catering for 100+ guests across Bangalore and states a starting price. First-party Page About/contact links Suvaii to suvaii.in and publishes Indiranagar; contact widget label ‘Moxhe Restaurant’ is not treated as ownership.",
+  "local_evidence_status": "MEASURED — Bengaluru catering copy and Indiranagar address are public; booking-widget label is not a parent-company disclosure.",
+  "contact": {
+    "email": "info@suvaii.in",
+    "phone": "+91 78995 34344",
+    "entity": "",
+    "address": "#1333, Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038",
+    "route_role": "Published restaurant/business contact; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Checked on 05 Oct 2026 against Suvaii’s official Page About and linked contact page: https://www.facebook.com/100091993127565/about and https://suvaii.in/contact publish info@suvaii.in, +91 78995 34344 and the Indiranagar address. No paid-media owner is named.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published general business contact; no paid-media owner named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=suvaii.in",
+    "detail": "The India-region suvaii.in Google query returned zero results in this capture. This is not proof of no Google advertising or activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Suvaii catering card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565",
+      "source_type": "Platform record",
+      "observed": "Suvaii (public Page ID 100091993127565); Library ID 1427256346177856 displayed Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy describes Pandyan-inspired catering for 100+ guests, ‘Starting at ₹850 + taxes’, Get Quote. Direct card only; advertiser-page feed returned empty state.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Suvaii official Facebook About page",
+      "url": "https://www.facebook.com/100091993127565/about",
+      "source_type": "Brand first-party Page/contact record",
+      "observed": "Lists info@suvaii.in, +91 78995 34344, #1333 Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038 and links suvaii.in; category Restaurant.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Suvaii official contact page",
+      "url": "https://suvaii.in/contact",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes info@suvaii.in, +91 78995 34344 and Indiranagar address. Booking widget is labelled ‘Moxhe Restaurant’; no corporate relationship is stated or inferred.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — suvaii.in query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=suvaii.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region domain query returned zero results 05 Oct 2026. Not proof of no Google activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The catering card exposes a quote step, not a quote or booking result",
+      "evidence": "ID 1427256346177856; Suvaii; Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy says 100+ guests and ‘Starting at ₹850 + taxes’; CTA Get Quote.",
+      "analysis": "The 100+ and price are advertiser copy. Final fb.me destination and any quote outcome were not tested.",
+      "next_check": "Re-open card and confirm current destination/wording; if authorized, define a qualified catering inquiry and source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party contact details align; the booking-widget label is not an ownership claim",
+      "evidence": "Official Page About/contact publish info@suvaii.in, +91 78995 34344 and Indiranagar; contact widget displays ‘Moxhe Restaurant’.",
+      "analysis": "The About page links Suvaii to suvaii.in, while the widget relationship is not documented. No affiliation is inferred.",
+      "next_check": "Recheck the inquiry route and ask the brand to confirm the booking system and correct paid-media contact.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "India-region domain view for suvaii.in returned zero results 05 Oct 2026.",
+      "analysis": "A zero-result query is not evidence that the brand does not advertise on Google.",
+      "next_check": "If revisited, inspect an individual current creative and verify advertiser, copy, destination and status/last-shown.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "1427256346177856",
+      "page_id": "100091993127565",
+      "page_name": "Suvaii",
+      "page_profile_url": "https://www.facebook.com/100091993127565/",
+      "started_on": "2026-09-28",
+      "creative_excerpt": "Catering copy for 100+ guests; ‘Available all across Bangalore | Starting at ₹850 + taxes’; CTA Get Quote.",
+      "cta": "Get Quote.",
+      "destination_url": null,
+      "destination_status": "The card displays Get Quote through an fb.me redirect; the final form and any quote outcome were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 19,
+  "score": 9.5,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct individual card showed Active/Sponsored, page identity, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Card says Bangalore; first-party Page About/contact gives Indiranagar. No targeting inference."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Get Quote is visible; destination and quote completion not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, first-party Page/contact and Google query reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "General restaurant contact is published; no media owner named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Suvaii catering card; checked 2026-10-05; Suvaii (public Page ID 100091993127565); Library ID 1427256346177856 displayed Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy describes Pandyan-inspired catering for 100+ guests, ‘Starting at ₹850 + taxes’, Get Quote. Direct card only; advertiser-page feed returned empty state.",
+    "S2 — Suvaii official Facebook About page; checked 2026-10-05; Lists info@suvaii.in, +91 78995 34344, #1333 Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038 and links suvaii.in; category Restaurant.",
+    "S3 — Suvaii official contact page; checked 2026-10-05; Publishes info@suvaii.in, +91 78995 34344 and Indiranagar address. Booking widget is labelled ‘Moxhe Restaurant’; no corporate relationship is stated or inferred.",
+    "S4 — Google Ads Transparency — suvaii.in query; checked 2026-10-05; India-region domain query returned zero results 05 Oct 2026. Not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1427256346177856 and page ID 100091993127565; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region suvaii.in Google query returned zero results in this capture. This is not proof of no Google advertising or activity.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru catering copy and Indiranagar address are public; booking-widget label is not a parent-company disclosure.",
+      "method": "Selected Meta card describes catering for 100+ guests across Bangalore and states a starting price. First-party Page About/contact links Suvaii to suvaii.in and publishes Indiranagar; contact widget label ‘Moxhe Restaurant’ is not treated as ownership. Published restaurant/business contact; no paid-media buyer is identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The card displays Get Quote through an fb.me redirect; the final form and any quote outcome were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "100+ guest catering",
+      "Hi Suvaii team,\n\nI checked card 1427256346177856: Sponsored and Active, started 28 Sep 2026, describing Suvaii catering for 100+ guests across Bangalore. The ₹850+ tax line is the card’s copy, not a separately validated current quote.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@suvaii.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Quote destination",
+      "Hi Suvaii team,\n\nThe CTA is Get Quote via an fb.me redirect. I did not resolve the final form or infer a completed inquiry.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Lead definition",
+      "Hi Suvaii team,\n\nA review could define a qualified catering inquiry separately from a confirmed event booking. Neither is public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi Suvaii team,\n\nSuvaii’s official contact route is published, but the page does not name a paid-media owner. Could you point me to the right person?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "100+ guest catering",
+      "body": "Hi Suvaii team,\n\nI checked card 1427256346177856: Sponsored and Active, started 28 Sep 2026, describing Suvaii catering for 100+ guests across Bangalore. The ₹850+ tax line is the card’s copy, not a separately validated current quote.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@suvaii.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Quote destination",
+      "body": "Hi Suvaii team,\n\nThe CTA is Get Quote via an fb.me redirect. I did not resolve the final form or infer a completed inquiry.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Lead definition",
+      "body": "Hi Suvaii team,\n\nA review could define a qualified catering inquiry separately from a confirmed event booking. Neither is public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi Suvaii team,\n\nSuvaii’s official contact route is published, but the page does not name a paid-media owner. Could you point me to the right person?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

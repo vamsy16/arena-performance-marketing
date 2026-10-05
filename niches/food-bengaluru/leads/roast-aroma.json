@@ -1,0 +1,264 @@
+{
+  "brand": "Roast Aroma",
+  "slug": "roast-aroma",
+  "website": "https://roastaromacafe.in/",
+  "instagram": "https://www.instagram.com/roastaromacafe/",
+  "niche": "Cafe and restaurant",
+  "headline": "A page-resolved current card and official business-site inbox are available; no public booking/conversion outcomes are exposed.",
+  "market_signal": "The individual card promotes a new-opening pizza/burger offer and names Site No. 213, Banashankari 6th Stage, Bengaluru; the first-party website repeats the location and publishes its order inbox. The displayed ₹299/BOGO wording is advertiser copy, not an independently checked current price.",
+  "local_evidence_status": "MEASURED — direct card names Banashankari 6th Stage, 7th Block, Bengaluru; official website lists the same locality and address.",
+  "contact": {
+    "email": "Orders.rcbkitchens@gmail.com",
+    "phone": "+91 91410 51702",
+    "entity": "",
+    "address": "Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru (official website/card copy)",
+    "route_role": "Published orders/business inbox and phone on official website; no paid-media buyer identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Roast Aroma’s own website on 05 Oct 2026: https://roastaromacafe.in/ publishes Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage, Bengaluru location. No paid-media buyer is named.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published order/business route; no media owner named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in",
+    "detail": "The India-region roastaromacafe.in query returned zero results in this capture; it does not prove no Google advertising/activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Roast Aroma individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463",
+      "source_type": "Platform record",
+      "observed": "ROAST AROMA - Cafe & Pizzeria; Library ID 1707287950342822 displayed Active/Sponsored on 05 Oct 2026; started 08 Sep 2026. Copy says Buy 1 Pizza Get 1 Free, Loaded Burger Feast Combo at ₹299, delivering till 1 AM; names Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru; lists phone/WhatsApp and a Google Maps route. These are advertiser statements/routes; no order outcome measured.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Roast Aroma official website",
+      "url": "https://roastaromacafe.in/",
+      "source_type": "Brand first-party website/contact page",
+      "observed": "Publishes Orders.rcbkitchens@gmail.com and +91 91410 51702; describes Roast Aroma Café & Pizzateria at Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru. The ₹99 starting-price copy on the site and ₹299/BOGO card offer are brand-published, not independent performance data.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Roast Aroma official Facebook Page",
+      "url": "https://www.facebook.com/61593310372873/",
+      "source_type": "Brand first-party social/ad page",
+      "observed": "Page label is ROAST AROMA - Cafe & Pizzeria and is the named advertiser for the selected card.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — roastaromacafe.in query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region domain query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The opening-offer card exposes a direct site and order route, not completed orders",
+      "evidence": "ID 1707287950342822; ROAST AROMA - Cafe & Pizzeria; Active/Sponsored 05 Oct 2026; started 08 Sep 2026. Copy lists BOGO pizza, ₹299 burger combo, Banashankari 6th Stage and a direct-order/WhatsApp phone; See details links to roastaromacafe.in.",
+      "analysis": "The ad establishes public offer copy, local address and a visible route only. Price/availability, orders, audience, spend and ROAS were not independently measured.",
+      "next_check": "Re-open the card and current offer before reuse; if authorized, map the Library ID and order route to the agreed completed-order source-of-record.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official site confirms a Bengaluru business route, not the paid-media owner",
+      "evidence": "roastaromacafe.in lists Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage location.",
+      "analysis": "An order inbox is a published contact route; its mailbox string does not establish a parent company, ad-account owner or performance result.",
+      "next_check": "Ask the published route to confirm the current offer/location and forward a source-linked note to the paid-media measurement owner.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "India-region roastaromacafe.in query returned zero results on 05 Oct 2026.",
+      "analysis": "Zero results are not proof of no Google advertising or brand activity.",
+      "next_check": "If revisited, inspect an accessible individual creative and verify named advertiser, brand-specific copy, destination and status.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "1707287950342822",
+      "page_id": "1319770384542463",
+      "page_name": "ROAST AROMA - Cafe & Pizzeria",
+      "page_profile_url": "https://www.facebook.com/61593310372873/",
+      "started_on": "2026-09-08",
+      "creative_excerpt": "“Buy 1 pizza, get 1 free” and “Loaded Burger Feast Combo @ just ₹299”; copy says “Delivering till 1 AM,” lists Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru, and a direct-orders/WhatsApp phone. Offer/price are advertiser copy.",
+      "cta": "See details → roastaromacafe.in; creative also lists direct-order/WhatsApp phone and a Google Maps route.",
+      "destination_url": "https://roastaromacafe.in/",
+      "destination_status": "The selected card includes a See details link to the official Roast Aroma domain; copy separately lists phone/WhatsApp and a Google Maps short link. No order outcome was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 19,
+  "score": 9.5,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual page-resolved advertiser card displayed Active/Sponsored, page identity, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Selected card and official website identify Banashankari 6th Stage, Bengaluru."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "See details links to the official site; phone/WhatsApp and Maps route are shown."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct ad, official website/contact and named Facebook advertiser plus Google query reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Official order/business email and phone are public; paid-media owner is not named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Roast Aroma individual card; checked 2026-10-05; ROAST AROMA - Cafe & Pizzeria; Library ID 1707287950342822 displayed Active/Sponsored on 05 Oct 2026; started 08 Sep 2026. Copy says Buy 1 Pizza Get 1 Free, Loaded Burger Feast Combo at ₹299, delivering till 1 AM; names Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru; lists phone/WhatsApp and a Google Maps route. These are advertiser statements/routes; no order outcome measured.",
+    "S2 — Roast Aroma official website; checked 2026-10-05; Publishes Orders.rcbkitchens@gmail.com and +91 91410 51702; describes Roast Aroma Café & Pizzateria at Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru. The ₹99 starting-price copy on the site and ₹299/BOGO card offer are brand-published, not independent performance data.",
+    "S3 — Roast Aroma official Facebook Page; checked 2026-10-05; Page label is ROAST AROMA - Cafe & Pizzeria and is the named advertiser for the selected card.",
+    "S4 — Google Ads Transparency — roastaromacafe.in query; checked 2026-10-05; India-region domain query returned zero results on 05 Oct 2026; not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1707287950342822 and page ID 1319770384542463; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region roastaromacafe.in query returned zero results in this capture; it does not prove no Google advertising/activity.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — direct card names Banashankari 6th Stage, 7th Block, Bengaluru; official website lists the same locality and address.",
+      "method": "The individual card promotes a new-opening pizza/burger offer and names Site No. 213, Banashankari 6th Stage, Bengaluru; the first-party website repeats the location and publishes its order inbox. The displayed ₹299/BOGO wording is advertiser copy, not an independently checked current price. Published orders/business inbox and phone on official website; no paid-media buyer identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The selected card includes a See details link to the official Roast Aroma domain; copy separately lists phone/WhatsApp and a Google Maps short link. No order outcome was tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Banashankari opening card",
+      "Hi Roast Aroma team,\n\nI checked card 1707287950342822: it is shown Sponsored and Active, started 08 Sep 2026, and names Banashankari 6th Stage. The BOGO/₹299 language is your card copy; I have not checked its current availability or treated it as order performance.\n\nThe public record does not expose private spend, orders or event firing. The published route, Orders.rcbkitchens@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "offer and order route",
+      "Hi Roast Aroma team,\n\nThe card links to roastaromacafe.in and lists a direct-order/WhatsApp phone. I did not test an order or infer how phone, website and delivery outcomes are reconciled.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "completed-order source",
+      "Hi Roast Aroma team,\n\nA measurement review could define a completed order and the source-of-record before connecting a public card to it. No order count, ROAS, CPA or conversion rate is public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "measurement owner",
+      "Hi Roast Aroma team,\n\nThe official site publishes an orders inbox but no media buyer. Could you confirm the current location and direct this note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Banashankari opening card",
+      "body": "Hi Roast Aroma team,\n\nI checked card 1707287950342822: it is shown Sponsored and Active, started 08 Sep 2026, and names Banashankari 6th Stage. The BOGO/₹299 language is your card copy; I have not checked its current availability or treated it as order performance.\n\nThe public record does not expose private spend, orders or event firing. The published route, Orders.rcbkitchens@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "offer and order route",
+      "body": "Hi Roast Aroma team,\n\nThe card links to roastaromacafe.in and lists a direct-order/WhatsApp phone. I did not test an order or infer how phone, website and delivery outcomes are reconciled.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "completed-order source",
+      "body": "Hi Roast Aroma team,\n\nA measurement review could define a completed order and the source-of-record before connecting a public card to it. No order count, ROAS, CPA or conversion rate is public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "measurement owner",
+      "body": "Hi Roast Aroma team,\n\nThe official site publishes an orders inbox but no media buyer. Could you confirm the current location and direct this note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

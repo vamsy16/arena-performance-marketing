@@ -1,0 +1,264 @@
+{
+  "brand": "Chutney Chang",
+  "slug": "chutney-chang",
+  "website": "https://fusionfoods.co.in/ws/chutneychang",
+  "instagram": "",
+  "niche": "Asian restaurant",
+  "headline": "A dated individual card is publicly marked active; brand contact is only available through an indexed Fusion Foods page in this capture.",
+  "market_signal": "An individually resolved buffet ad names Museum Road near Church Street, Bengaluru and uses advertiser copy about 75+ non-veg delights. The brand’s official Page About supplies a branch email, phone and Bangalore address.",
+  "local_evidence_status": "MEASURED — the individual ad names Museum Road/Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; official Page About lists HM Eleganza, Bangalore.",
+  "contact": {
+    "email": "chutneychangmr@fusionfoods.co.in",
+    "phone": "+91 80 4000 1234 / +91 88676 86810",
+    "entity": "Fusion Foods (email domain/page listing only; legal entity relationship not independently normalized)",
+    "address": "HM Eleganza, Bangalore, India 560025 (official Page About; ad copy names Museum Road near Church Street)",
+    "route_role": "Published brand Page contact email and phone; not confirmed as paid-media owner.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Chutney Chang’s official Facebook Page About section on 05 Oct 2026: https://www.facebook.com/chutneychangMuseumRoad/about lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234 / +91 88676 86810 and HM Eleganza, Bangalore. The linked Fusion Foods page returned HTTP 500; no other email was substituted.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published Page contact; current paid-media ownership is not stated."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in",
+    "detail": "India-region fusionfoods.co.in query returned zero results 05 Oct 2026; this does not establish no Google ads."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Chutney Chang individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532",
+      "source_type": "Platform record",
+      "observed": "Chutney Chang page; Library ID 25289523817380586 displayed Active/Sponsored on 05 Oct 2026; started 05 Dec 2025. Card copy says “A feast of 75+ non-veg delights” and names Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru. Another displayed variant includes 75+ dishes/live BBQ and price copy; all are advertiser statements. No performance outcome is shown.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Chutney Chang official Facebook Page About/contact section",
+      "url": "https://www.facebook.com/chutneychangMuseumRoad/about",
+      "source_type": "Brand first-party Page/contact record",
+      "observed": "Lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234, +91 88676 86810 and HM Eleganza, Bangalore, India 560025; links the brand to https://fusionfoods.co.in/ws/chutneychang.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Linked Fusion Foods Chutney Chang page (route check)",
+      "url": "https://fusionfoods.co.in/ws/chutneychang",
+      "source_type": "Linked brand/group first-party route; fetch error",
+      "observed": "The official Page About links this URL. Direct fetch returned HTTP 500 on 05 Oct 2026; this failed route is not used as the contact source.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — fusionfoods.co.in query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region fusionfoods.co.in query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected card names the Museum Road location; its menu figures remain advertiser copy",
+      "evidence": "Library ID 25289523817380586; Chutney Chang; Active/Sponsored 05 Oct 2026; started 05 Dec 2025. Copy says “75+ non-veg delights” and names Museum Rd near Church Street, Bengaluru.",
+      "analysis": "This is a current public placement and local card copy only. “75+” and displayed offer/price text are not independently audited menu or transaction data; no spend or booking outcome is public.",
+      "next_check": "Re-open the card and current menu before reusing offer wording; if authorized, connect its ID to a defined completed buffet booking/order event.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official Page About provides a direct contact; the linked corporate page is currently unavailable",
+      "evidence": "Page About lists chutneychangmr@fusionfoods.co.in, phone numbers and HM Eleganza, Bangalore; linked Fusion Foods brand page returned HTTP 500 on 05 Oct 2026.",
+      "analysis": "The accessible Page About is the first-party contact source. The site failure does not invalidate that listing, but the route should be reconfirmed before sending; no buyer identity is inferred.",
+      "next_check": "Recheck the official Page About and linked brand site before outreach; ask the published contact to route to the paid-media measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google group-domain query returned zero results in this capture",
+      "evidence": "India-region fusionfoods.co.in query returned zero results on 05 Oct 2026.",
+      "analysis": "This query does not rule out brand-level, other-domain or Google advertising activity.",
+      "next_check": "If revisited, inspect an accessible individual creative and verify a direct Chutney Chang/advertiser tie before claiming activity.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "25289523817380586",
+      "page_id": "277424805680532",
+      "page_name": "Chutney Chang",
+      "page_profile_url": "https://www.facebook.com/chutneychangMuseumRoad/",
+      "started_on": "2025-12-05",
+      "creative_excerpt": "“A feast of 75+ non-veg delights.” Card lists Chutney Chang, Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; another displayed variant says 75+ dishes/live BBQ and prices. These are advertiser copy, not independently measured menu/price data.",
+      "cta": "Learn more label shown; captured button hyperlink does not expose the brand destination.",
+      "destination_url": null,
+      "destination_status": "The direct card shows a Learn more label, but the captured hyperlink resolves to a generic Meta help URL rather than a brand landing path. No click, booking or order outcome was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual page-resolved card displayed Active/Sponsored, advertiser page, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Card and official Page About both identify the Bangalore/Museum Road area."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "Learn more is visible, but captured href is a generic Meta help URL, not a resolved brand booking route."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 3,
+      "basis": "Direct card, official Page About and linked-site failure, plus Google query, documented."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Official Page About publishes brand contact details; buyer/measurement ownership is not named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Chutney Chang individual card; checked 2026-10-05; Chutney Chang page; Library ID 25289523817380586 displayed Active/Sponsored on 05 Oct 2026; started 05 Dec 2025. Card copy says “A feast of 75+ non-veg delights” and names Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru. Another displayed variant includes 75+ dishes/live BBQ and price copy; all are advertiser statements. No performance outcome is shown.",
+    "S2 — Chutney Chang official Facebook Page About/contact section; checked 2026-10-05; Lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234, +91 88676 86810 and HM Eleganza, Bangalore, India 560025; links the brand to https://fusionfoods.co.in/ws/chutneychang.",
+    "S3 — Linked Fusion Foods Chutney Chang page (route check); checked 2026-10-05; The official Page About links this URL. Direct fetch returned HTTP 500 on 05 Oct 2026; this failed route is not used as the contact source.",
+    "S4 — Google Ads Transparency — fusionfoods.co.in query; checked 2026-10-05; India-region fusionfoods.co.in query returned zero results on 05 Oct 2026; not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 25289523817380586 and page ID 277424805680532; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region fusionfoods.co.in query returned zero results 05 Oct 2026; this does not establish no Google ads.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the individual ad names Museum Road/Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; official Page About lists HM Eleganza, Bangalore.",
+      "method": "An individually resolved buffet ad names Museum Road near Church Street, Bengaluru and uses advertiser copy about 75+ non-veg delights. The brand’s official Page About supplies a branch email, phone and Bangalore address. Published brand Page contact email and phone; not confirmed as paid-media owner.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The direct card shows a Learn more label, but the captured hyperlink resolves to a generic Meta help URL rather than a brand landing path. No click, booking or order outcome was tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Museum Road buffet card",
+      "Hi Chutney Chang team,\n\nI checked card 25289523817380586: it is shown Sponsored and Active, started 05 Dec 2025, and names the Museum Road/Church Street location. The “75+” menu figure is your ad copy, not an independent menu audit.\n\nThe public record does not expose private spend, orders or event firing. The published route, chutneychangmr@fusionfoods.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "contact route",
+      "Hi Chutney Chang team,\n\nYour official Facebook About page lists chutneychangmr@fusionfoods.co.in and the Bangalore contact details; its linked Fusion Foods page returned HTTP 500 when checked. I have used the Page About route, not an unrelated address.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "booking definition",
+      "Hi Chutney Chang team,\n\nA measurement review could distinguish a buffet inquiry from a confirmed booking/order and map the selected card only with authorized account-side data. No such result is public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "measurement owner",
+      "Hi Chutney Chang team,\n\nCould you confirm this is the current best contact and route this source-linked note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Museum Road buffet card",
+      "body": "Hi Chutney Chang team,\n\nI checked card 25289523817380586: it is shown Sponsored and Active, started 05 Dec 2025, and names the Museum Road/Church Street location. The “75+” menu figure is your ad copy, not an independent menu audit.\n\nThe public record does not expose private spend, orders or event firing. The published route, chutneychangmr@fusionfoods.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "contact route",
+      "body": "Hi Chutney Chang team,\n\nYour official Facebook About page lists chutneychangmr@fusionfoods.co.in and the Bangalore contact details; its linked Fusion Foods page returned HTTP 500 when checked. I have used the Page About route, not an unrelated address.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "booking definition",
+      "body": "Hi Chutney Chang team,\n\nA measurement review could distinguish a buffet inquiry from a confirmed booking/order and map the selected card only with authorized account-side data. No such result is public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "measurement owner",
+      "body": "Hi Chutney Chang team,\n\nCould you confirm this is the current best contact and route this source-linked note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

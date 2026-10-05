@@ -1,8 +1,8 @@
 # Verify the data — every claim, and where to check it
 
 This guide maps claims across the Food/Bengaluru pack to public sources. The 21 earlier
-leads retain their 2–3 October 2026 snapshots; the source-checked Batches 3–5 sections
-are dated 04 October 2026. Re-open each dated source before outreach; a public snapshot
+leads retain their 2–3 October 2026 snapshots; the source-checked Batches 3–6 sections
+are dated 04–05 October 2026. Re-open each dated source before outreach; a public snapshot
 is not a guarantee of later status.
 
 Three ground rules used throughout:
@@ -962,3 +962,780 @@ Site: `https://thethaivegankitchen.com/` · checked 04 October 2026 · Batch 5
 ## Step 0 — Batch 5 skill review
 
 `vamsy16/marketingskills` was inspected at commit `59d5112e61fd9b043cb3c97d5551f7044d184ad0`. Used `skills/analytics` for event/measurement limits, `skills/attribution` to keep public ad presence separate from conversion attribution, and `skills/cold-email` plus its follow-up-sequences reference for the low-friction Day 1/3/7/14 sequence. The `vamsy16/arena-performance-marketing` `REUSABLE-PROMPT.md`, current pack structure and Batch 4 incremental builder were reused. Older mock/generated lead workflows in `AUDIT-WORKFLOW.md` and `HOW-TO-RUN-IN-NEW-CHAT.md` were not run. Other repository relevance/no-usable-skill notes remain in the prior Step 0 section; no other external skill repo was used for Batch 5.
+
+## Batch 6 — Food / Bengaluru (source check: 05 October 2026)
+
+This is a dated public-evidence snapshot. Each Meta claim is tied to an individual Library ID and named advertiser/page; the selected card was checked for Sponsored and Active labels and start date on 05 Oct 2026. One card is not an account-wide count and public inventory can change daily. Google domain queries are not current brand-ad counts; zero results do not prove no activity, and an advertiser/creative is not attributed to a brand without an individual creative tie. Bengaluru evidence comes from explicit creative or first-party material, not audience targeting. Private account spend, ROAS, CPA, bookings, orders, conversions, tracking and event firing were not measured or inferred.
+
+### NIKAA Briyani
+
+Site: `https://nikaabriyani.com/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1105859485389342 — Active and Sponsored; started 2026-10-02 | Meta Ad Library · NIKAA Briyani · page ID 105049425832563 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/nikaabriyani/; copy: ‘Unlimited Biryani Feast at Just ₹299’; card names Nikaa Biryani–Marathahalli and gives 90/4, J.P. Royale, Outer Ring Road, Bengaluru 560037.; CTA: Instagram “Send message” label; final profile/conversation route not resolved.; destination: The captured card shows an Instagram “Send message” label; the final profile/conversation URL and any order outcome were not tested. |
+| The active Marathahalli card is an offer and message route, not an order measurement | Meta Ad Library — NIKAA individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) | Evidence: ID 1105859485389342; NIKAA Briyani; Active and Sponsored 05 Oct 2026; started 02 Oct 2026. Copy states ₹299 and a Marathahalli address; captured card shows Instagram ‘Send message’. Analysis boundary: This establishes the public card and wording only. Offer price was not checked at the outlet; no order, audience, spend or event result is exposed. Next check: Re-open the card and confirm copy/destination before reuse; if authorized, map the Library ID to the agreed completed-order event and source-of-record. |
+| The official contact route is feedback/catering, not a named media owner | NIKAA official Contact page (S2) | [https://nikaabriyani.com/contact](https://nikaabriyani.com/contact) | Evidence: Official Contact page publishes feedback@nikaabriyani.com and names Nonvee Foods at a Salem address; the selected card names a Marathahalli outlet. Analysis boundary: The sources support a contact route and Bengaluru card context, not a media-buyer identity or corporate-location claim in Bengaluru. Next check: Ask the published contact to route the source-linked note to the paid-media measurement owner; confirm the route before sending. |
+| The official contact route is feedback/catering, not a named media owner | Meta Ad Library — NIKAA individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) | Evidence: Official Contact page publishes feedback@nikaabriyani.com and names Nonvee Foods at a Salem address; the selected card names a Marathahalli outlet. Analysis boundary: The sources support a contact route and Bengaluru card context, not a media-buyer identity or corporate-location claim in Bengaluru. Next check: Ask the published contact to route the source-linked note to the paid-media measurement owner; confirm the route before sending. |
+| The Google result is not attributable to NIKAA | Google Ads Transparency — nikaabriyani.com query (S3) | [https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com](https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com) | Evidence: Domain view returned one verified NONVEE result; opened creative was last shown 10 Feb 2026 and marked removed, with content unavailable. Analysis boundary: A matching corporate name and domain query do not substitute for an accessible brand-identifying creative. No current Google activity is claimed. Next check: If revisited, open a current individual creative and verify advertiser, brand copy, destination and status/last-shown fields. |
+| The Google result is not attributable to NIKAA | Google Ads Transparency — opened NONVEE creative (S4) | [https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN](https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN) | Evidence: Domain view returned one verified NONVEE result; opened creative was last shown 10 Feb 2026 and marked removed, with content unavailable. Analysis boundary: A matching corporate name and domain query do not substitute for an accessible brand-identifying creative. No current Google activity is claimed. Next check: If revisited, open a current individual creative and verify advertiser, brand copy, destination and status/last-shown fields. |
+| Source register S1 — Meta Ad Library — NIKAA individual card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) | NIKAA Briyani; Library ID 1105859485389342 displayed Active and Sponsored on 05 Oct 2026; started 02 Oct 2026. Copy states a ₹299 unlimited-biryani offer and lists a Marathahalli, Bengaluru address. Instagram ‘Send message’ label; card-level claim only. |
+| Source register S2 — NIKAA official Contact page | Brand first-party contact page | [https://nikaabriyani.com/contact](https://nikaabriyani.com/contact) | Publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited at #32, Valmiki Street, Salem 636005. Invites feedback/questions/catering consultation; does not name a media buyer. |
+| Source register S3 — Google Ads Transparency — nikaabriyani.com query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com](https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com) | India-region query returned one result under verified NONVEE FOODS PRIVATE LIMITED; domain result alone is not proof of a NIKAA creative or current brand activity. |
+| Source register S4 — Google Ads Transparency — opened NONVEE creative | Platform individual creative | [https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN](https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN) | Verified advertiser NONVEE FOODS PRIVATE LIMITED; last shown 10 Feb 2026 and marked removed for policy violation. Creative unavailable, so no NIKAA tie/current Google activity is established. |
+| Google Ads Transparency status: CHECKED — one result under verified NONVEE FOODS PRIVATE LIMITED; opened creative last shown 10 Feb 2026 and marked removed; current NIKAA-specific Google activity not established | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com](https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com) | The India-region nikaabriyani.com query returned one result under verified NONVEE FOODS PRIVATE LIMITED. Opened creative CR05188749861448581121 says last shown 10 Feb 2026 and removed for policy violation; content unavailable. The first-party contact page names Nonvee Foods, but the unavailable creative is not tied to NIKAA, so no Google activity is attributed to the brand. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/nikaa-briyani.json`](leads/nikaa-briyani.json) | 16 / 20 (8.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Marathahalli card**
+
+Hi NIKAA Briyani team,
+
+I checked card 1105859485389342: Sponsored and Active, started 02 Oct 2026, naming NIKAA Briyani in Marathahalli. The ₹299 price is card copy, not a separately checked in-store price.
+
+The public record does not expose private spend, orders or event firing. The published route, feedback@nikaabriyani.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563)
+
+**Day 3 — Offer-copy check**
+
+Hi NIKAA Briyani team,
+
+The card shows an Instagram ‘Send message’ route, while the official contact page publishes feedback/catering. I did not test either path or infer an order.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563) · [S2](https://nikaabriyani.com/contact)
+
+**Day 7 — Order event**
+
+Hi NIKAA Briyani team,
+
+A measurement review would define the chosen completed-order event and source-of-record, then map the card destination only if authorized. Those records are not public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563)
+
+**Day 14 — Right owner**
+
+Hi NIKAA Briyani team,
+
+The official contact page does not identify a media buyer. Could you point me to the person responsible for paid-media measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://nikaabriyani.com/contact)
+
+**Contact provenance:** Crawled from NIKAA Briyani’s own Contact page on 05 Oct 2026: https://nikaabriyani.com/contact publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited’s Salem address. This is a feedback/catering route, not a confirmed paid-media contact.
+
+### Black Pearl Barbeque
+
+Site: `https://blackpearlmarathahalli.com/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 896967013290727 — Active and Sponsored; started 2026-09-11 | Meta Ad Library · Black Pearl Barbeque Restaurant · page ID 103142768909470 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/theblackpearlmar/; copy: ‘Bangalore, are you ready for a buffet adventure?’ Card states 180+ vegetarian/non-vegetarian options at The Black Pearl, Marathahalli.; CTA: Reservation phone/site are named in the creative; separate card button destination was not exposed in the capture.; destination: The card lists reservation phones and the official site in its copy. No exact card button destination or completed reservation was tested. |
+| The buffet card is a public placement, not a measured reservation result | Meta Ad Library — Black Pearl buffet card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470) | Evidence: ID 896967013290727; Black Pearl Barbeque Restaurant; Active/Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names Marathahalli, states 180+ options and shows phone/site. Analysis boundary: The card supports its public creative and visible route only; it exposes no bookings, audience, spend or ROAS. Next check: Re-open the card and booking path; if authorized, map its ID to a defined confirmed-reservation event and source-of-record. |
+| Official pages name different entities; keep this as a brand-level lead | Black Pearl official Terms & Conditions (S2) | [https://blackpearlmarathahalli.com/terms-conditions/](https://blackpearlmarathahalli.com/terms-conditions/) | Evidence: Terms names OICKPL as operator and references Bangalore Blues Entertainment India Private Limited; the official Careers result says incorporated by OIEPL. Analysis boundary: The public pages do not explain the relationship. Do not merge this brand with a parent or another account based on names alone. Next check: Ask the brand which legal/marketing entity owns the restaurant and paid-media account before group-level comparison or outreach aggregation. |
+| Official pages name different entities; keep this as a brand-level lead | Black Pearl official Careers page (S3) | [https://blackpearlmarathahalli.com/careers/](https://blackpearlmarathahalli.com/careers/) | Evidence: Terms names OICKPL as operator and references Bangalore Blues Entertainment India Private Limited; the official Careers result says incorporated by OIEPL. Analysis boundary: The public pages do not explain the relationship. Do not merge this brand with a parent or another account based on names alone. Next check: Ask the brand which legal/marketing entity owns the restaurant and paid-media account before group-level comparison or outreach aggregation. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — blackpearlmarathahalli.com query (S4) | [https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com](https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com) | Evidence: India-region domain view for blackpearlmarathahalli.com returned zero results 05 Oct 2026. Analysis boundary: Zero results in one public query do not establish that no Google activity exists. Next check: If revisited, open a current individual creative and verify its advertiser, content, destination and status/last-shown fields. |
+| Source register S1 — Meta Ad Library — Black Pearl buffet card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470) | Black Pearl Barbeque Restaurant; Library ID 896967013290727 displayed Active and Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names The Black Pearl, Marathahalli, says 180+ options and lists phone numbers/site. One card only. |
+| Source register S2 — Black Pearl official Terms & Conditions | Brand first-party legal/contact page | [https://blackpearlmarathahalli.com/terms-conditions/](https://blackpearlmarathahalli.com/terms-conditions/) | Publishes info@blackpearlmarathahalli.com and names ONE IKIGAII CLUSTER KITCHEN PRIVATE LIMITED (OICKPL) as site operator. A privacy sentence also references Bangalore Blues Entertainment India Private Limited; relationship not explained. |
+| Source register S3 — Black Pearl official Careers page | Brand first-party page / indexed disclosure | [https://blackpearlmarathahalli.com/careers/](https://blackpearlmarathahalli.com/careers/) | Publishes info@blackpearlmarathahalli.com. Official indexed result says Black Pearl is incorporated by One Ikigaii Edutech Private Limited (OIEPL), while Terms names OICKPL as operator. Entity relation unresolved; no affiliation inferred. |
+| Source register S4 — Google Ads Transparency — blackpearlmarathahalli.com query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com](https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com) | India-region domain view returned zero results on 05 Oct 2026. This is not proof of no Google advertising or activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com](https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com) | The India-region blackpearlmarathahalli.com query returned zero results in this capture. This is not proof that the brand does not advertise or that no ads exist. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/black-pearl-barbeque.json`](leads/black-pearl-barbeque.json) | 18 / 20 (9.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Marathahalli buffet card**
+
+Hi Black Pearl Barbeque team,
+
+Card 896967013290727 is shown Sponsored and Active, started 11 Sep 2026, and describes the Marathahalli buffet. I have not treated ‘180+’ as an audited menu count or a reservation result.
+
+The public record does not expose private spend, orders or event firing. The published route, info@blackpearlmarathahalli.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470)
+
+**Day 3 — Entity check**
+
+Hi Black Pearl Barbeque team,
+
+The Terms page lists one operator while the official Careers result uses another. I have not assumed the entities are the same or that the inbox belongs to paid media.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://blackpearlmarathahalli.com/terms-conditions/) · [S3](https://blackpearlmarathahalli.com/careers/)
+
+**Day 7 — Reservation definition**
+
+Hi Black Pearl Barbeque team,
+
+A useful internal outcome definition would be a confirmed reservation, with phone and online routes reconciled under one rule. No such records are public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470)
+
+**Day 14 — Right owner**
+
+Hi Black Pearl Barbeque team,
+
+The official site publishes info@blackpearlmarathahalli.com but no media buyer. Could you route me to the right owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://blackpearlmarathahalli.com/terms-conditions/) · [S3](https://blackpearlmarathahalli.com/careers/)
+
+**Contact provenance:** Crawled from Black Pearl’s own Terms page on 05 Oct 2026: https://blackpearlmarathahalli.com/terms-conditions/ publishes info@blackpearlmarathahalli.com for questions. The selected card shows reservation phone numbers. Official legal pages name different entities; this is a general route, not a confirmed media buyer.
+
+### Suvaii
+
+Site: `https://www.suvaii.in/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1427256346177856 — Active and Sponsored; started 2026-09-28 | Meta Ad Library · Suvaii · page ID 100091993127565 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/100091993127565/; copy: Catering copy for 100+ guests; ‘Available all across Bangalore \| Starting at ₹850 + taxes’; CTA Get Quote.; CTA: Get Quote.; destination: The card displays Get Quote through an fb.me redirect; the final form and any quote outcome were not tested. |
+| The catering card exposes a quote step, not a quote or booking result | Meta Ad Library — Suvaii catering card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565) | Evidence: ID 1427256346177856; Suvaii; Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy says 100+ guests and ‘Starting at ₹850 + taxes’; CTA Get Quote. Analysis boundary: The 100+ and price are advertiser copy. Final fb.me destination and any quote outcome were not tested. Next check: Re-open card and confirm current destination/wording; if authorized, define a qualified catering inquiry and source-of-record. |
+| First-party contact details align; the booking-widget label is not an ownership claim | Suvaii official Facebook About page (S2) | [https://www.facebook.com/100091993127565/about](https://www.facebook.com/100091993127565/about) | Evidence: Official Page About/contact publish info@suvaii.in, +91 78995 34344 and Indiranagar; contact widget displays ‘Moxhe Restaurant’. Analysis boundary: The About page links Suvaii to suvaii.in, while the widget relationship is not documented. No affiliation is inferred. Next check: Recheck the inquiry route and ask the brand to confirm the booking system and correct paid-media contact. |
+| First-party contact details align; the booking-widget label is not an ownership claim | Suvaii official contact page (S3) | [https://suvaii.in/contact](https://suvaii.in/contact) | Evidence: Official Page About/contact publish info@suvaii.in, +91 78995 34344 and Indiranagar; contact widget displays ‘Moxhe Restaurant’. Analysis boundary: The About page links Suvaii to suvaii.in, while the widget relationship is not documented. No affiliation is inferred. Next check: Recheck the inquiry route and ask the brand to confirm the booking system and correct paid-media contact. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — suvaii.in query (S4) | [https://adstransparency.google.com/?region=IN&domain=suvaii.in](https://adstransparency.google.com/?region=IN&domain=suvaii.in) | Evidence: India-region domain view for suvaii.in returned zero results 05 Oct 2026. Analysis boundary: A zero-result query is not evidence that the brand does not advertise on Google. Next check: If revisited, inspect an individual current creative and verify advertiser, copy, destination and status/last-shown. |
+| Source register S1 — Meta Ad Library — Suvaii catering card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565) | Suvaii (public Page ID 100091993127565); Library ID 1427256346177856 displayed Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy describes Pandyan-inspired catering for 100+ guests, ‘Starting at ₹850 + taxes’, Get Quote. Direct card only; advertiser-page feed returned empty state. |
+| Source register S2 — Suvaii official Facebook About page | Brand first-party Page/contact record | [https://www.facebook.com/100091993127565/about](https://www.facebook.com/100091993127565/about) | Lists info@suvaii.in, +91 78995 34344, #1333 Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038 and links suvaii.in; category Restaurant. |
+| Source register S3 — Suvaii official contact page | Brand first-party contact page | [https://suvaii.in/contact](https://suvaii.in/contact) | Publishes info@suvaii.in, +91 78995 34344 and Indiranagar address. Booking widget is labelled ‘Moxhe Restaurant’; no corporate relationship is stated or inferred. |
+| Source register S4 — Google Ads Transparency — suvaii.in query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=suvaii.in](https://adstransparency.google.com/?region=IN&domain=suvaii.in) | India-region domain query returned zero results 05 Oct 2026. Not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=suvaii.in](https://adstransparency.google.com/?region=IN&domain=suvaii.in) | The India-region suvaii.in Google query returned zero results in this capture. This is not proof of no Google advertising or activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/suvaii.json`](leads/suvaii.json) | 19 / 20 (9.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — 100+ guest catering**
+
+Hi Suvaii team,
+
+I checked card 1427256346177856: Sponsored and Active, started 28 Sep 2026, describing Suvaii catering for 100+ guests across Bangalore. The ₹850+ tax line is the card’s copy, not a separately validated current quote.
+
+The public record does not expose private spend, orders or event firing. The published route, info@suvaii.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+**Day 3 — Quote destination**
+
+Hi Suvaii team,
+
+The CTA is Get Quote via an fb.me redirect. I did not resolve the final form or infer a completed inquiry.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+**Day 7 — Lead definition**
+
+Hi Suvaii team,
+
+A review could define a qualified catering inquiry separately from a confirmed event booking. Neither is public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565)
+
+**Day 14 — Right owner**
+
+Hi Suvaii team,
+
+Suvaii’s official contact route is published, but the page does not name a paid-media owner. Could you point me to the right person?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100091993127565/about)
+
+**Contact provenance:** Checked on 05 Oct 2026 against Suvaii’s official Page About and linked contact page: https://www.facebook.com/100091993127565/about and https://suvaii.in/contact publish info@suvaii.in, +91 78995 34344 and the Indiranagar address. No paid-media owner is named.
+
+### Gold Coins Club & Resort
+
+Site: `https://www.goldcoinsresort.in/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 4243358122642238 — Active and Sponsored; started 2026-09-22 | Meta Ad Library · Gold Coins Club & Resort · page ID 927319817426120 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/goldcoinsclubresort/; copy: Birthday card promotes a venue with unlimited buffet, decorations/entertainment and gives the Electronic City Phase II address and bookings@goldcoinsresort.in.; CTA: Book now.; destination: The card displays Book now through an fb.me redirect; the final booking path and any booking outcome were not tested. |
+| The active birthday card exposes a booking CTA, not a confirmed event | Meta Ad Library — Gold Coins birthday card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) | Evidence: ID 4243358122642238; Gold Coins Club & Resort; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy mentions birthday celebrations, unlimited buffet and Electronic City Phase II; CTA Book now. Analysis boundary: This is public card copy and CTA only. The final redirect, package availability and completed bookings were not measured. Next check: Re-open the card and confirm current CTA/package details; if authorized, map the ID to a defined confirmed-event booking record. |
+| The active birthday card exposes a booking CTA, not a confirmed event | Gold Coins official Contact page (S2) | [https://www.goldcoinsresort.in/contact/](https://www.goldcoinsresort.in/contact/) | Evidence: ID 4243358122642238; Gold Coins Club & Resort; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy mentions birthday celebrations, unlimited buffet and Electronic City Phase II; CTA Book now. Analysis boundary: This is public card copy and CTA only. The final redirect, package availability and completed bookings were not measured. Next check: Re-open the card and confirm current CTA/package details; if authorized, map the ID to a defined confirmed-event booking record. |
+| The first-party booking route matches the local address but not a media owner | Gold Coins official Contact page (S2) | [https://www.goldcoinsresort.in/contact/](https://www.goldcoinsresort.in/contact/) | Evidence: Official Contact page publishes bookings@goldcoinsresort.in for enquiries, quotes/site visits and the same Andapura/Electronic City address. Analysis boundary: A booking inbox is a routing contact only; the page does not name a buyer or expose booking outcomes. Next check: Ask bookings to forward the source-linked note to the paid-media measurement owner. |
+| The Google result is not tied to the resort brand | Google Ads Transparency — goldcoinsresort.in query (S3) | [https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in](https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in) | Evidence: Query returned verified advertiser ‘Gold Coin Club’; opened creative last shown 25 Sep 2026 and marked removed, with content unavailable. Analysis boundary: Name/domain similarity does not establish that the advertiser or unavailable creative represents Gold Coins Club & Resort. Next check: If revisited, verify an accessible creative’s advertiser, brand-specific content, destination and status before attributing activity. |
+| The Google result is not tied to the resort brand | Google Ads Transparency — opened Gold Coin Club creative (S4) | [https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN](https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN) | Evidence: Query returned verified advertiser ‘Gold Coin Club’; opened creative last shown 25 Sep 2026 and marked removed, with content unavailable. Analysis boundary: Name/domain similarity does not establish that the advertiser or unavailable creative represents Gold Coins Club & Resort. Next check: If revisited, verify an accessible creative’s advertiser, brand-specific content, destination and status before attributing activity. |
+| Source register S1 — Meta Ad Library — Gold Coins birthday card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) | Gold Coins Club & Resort; Library ID 4243358122642238 displayed Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy promotes birthday celebrations, unlimited buffet and Andapura/Electronic City Phase II address; lists 9035800200 and bookings@goldcoinsresort.in; CTA Book now. |
+| Source register S2 — Gold Coins official Contact page | Brand first-party contact page | [https://www.goldcoinsresort.in/contact/](https://www.goldcoinsresort.in/contact/) | Publishes bookings@goldcoinsresort.in for new enquiries/quotes/site visits, +91 90358 00200 and No. 45/1 Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100; offers phone, WhatsApp and form. |
+| Source register S3 — Google Ads Transparency — goldcoinsresort.in query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in](https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in) | India-region query returned one result under verified advertiser Gold Coin Club. Similar name alone does not identify it as Gold Coins Club & Resort. |
+| Source register S4 — Google Ads Transparency — opened Gold Coin Club creative | Platform individual creative | [https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN](https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN) | Verified advertiser legal name Gold Coin Club; creative CR09308172910529085441 last shown 25 Sep 2026 and marked removed for policy violation. Content unavailable; no resort tie/current Google activity claimed. |
+| Google Ads Transparency status: CHECKED — one result under verified advertiser Gold Coin Club; opened creative last shown 25 Sep 2026 and marked removed; resort-brand Google activity not established | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in](https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in) | The India-region goldcoinsresort.in query returned one result under verified advertiser Gold Coin Club. Creative CR09308172910529085441 was last shown 25 Sep 2026 and marked removed for policy violation; content unavailable. Name/domain similarity does not establish a tie to Gold Coins Club & Resort; no current Google activity is claimed. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/gold-coins-club-resort.json`](leads/gold-coins-club-resort.json) | 19 / 20 (9.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Birthday card**
+
+Hi Gold Coins Club & Resort team,
+
+I checked card 4243358122642238: Sponsored and Active, started 22 Sep 2026, with birthday/buffet copy at the Electronic City Phase II site. I have not treated the package wording as a verified current offer or booking result.
+
+The public record does not expose private spend, orders or event firing. The published route, bookings@goldcoinsresort.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) · [S2](https://www.goldcoinsresort.in/contact/)
+
+**Day 3 — Booking path**
+
+Hi Gold Coins Club & Resort team,
+
+The card says Book now; the official contact page lists a booking inbox and enquiry form. I did not test a completed booking.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120) · [S2](https://www.goldcoinsresort.in/contact/)
+
+**Day 7 — Event definition**
+
+Hi Gold Coins Club & Resort team,
+
+An account-side review could define a confirmed event booking and reconcile enquiries, site visits and bookings under one rule. Those records are private and were not accessed.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.goldcoinsresort.in/contact/)
+
+**Day 14 — Right owner**
+
+Hi Gold Coins Club & Resort team,
+
+The published booking inbox is not identified as a paid-media owner. Could you route this source-linked note to the measurement lead?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.goldcoinsresort.in/contact/)
+
+**Contact provenance:** Crawled from Gold Coins Club & Resort’s own Contact page on 05 Oct 2026: https://www.goldcoinsresort.in/contact/ publishes bookings@goldcoinsresort.in, +91 90358 00200 and the Electronic City address for enquiries, quotes and site visits. It is not a confirmed media buyer.
+
+### Paint the Town Restaurant
+
+Site: `https://www.paintthetown.in/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1383590387259883 — Active and Sponsored; started 2026-09-25 | Meta Ad Library · Paint the town restaurant · page ID 210934195446623 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/61557370840689/; copy: Walk-in copy promotes savoury dishes/art menu; the same creative invites DMs for guided sessions, birthdays and corporate events at Koramangala.; CTA: Learn more to the official site; the creative separately invites event DMs.; destination: The card links to paintthetown.in and separately invites DMs for events; page navigation and completed booking were not tested. |
+| One card routes both dining and event enquiries | Meta Ad Library — Paint the town restaurant card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) | Evidence: ID 1383590387259883; Paint the town restaurant; Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy names food/art menu and DMs for guided sessions, birthdays and corporate events; Learn more links to official site. Analysis boundary: The creative exposes different customer intents; it does not show whether dining, event enquiries or confirmed bookings are reported separately. Next check: If the team separates objectives, define dining and event inquiry/booking events and map destinations only with authorized account-side data. |
+| One card routes both dining and event enquiries | Paint the Town official homepage / event routes (S3) | [https://www.paintthetown.in/](https://www.paintthetown.in/) | Evidence: ID 1383590387259883; Paint the town restaurant; Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy names food/art menu and DMs for guided sessions, birthdays and corporate events; Learn more links to official site. Analysis boundary: The creative exposes different customer intents; it does not show whether dining, event enquiries or confirmed bookings are reported separately. Next check: If the team separates objectives, define dining and event inquiry/booking events and map destinations only with authorized account-side data. |
+| The site offers separate menus and event routes; no tracking claim is made | Paint the Town official Contact page (S2) | [https://www.paintthetown.in/contact-3](https://www.paintthetown.in/contact-3) | Evidence: Official homepage presents Dine Sip Paint, food/art menus and bookable event experiences; Contact page matches the card’s Koramangala address. Analysis boundary: This establishes public paths, not evidence that attribution is missing or that a path fails. Next check: Re-open menus/event pages before outreach; ask which internal record is the source of truth for dining versus event bookings. |
+| The site offers separate menus and event routes; no tracking claim is made | Paint the Town official homepage / event routes (S3) | [https://www.paintthetown.in/](https://www.paintthetown.in/) | Evidence: Official homepage presents Dine Sip Paint, food/art menus and bookable event experiences; Contact page matches the card’s Koramangala address. Analysis boundary: This establishes public paths, not evidence that attribution is missing or that a path fails. Next check: Re-open menus/event pages before outreach; ask which internal record is the source of truth for dining versus event bookings. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — paintthetown.in query (S4) | [https://adstransparency.google.com/?region=IN&domain=paintthetown.in](https://adstransparency.google.com/?region=IN&domain=paintthetown.in) | Evidence: India-region view for paintthetown.in returned zero results 05 Oct 2026. Analysis boundary: Zero results do not prove the brand does not advertise on Google. Next check: If revisited, verify a specific current creative, advertiser, destination and last-shown/status. |
+| Source register S1 — Meta Ad Library — Paint the town restaurant card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) | Paint the town restaurant (public Page link ID 61557370840689); Library ID 1383590387259883 displayed Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy promotes savoury dishes/art menu and DMs for guided sessions, birthdays, corporate events; gives Koramangala address; Learn more links to paintthetown.in. |
+| Source register S2 — Paint the Town official Contact page | Brand first-party contact page | [https://www.paintthetown.in/contact-3](https://www.paintthetown.in/contact-3) | Publishes paint.the.town.workshop@gmail.com, +91 6366230141 and No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095. |
+| Source register S3 — Paint the Town official homepage / event routes | Brand first-party website | [https://www.paintthetown.in/](https://www.paintthetown.in/) | Presents Dine Sip Paint, food/art menus, events and bookable guided experiences; homepage links to separate event service pages. Public routes do not establish booking outcomes or tracking. |
+| Source register S4 — Google Ads Transparency — paintthetown.in query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=paintthetown.in](https://adstransparency.google.com/?region=IN&domain=paintthetown.in) | India-region domain view returned zero results 05 Oct 2026. Not proof of no Google advertising or activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=paintthetown.in](https://adstransparency.google.com/?region=IN&domain=paintthetown.in) | The India-region paintthetown.in Google query returned zero results in this capture. This limited public query does not prove no Google activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/paint-the-town-restaurant.json`](leads/paint-the-town-restaurant.json) | 19 / 20 (9.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Dining and events**
+
+Hi Paint the Town Restaurant team,
+
+Card 1383590387259883 is shown Sponsored and Active, started 25 Sep 2026, and combines dining/art-menu copy with DMs for events. The official site has separate menus and booking pages; I have not inferred bookings.
+
+The public record does not expose private spend, orders or event firing. The published route, paint.the.town.workshop@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+**Day 3 — Two booking paths**
+
+Hi Paint the Town Restaurant team,
+
+The site offers food/art menus and event pages, while the card uses Learn more and a DM invitation. I did not test a completed reservation or event booking.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+**Day 7 — Outcome definition**
+
+Hi Paint the Town Restaurant team,
+
+A review could define a dining outcome separately from a qualified event enquiry or confirmed booking. No such results are public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623) · [S3](https://www.paintthetown.in/)
+
+**Day 14 — Right owner**
+
+Hi Paint the Town Restaurant team,
+
+The Contact page publishes a general inbox but no media buyer. Could you direct this to the measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.paintthetown.in/contact-3)
+
+**Contact provenance:** Crawled from Paint the Town’s own Contact page on 05 Oct 2026: https://www.paintthetown.in/contact-3 publishes paint.the.town.workshop@gmail.com, +91 6366230141 and the Koramangala address named in the card. No paid-media owner is named.
+
+### Chutney Chang
+
+Site: `https://fusionfoods.co.in/ws/chutneychang` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 25289523817380586 — Active and Sponsored; started 2025-12-05 | Meta Ad Library · Chutney Chang · page ID 277424805680532 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/chutneychangMuseumRoad/; copy: “A feast of 75+ non-veg delights.” Card lists Chutney Chang, Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; another displayed variant says 75+ dishes/live BBQ and prices. These are advertiser copy, not independently measured menu/price data.; CTA: Learn more label shown; captured button hyperlink does not expose the brand destination.; destination: The direct card shows a Learn more label, but the captured hyperlink resolves to a generic Meta help URL rather than a brand landing path. No click, booking or order outcome was tested. |
+| The selected card names the Museum Road location; its menu figures remain advertiser copy | Meta Ad Library — Chutney Chang individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532) | Evidence: Library ID 25289523817380586; Chutney Chang; Active/Sponsored 05 Oct 2026; started 05 Dec 2025. Copy says “75+ non-veg delights” and names Museum Rd near Church Street, Bengaluru. Analysis boundary: This is a current public placement and local card copy only. “75+” and displayed offer/price text are not independently audited menu or transaction data; no spend or booking outcome is public. Next check: Re-open the card and current menu before reusing offer wording; if authorized, connect its ID to a defined completed buffet booking/order event. |
+| The official Page About provides a direct contact; the linked corporate page is currently unavailable | Chutney Chang official Facebook Page About/contact section (S2) | [https://www.facebook.com/chutneychangMuseumRoad/about](https://www.facebook.com/chutneychangMuseumRoad/about) | Evidence: Page About lists chutneychangmr@fusionfoods.co.in, phone numbers and HM Eleganza, Bangalore; linked Fusion Foods brand page returned HTTP 500 on 05 Oct 2026. Analysis boundary: The accessible Page About is the first-party contact source. The site failure does not invalidate that listing, but the route should be reconfirmed before sending; no buyer identity is inferred. Next check: Recheck the official Page About and linked brand site before outreach; ask the published contact to route to the paid-media measurement owner. |
+| The official Page About provides a direct contact; the linked corporate page is currently unavailable | Linked Fusion Foods Chutney Chang page (route check) (S3) | [https://fusionfoods.co.in/ws/chutneychang](https://fusionfoods.co.in/ws/chutneychang) | Evidence: Page About lists chutneychangmr@fusionfoods.co.in, phone numbers and HM Eleganza, Bangalore; linked Fusion Foods brand page returned HTTP 500 on 05 Oct 2026. Analysis boundary: The accessible Page About is the first-party contact source. The site failure does not invalidate that listing, but the route should be reconfirmed before sending; no buyer identity is inferred. Next check: Recheck the official Page About and linked brand site before outreach; ask the published contact to route to the paid-media measurement owner. |
+| The Google group-domain query returned zero results in this capture | Google Ads Transparency — fusionfoods.co.in query (S4) | [https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in](https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in) | Evidence: India-region fusionfoods.co.in query returned zero results on 05 Oct 2026. Analysis boundary: This query does not rule out brand-level, other-domain or Google advertising activity. Next check: If revisited, inspect an accessible individual creative and verify a direct Chutney Chang/advertiser tie before claiming activity. |
+| Source register S1 — Meta Ad Library — Chutney Chang individual card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532) | Chutney Chang page; Library ID 25289523817380586 displayed Active/Sponsored on 05 Oct 2026; started 05 Dec 2025. Card copy says “A feast of 75+ non-veg delights” and names Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru. Another displayed variant includes 75+ dishes/live BBQ and price copy; all are advertiser statements. No performance outcome is shown. |
+| Source register S2 — Chutney Chang official Facebook Page About/contact section | Brand first-party Page/contact record | [https://www.facebook.com/chutneychangMuseumRoad/about](https://www.facebook.com/chutneychangMuseumRoad/about) | Lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234, +91 88676 86810 and HM Eleganza, Bangalore, India 560025; links the brand to https://fusionfoods.co.in/ws/chutneychang. |
+| Source register S3 — Linked Fusion Foods Chutney Chang page (route check) | Linked brand/group first-party route; fetch error | [https://fusionfoods.co.in/ws/chutneychang](https://fusionfoods.co.in/ws/chutneychang) | The official Page About links this URL. Direct fetch returned HTTP 500 on 05 Oct 2026; this failed route is not used as the contact source. |
+| Source register S4 — Google Ads Transparency — fusionfoods.co.in query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in](https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in) | India-region fusionfoods.co.in query returned zero results on 05 Oct 2026; not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in](https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in) | India-region fusionfoods.co.in query returned zero results 05 Oct 2026; this does not establish no Google ads. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/chutney-chang.json`](leads/chutney-chang.json) | 16 / 20 (8.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Museum Road buffet card**
+
+Hi Chutney Chang team,
+
+I checked card 25289523817380586: it is shown Sponsored and Active, started 05 Dec 2025, and names the Museum Road/Church Street location. The “75+” menu figure is your ad copy, not an independent menu audit.
+
+The public record does not expose private spend, orders or event firing. The published route, chutneychangmr@fusionfoods.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532)
+
+**Day 3 — contact route**
+
+Hi Chutney Chang team,
+
+Your official Facebook About page lists chutneychangmr@fusionfoods.co.in and the Bangalore contact details; its linked Fusion Foods page returned HTTP 500 when checked. I have used the Page About route, not an unrelated address.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.facebook.com/chutneychangMuseumRoad/about) · [S3](https://fusionfoods.co.in/ws/chutneychang)
+
+**Day 7 — booking definition**
+
+Hi Chutney Chang team,
+
+A measurement review could distinguish a buffet inquiry from a confirmed booking/order and map the selected card only with authorized account-side data. No such result is public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532)
+
+**Day 14 — measurement owner**
+
+Hi Chutney Chang team,
+
+Could you confirm this is the current best contact and route this source-linked note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.facebook.com/chutneychangMuseumRoad/about)
+
+**Contact provenance:** Crawled from Chutney Chang’s official Facebook Page About section on 05 Oct 2026: https://www.facebook.com/chutneychangMuseumRoad/about lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234 / +91 88676 86810 and HM Eleganza, Bangalore. The linked Fusion Foods page returned HTTP 500; no other email was substituted.
+
+### Xin by MindEscapes
+
+Site: `https://www.xinbymindescapes.com/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1798771901502677 — Active and Sponsored; started 2026-07-06 | Meta Ad Library · Xin By MindEscapes · page ID 248827811637624 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/XinByMindescapes/; copy: Selected card copy: “The kitchen is closed. Zomato is open”; “Don’t force a meal. Order exactly what you’re craving. Order From XIN.” It also labels the destination “Food Delivery, Online Ordering, Koramangala.”; CTA: Order From XIN; card variant exposes a short link (not expanded/tested).; destination: The captured card displays a TinyURL next to “See menu”; a separate variant says Order From XIN. Short URL destination, checkout and order outcome were not tested. |
+| The active card shows delivery copy and a short link, not a public order result | Meta Ad Library — Xin By MindEscapes individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624) | Evidence: Library ID 1798771901502677; Xin By MindEscapes; Active/Sponsored 05 Oct 2026; started 06 Jul 2026. Copy says “The kitchen is closed. Zomato is open” and “Order From XIN”; a TinyURL appears beside “See menu.” Analysis boundary: The selected card supports public creative and CTA text only. TinyURL destination, checkout, completed orders, spend and attribution are not measured. Next check: Expand and verify the short link before reuse; if authorized, map the Library ID to a defined completed order and the approved source-of-record. |
+| Xin publishes a brand-specific contact; the registered office is not called an outlet | Meta Ad Library — Xin By MindEscapes individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624) | Evidence: Xin Contact page lists enquiry@xinbymindescapes.com and a Koramangala, Bangalore registered office. Analysis boundary: The card also labels Koramangala, but neither the registered-office address nor city copy establishes ad audience targeting or a particular branch. Next check: Confirm the outlet/location served by this card and ask the published brand contact to route to the paid-media measurement owner. |
+| Xin publishes a brand-specific contact; the registered office is not called an outlet | Xin official Contact page (S2) | [https://www.xinbymindescapes.com/contact](https://www.xinbymindescapes.com/contact) | Evidence: Xin Contact page lists enquiry@xinbymindescapes.com and a Koramangala, Bangalore registered office. Analysis boundary: The card also labels Koramangala, but neither the registered-office address nor city copy establishes ad audience targeting or a particular branch. Next check: Confirm the outlet/location served by this card and ask the published brand contact to route to the paid-media measurement owner. |
+| The brand-domain Google query returned zero results in this capture | Google Ads Transparency — xinbymindescapes.com query (S4) | [https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com](https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com) | Evidence: India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. Analysis boundary: A zero-result domain view does not rule out advertising through another domain or account. Next check: If revisited, inspect a specific accessible creative and verify named advertiser, brand copy, destination and current status. |
+| Source register S1 — Meta Ad Library — Xin By MindEscapes individual card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624) | Xin By MindEscapes page; Library ID 1798771901502677 displayed Active/Sponsored on 05 Oct 2026; started 06 Jul 2026. The captured card copy says “The kitchen is closed. Zomato is open”; “Order From XIN”; and labels food delivery/online ordering/Koramangala. A TinyURL appears with “See menu”; destination and order completion not tested. |
+| Source register S2 — Xin official Contact page | Brand first-party contact page | [https://www.xinbymindescapes.com/contact](https://www.xinbymindescapes.com/contact) | Lists enquiry@xinbymindescapes.com, +91 97399 08844, +91 96069 91560 and MindEscapes Club Pvt. Ltd., #83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034. This is described as a registered office, not a restaurant outlet. |
+| Source register S3 — Xin official homepage | Brand first-party website | [https://www.xinbymindescapes.com/](https://www.xinbymindescapes.com/) | Describes Xin as an Asian-cuisine brand across Xin Go, Xin Den and Xin Fine. No private order/conversion results were used. |
+| Source register S4 — Google Ads Transparency — xinbymindescapes.com query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com](https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com) | The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity. |
+| Google Ads Transparency status: CHECKED — zero domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com](https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com) | The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/xin-by-mindescapes.json`](leads/xin-by-mindescapes.json) | 18 / 20 (9.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Xin order card**
+
+Hi Xin by MindEscapes team,
+
+I checked card 1798771901502677: it is shown Sponsored and Active, started 06 Jul 2026, and says “Order From XIN” with delivery/Koramangala copy. I have not treated the short link as a completed order.
+
+The public record does not expose private spend, orders or event firing. The published route, enquiry@xinbymindescapes.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624)
+
+**Day 3 — Koramangala route**
+
+Hi Xin by MindEscapes team,
+
+Xin’s own contact page publishes enquiry@xinbymindescapes.com and a registered-office address in Koramangala. I have not assumed the office is an outlet or a media team.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.xinbymindescapes.com/contact)
+
+**Day 7 — order event definition**
+
+Hi Xin by MindEscapes team,
+
+A review could connect the selected card to a defined completed-order event and the business’s source-of-record, if authorized. Neither is public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624)
+
+**Day 14 — measurement owner**
+
+Hi Xin by MindEscapes team,
+
+The brand contact page does not name a paid-media owner. Could you route this source-linked note to the person responsible for measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.xinbymindescapes.com/contact)
+
+**Contact provenance:** Crawled from Xin’s own Contact page on 05 Oct 2026: https://www.xinbymindescapes.com/contact lists enquiry@xinbymindescapes.com, +91 97399 08844 / +91 96069 91560 and MindEscapes Club Pvt. Ltd.’s Koramangala registered office. It does not identify a paid-media buyer or state that the office is an outlet.
+
+### Roast Aroma
+
+Site: `https://roastaromacafe.in/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1707287950342822 — Active and Sponsored; started 2026-09-08 | Meta Ad Library · ROAST AROMA - Cafe & Pizzeria · page ID 1319770384542463 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/61593310372873/; copy: “Buy 1 pizza, get 1 free” and “Loaded Burger Feast Combo @ just ₹299”; copy says “Delivering till 1 AM,” lists Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru, and a direct-orders/WhatsApp phone. Offer/price are advertiser copy.; CTA: See details → roastaromacafe.in; creative also lists direct-order/WhatsApp phone and a Google Maps route.; destination: The selected card includes a See details link to the official Roast Aroma domain; copy separately lists phone/WhatsApp and a Google Maps short link. No order outcome was tested. |
+| The opening-offer card exposes a direct site and order route, not completed orders | Meta Ad Library — Roast Aroma individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463) | Evidence: ID 1707287950342822; ROAST AROMA - Cafe & Pizzeria; Active/Sponsored 05 Oct 2026; started 08 Sep 2026. Copy lists BOGO pizza, ₹299 burger combo, Banashankari 6th Stage and a direct-order/WhatsApp phone; See details links to roastaromacafe.in. Analysis boundary: The ad establishes public offer copy, local address and a visible route only. Price/availability, orders, audience, spend and ROAS were not independently measured. Next check: Re-open the card and current offer before reuse; if authorized, map the Library ID and order route to the agreed completed-order source-of-record. |
+| The opening-offer card exposes a direct site and order route, not completed orders | Roast Aroma official website (S2) | [https://roastaromacafe.in/](https://roastaromacafe.in/) | Evidence: ID 1707287950342822; ROAST AROMA - Cafe & Pizzeria; Active/Sponsored 05 Oct 2026; started 08 Sep 2026. Copy lists BOGO pizza, ₹299 burger combo, Banashankari 6th Stage and a direct-order/WhatsApp phone; See details links to roastaromacafe.in. Analysis boundary: The ad establishes public offer copy, local address and a visible route only. Price/availability, orders, audience, spend and ROAS were not independently measured. Next check: Re-open the card and current offer before reuse; if authorized, map the Library ID and order route to the agreed completed-order source-of-record. |
+| The official site confirms a Bengaluru business route, not the paid-media owner | Roast Aroma official website (S2) | [https://roastaromacafe.in/](https://roastaromacafe.in/) | Evidence: roastaromacafe.in lists Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage location. Analysis boundary: An order inbox is a published contact route; its mailbox string does not establish a parent company, ad-account owner or performance result. Next check: Ask the published route to confirm the current offer/location and forward a source-linked note to the paid-media measurement owner. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — roastaromacafe.in query (S4) | [https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in](https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in) | Evidence: India-region roastaromacafe.in query returned zero results on 05 Oct 2026. Analysis boundary: Zero results are not proof of no Google advertising or brand activity. Next check: If revisited, inspect an accessible individual creative and verify named advertiser, brand-specific copy, destination and status. |
+| Source register S1 — Meta Ad Library — Roast Aroma individual card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463) | ROAST AROMA - Cafe & Pizzeria; Library ID 1707287950342822 displayed Active/Sponsored on 05 Oct 2026; started 08 Sep 2026. Copy says Buy 1 Pizza Get 1 Free, Loaded Burger Feast Combo at ₹299, delivering till 1 AM; names Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru; lists phone/WhatsApp and a Google Maps route. These are advertiser statements/routes; no order outcome measured. |
+| Source register S2 — Roast Aroma official website | Brand first-party website/contact page | [https://roastaromacafe.in/](https://roastaromacafe.in/) | Publishes Orders.rcbkitchens@gmail.com and +91 91410 51702; describes Roast Aroma Café & Pizzateria at Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru. The ₹99 starting-price copy on the site and ₹299/BOGO card offer are brand-published, not independent performance data. |
+| Source register S3 — Roast Aroma official Facebook Page | Brand first-party social/ad page | [https://www.facebook.com/61593310372873/](https://www.facebook.com/61593310372873/) | Page label is ROAST AROMA - Cafe & Pizzeria and is the named advertiser for the selected card. |
+| Source register S4 — Google Ads Transparency — roastaromacafe.in query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in](https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in) | India-region domain query returned zero results on 05 Oct 2026; not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in](https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in) | The India-region roastaromacafe.in query returned zero results in this capture; it does not prove no Google advertising/activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/roast-aroma.json`](leads/roast-aroma.json) | 19 / 20 (9.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Banashankari opening card**
+
+Hi Roast Aroma team,
+
+I checked card 1707287950342822: it is shown Sponsored and Active, started 08 Sep 2026, and names Banashankari 6th Stage. The BOGO/₹299 language is your card copy; I have not checked its current availability or treated it as order performance.
+
+The public record does not expose private spend, orders or event firing. The published route, Orders.rcbkitchens@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463) · [S2](https://roastaromacafe.in/)
+
+**Day 3 — offer and order route**
+
+Hi Roast Aroma team,
+
+The card links to roastaromacafe.in and lists a direct-order/WhatsApp phone. I did not test an order or infer how phone, website and delivery outcomes are reconciled.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463)
+
+**Day 7 — completed-order source**
+
+Hi Roast Aroma team,
+
+A measurement review could define a completed order and the source-of-record before connecting a public card to it. No order count, ROAS, CPA or conversion rate is public here.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463)
+
+**Day 14 — measurement owner**
+
+Hi Roast Aroma team,
+
+The official site publishes an orders inbox but no media buyer. Could you confirm the current location and direct this note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://roastaromacafe.in/)
+
+**Contact provenance:** Crawled from Roast Aroma’s own website on 05 Oct 2026: https://roastaromacafe.in/ publishes Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage, Bengaluru location. No paid-media buyer is named.
+
+### AN’s Events & Caterers
+
+Site: `https://www.ansevents.org/` · checked 05 October 2026 · Batch 6
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 2506487619856998 — Active and Sponsored; started 2026-09-22 | Meta Ad Library · AN's Events and caterers · page ID 100064927532767 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767) | Checked 2026-10-05; direct card and advertiser/page profile: https://www.facebook.com/100064927532767/; copy: “Planning an event in Bangalore?” Copy offers catering and complete event management for weddings, engagements, birthdays, baptisms and corporate events; invites a quotation and WhatsApp message.; CTA: Get Quote / Send WhatsApp message (button labels shown; final route not tested).; destination: The captured card shows Get Quote and Send WhatsApp message labels. The card-specific final destination and any event inquiry/booking outcome were not tested. |
+| The card exposes event quote/WhatsApp labels, not confirmed bookings | Meta Ad Library — AN’s Events & Caterers individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767) | Evidence: Library ID 2506487619856998; AN's Events and caterers; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?” and buttons show Get Quote/Send WhatsApp message. Analysis boundary: This establishes the public creative and next-step labels only. Final destination, event leads, confirmed bookings and attribution are not visible. Next check: Re-open the card to verify its current CTA destination; if authorized, distinguish qualified event inquiries from confirmed bookings in the approved source-of-record. |
+| First-party contact routes conflict and need confirmation | AN’s Events official Facebook Page About/contact (S2) | [https://www.facebook.com/100064927532767/about](https://www.facebook.com/100064927532767/about) | Evidence: Facebook Page About lists anusumesh.2009@gmail.com. Official .org site lists the Hebbal Kempapura address and shows contact@anskitchen.in linked to mailto:contact@ansevents.org. Analysis boundary: The label/target mismatch is preserved rather than guessing which is preferred or treating either route as a media owner. Next check: Confirm the correct current business contact and ask it to route the source-linked note to the paid-media measurement owner. |
+| First-party contact routes conflict and need confirmation | AN’s Events official .org website/contact section (S3) | [https://www.ansevents.org/](https://www.ansevents.org/) | Evidence: Facebook Page About lists anusumesh.2009@gmail.com. Official .org site lists the Hebbal Kempapura address and shows contact@anskitchen.in linked to mailto:contact@ansevents.org. Analysis boundary: The label/target mismatch is preserved rather than guessing which is preferred or treating either route as a media owner. Next check: Confirm the correct current business contact and ask it to route the source-linked note to the paid-media measurement owner. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — ansevents.org query (S4) | [https://adstransparency.google.com/?region=IN&domain=ansevents.org](https://adstransparency.google.com/?region=IN&domain=ansevents.org) | Evidence: India-region ansevents.org query returned zero results on 05 Oct 2026. Analysis boundary: Zero results do not prove no Google advertising or activity. Next check: If revisited, inspect a current individual creative and verify the advertiser, brand-specific copy, destination and status. |
+| Source register S1 — Meta Ad Library — AN’s Events & Caterers individual card | Platform record | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767) | AN's Events and caterers page; Library ID 2506487619856998 displayed Active/Sponsored on 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?”, lists catering/event management and names weddings, engagements, birthdays, baptisms and corporate events; buttons show Get Quote and Send WhatsApp message. Destination and event outcome not tested. |
+| Source register S2 — AN’s Events official Facebook Page About/contact | Brand first-party Page/contact record | [https://www.facebook.com/100064927532767/about](https://www.facebook.com/100064927532767/about) | Lists anusumesh.2009@gmail.com and identifies the Page as AN’s Events and caterers, Bangalore; provides a public contact route. No paid-media owner named. |
+| Source register S3 — AN’s Events official .org website/contact section | Brand first-party website/contact page | [https://www.ansevents.org/](https://www.ansevents.org/) | Lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024; phones +91 87928 12695 and +91 93805 38400. Visible email label is contact@anskitchen.in, linked mailto target is contact@ansevents.org. The site also publishes service descriptions and branded claims; no private event results used. |
+| Source register S4 — Google Ads Transparency — ansevents.org query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=ansevents.org](https://adstransparency.google.com/?region=IN&domain=ansevents.org) | India-region ansevents.org query returned zero results on 05 Oct 2026; not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · brand-domain view | [https://adstransparency.google.com/?region=IN&domain=ansevents.org](https://adstransparency.google.com/?region=IN&domain=ansevents.org) | The India-region ansevents.org query returned zero results in this capture; this does not prove no Google activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/ans-events-caterers.json`](leads/ans-events-caterers.json) | 17 / 20 (8.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Bangalore event card**
+
+Hi AN’s Events & Caterers team,
+
+I checked card 2506487619856998: it is shown Sponsored and Active, started 22 Sep 2026, and says “Planning an event in Bangalore?” with Get Quote/WhatsApp labels. I have not inferred an event booking.
+
+The public record does not expose private spend, orders or event firing. The published route, anusumesh.2009@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767)
+
+**Day 3 — contact route check**
+
+Hi AN’s Events & Caterers team,
+
+The Page About lists anusumesh.2009@gmail.com; the official site lists contact@anskitchen.in but links to contact@ansevents.org. I have kept that discrepancy visible rather than choosing for you.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100064927532767/about) · [S3](https://www.ansevents.org/)
+
+**Day 7 — event inquiry definition**
+
+Hi AN’s Events & Caterers team,
+
+A review could separate qualified event inquiries from confirmed bookings using the team’s source-of-record. Those private outcomes are not public in this snapshot.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767)
+
+**Day 14 — measurement owner**
+
+Hi AN’s Events & Caterers team,
+
+Could you confirm the best contact route and direct this source-linked note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.facebook.com/100064927532767/about) · [S3](https://www.ansevents.org/)
+
+**Contact provenance:** Crawled from AN’s Events & Caterers Facebook Page About on 05 Oct 2026: https://www.facebook.com/100064927532767/about lists anusumesh.2009@gmail.com. Its official https://www.ansevents.org/ site lists the Hebbal Kempapura address and phone numbers, but displays contact@anskitchen.in linked to mailto:contact@ansevents.org. Conflict preserved; no email is silently substituted and no media buyer is identified.
+
+
+## Batch 6 scope decisions
+
+- Working target: ten new leads, subject to individually page-resolved Active/Sponsored Meta cards, Bengaluru evidence, first-party contact provenance, and cross-folder duplicate checks. Nine leads met all conditions. Cafe Luma Haus was excluded because its active card describes a private rooftop in Koramangala while its own site places the cafe/event route in Madiwala/BTM Layout; no primary source reconciles the venue. No weaker substitute was added to reach ten.
+- All nine selected Meta cards were individually opened and displayed the named page/card, Sponsored label, Active status, start date and direct Library ID on 05 Oct 2026. A selected card is not an account-wide count; public inventory changes daily.
+- Cafe Luma Haus exclusion: the brand-owned site places the cafe and event route in Madiwala/BTM Layout and says the venue is accessible from Koramangala; it does not confirm the ad’s Koramangala rooftop location. A third-party BookMyShow venue listing gives the Madiwala address but does not resolve the mismatch on the brand’s behalf. See excluded_candidates above; the candidate is not a Batch 6 lead.
+- Chutney Chang’s accessible official Facebook About page provides a first-party branch email, phone and Bangalore address; its linked Fusion Foods site returned HTTP 500 on 05 Oct 2026. The accessible Page About is used instead of an indexed-only corporate inbox.
+- Xin’s selected card is tied to the named Xin By MindEscapes advertiser/page and start date. The brand’s own contact page publishes a Koramangala registered-office address and enquiry email; that registered office is not described as an outlet.
+- Google Transparency Center domain queries and opened advertiser results are not treated as brand-specific activity without an accessible brand-identifying creative. Zero results do not prove no advertising; removed/unavailable creatives do not establish current brand activity.
+- No rendered-browser tag/pixel test, event-firing test, account export, spend, ROAS, CPA, order, booking, impression or conversion outcome was measured. No audience geography is inferred from public city copy.
+
+### Excluded candidates — not included in the batch or registry
+
+#### Cafe Luma Haus
+
+Excluded from Batch 6; not counted in the nine retained leads and not added to the registry. The individually resolved Meta card (Library ID 1523994009371748; page label “Cafeluma”; Active/Sponsored on 05 Oct 2026; started 25 Apr 2026) describes a private rooftop in Koramangala. Cafe Luma Haus’s own website places its cafe and event-booking route at Madiwala/BTM Layout, Bengaluru. Its site says Koramangala is an area from which the Madiwala venue is accessible, but does not confirm the advertised Koramangala venue. A third-party BookMyShow venue listing also gives the Madiwala address; it is not a first-party reconciliation. The locality/venue discrepancy remains unresolved, so the candidate was excluded rather than inferred or replaced with a weak lead.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library — individual Cafe Luma Haus card | Candidate source — excluded; not used as a lead | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1523994009371748&view_all_page_id=1044743912044704](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1523994009371748&view_all_page_id=1044743912044704) | Checked 2026-10-05. Named page label Cafeluma; Library ID 1523994009371748 displayed Active and Sponsored; started 25 Apr 2026; creative describes a private rooftop in Koramangala for small events. |
+| Cafe Luma Haus official website | Candidate source — excluded; not used as a lead | [https://cafelumahaus.in/](https://cafelumahaus.in/) | Checked 2026-10-05. First-party page lists No. 1/1, 1st Main Rd, 1st Cross Road, Madiwala, 1st Stage, BTM Layout, Bengaluru and a WhatsApp event-booking route; says Madiwala is accessible from Koramangala. It does not establish a Koramangala venue. |
+| BookMyShow venue listing (third-party; not treated as reconciliation) | Candidate source — excluded; not used as a lead | [https://in.bookmyshow.com/explore/c/venues/cafe-luma-haus-bengaluru/ibhs](https://in.bookmyshow.com/explore/c/venues/cafe-luma-haus-bengaluru/ibhs) | Checked 2026-10-05. Lists a rooftop venue at the same 1/1 Madiwala address; third-party listing, not brand-owned evidence. |
+
+### Step 0 — repositories and skills reviewed for Batch 6
+
+- **Used — `vamsy16/arena-performance-marketing` (deliverable home):** `REUSABLE-PROMPT.md` and the current Food/Bengaluru pack structure; the incremental B5 builder was copied and adapted. Bundled `skills/performance-lead-audit` supplied the source-led audit framing only; its numerical budget/lead thresholds were not used. Bundled `skills/cold-email` informed concise, low-friction follow-ups with a distinct reason to reply. `skills/pdf-report-generator` was reviewed but its 1–2-page ROI/guarantee format was not used; the required five-page `REUSABLE-PROMPT.md` layout and current pack builder take precedence. `skills/outreach-personalizer` templates were not used because their example formats call for unsupported counts, competitor claims or performance metrics.
+- **Used — `vamsy16/claude-ads` @ `669c7608ecb50dd95c941a71fa3ca0a1c0e40512`:** [`skills/ads-research`](https://github.com/vamsy16/claude-ads/blob/main/skills/ads-research/SKILL.md) for primary-source/date lineage and unsupported-claim demotion; [`skills/ads-audit`](https://github.com/vamsy16/claude-ads/blob/main/skills/ads-audit/SKILL.md) for evidence coverage, missing inputs and unknown/partial boundaries. No authenticated account audit is represented as completed.
+- **Used — `vamsy16/marketingskills` @ `59d5112e61fd9b043cb3c97d5551f7044d184ad0`:** [`skills/analytics`](https://github.com/vamsy16/marketingskills/blob/main/skills/analytics/SKILL.md) for event-definition/measurement boundaries; [`skills/attribution`](https://github.com/vamsy16/marketingskills/blob/main/skills/attribution/SKILL.md) to avoid treating an ad/click path as a conversion; and `skills/ads/references/audit-guardrails.md` for separating evidence coverage from account health and keeping unknowns out of pass/fail scores.
+- **Used — `vamsy16/smart-pursuit-agency` @ `40e070ceaaf632790a03a644e6d3eb7a5dce40b2`:** `agency-skills-repo/agency-skills/01-sales-bd/lead-generation-prospecting.md` for a specific, verifiable observation in outreach; `agency-skills-repo/agency-skills/04-service-delivery/ppc-paid-media.md` for its warning not to present generated CPC/CPM/conversion benchmarks as fact. These are plain Markdown playbooks, not `SKILL.md` files.
+- **Reviewed, not used — `vamsy16/coldoutboundskills`:** `skills/campaign-copywriting` requires staged user approvals and campaign proof/context that were not needed for this prepared sequence; no sending/launch tools were run. `vamsy16/arena-email-marketing` was inspected, but its sample outreach contains unsupported traffic/revenue/guarantee claims and its sequence skill targets lifecycle flows, so neither was copied.
+- **Reviewed, not used — `vamsy16/arena-analytics`:** `skills/analytics-audit` depends on private account measurements and includes projected uplift/ROAS claims that conflict with this public-only brief. No such projection or audit was copied.
+- **No usable skill / not used:** `vamsy16/performance-marketing` has a README and prompt/script files but no relevant `SKILL.md`; its scripts/prompts were not run. `vamsy16/lead-scraper` has no `SKILL.md` and implements automated Maps discovery/enrichment; it was not run. `vamsy16/lead-gen-kit` provides a Maps-scraping funnel, not this already-selected, hand-verified advertiser workflow; it was not run. `vamsy16/claude-seo`, `vamsy16/Brand-building-skills`, and `arena-cro`, `arena-content-marketing`, `arena-gmb`, `arena-linkedin-marketing`, `arena-seo-aeo-geo`, `arena-smm`, `arena-whatsapp-marketing`, `arena-youtube-marketing`, and `arena-solar` were irrelevant to this Food/Bengaluru paid-ad/contact audit. The bundled legacy `AUDIT-WORKFLOW.md` and `HOW-TO-RUN-IN-NEW-CHAT.md` describe mock/generated lead pools and estimated performance claims; none of those scripts or claims was run or reused.
+
+### Batch 6 incremental builder
+
+```bash
+.venv/bin/python niches/food-bengaluru/scripts/build_batch6_deliverables.py
+```
+
+The builder appends to the existing workbook, source index, email exports and registry; it does not rebuild earlier batches. Its duplicate guard checks the root registry and existing niche JSON/CSV inventories.

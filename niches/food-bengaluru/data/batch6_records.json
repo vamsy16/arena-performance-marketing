@@ -1,0 +1,1479 @@
+{
+  "batch": 6,
+  "niche": "Food / Bengaluru, India",
+  "research_note": "Nine retained leads (from a working target of ten) have individually resolved Meta cards and first-party contact provenance, checked 05 Oct 2026. Public ad status and counts can change. No keyword-only match is used as advertiser proof. Google domain-query results are explicitly not brand-activity claims without an accessible named creative. Contact routes come from each brand’s own website, official Page/About, or a linked corporate page; any failed or conflicting route is disclosed. Cafe Luma Haus was excluded because the selected card describes a Koramangala private rooftop while its own website locates the cafe/event route at Madiwala/BTM Layout; no primary source reconciles the venue. Private campaign data, simulated metrics, benchmarks, projections and expected-uplift claims are not included.",
+  "leads": [
+    {
+      "brand": "NIKAA Briyani",
+      "slug": "nikaa-briyani",
+      "website": "https://nikaabriyani.com/",
+      "instagram": "https://www.instagram.com/nikaabriyani/",
+      "niche": "Biryani restaurant",
+      "headline": "A page-resolved Marathahalli card carries an offer claim; public order outcomes are not visible.",
+      "market_signal": "Selected card names Nikaa Biryani–Marathahalli at 90/4, J.P. Royale, Outer Ring Road, Bengaluru. Its ₹299 offer is card copy, not a separately checked in-store price. Official contact page lists Nonvee Foods’ corporate contact address in Salem.",
+      "local_evidence_status": "MEASURED — Bengaluru locality/address appears in the selected card; the official contact page separately lists a Salem corporate address. No ad audience geography is inferred.",
+      "contact": {
+        "email": "feedback@nikaabriyani.com",
+        "phone": "+91 97512 22216",
+        "entity": "Nonvee Foods Private Limited",
+        "address": "#32, Valmiki Street, Salem 636005 (corporate contact address published on the official page)",
+        "route_role": "Published feedback and catering-consultation route; no paid-media buyer identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from NIKAA Briyani’s own Contact page on 05 Oct 2026: https://nikaabriyani.com/contact publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited’s Salem address. This is a feedback/catering route, not a confirmed paid-media contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published feedback/catering contact; no paid-media buyer is named."
+      },
+      "meta": {
+        "page_name": "NIKAA Briyani",
+        "page_id": "105049425832563",
+        "page_profile_url": "https://www.facebook.com/nikaabriyani/",
+        "library_id": "1105859485389342",
+        "started_on": "2026-10-02",
+        "creative_excerpt": "‘Unlimited Biryani Feast at Just ₹299’; card names Nikaa Biryani–Marathahalli and gives 90/4, J.P. Royale, Outer Ring Road, Bengaluru 560037.",
+        "cta": "Instagram “Send message” label; final profile/conversation route not resolved.",
+        "destination_url": null,
+        "destination_status": "The captured card shows an Instagram “Send message” label; the final profile/conversation URL and any order outcome were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — one result under verified NONVEE FOODS PRIVATE LIMITED; opened creative last shown 10 Feb 2026 and marked removed; current NIKAA-specific Google activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com",
+        "detail": "The India-region nikaabriyani.com query returned one result under verified NONVEE FOODS PRIVATE LIMITED. Opened creative CR05188749861448581121 says last shown 10 Feb 2026 and removed for policy violation; content unavailable. The first-party contact page names Nonvee Foods, but the unavailable creative is not tied to NIKAA, so no Google activity is attributed to the brand."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — NIKAA individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563",
+          "source_type": "Platform record",
+          "observed": "NIKAA Briyani; Library ID 1105859485389342 displayed Active and Sponsored on 05 Oct 2026; started 02 Oct 2026. Copy states a ₹299 unlimited-biryani offer and lists a Marathahalli, Bengaluru address. Instagram ‘Send message’ label; card-level claim only.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "NIKAA official Contact page",
+          "url": "https://nikaabriyani.com/contact",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited at #32, Valmiki Street, Salem 636005. Invites feedback/questions/catering consultation; does not name a media buyer.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency — nikaabriyani.com query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com",
+          "source_type": "Platform domain query",
+          "observed": "India-region query returned one result under verified NONVEE FOODS PRIVATE LIMITED; domain result alone is not proof of a NIKAA creative or current brand activity.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — opened NONVEE creative",
+          "url": "https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser NONVEE FOODS PRIVATE LIMITED; last shown 10 Feb 2026 and marked removed for policy violation. Creative unavailable, so no NIKAA tie/current Google activity is established.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active Marathahalli card is an offer and message route, not an order measurement",
+          "evidence": "ID 1105859485389342; NIKAA Briyani; Active and Sponsored 05 Oct 2026; started 02 Oct 2026. Copy states ₹299 and a Marathahalli address; captured card shows Instagram ‘Send message’.",
+          "analysis": "This establishes the public card and wording only. Offer price was not checked at the outlet; no order, audience, spend or event result is exposed.",
+          "next_check": "Re-open the card and confirm copy/destination before reuse; if authorized, map the Library ID to the agreed completed-order event and source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official contact route is feedback/catering, not a named media owner",
+          "evidence": "Official Contact page publishes feedback@nikaabriyani.com and names Nonvee Foods at a Salem address; the selected card names a Marathahalli outlet.",
+          "analysis": "The sources support a contact route and Bengaluru card context, not a media-buyer identity or corporate-location claim in Bengaluru.",
+          "next_check": "Ask the published contact to route the source-linked note to the paid-media measurement owner; confirm the route before sending.",
+          "source_ids": [
+            "S2",
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google result is not attributable to NIKAA",
+          "evidence": "Domain view returned one verified NONVEE result; opened creative was last shown 10 Feb 2026 and marked removed, with content unavailable.",
+          "analysis": "A matching corporate name and domain query do not substitute for an accessible brand-identifying creative. No current Google activity is claimed.",
+          "next_check": "If revisited, open a current individual creative and verify advertiser, brand copy, destination and status/last-shown fields.",
+          "source_ids": [
+            "S3",
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "score_bases": [
+        "A page-resolved Meta card displayed Active/Sponsored, page identity, start date and ID.",
+        "The creative names Marathahalli, Bengaluru; the contact page’s Salem office address is kept distinct.",
+        "Instagram ‘Send message’ is visible, but exact destination/outcome was not tested.",
+        "Direct card, first-party contact page, Google query and opened creative were checked.",
+        "Published route is feedback/catering, not a confirmed paid-media owner."
+      ],
+      "email_subjects": [
+        "Marathahalli card",
+        "Offer-copy check",
+        "Order event",
+        "Right owner"
+      ],
+      "email_notes": [
+        "I checked card 1105859485389342: Sponsored and Active, started 02 Oct 2026, naming NIKAA Briyani in Marathahalli. The ₹299 price is card copy, not a separately checked in-store price.",
+        "The card shows an Instagram ‘Send message’ route, while the official contact page publishes feedback/catering. I did not test either path or infer an order.",
+        "A measurement review would define the chosen completed-order event and source-of-record, then map the card destination only if authorized. Those records are not public here.",
+        "The official contact page does not identify a media buyer. Could you point me to the person responsible for paid-media measurement?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Black Pearl Barbeque",
+      "slug": "black-pearl-barbeque",
+      "website": "https://blackpearlmarathahalli.com/",
+      "instagram": "https://www.instagram.com/blackpearlmarathahalli/",
+      "niche": "Theme restaurant and buffet dining",
+      "headline": "A current Marathahalli buffet card is public; the site’s legal pages name different operating entities.",
+      "market_signal": "Selected Meta creative names The Black Pearl, Marathahalli and states 180+ vegetarian/non-vegetarian options; it shows reservation phones and the official site. First-party legal pages use different One Ikigaii entity names; no relationship is inferred.",
+      "local_evidence_status": "MEASURED — Marathahalli/Bengaluru appears in the selected card; first-party entity references are inconsistent and unresolved.",
+      "contact": {
+        "email": "info@blackpearlmarathahalli.com",
+        "phone": "+91 98804 34555 / +91 90710 19555",
+        "entity": "",
+        "address": "The selected card names The Black Pearl, Marathahalli; legal-entity/registered-address relation not normalized.",
+        "route_role": "Published general questions/terms inbox; no paid-media owner identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Black Pearl’s own Terms page on 05 Oct 2026: https://blackpearlmarathahalli.com/terms-conditions/ publishes info@blackpearlmarathahalli.com for questions. The selected card shows reservation phone numbers. Official legal pages name different entities; this is a general route, not a confirmed media buyer.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "General published contact; legal entity names conflict and no media owner is named."
+      },
+      "meta": {
+        "page_name": "Black Pearl Barbeque Restaurant",
+        "page_id": "103142768909470",
+        "page_profile_url": "https://www.facebook.com/theblackpearlmar/",
+        "library_id": "896967013290727",
+        "started_on": "2026-09-11",
+        "creative_excerpt": "‘Bangalore, are you ready for a buffet adventure?’ Card states 180+ vegetarian/non-vegetarian options at The Black Pearl, Marathahalli.",
+        "cta": "Reservation phone/site are named in the creative; separate card button destination was not exposed in the capture.",
+        "destination_url": null,
+        "destination_status": "The card lists reservation phones and the official site in its copy. No exact card button destination or completed reservation was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com",
+        "detail": "The India-region blackpearlmarathahalli.com query returned zero results in this capture. This is not proof that the brand does not advertise or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Black Pearl buffet card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470",
+          "source_type": "Platform record",
+          "observed": "Black Pearl Barbeque Restaurant; Library ID 896967013290727 displayed Active and Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names The Black Pearl, Marathahalli, says 180+ options and lists phone numbers/site. One card only.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Black Pearl official Terms & Conditions",
+          "url": "https://blackpearlmarathahalli.com/terms-conditions/",
+          "source_type": "Brand first-party legal/contact page",
+          "observed": "Publishes info@blackpearlmarathahalli.com and names ONE IKIGAII CLUSTER KITCHEN PRIVATE LIMITED (OICKPL) as site operator. A privacy sentence also references Bangalore Blues Entertainment India Private Limited; relationship not explained.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Black Pearl official Careers page",
+          "url": "https://blackpearlmarathahalli.com/careers/",
+          "source_type": "Brand first-party page / indexed disclosure",
+          "observed": "Publishes info@blackpearlmarathahalli.com. Official indexed result says Black Pearl is incorporated by One Ikigaii Edutech Private Limited (OIEPL), while Terms names OICKPL as operator. Entity relation unresolved; no affiliation inferred.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — blackpearlmarathahalli.com query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com",
+          "source_type": "Platform domain query",
+          "observed": "India-region domain view returned zero results on 05 Oct 2026. This is not proof of no Google advertising or activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The buffet card is a public placement, not a measured reservation result",
+          "evidence": "ID 896967013290727; Black Pearl Barbeque Restaurant; Active/Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names Marathahalli, states 180+ options and shows phone/site.",
+          "analysis": "The card supports its public creative and visible route only; it exposes no bookings, audience, spend or ROAS.",
+          "next_check": "Re-open the card and booking path; if authorized, map its ID to a defined confirmed-reservation event and source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "MEDIUM",
+          "title": "Official pages name different entities; keep this as a brand-level lead",
+          "evidence": "Terms names OICKPL as operator and references Bangalore Blues Entertainment India Private Limited; the official Careers result says incorporated by OIEPL.",
+          "analysis": "The public pages do not explain the relationship. Do not merge this brand with a parent or another account based on names alone.",
+          "next_check": "Ask the brand which legal/marketing entity owns the restaurant and paid-media account before group-level comparison or outreach aggregation.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "India-region domain view for blackpearlmarathahalli.com returned zero results 05 Oct 2026.",
+          "analysis": "Zero results in one public query do not establish that no Google activity exists.",
+          "next_check": "If revisited, open a current individual creative and verify its advertiser, content, destination and status/last-shown fields.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "score_bases": [
+        "Individual page-resolved card displayed Active/Sponsored, advertiser label, start date and ID.",
+        "Selected card names Marathahalli/Bengaluru; no audience geography inferred.",
+        "Phone/site reservation routes are visible; booking completion not measured.",
+        "Direct card, official legal/contact pages and Google query were reviewed.",
+        "General contact is published, but paid-media ownership and entity relationships are unresolved."
+      ],
+      "email_subjects": [
+        "Marathahalli buffet card",
+        "Entity check",
+        "Reservation definition",
+        "Right owner"
+      ],
+      "email_notes": [
+        "Card 896967013290727 is shown Sponsored and Active, started 11 Sep 2026, and describes the Marathahalli buffet. I have not treated ‘180+’ as an audited menu count or a reservation result.",
+        "The Terms page lists one operator while the official Careers result uses another. I have not assumed the entities are the same or that the inbox belongs to paid media.",
+        "A useful internal outcome definition would be a confirmed reservation, with phone and online routes reconciled under one rule. No such records are public here.",
+        "The official site publishes info@blackpearlmarathahalli.com but no media buyer. Could you route me to the right owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ]
+      ]
+    },
+    {
+      "brand": "Suvaii",
+      "slug": "suvaii",
+      "website": "https://www.suvaii.in/",
+      "instagram": "https://www.instagram.com/suvaii.blr/",
+      "niche": "Restaurant and event catering",
+      "headline": "A current Bengaluru catering card exposes a quote CTA and public starting-price copy; quote outcomes are not public.",
+      "market_signal": "Selected Meta card describes catering for 100+ guests across Bangalore and states a starting price. First-party Page About/contact links Suvaii to suvaii.in and publishes Indiranagar; contact widget label ‘Moxhe Restaurant’ is not treated as ownership.",
+      "local_evidence_status": "MEASURED — Bengaluru catering copy and Indiranagar address are public; booking-widget label is not a parent-company disclosure.",
+      "contact": {
+        "email": "info@suvaii.in",
+        "phone": "+91 78995 34344",
+        "entity": "",
+        "address": "#1333, Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038",
+        "route_role": "Published restaurant/business contact; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Checked on 05 Oct 2026 against Suvaii’s official Page About and linked contact page: https://www.facebook.com/100091993127565/about and https://suvaii.in/contact publish info@suvaii.in, +91 78995 34344 and the Indiranagar address. No paid-media owner is named.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published general business contact; no paid-media owner named."
+      },
+      "meta": {
+        "page_name": "Suvaii",
+        "page_id": "100091993127565",
+        "page_profile_url": "https://www.facebook.com/100091993127565/",
+        "library_id": "1427256346177856",
+        "started_on": "2026-09-28",
+        "creative_excerpt": "Catering copy for 100+ guests; ‘Available all across Bangalore | Starting at ₹850 + taxes’; CTA Get Quote.",
+        "cta": "Get Quote.",
+        "destination_url": null,
+        "destination_status": "The card displays Get Quote through an fb.me redirect; the final form and any quote outcome were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=suvaii.in",
+        "detail": "The India-region suvaii.in Google query returned zero results in this capture. This is not proof of no Google advertising or activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Suvaii catering card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1427256346177856&view_all_page_id=100091993127565",
+          "source_type": "Platform record",
+          "observed": "Suvaii (public Page ID 100091993127565); Library ID 1427256346177856 displayed Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy describes Pandyan-inspired catering for 100+ guests, ‘Starting at ₹850 + taxes’, Get Quote. Direct card only; advertiser-page feed returned empty state.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Suvaii official Facebook About page",
+          "url": "https://www.facebook.com/100091993127565/about",
+          "source_type": "Brand first-party Page/contact record",
+          "observed": "Lists info@suvaii.in, +91 78995 34344, #1333 Double Road, HAL 2nd Stage, Indiranagar, Bengaluru 560038 and links suvaii.in; category Restaurant.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Suvaii official contact page",
+          "url": "https://suvaii.in/contact",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes info@suvaii.in, +91 78995 34344 and Indiranagar address. Booking widget is labelled ‘Moxhe Restaurant’; no corporate relationship is stated or inferred.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — suvaii.in query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=suvaii.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region domain query returned zero results 05 Oct 2026. Not proof of no Google activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The catering card exposes a quote step, not a quote or booking result",
+          "evidence": "ID 1427256346177856; Suvaii; Active/Sponsored 05 Oct 2026; started 28 Sep 2026. Copy says 100+ guests and ‘Starting at ₹850 + taxes’; CTA Get Quote.",
+          "analysis": "The 100+ and price are advertiser copy. Final fb.me destination and any quote outcome were not tested.",
+          "next_check": "Re-open card and confirm current destination/wording; if authorized, define a qualified catering inquiry and source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party contact details align; the booking-widget label is not an ownership claim",
+          "evidence": "Official Page About/contact publish info@suvaii.in, +91 78995 34344 and Indiranagar; contact widget displays ‘Moxhe Restaurant’.",
+          "analysis": "The About page links Suvaii to suvaii.in, while the widget relationship is not documented. No affiliation is inferred.",
+          "next_check": "Recheck the inquiry route and ask the brand to confirm the booking system and correct paid-media contact.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "India-region domain view for suvaii.in returned zero results 05 Oct 2026.",
+          "analysis": "A zero-result query is not evidence that the brand does not advertise on Google.",
+          "next_check": "If revisited, inspect an individual current creative and verify advertiser, copy, destination and status/last-shown.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Direct individual card showed Active/Sponsored, page identity, start date and ID.",
+        "Card says Bangalore; first-party Page About/contact gives Indiranagar. No targeting inference.",
+        "Get Quote is visible; destination and quote completion not measured.",
+        "Direct card, first-party Page/contact and Google query reviewed.",
+        "General restaurant contact is published; no media owner named."
+      ],
+      "email_subjects": [
+        "100+ guest catering",
+        "Quote destination",
+        "Lead definition",
+        "Right owner"
+      ],
+      "email_notes": [
+        "I checked card 1427256346177856: Sponsored and Active, started 28 Sep 2026, describing Suvaii catering for 100+ guests across Bangalore. The ₹850+ tax line is the card’s copy, not a separately validated current quote.",
+        "The CTA is Get Quote via an fb.me redirect. I did not resolve the final form or infer a completed inquiry.",
+        "A review could define a qualified catering inquiry separately from a confirmed event booking. Neither is public in this snapshot.",
+        "Suvaii’s official contact route is published, but the page does not name a paid-media owner. Could you point me to the right person?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Gold Coins Club & Resort",
+      "slug": "gold-coins-club-resort",
+      "website": "https://www.goldcoinsresort.in/",
+      "instagram": "",
+      "niche": "Resort, dining and event venue",
+      "headline": "A current Electronic City celebration card includes buffet copy and a published booking route; private booking results are unavailable.",
+      "market_signal": "Meta card describes birthday celebrations and an unlimited buffet at the Electronic City Phase II address. First-party contact page lists the same address and bookings email. Package wording is not treated as measured availability or performance.",
+      "local_evidence_status": "MEASURED — selected creative and first-party contact page name the Bengaluru/Electronic City location; no audience targeting inferred.",
+      "contact": {
+        "email": "bookings@goldcoinsresort.in",
+        "phone": "+91 90358 00200",
+        "entity": "",
+        "address": "No. 45/1, Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100",
+        "route_role": "Published enquiries, quotes and site visits; no paid-media owner identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Gold Coins Club & Resort’s own Contact page on 05 Oct 2026: https://www.goldcoinsresort.in/contact/ publishes bookings@goldcoinsresort.in, +91 90358 00200 and the Electronic City address for enquiries, quotes and site visits. It is not a confirmed media buyer.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Booking/quote/site-visit inbox; no buyer named."
+      },
+      "meta": {
+        "page_name": "Gold Coins Club & Resort",
+        "page_id": "927319817426120",
+        "page_profile_url": "https://www.facebook.com/goldcoinsclubresort/",
+        "library_id": "4243358122642238",
+        "started_on": "2026-09-22",
+        "creative_excerpt": "Birthday card promotes a venue with unlimited buffet, decorations/entertainment and gives the Electronic City Phase II address and bookings@goldcoinsresort.in.",
+        "cta": "Book now.",
+        "destination_url": null,
+        "destination_status": "The card displays Book now through an fb.me redirect; the final booking path and any booking outcome were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — one result under verified advertiser Gold Coin Club; opened creative last shown 25 Sep 2026 and marked removed; resort-brand Google activity not established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in",
+        "detail": "The India-region goldcoinsresort.in query returned one result under verified advertiser Gold Coin Club. Creative CR09308172910529085441 was last shown 25 Sep 2026 and marked removed for policy violation; content unavailable. Name/domain similarity does not establish a tie to Gold Coins Club & Resort; no current Google activity is claimed."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Gold Coins birthday card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4243358122642238&view_all_page_id=927319817426120",
+          "source_type": "Platform record",
+          "observed": "Gold Coins Club & Resort; Library ID 4243358122642238 displayed Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy promotes birthday celebrations, unlimited buffet and Andapura/Electronic City Phase II address; lists 9035800200 and bookings@goldcoinsresort.in; CTA Book now.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Gold Coins official Contact page",
+          "url": "https://www.goldcoinsresort.in/contact/",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes bookings@goldcoinsresort.in for new enquiries/quotes/site visits, +91 90358 00200 and No. 45/1 Andapura, off Huskur Road, Electronic City Phase II, Bengaluru 560100; offers phone, WhatsApp and form.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency — goldcoinsresort.in query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=goldcoinsresort.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region query returned one result under verified advertiser Gold Coin Club. Similar name alone does not identify it as Gold Coins Club & Resort.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — opened Gold Coin Club creative",
+          "url": "https://adstransparency.google.com/advertiser/AR13832786266690682881/creative/CR09308172910529085441?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser legal name Gold Coin Club; creative CR09308172910529085441 last shown 25 Sep 2026 and marked removed for policy violation. Content unavailable; no resort tie/current Google activity claimed.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active birthday card exposes a booking CTA, not a confirmed event",
+          "evidence": "ID 4243358122642238; Gold Coins Club & Resort; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy mentions birthday celebrations, unlimited buffet and Electronic City Phase II; CTA Book now.",
+          "analysis": "This is public card copy and CTA only. The final redirect, package availability and completed bookings were not measured.",
+          "next_check": "Re-open the card and confirm current CTA/package details; if authorized, map the ID to a defined confirmed-event booking record.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The first-party booking route matches the local address but not a media owner",
+          "evidence": "Official Contact page publishes bookings@goldcoinsresort.in for enquiries, quotes/site visits and the same Andapura/Electronic City address.",
+          "analysis": "A booking inbox is a routing contact only; the page does not name a buyer or expose booking outcomes.",
+          "next_check": "Ask bookings to forward the source-linked note to the paid-media measurement owner.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google result is not tied to the resort brand",
+          "evidence": "Query returned verified advertiser ‘Gold Coin Club’; opened creative last shown 25 Sep 2026 and marked removed, with content unavailable.",
+          "analysis": "Name/domain similarity does not establish that the advertiser or unavailable creative represents Gold Coins Club & Resort.",
+          "next_check": "If revisited, verify an accessible creative’s advertiser, brand-specific content, destination and status before attributing activity.",
+          "source_ids": [
+            "S3",
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Individual page-resolved Meta card displayed Active/Sponsored, page name, start date and ID.",
+        "Card and official Contact page name Electronic City Phase II, Bengaluru; no targeting inference.",
+        "Book now is visible; redirect and booking outcome were not tested.",
+        "Direct card, first-party contact, Google query and individual creative reviewed.",
+        "Published route is bookings/quotes/site visits, not a named paid-media owner."
+      ],
+      "email_subjects": [
+        "Birthday card",
+        "Booking path",
+        "Event definition",
+        "Right owner"
+      ],
+      "email_notes": [
+        "I checked card 4243358122642238: Sponsored and Active, started 22 Sep 2026, with birthday/buffet copy at the Electronic City Phase II site. I have not treated the package wording as a verified current offer or booking result.",
+        "The card says Book now; the official contact page lists a booking inbox and enquiry form. I did not test a completed booking.",
+        "An account-side review could define a confirmed event booking and reconcile enquiries, site visits and bookings under one rule. Those records are private and were not accessed.",
+        "The published booking inbox is not identified as a paid-media owner. Could you route this source-linked note to the measurement lead?"
+      ],
+      "email_source_ids": [
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S2"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Paint the Town Restaurant",
+      "slug": "paint-the-town-restaurant",
+      "website": "https://www.paintthetown.in/",
+      "instagram": "https://www.instagram.com/paint.the.town.bangalore/",
+      "niche": "Art-themed restaurant and event venue",
+      "headline": "One sponsored card combines dining and event enquiries; the official site exposes menus and bookable event routes.",
+      "market_signal": "Selected Koramangala card promotes savoury dishes/art menu and DMs for guided sessions, birthdays and corporate events. Official site presents Dine Sip Paint, menus and event booking routes. Contact address matches the ad.",
+      "local_evidence_status": "MEASURED — selected creative and first-party Contact page publish the same Koramangala address; no ad audience geography inferred.",
+      "contact": {
+        "email": "paint.the.town.workshop@gmail.com",
+        "phone": "+91 6366230141",
+        "entity": "",
+        "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095",
+        "route_role": "Published first-party general contact; no paid-media buyer identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Paint the Town’s own Contact page on 05 Oct 2026: https://www.paintthetown.in/contact-3 publishes paint.the.town.workshop@gmail.com, +91 6366230141 and the Koramangala address named in the card. No paid-media owner is named.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published general contact; buyer not identified."
+      },
+      "meta": {
+        "page_name": "Paint the town restaurant",
+        "page_id": "210934195446623",
+        "page_profile_url": "https://www.facebook.com/61557370840689/",
+        "library_id": "1383590387259883",
+        "started_on": "2026-09-25",
+        "creative_excerpt": "Walk-in copy promotes savoury dishes/art menu; the same creative invites DMs for guided sessions, birthdays and corporate events at Koramangala.",
+        "cta": "Learn more to the official site; the creative separately invites event DMs.",
+        "destination_url": "https://www.paintthetown.in/",
+        "destination_status": "The card links to paintthetown.in and separately invites DMs for events; page navigation and completed booking were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=paintthetown.in",
+        "detail": "The India-region paintthetown.in Google query returned zero results in this capture. This limited public query does not prove no Google activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Paint the town restaurant card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623",
+          "source_type": "Platform record",
+          "observed": "Paint the town restaurant (public Page link ID 61557370840689); Library ID 1383590387259883 displayed Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy promotes savoury dishes/art menu and DMs for guided sessions, birthdays, corporate events; gives Koramangala address; Learn more links to paintthetown.in.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Paint the Town official Contact page",
+          "url": "https://www.paintthetown.in/contact-3",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes paint.the.town.workshop@gmail.com, +91 6366230141 and No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Paint the Town official homepage / event routes",
+          "url": "https://www.paintthetown.in/",
+          "source_type": "Brand first-party website",
+          "observed": "Presents Dine Sip Paint, food/art menus, events and bookable guided experiences; homepage links to separate event service pages. Public routes do not establish booking outcomes or tracking.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — paintthetown.in query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=paintthetown.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region domain view returned zero results 05 Oct 2026. Not proof of no Google advertising or activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "One card routes both dining and event enquiries",
+          "evidence": "ID 1383590387259883; Paint the town restaurant; Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy names food/art menu and DMs for guided sessions, birthdays and corporate events; Learn more links to official site.",
+          "analysis": "The creative exposes different customer intents; it does not show whether dining, event enquiries or confirmed bookings are reported separately.",
+          "next_check": "If the team separates objectives, define dining and event inquiry/booking events and map destinations only with authorized account-side data.",
+          "source_ids": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The site offers separate menus and event routes; no tracking claim is made",
+          "evidence": "Official homepage presents Dine Sip Paint, food/art menus and bookable event experiences; Contact page matches the card’s Koramangala address.",
+          "analysis": "This establishes public paths, not evidence that attribution is missing or that a path fails.",
+          "next_check": "Re-open menus/event pages before outreach; ask which internal record is the source of truth for dining versus event bookings.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "India-region view for paintthetown.in returned zero results 05 Oct 2026.",
+          "analysis": "Zero results do not prove the brand does not advertise on Google.",
+          "next_check": "If revisited, verify a specific current creative, advertiser, destination and last-shown/status.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Individual card displayed Active/Sponsored, advertiser, start date and Library ID.",
+        "Selected creative and first-party Contact page identify Koramangala, Bengaluru.",
+        "Learn more and event-DM route visible; no visit or booking result exposed.",
+        "Direct card, contact/events pages and Google query reviewed.",
+        "Published general inbox is a routing point, not a confirmed media buyer."
+      ],
+      "email_subjects": [
+        "Dining and events",
+        "Two booking paths",
+        "Outcome definition",
+        "Right owner"
+      ],
+      "email_notes": [
+        "Card 1383590387259883 is shown Sponsored and Active, started 25 Sep 2026, and combines dining/art-menu copy with DMs for events. The official site has separate menus and booking pages; I have not inferred bookings.",
+        "The site offers food/art menus and event pages, while the card uses Learn more and a DM invitation. I did not test a completed reservation or event booking.",
+        "A review could define a dining outcome separately from a qualified event enquiry or confirmed booking. No such results are public here.",
+        "The Contact page publishes a general inbox but no media buyer. Could you direct this to the measurement owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1",
+          "S3"
+        ],
+        [
+          "S1",
+          "S3"
+        ],
+        [
+          "S1",
+          "S3"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Chutney Chang",
+      "slug": "chutney-chang",
+      "website": "https://fusionfoods.co.in/ws/chutneychang",
+      "instagram": "",
+      "niche": "Asian restaurant",
+      "headline": "A dated individual card is publicly marked active; brand contact is only available through an indexed Fusion Foods page in this capture.",
+      "market_signal": "An individually resolved buffet ad names Museum Road near Church Street, Bengaluru and uses advertiser copy about 75+ non-veg delights. The brand’s official Page About supplies a branch email, phone and Bangalore address.",
+      "local_evidence_status": "MEASURED — the individual ad names Museum Road/Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; official Page About lists HM Eleganza, Bangalore.",
+      "contact": {
+        "email": "chutneychangmr@fusionfoods.co.in",
+        "phone": "+91 80 4000 1234 / +91 88676 86810",
+        "entity": "Fusion Foods (email domain/page listing only; legal entity relationship not independently normalized)",
+        "address": "HM Eleganza, Bangalore, India 560025 (official Page About; ad copy names Museum Road near Church Street)",
+        "route_role": "Published brand Page contact email and phone; not confirmed as paid-media owner.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Chutney Chang’s official Facebook Page About section on 05 Oct 2026: https://www.facebook.com/chutneychangMuseumRoad/about lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234 / +91 88676 86810 and HM Eleganza, Bangalore. The linked Fusion Foods page returned HTTP 500; no other email was substituted.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published Page contact; current paid-media ownership is not stated."
+      },
+      "meta": {
+        "page_name": "Chutney Chang",
+        "page_id": "277424805680532",
+        "page_profile_url": "https://www.facebook.com/chutneychangMuseumRoad/",
+        "library_id": "25289523817380586",
+        "started_on": "2025-12-05",
+        "creative_excerpt": "“A feast of 75+ non-veg delights.” Card lists Chutney Chang, Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru; another displayed variant says 75+ dishes/live BBQ and prices. These are advertiser copy, not independently measured menu/price data.",
+        "cta": "Learn more label shown; captured button hyperlink does not expose the brand destination.",
+        "destination_url": null,
+        "destination_status": "The direct card shows a Learn more label, but the captured hyperlink resolves to a generic Meta help URL rather than a brand landing path. No click, booking or order outcome was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in",
+        "detail": "India-region fusionfoods.co.in query returned zero results 05 Oct 2026; this does not establish no Google ads."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Chutney Chang individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=25289523817380586&view_all_page_id=277424805680532",
+          "source_type": "Platform record",
+          "observed": "Chutney Chang page; Library ID 25289523817380586 displayed Active/Sponsored on 05 Oct 2026; started 05 Dec 2025. Card copy says “A feast of 75+ non-veg delights” and names Museum Rd near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru. Another displayed variant includes 75+ dishes/live BBQ and price copy; all are advertiser statements. No performance outcome is shown.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Chutney Chang official Facebook Page About/contact section",
+          "url": "https://www.facebook.com/chutneychangMuseumRoad/about",
+          "source_type": "Brand first-party Page/contact record",
+          "observed": "Lists chutneychangmr@fusionfoods.co.in, +91 80 4000 1234, +91 88676 86810 and HM Eleganza, Bangalore, India 560025; links the brand to https://fusionfoods.co.in/ws/chutneychang.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Linked Fusion Foods Chutney Chang page (route check)",
+          "url": "https://fusionfoods.co.in/ws/chutneychang",
+          "source_type": "Linked brand/group first-party route; fetch error",
+          "observed": "The official Page About links this URL. Direct fetch returned HTTP 500 on 05 Oct 2026; this failed route is not used as the contact source.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — fusionfoods.co.in query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=fusionfoods.co.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region fusionfoods.co.in query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected card names the Museum Road location; its menu figures remain advertiser copy",
+          "evidence": "Library ID 25289523817380586; Chutney Chang; Active/Sponsored 05 Oct 2026; started 05 Dec 2025. Copy says “75+ non-veg delights” and names Museum Rd near Church Street, Bengaluru.",
+          "analysis": "This is a current public placement and local card copy only. “75+” and displayed offer/price text are not independently audited menu or transaction data; no spend or booking outcome is public.",
+          "next_check": "Re-open the card and current menu before reusing offer wording; if authorized, connect its ID to a defined completed buffet booking/order event.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official Page About provides a direct contact; the linked corporate page is currently unavailable",
+          "evidence": "Page About lists chutneychangmr@fusionfoods.co.in, phone numbers and HM Eleganza, Bangalore; linked Fusion Foods brand page returned HTTP 500 on 05 Oct 2026.",
+          "analysis": "The accessible Page About is the first-party contact source. The site failure does not invalidate that listing, but the route should be reconfirmed before sending; no buyer identity is inferred.",
+          "next_check": "Recheck the official Page About and linked brand site before outreach; ask the published contact to route to the paid-media measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google group-domain query returned zero results in this capture",
+          "evidence": "India-region fusionfoods.co.in query returned zero results on 05 Oct 2026.",
+          "analysis": "This query does not rule out brand-level, other-domain or Google advertising activity.",
+          "next_check": "If revisited, inspect an accessible individual creative and verify a direct Chutney Chang/advertiser tie before claiming activity.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        3,
+        3
+      ],
+      "score_bases": [
+        "Individual page-resolved card displayed Active/Sponsored, advertiser page, start date and ID.",
+        "Card and official Page About both identify the Bangalore/Museum Road area.",
+        "Learn more is visible, but captured href is a generic Meta help URL, not a resolved brand booking route.",
+        "Direct card, official Page About and linked-site failure, plus Google query, documented.",
+        "Official Page About publishes brand contact details; buyer/measurement ownership is not named."
+      ],
+      "email_subjects": [
+        "Museum Road buffet card",
+        "contact route",
+        "booking definition",
+        "measurement owner"
+      ],
+      "email_notes": [
+        "I checked card 25289523817380586: it is shown Sponsored and Active, started 05 Dec 2025, and names the Museum Road/Church Street location. The “75+” menu figure is your ad copy, not an independent menu audit.",
+        "Your official Facebook About page lists chutneychangmr@fusionfoods.co.in and the Bangalore contact details; its linked Fusion Foods page returned HTTP 500 when checked. I have used the Page About route, not an unrelated address.",
+        "A measurement review could distinguish a buffet inquiry from a confirmed booking/order and map the selected card only with authorized account-side data. No such result is public here.",
+        "Could you confirm this is the current best contact and route this source-linked note to the paid-media measurement owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Xin by MindEscapes",
+      "slug": "xin-by-mindescapes",
+      "website": "https://www.xinbymindescapes.com/",
+      "instagram": "https://www.instagram.com/xinbymindescapes/",
+      "niche": "Restaurant",
+      "headline": "A page-resolved restaurant card has a dated active public record; the official group homepage gives only a general enquiries route.",
+      "market_signal": "An individually resolved Xin By MindEscapes ad says “Order From XIN” and labels online food delivery/Koramangala. The Xin-owned contact page publishes enquiry@xinbymindescapes.com and a Koramangala registered-office address; the office is not represented as a restaurant outlet.",
+      "local_evidence_status": "MEASURED — selected creative uses “Koramangala” and #xinbangalore; Xin’s own contact page gives a Koramangala, Bangalore registered-office address. The registered office is not claimed as an outlet or audience target.",
+      "contact": {
+        "email": "enquiry@xinbymindescapes.com",
+        "phone": "+91 97399 08844 / +91 96069 91560",
+        "entity": "MindEscapes Club Pvt. Ltd. (as named on Xin’s own contact page)",
+        "address": "#83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034, India (registered office, not outlet claim)",
+        "route_role": "Published Xin contact-page enquiry route; not a confirmed paid-media buyer.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Xin’s own Contact page on 05 Oct 2026: https://www.xinbymindescapes.com/contact lists enquiry@xinbymindescapes.com, +91 97399 08844 / +91 96069 91560 and MindEscapes Club Pvt. Ltd.’s Koramangala registered office. It does not identify a paid-media buyer or state that the office is an outlet.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published brand enquiry route; no media owner named."
+      },
+      "meta": {
+        "page_name": "Xin By MindEscapes",
+        "page_id": "248827811637624",
+        "page_profile_url": "https://www.facebook.com/XinByMindescapes/",
+        "library_id": "1798771901502677",
+        "started_on": "2026-07-06",
+        "creative_excerpt": "Selected card copy: “The kitchen is closed. Zomato is open”; “Don’t force a meal. Order exactly what you’re craving. Order From XIN.” It also labels the destination “Food Delivery, Online Ordering, Koramangala.”",
+        "cta": "Order From XIN; card variant exposes a short link (not expanded/tested).",
+        "destination_url": "https://tinyurl.com/mr3f6vx8",
+        "destination_status": "The captured card displays a TinyURL next to “See menu”; a separate variant says Order From XIN. Short URL destination, checkout and order outcome were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — zero domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com",
+        "detail": "The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Xin By MindEscapes individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624",
+          "source_type": "Platform record",
+          "observed": "Xin By MindEscapes page; Library ID 1798771901502677 displayed Active/Sponsored on 05 Oct 2026; started 06 Jul 2026. The captured card copy says “The kitchen is closed. Zomato is open”; “Order From XIN”; and labels food delivery/online ordering/Koramangala. A TinyURL appears with “See menu”; destination and order completion not tested.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Xin official Contact page",
+          "url": "https://www.xinbymindescapes.com/contact",
+          "source_type": "Brand first-party contact page",
+          "observed": "Lists enquiry@xinbymindescapes.com, +91 97399 08844, +91 96069 91560 and MindEscapes Club Pvt. Ltd., #83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034. This is described as a registered office, not a restaurant outlet.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Xin official homepage",
+          "url": "https://www.xinbymindescapes.com/",
+          "source_type": "Brand first-party website",
+          "observed": "Describes Xin as an Asian-cuisine brand across Xin Go, Xin Den and Xin Fine. No private order/conversion results were used.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — xinbymindescapes.com query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com",
+          "source_type": "Platform domain query",
+          "observed": "The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active card shows delivery copy and a short link, not a public order result",
+          "evidence": "Library ID 1798771901502677; Xin By MindEscapes; Active/Sponsored 05 Oct 2026; started 06 Jul 2026. Copy says “The kitchen is closed. Zomato is open” and “Order From XIN”; a TinyURL appears beside “See menu.”",
+          "analysis": "The selected card supports public creative and CTA text only. TinyURL destination, checkout, completed orders, spend and attribution are not measured.",
+          "next_check": "Expand and verify the short link before reuse; if authorized, map the Library ID to a defined completed order and the approved source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Xin publishes a brand-specific contact; the registered office is not called an outlet",
+          "evidence": "Xin Contact page lists enquiry@xinbymindescapes.com and a Koramangala, Bangalore registered office.",
+          "analysis": "The card also labels Koramangala, but neither the registered-office address nor city copy establishes ad audience targeting or a particular branch.",
+          "next_check": "Confirm the outlet/location served by this card and ask the published brand contact to route to the paid-media measurement owner.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The brand-domain Google query returned zero results in this capture",
+          "evidence": "India-region xinbymindescapes.com query returned zero results on 05 Oct 2026.",
+          "analysis": "A zero-result domain view does not rule out advertising through another domain or account.",
+          "next_check": "If revisited, inspect a specific accessible creative and verify named advertiser, brand copy, destination and current status.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Individual page-resolved card displayed Active/Sponsored, advertiser page, start date and ID.",
+        "Card says Koramangala/online ordering and the brand contact page lists a Koramangala registered office; not an outlet or targeting claim.",
+        "Order CTA and TinyURL are visible; final path/outcome not tested.",
+        "Direct card, Xin-owned Contact/homepage and brand-domain Google query reviewed.",
+        "Brand-specific enquiry contact is published; buyer is not named."
+      ],
+      "email_subjects": [
+        "Xin order card",
+        "Koramangala route",
+        "order event definition",
+        "measurement owner"
+      ],
+      "email_notes": [
+        "I checked card 1798771901502677: it is shown Sponsored and Active, started 06 Jul 2026, and says “Order From XIN” with delivery/Koramangala copy. I have not treated the short link as a completed order.",
+        "Xin’s own contact page publishes enquiry@xinbymindescapes.com and a registered-office address in Koramangala. I have not assumed the office is an outlet or a media team.",
+        "A review could connect the selected card to a defined completed-order event and the business’s source-of-record, if authorized. Neither is public in this snapshot.",
+        "The brand contact page does not name a paid-media owner. Could you route this source-linked note to the person responsible for measurement?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Roast Aroma",
+      "slug": "roast-aroma",
+      "website": "https://roastaromacafe.in/",
+      "instagram": "https://www.instagram.com/roastaromacafe/",
+      "niche": "Cafe and restaurant",
+      "headline": "A page-resolved current card and official business-site inbox are available; no public booking/conversion outcomes are exposed.",
+      "market_signal": "The individual card promotes a new-opening pizza/burger offer and names Site No. 213, Banashankari 6th Stage, Bengaluru; the first-party website repeats the location and publishes its order inbox. The displayed ₹299/BOGO wording is advertiser copy, not an independently checked current price.",
+      "local_evidence_status": "MEASURED — direct card names Banashankari 6th Stage, 7th Block, Bengaluru; official website lists the same locality and address.",
+      "contact": {
+        "email": "Orders.rcbkitchens@gmail.com",
+        "phone": "+91 91410 51702",
+        "entity": "",
+        "address": "Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru (official website/card copy)",
+        "route_role": "Published orders/business inbox and phone on official website; no paid-media buyer identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Roast Aroma’s own website on 05 Oct 2026: https://roastaromacafe.in/ publishes Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage, Bengaluru location. No paid-media buyer is named.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published order/business route; no media owner named."
+      },
+      "meta": {
+        "page_name": "ROAST AROMA - Cafe & Pizzeria",
+        "page_id": "1319770384542463",
+        "page_profile_url": "https://www.facebook.com/61593310372873/",
+        "library_id": "1707287950342822",
+        "started_on": "2026-09-08",
+        "creative_excerpt": "“Buy 1 pizza, get 1 free” and “Loaded Burger Feast Combo @ just ₹299”; copy says “Delivering till 1 AM,” lists Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru, and a direct-orders/WhatsApp phone. Offer/price are advertiser copy.",
+        "cta": "See details → roastaromacafe.in; creative also lists direct-order/WhatsApp phone and a Google Maps route.",
+        "destination_url": "https://roastaromacafe.in/",
+        "destination_status": "The selected card includes a See details link to the official Roast Aroma domain; copy separately lists phone/WhatsApp and a Google Maps short link. No order outcome was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in",
+        "detail": "The India-region roastaromacafe.in query returned zero results in this capture; it does not prove no Google advertising/activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Roast Aroma individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1707287950342822&view_all_page_id=1319770384542463",
+          "source_type": "Platform record",
+          "observed": "ROAST AROMA - Cafe & Pizzeria; Library ID 1707287950342822 displayed Active/Sponsored on 05 Oct 2026; started 08 Sep 2026. Copy says Buy 1 Pizza Get 1 Free, Loaded Burger Feast Combo at ₹299, delivering till 1 AM; names Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru; lists phone/WhatsApp and a Google Maps route. These are advertiser statements/routes; no order outcome measured.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "Roast Aroma official website",
+          "url": "https://roastaromacafe.in/",
+          "source_type": "Brand first-party website/contact page",
+          "observed": "Publishes Orders.rcbkitchens@gmail.com and +91 91410 51702; describes Roast Aroma Café & Pizzateria at Site No. 213, Banashankari 6th Stage, 7th Block, Bengaluru. The ₹99 starting-price copy on the site and ₹299/BOGO card offer are brand-published, not independent performance data.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "Roast Aroma official Facebook Page",
+          "url": "https://www.facebook.com/61593310372873/",
+          "source_type": "Brand first-party social/ad page",
+          "observed": "Page label is ROAST AROMA - Cafe & Pizzeria and is the named advertiser for the selected card.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — roastaromacafe.in query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=roastaromacafe.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region domain query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The opening-offer card exposes a direct site and order route, not completed orders",
+          "evidence": "ID 1707287950342822; ROAST AROMA - Cafe & Pizzeria; Active/Sponsored 05 Oct 2026; started 08 Sep 2026. Copy lists BOGO pizza, ₹299 burger combo, Banashankari 6th Stage and a direct-order/WhatsApp phone; See details links to roastaromacafe.in.",
+          "analysis": "The ad establishes public offer copy, local address and a visible route only. Price/availability, orders, audience, spend and ROAS were not independently measured.",
+          "next_check": "Re-open the card and current offer before reuse; if authorized, map the Library ID and order route to the agreed completed-order source-of-record.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official site confirms a Bengaluru business route, not the paid-media owner",
+          "evidence": "roastaromacafe.in lists Orders.rcbkitchens@gmail.com, +91 91410 51702 and the Banashankari 6th Stage location.",
+          "analysis": "An order inbox is a published contact route; its mailbox string does not establish a parent company, ad-account owner or performance result.",
+          "next_check": "Ask the published route to confirm the current offer/location and forward a source-linked note to the paid-media measurement owner.",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "India-region roastaromacafe.in query returned zero results on 05 Oct 2026.",
+          "analysis": "Zero results are not proof of no Google advertising or brand activity.",
+          "next_check": "If revisited, inspect an accessible individual creative and verify named advertiser, brand-specific copy, destination and status.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Individual page-resolved advertiser card displayed Active/Sponsored, page identity, start date and ID.",
+        "Selected card and official website identify Banashankari 6th Stage, Bengaluru.",
+        "See details links to the official site; phone/WhatsApp and Maps route are shown.",
+        "Direct ad, official website/contact and named Facebook advertiser plus Google query reviewed.",
+        "Official order/business email and phone are public; paid-media owner is not named."
+      ],
+      "email_subjects": [
+        "Banashankari opening card",
+        "offer and order route",
+        "completed-order source",
+        "measurement owner"
+      ],
+      "email_notes": [
+        "I checked card 1707287950342822: it is shown Sponsored and Active, started 08 Sep 2026, and names Banashankari 6th Stage. The BOGO/₹299 language is your card copy; I have not checked its current availability or treated it as order performance.",
+        "The card links to roastaromacafe.in and lists a direct-order/WhatsApp phone. I did not test an order or infer how phone, website and delivery outcomes are reconciled.",
+        "A measurement review could define a completed order and the source-of-record before connecting a public card to it. No order count, ROAS, CPA or conversion rate is public here.",
+        "The official site publishes an orders inbox but no media buyer. Could you confirm the current location and direct this note to the paid-media measurement owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "AN’s Events & Caterers",
+      "slug": "ans-events-caterers",
+      "website": "https://www.ansevents.org/",
+      "instagram": "https://www.instagram.com/anseventsandcaterers/",
+      "niche": "Events and catering",
+      "headline": "A page-resolved public event/catering card is active in the dated capture; contact pages expose two differently formatted email routes.",
+      "market_signal": "The individually resolved card says “Planning an event in Bangalore?” and offers catering/event management with a quotation/WhatsApp step. The official .org site lists an address in Hebbal Kempapura, Bengaluru and shows a contact label/mailto mismatch.",
+      "local_evidence_status": "MEASURED — card copy says Bangalore; the official .org site lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, Hebbal Kempapura, Bengaluru 560024.",
+      "contact": {
+        "email": "anusumesh.2009@gmail.com",
+        "phone": "+91 93805 38400 / +91 87928 12695",
+        "entity": "",
+        "address": "Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024 (official .org site)",
+        "route_role": "Public Facebook Page About email; general contact only, not a confirmed paid-media owner. Official site has a mismatched visible email label/mailto target.",
+        "additional_emails": [
+          {
+            "email": "contact@anskitchen.in",
+            "source_id": "S3",
+            "detail": "Visible label on official .org page; linked mailto target differs."
+          },
+          {
+            "email": "contact@ansevents.org",
+            "source_id": "S3",
+            "detail": "Linked mailto target on official .org page; visible label differs."
+          }
+        ]
+      },
+      "contact_source": "Crawled from AN’s Events & Caterers Facebook Page About on 05 Oct 2026: https://www.facebook.com/100064927532767/about lists anusumesh.2009@gmail.com. Its official https://www.ansevents.org/ site lists the Hebbal Kempapura address and phone numbers, but displays contact@anskitchen.in linked to mailto:contact@ansevents.org. Conflict preserved; no email is silently substituted and no media buyer is identified.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-05",
+        "source_ids": [
+          "S2",
+          "S3"
+        ],
+        "email_role": "Public Page About contact; site email label/target mismatch also recorded."
+      },
+      "meta": {
+        "page_name": "AN's Events and caterers",
+        "page_id": "100064927532767",
+        "page_profile_url": "https://www.facebook.com/100064927532767/",
+        "library_id": "2506487619856998",
+        "started_on": "2026-09-22",
+        "creative_excerpt": "“Planning an event in Bangalore?” Copy offers catering and complete event management for weddings, engagements, birthdays, baptisms and corporate events; invites a quotation and WhatsApp message.",
+        "cta": "Get Quote / Send WhatsApp message (button labels shown; final route not tested).",
+        "destination_url": null,
+        "destination_status": "The captured card shows Get Quote and Send WhatsApp message labels. The card-specific final destination and any event inquiry/booking outcome were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-05"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=ansevents.org",
+        "detail": "The India-region ansevents.org query returned zero results in this capture; this does not prove no Google activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — AN’s Events & Caterers individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767",
+          "source_type": "Platform record",
+          "observed": "AN's Events and caterers page; Library ID 2506487619856998 displayed Active/Sponsored on 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?”, lists catering/event management and names weddings, engagements, birthdays, baptisms and corporate events; buttons show Get Quote and Send WhatsApp message. Destination and event outcome not tested.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S2",
+          "label": "AN’s Events official Facebook Page About/contact",
+          "url": "https://www.facebook.com/100064927532767/about",
+          "source_type": "Brand first-party Page/contact record",
+          "observed": "Lists anusumesh.2009@gmail.com and identifies the Page as AN’s Events and caterers, Bangalore; provides a public contact route. No paid-media owner named.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S3",
+          "label": "AN’s Events official .org website/contact section",
+          "url": "https://www.ansevents.org/",
+          "source_type": "Brand first-party website/contact page",
+          "observed": "Lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024; phones +91 87928 12695 and +91 93805 38400. Visible email label is contact@anskitchen.in, linked mailto target is contact@ansevents.org. The site also publishes service descriptions and branded claims; no private event results used.",
+          "verified_on": "2026-10-05"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — ansevents.org query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=ansevents.org",
+          "source_type": "Platform domain query",
+          "observed": "India-region ansevents.org query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+          "verified_on": "2026-10-05"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The card exposes event quote/WhatsApp labels, not confirmed bookings",
+          "evidence": "Library ID 2506487619856998; AN's Events and caterers; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?” and buttons show Get Quote/Send WhatsApp message.",
+          "analysis": "This establishes the public creative and next-step labels only. Final destination, event leads, confirmed bookings and attribution are not visible.",
+          "next_check": "Re-open the card to verify its current CTA destination; if authorized, distinguish qualified event inquiries from confirmed bookings in the approved source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "MEDIUM",
+          "title": "First-party contact routes conflict and need confirmation",
+          "evidence": "Facebook Page About lists anusumesh.2009@gmail.com. Official .org site lists the Hebbal Kempapura address and shows contact@anskitchen.in linked to mailto:contact@ansevents.org.",
+          "analysis": "The label/target mismatch is preserved rather than guessing which is preferred or treating either route as a media owner.",
+          "next_check": "Confirm the correct current business contact and ask it to route the source-linked note to the paid-media measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "India-region ansevents.org query returned zero results on 05 Oct 2026.",
+          "analysis": "Zero results do not prove no Google advertising or activity.",
+          "next_check": "If revisited, inspect a current individual creative and verify the advertiser, brand-specific copy, destination and status.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "Individual card resolved to the named page; Active/Sponsored status, start date and Library ID checked.",
+        "Ad card says Bangalore; official website lists Hebbal Kempapura, Bengaluru.",
+        "Get Quote and WhatsApp labels are shown; final card route/outcome not tested.",
+        "Direct card, Page About, official .org site/contact and Google query reviewed.",
+        "Contact routes are public but site email label/target conflict; no paid-media owner named."
+      ],
+      "email_subjects": [
+        "Bangalore event card",
+        "contact route check",
+        "event inquiry definition",
+        "measurement owner"
+      ],
+      "email_notes": [
+        "I checked card 2506487619856998: it is shown Sponsored and Active, started 22 Sep 2026, and says “Planning an event in Bangalore?” with Get Quote/WhatsApp labels. I have not inferred an event booking.",
+        "The Page About lists anusumesh.2009@gmail.com; the official site lists contact@anskitchen.in but links to contact@ansevents.org. I have kept that discrepancy visible rather than choosing for you.",
+        "A review could separate qualified event inquiries from confirmed bookings using the team’s source-of-record. Those private outcomes are not public in this snapshot.",
+        "Could you confirm the best contact route and direct this source-linked note to the paid-media measurement owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ]
+      ]
+    }
+  ],
+  "verified_on": "2026-10-05",
+  "score_definition": {
+    "name": "Public-evidence fit (triage only)",
+    "scale": "Five dimensions scored 0–4; total /20; displayed /10 is total divided by two.",
+    "dimensions": [
+      "Direct paid signal: whether a page-resolved, active Meta Ad Library record was observed.",
+      "Bengaluru relevance: strength of explicit local evidence in the creative or first-party material.",
+      "Public CTA visibility: how clearly the public card exposes a next step, not whether it converts.",
+      "First-party source coverage: breadth of official product, store, contact or corporate evidence reviewed.",
+      "Contact-route relevance: fit of the published route to a request for the paid-media owner; no buyer identity is inferred."
+    ],
+    "qualification": "This is a public-evidence and routing score, not an effectiveness or revenue score, sales probability, spend estimate, forecast, or ROI claim. Private account and conversion results were not accessed."
+  },
+  "scope_decisions": [
+    "Working target: ten new leads, subject to individually page-resolved Active/Sponsored Meta cards, Bengaluru evidence, first-party contact provenance, and cross-folder duplicate checks. Nine leads met all conditions. Cafe Luma Haus was excluded because its active card describes a private rooftop in Koramangala while its own site places the cafe/event route in Madiwala/BTM Layout; no primary source reconciles the venue. No weaker substitute was added to reach ten.",
+    "All nine selected Meta cards were individually opened and displayed the named page/card, Sponsored label, Active status, start date and direct Library ID on 05 Oct 2026. A selected card is not an account-wide count; public inventory changes daily.",
+    "Cafe Luma Haus exclusion: the brand-owned site places the cafe and event route in Madiwala/BTM Layout and says the venue is accessible from Koramangala; it does not confirm the ad’s Koramangala rooftop location. A third-party BookMyShow venue listing gives the Madiwala address but does not resolve the mismatch on the brand’s behalf. See excluded_candidates above; the candidate is not a Batch 6 lead.",
+    "Chutney Chang’s accessible official Facebook About page provides a first-party branch email, phone and Bangalore address; its linked Fusion Foods site returned HTTP 500 on 05 Oct 2026. The accessible Page About is used instead of an indexed-only corporate inbox.",
+    "Xin’s selected card is tied to the named Xin By MindEscapes advertiser/page and start date. The brand’s own contact page publishes a Koramangala registered-office address and enquiry email; that registered office is not described as an outlet.",
+    "Google Transparency Center domain queries and opened advertiser results are not treated as brand-specific activity without an accessible brand-identifying creative. Zero results do not prove no advertising; removed/unavailable creatives do not establish current brand activity.",
+    "No rendered-browser tag/pixel test, event-firing test, account export, spend, ROAS, CPA, order, booking, impression or conversion outcome was measured. No audience geography is inferred from public city copy."
+  ],
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_dimensions": [
+    "Direct paid signal",
+    "Bengaluru relevance",
+    "Public CTA visibility",
+    "First-party source coverage",
+    "Contact-route relevance"
+  ],
+  "working_target": 10,
+  "selected_count": 9,
+  "excluded_candidates": [
+    {
+      "brand": "Cafe Luma Haus",
+      "decision": "Excluded from Batch 6; not counted in the nine retained leads and not added to the registry.",
+      "reason": "The individually resolved Meta card (Library ID 1523994009371748; page label “Cafeluma”; Active/Sponsored on 05 Oct 2026; started 25 Apr 2026) describes a private rooftop in Koramangala. Cafe Luma Haus’s own website places its cafe and event-booking route at Madiwala/BTM Layout, Bengaluru. Its site says Koramangala is an area from which the Madiwala venue is accessible, but does not confirm the advertised Koramangala venue. A third-party BookMyShow venue listing also gives the Madiwala address; it is not a first-party reconciliation. The locality/venue discrepancy remains unresolved, so the candidate was excluded rather than inferred or replaced with a weak lead.",
+      "sources": [
+        {
+          "label": "Meta Ad Library — individual Cafe Luma Haus card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1523994009371748&view_all_page_id=1044743912044704",
+          "checked_on": "2026-10-05",
+          "observed": "Named page label Cafeluma; Library ID 1523994009371748 displayed Active and Sponsored; started 25 Apr 2026; creative describes a private rooftop in Koramangala for small events."
+        },
+        {
+          "label": "Cafe Luma Haus official website",
+          "url": "https://cafelumahaus.in/",
+          "checked_on": "2026-10-05",
+          "observed": "First-party page lists No. 1/1, 1st Main Rd, 1st Cross Road, Madiwala, 1st Stage, BTM Layout, Bengaluru and a WhatsApp event-booking route; says Madiwala is accessible from Koramangala. It does not establish a Koramangala venue."
+        },
+        {
+          "label": "BookMyShow venue listing (third-party; not treated as reconciliation)",
+          "url": "https://in.bookmyshow.com/explore/c/venues/cafe-luma-haus-bengaluru/ibhs",
+          "checked_on": "2026-10-05",
+          "observed": "Lists a rooftop venue at the same 1/1 Madiwala address; third-party listing, not brand-owned evidence."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "brand": "Black Pearl Barbeque",
+  "slug": "black-pearl-barbeque",
+  "website": "https://blackpearlmarathahalli.com/",
+  "instagram": "https://www.instagram.com/blackpearlmarathahalli/",
+  "niche": "Theme restaurant and buffet dining",
+  "headline": "A current Marathahalli buffet card is public; the site’s legal pages name different operating entities.",
+  "market_signal": "Selected Meta creative names The Black Pearl, Marathahalli and states 180+ vegetarian/non-vegetarian options; it shows reservation phones and the official site. First-party legal pages use different One Ikigaii entity names; no relationship is inferred.",
+  "local_evidence_status": "MEASURED — Marathahalli/Bengaluru appears in the selected card; first-party entity references are inconsistent and unresolved.",
+  "contact": {
+    "email": "info@blackpearlmarathahalli.com",
+    "phone": "+91 98804 34555 / +91 90710 19555",
+    "entity": "",
+    "address": "The selected card names The Black Pearl, Marathahalli; legal-entity/registered-address relation not normalized.",
+    "route_role": "Published general questions/terms inbox; no paid-media owner identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Black Pearl’s own Terms page on 05 Oct 2026: https://blackpearlmarathahalli.com/terms-conditions/ publishes info@blackpearlmarathahalli.com for questions. The selected card shows reservation phone numbers. Official legal pages name different entities; this is a general route, not a confirmed media buyer.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "General published contact; legal entity names conflict and no media owner is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com",
+    "detail": "The India-region blackpearlmarathahalli.com query returned zero results in this capture. This is not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Black Pearl buffet card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470",
+      "source_type": "Platform record",
+      "observed": "Black Pearl Barbeque Restaurant; Library ID 896967013290727 displayed Active and Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names The Black Pearl, Marathahalli, says 180+ options and lists phone numbers/site. One card only.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Black Pearl official Terms & Conditions",
+      "url": "https://blackpearlmarathahalli.com/terms-conditions/",
+      "source_type": "Brand first-party legal/contact page",
+      "observed": "Publishes info@blackpearlmarathahalli.com and names ONE IKIGAII CLUSTER KITCHEN PRIVATE LIMITED (OICKPL) as site operator. A privacy sentence also references Bangalore Blues Entertainment India Private Limited; relationship not explained.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Black Pearl official Careers page",
+      "url": "https://blackpearlmarathahalli.com/careers/",
+      "source_type": "Brand first-party page / indexed disclosure",
+      "observed": "Publishes info@blackpearlmarathahalli.com. Official indexed result says Black Pearl is incorporated by One Ikigaii Edutech Private Limited (OIEPL), while Terms names OICKPL as operator. Entity relation unresolved; no affiliation inferred.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — blackpearlmarathahalli.com query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=blackpearlmarathahalli.com",
+      "source_type": "Platform domain query",
+      "observed": "India-region domain view returned zero results on 05 Oct 2026. This is not proof of no Google advertising or activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The buffet card is a public placement, not a measured reservation result",
+      "evidence": "ID 896967013290727; Black Pearl Barbeque Restaurant; Active/Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names Marathahalli, states 180+ options and shows phone/site.",
+      "analysis": "The card supports its public creative and visible route only; it exposes no bookings, audience, spend or ROAS.",
+      "next_check": "Re-open the card and booking path; if authorized, map its ID to a defined confirmed-reservation event and source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "MEDIUM",
+      "title": "Official pages name different entities; keep this as a brand-level lead",
+      "evidence": "Terms names OICKPL as operator and references Bangalore Blues Entertainment India Private Limited; the official Careers result says incorporated by OIEPL.",
+      "analysis": "The public pages do not explain the relationship. Do not merge this brand with a parent or another account based on names alone.",
+      "next_check": "Ask the brand which legal/marketing entity owns the restaurant and paid-media account before group-level comparison or outreach aggregation.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "India-region domain view for blackpearlmarathahalli.com returned zero results 05 Oct 2026.",
+      "analysis": "Zero results in one public query do not establish that no Google activity exists.",
+      "next_check": "If revisited, open a current individual creative and verify its advertiser, content, destination and status/last-shown fields.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "896967013290727",
+      "page_id": "103142768909470",
+      "page_name": "Black Pearl Barbeque Restaurant",
+      "page_profile_url": "https://www.facebook.com/theblackpearlmar/",
+      "started_on": "2026-09-11",
+      "creative_excerpt": "‘Bangalore, are you ready for a buffet adventure?’ Card states 180+ vegetarian/non-vegetarian options at The Black Pearl, Marathahalli.",
+      "cta": "Reservation phone/site are named in the creative; separate card button destination was not exposed in the capture.",
+      "destination_url": null,
+      "destination_status": "The card lists reservation phones and the official site in its copy. No exact card button destination or completed reservation was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=896967013290727&view_all_page_id=103142768909470"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual page-resolved card displayed Active/Sponsored, advertiser label, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Selected card names Marathahalli/Bengaluru; no audience geography inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Phone/site reservation routes are visible; booking completion not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, official legal/contact pages and Google query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "General contact is published, but paid-media ownership and entity relationships are unresolved."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Black Pearl buffet card; checked 2026-10-05; Black Pearl Barbeque Restaurant; Library ID 896967013290727 displayed Active and Sponsored 05 Oct 2026; started 11 Sep 2026. Copy names The Black Pearl, Marathahalli, says 180+ options and lists phone numbers/site. One card only.",
+    "S2 — Black Pearl official Terms & Conditions; checked 2026-10-05; Publishes info@blackpearlmarathahalli.com and names ONE IKIGAII CLUSTER KITCHEN PRIVATE LIMITED (OICKPL) as site operator. A privacy sentence also references Bangalore Blues Entertainment India Private Limited; relationship not explained.",
+    "S3 — Black Pearl official Careers page; checked 2026-10-05; Publishes info@blackpearlmarathahalli.com. Official indexed result says Black Pearl is incorporated by One Ikigaii Edutech Private Limited (OIEPL), while Terms names OICKPL as operator. Entity relation unresolved; no affiliation inferred.",
+    "S4 — Google Ads Transparency — blackpearlmarathahalli.com query; checked 2026-10-05; India-region domain view returned zero results on 05 Oct 2026. This is not proof of no Google advertising or activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 896967013290727 and page ID 103142768909470; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region blackpearlmarathahalli.com query returned zero results in this capture. This is not proof that the brand does not advertise or that no ads exist.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Marathahalli/Bengaluru appears in the selected card; first-party entity references are inconsistent and unresolved.",
+      "method": "Selected Meta creative names The Black Pearl, Marathahalli and states 180+ vegetarian/non-vegetarian options; it shows reservation phones and the official site. First-party legal pages use different One Ikigaii entity names; no relationship is inferred. Published general questions/terms inbox; no paid-media owner identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The card lists reservation phones and the official site in its copy. No exact card button destination or completed reservation was tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Marathahalli buffet card",
+      "Hi Black Pearl Barbeque team,\n\nCard 896967013290727 is shown Sponsored and Active, started 11 Sep 2026, and describes the Marathahalli buffet. I have not treated ‘180+’ as an audited menu count or a reservation result.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@blackpearlmarathahalli.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Entity check",
+      "Hi Black Pearl Barbeque team,\n\nThe Terms page lists one operator while the official Careers result uses another. I have not assumed the entities are the same or that the inbox belongs to paid media.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Reservation definition",
+      "Hi Black Pearl Barbeque team,\n\nA useful internal outcome definition would be a confirmed reservation, with phone and online routes reconciled under one rule. No such records are public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi Black Pearl Barbeque team,\n\nThe official site publishes info@blackpearlmarathahalli.com but no media buyer. Could you route me to the right owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Marathahalli buffet card",
+      "body": "Hi Black Pearl Barbeque team,\n\nCard 896967013290727 is shown Sponsored and Active, started 11 Sep 2026, and describes the Marathahalli buffet. I have not treated ‘180+’ as an audited menu count or a reservation result.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@blackpearlmarathahalli.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Entity check",
+      "body": "Hi Black Pearl Barbeque team,\n\nThe Terms page lists one operator while the official Careers result uses another. I have not assumed the entities are the same or that the inbox belongs to paid media.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Reservation definition",
+      "body": "Hi Black Pearl Barbeque team,\n\nA useful internal outcome definition would be a confirmed reservation, with phone and online routes reconciled under one rule. No such records are public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi Black Pearl Barbeque team,\n\nThe official site publishes info@blackpearlmarathahalli.com but no media buyer. Could you route me to the right owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    }
+  ]
+}

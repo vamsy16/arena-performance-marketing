@@ -905,9 +905,63 @@
       "day": 7,
       "website": "https://thethaivegankitchen.com/",
       "niche": "Food/Bengaluru/Thai vegan restaurant"
+    },
+    "NIKAA Briyani": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://nikaabriyani.com/",
+      "niche": "Food/Bengaluru/Biryani restaurant"
+    },
+    "Black Pearl Barbeque": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://blackpearlmarathahalli.com/",
+      "niche": "Food/Bengaluru/Theme restaurant and buffet dining"
+    },
+    "Suvaii": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.suvaii.in/",
+      "niche": "Food/Bengaluru/Restaurant and event catering"
+    },
+    "Gold Coins Club & Resort": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.goldcoinsresort.in/",
+      "niche": "Food/Bengaluru/Resort, dining and event venue"
+    },
+    "Paint the Town Restaurant": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.paintthetown.in/",
+      "niche": "Food/Bengaluru/Art-themed restaurant and event venue"
+    },
+    "Chutney Chang": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://fusionfoods.co.in/ws/chutneychang",
+      "niche": "Food/Bengaluru/Asian restaurant"
+    },
+    "Xin by MindEscapes": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.xinbymindescapes.com/",
+      "niche": "Food/Bengaluru/Restaurant"
+    },
+    "Roast Aroma": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://roastaromacafe.in/",
+      "niche": "Food/Bengaluru/Cafe and restaurant"
+    },
+    "AN’s Events & Caterers": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.ansevents.org/",
+      "niche": "Food/Bengaluru/Events and catering"
     }
   },
-  "total_found": 151,
+  "total_found": 160,
   "daily_log": [
     {
       "day": 1,
@@ -1123,6 +1177,25 @@
         "Sawadee"
       ],
       "note": "Batch 5 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 8,
+      "date": "2026-10-05",
+      "niche": "Food/Bengaluru",
+      "count": 9,
+      "total_so_far": 160,
+      "brands": [
+        "NIKAA Briyani",
+        "Black Pearl Barbeque",
+        "Suvaii",
+        "Gold Coins Club & Resort",
+        "Paint the Town Restaurant",
+        "Chutney Chang",
+        "Xin by MindEscapes",
+        "Roast Aroma",
+        "AN’s Events & Caterers"
+      ],
+      "note": "Batch 6 manually verified public-source shortlist; existing batches preserved."
     }
   ]
 }
