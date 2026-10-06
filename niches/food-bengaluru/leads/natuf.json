@@ -1,0 +1,220 @@
+{
+  "brand": "NATUF",
+  "slug": "natuf",
+  "website": "https://www.natuf.com/",
+  "instagram": "",
+  "niche": "Levantine cafe and D2C food",
+  "headline": "A page-resolved Koramangala cafe card and first-party contact route are visible; public order outcomes are not.",
+  "market_signal": "The selected Meta creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. NATUF's own contact page separately lists Electronic City, Bengaluru. These establish local context, not ad audience geography.",
+  "local_evidence_status": "MEASURED — Bengaluru localities appear in a public ad creative and first-party contact page; targeting is not inferred.",
+  "contact": {
+    "email": "hello@natuf.in",
+    "phone": "+91 63667 94402",
+    "entity": "",
+    "address": "39A, Chikkathoguru, Basapura Main Road, Electronic City, Bengaluru 560100, India",
+    "route_role": "Published support route with a separate business-partnership form; no paid-media buyer is named.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from NATUF's own Contact page on 04 Oct 2026: https://www.natuf.com/pages/contact publishes hello@natuf.in, phone +91 63667 94402 and an Electronic City, Bengaluru address. The same page offers business-partnership routing but does not identify a paid-media owner.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "First-party customer-support contact; the page also offers a business-partnership form. Paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — one domain result under verified Ardelle Foods Private Limited; opened creative does not establish a NATUF tie; not counted as NATUF activity",
+    "url": "https://adstransparency.google.com/?region=IN&domain=natuf.com",
+    "detail": "The India-region natuf.com view returned one result under verified advertiser Ardelle Foods Private Limited. The opened creative page showed last shown 10 Sep 2026 and a policy-violation removal notice, but no NATUF-identifying creative content was available. No NATUF Google ad is claimed; the .com and .in advertiser views are not merged."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct NATUF card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1976436179706369&view_all_page_id=293220663873617",
+      "source_type": "Platform record",
+      "observed": "Meta page label NATUF (page ID 293220663873617); individual Library ID 1976436179706369 displayed Active and Sponsored on 04 Oct 2026, started 24 Jul 2026. Creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. One card only; no account-wide count or targeting claim.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "NATUF official Contact page",
+      "url": "https://www.natuf.com/pages/contact",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes hello@natuf.in, +91 63667 94402 and 39A, Chikkathoguru, Basapura Main Road, Electronic City, Bengaluru 560100. It also offers business-partnership routing; it does not name a paid-media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "NATUF official D2C shop",
+      "url": "https://shop.natuf.com/",
+      "source_type": "Brand first-party storefront",
+      "observed": "The official Natuf D2C shop is live; previously inspected product pages label selected pantry products 'Only Bangalore'. This is published availability language, not order volume or paid attribution.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — natuf.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=natuf.com",
+      "source_type": "Platform query",
+      "observed": "One India-region domain result was associated with verified Ardelle Foods Private Limited; an individual creative did not establish a NATUF tie. Not a current-ad count.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S5",
+      "label": "Google Ads Transparency Center — opened natuf.com result",
+      "url": "https://adstransparency.google.com/advertiser/AR08303920496282435585/creative/CR14789950961606459393?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Advertiser page names verified Ardelle Foods Private Limited; last shown 10 Sep 2026; page shows removed for a policy violation. Creative content did not identify NATUF; no brand tie is claimed.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active Koramangala card exposes a Maps route, not a measured visit",
+      "evidence": "Library ID 1976436179706369; page NATUF (293220663873617); Active and Sponsored on 04 Oct 2026; started 24 Jul 2026; copy names Natuf Cafe, Koramangala, Bengaluru; See Details links to a Maps short URL.",
+      "analysis": "The individual card supports a public placement and a visible Maps next step only. It does not establish audience geography, store visits, online orders or event firing.",
+      "next_check": "Re-open the individual card and short link; if authorized, map the card ID to a defined store-visit or order event and its source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party contact and D2C context are available",
+      "evidence": "NATUF's Contact page publishes hello@natuf.in and an Electronic City, Bengaluru address; the first-party shop shows Bangalore-only product availability labels.",
+      "analysis": "These pages establish a published routing contact and local business context, not paid-media ownership or sales performance.",
+      "next_check": "Recheck the contact route and current product availability before outreach; ask the recipient to forward the note to the measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain result is not attributable to NATUF",
+      "evidence": "The natuf.com query returned one result under verified Ardelle Foods Private Limited; the opened creative was last shown 10 Sep 2026 and marked removed, without NATUF-identifying content.",
+      "analysis": "A domain match or mixed advertiser result does not establish a NATUF creative. No Google activity is attributed to the brand.",
+      "next_check": "If revisited, open a specific current creative and confirm its named advertiser, brand-identifying content, destination and last-shown/status fields.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1976436179706369",
+      "page_id": "293220663873617",
+      "page_name": "NATUF",
+      "started_on": "2026-07-24",
+      "creative_excerpt": "Koramangala, your new favorite cafe is here! Introducing Natuf Cafe; the card names Koramangala, Bengaluru.",
+      "cta": "See Details → Maps short link labelled for the Koramangala opening",
+      "destination_url": "https://maps.app.goo.gl/SX9B7xXtehLhRruU7",
+      "destination_status": "The card exposes a Maps short link labelled 'Now Open in Koramangala | Grand Opening Offers'. The final place/action was not independently resolved here; no visit, order or event outcome was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1976436179706369&view_all_page_id=293220663873617"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "An individual page-resolved Meta card displayed Active and Sponsored, page identity, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative names Koramangala, Bengaluru and the first-party contact page lists Electronic City; no audience geography is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "A Maps short link is visible, but the final business action and outcome are not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact and D2C shop pages were reviewed alongside the direct card and Google query/creative."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published inbox is a support route, not a confirmed paid-media or measurement owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct NATUF card; checked 2026-10-04; Meta page label NATUF (page ID 293220663873617); individual Library ID 1976436179706369 displayed Active and Sponsored on 04 Oct 2026, started 24 Jul 2026. Creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. One card only; no account-wide count or targeting claim.",
+    "S2 — NATUF official Contact page; checked 2026-10-04; Publishes hello@natuf.in, +91 63667 94402 and 39A, Chikkathoguru, Basapura Main Road, Electronic City, Bengaluru 560100. It also offers business-partnership routing; it does not name a paid-media buyer.",
+    "S3 — NATUF official D2C shop; checked 2026-10-04; The official Natuf D2C shop is live; previously inspected product pages label selected pantry products 'Only Bangalore'. This is published availability language, not order volume or paid attribution.",
+    "S4 — Google Ads Transparency Center — natuf.com domain query; checked 2026-10-04; One India-region domain result was associated with verified Ardelle Foods Private Limited; an individual creative did not establish a NATUF tie. Not a current-ad count.",
+    "S5 — Google Ads Transparency Center — opened natuf.com result; checked 2026-10-04; Advertiser page names verified Ardelle Foods Private Limited; last shown 10 Sep 2026; page shows removed for a policy violation. Creative content did not identify NATUF; no brand tie is claimed."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1976436179706369 and page ID 293220663873617; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — one domain result under verified Ardelle Foods Private Limited; opened creative does not establish a NATUF tie; not counted as NATUF activity",
+      "method": "The India-region natuf.com view returned one result under verified advertiser Ardelle Foods Private Limited. The opened creative page showed last shown 10 Sep 2026 and a policy-violation removal notice, but no NATUF-identifying creative content was available. No NATUF Google ad is claimed; the .com and .in advertiser views are not merged.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru localities appear in a public ad creative and first-party contact page; targeting is not inferred.",
+      "method": "The selected Meta creative names Natuf Cafe in Koramangala, Bengaluru and exposes a Maps short link. NATUF's own contact page separately lists Electronic City, Bengaluru. These establish local context, not ad audience geography. Published support route with a separate business-partnership form; no paid-media buyer is named.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card exposes a Maps short link labelled 'Now Open in Koramangala | Grand Opening Offers'. The final place/action was not independently resolved here; no visit, order or event outcome was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "koramangala card",
+      "Hi NATUF team,\n\nI checked the individual India-filtered Meta card 1976436179706369: it is labelled Sponsored and Active, started 24 Jul 2026 and names Natuf Cafe in Koramangala. I have not treated its Maps link as proof of a visit or order.\n\nThe public record does not expose private spend, orders or event firing. The published route, hello@natuf.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "map handoff",
+      "Hi NATUF team,\n\nThe card's visible next step is a Maps short link labelled for the Koramangala opening. The public record does not show whether store visits, online orders or another agreed event are reconciled to that route.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order source",
+      "Hi NATUF team,\n\nFor a measurement review, the internal definition would start with the chosen outcome (such as a store visit or completed online order) and its source-of-record. Neither is public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "measurement owner",
+      "Hi NATUF team,\n\nThe official contact page publishes a support route and a separate business-partnership form, but it does not name a media buyer. I can share the source-linked audit with the right owner if you can point me there.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

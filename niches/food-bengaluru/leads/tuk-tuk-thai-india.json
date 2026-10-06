@@ -1,0 +1,201 @@
+{
+  "brand": "Tuk Tuk Thai India",
+  "slug": "tuk-tuk-thai-india",
+  "website": "https://www.tuktukthai.in/",
+  "instagram": "",
+  "niche": "Pan-Asian restaurant chain",
+  "headline": "A Bengaluru-heavy creative links to Instagram; the official India contact page provides a first-party route.",
+  "market_signal": "The selected card says it is bringing Bangkok-inspired dining to Bengaluru and lists Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road (plus Ahmedabad). This is creative/local-business context, not audience targeting.",
+  "local_evidence_status": "MEASURED — Bengaluru outlet areas are named in the individual ad and the official India contact page lists a Bengaluru address; no ad-targeting inference.",
+  "contact": {
+    "email": "Tuktukthaiind@gmail.com",
+    "phone": "+91 97315 79935",
+    "entity": "Sama Hospitality LLP (named on the official India Contact Us page)",
+    "address": "AC.No. 30, WS No. 2B, Golden Square Hebbal, Esteem Mall, TF-01, 3rd Floor, No. 127 and 128, Kempapura, Bellary Road, Hebbal Bangalore North, Karnataka 560024",
+    "route_role": "Published India contact email; no paid-media role or buyer is stated.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Tuk Tuk Thai's official India Contact Us page on 04 Oct 2026: https://www.tuktukthai.in/contact-3 lists Tuktukthaiind@gmail.com under the India contact section for Sama Hospitality LLP, with a Bengaluru address and phone. It does not identify a paid-media buyer.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published India contact route for Sama Hospitality LLP; no paid-media buyer is identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=tuktukthai.in",
+    "detail": "India-region Google Ads Transparency domain view for tuktukthai.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Tuk Tuk India card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=3411800248981078&view_all_page_id=401998406326790",
+      "source_type": "Platform record",
+      "observed": "Meta page label Tuk Tuk India Offical (page ID 401998406326790); individual Library ID 3411800248981078 displayed Active and Sponsored on 04 Oct 2026, started 26 Aug 2026. Creative names Bengaluru, Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road; See details links to @tuk_tuk_thai_india_official.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Tuk Tuk Thai official India Contact Us page",
+      "url": "https://www.tuktukthai.in/contact-3",
+      "source_type": "Brand first-party contact page",
+      "observed": "Lists Sama Hospitality LLP for India, Tuktukthaiind@gmail.com, +91 97315 79935 and a Hebbal/Bellary Road Bengaluru address. The page links Instagram @tuk.tuk.thai.ind, different from the selected ad's handle; no equivalence is asserted.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — Tuk Tuk Thai domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=tuktukthai.in",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; this is not proof of no Google advertising or no activity.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected card names Bengaluru outlets and links to Instagram",
+      "evidence": "Library ID 3411800248981078; page label Tuk Tuk India Offical (401998406326790); Active and Sponsored on 04 Oct 2026; started 26 Aug 2026; copy names Bengaluru and five Bengaluru areas; CTA links to @tuk_tuk_thai_india_official.",
+      "analysis": "The individual card supports a public placement and the listed creative/location text. It does not show audience targeting, table bookings, orders or event firing.",
+      "next_check": "Re-open the card and confirm the current Instagram destination; if appropriate, ask which internal event is used for reservation or order outcomes.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official India contact route is published, with an Instagram-handle difference",
+      "evidence": "The Contact Us page lists Tuktukthaiind@gmail.com under Sama Hospitality LLP and links @tuk.tuk.thai.ind; the card CTA uses @tuk_tuk_thai_india_official.",
+      "analysis": "The first-party email is directly visible, but the two Instagram handles are not assumed to be the same account.",
+      "next_check": "Verify the intended social destination with the brand and ask the published India contact to route the measurement note to the right owner.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for tuktukthai.in returned zero results on 04 Oct 2026.",
+      "analysis": "Zero results in a domain view do not prove that no Google ads exist.",
+      "next_check": "If revisited, inspect an individual creative and confirm its named advertiser, brand tie, destination and last-shown/status.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "3411800248981078",
+      "page_id": "401998406326790",
+      "page_name": "Tuk Tuk India Offical",
+      "started_on": "2026-08-26",
+      "creative_excerpt": "The vibes are immaculate, but the food? Completely next level. We are bringing the energetic warmth of Bangkok right into the heart of Bengaluru.",
+      "cta": "See details → Instagram @tuk_tuk_thai_india_official",
+      "destination_url": "https://www.instagram.com/tuk_tuk_thai_india_official?igsi=MXRvYjRoc3pmODB4ag%3D%3D",
+      "destination_status": "The ad's visible Instagram handle differs from the official Contact page's linked Instagram handle (@tuk.tuk.thai.ind); equivalence was not established. No booking/order flow or event firing was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=3411800248981078&view_all_page_id=401998406326790"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The individual page-resolved Meta card displayed Active/Sponsored, named page, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative names Bengaluru and specific neighborhoods; the official India page also lists a Bengaluru address."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "A See details link to Instagram is visible; it is not a reservation conversion."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 3,
+      "basis": "The official India Contact Us page and direct card were reviewed; one secondary Instagram search snippet was not used for contact provenance."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The official India email is a general routing route; the page does not identify a paid-media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Tuk Tuk India card; checked 2026-10-04; Meta page label Tuk Tuk India Offical (page ID 401998406326790); individual Library ID 3411800248981078 displayed Active and Sponsored on 04 Oct 2026, started 26 Aug 2026. Creative names Bengaluru, Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road; See details links to @tuk_tuk_thai_india_official.",
+    "S2 — Tuk Tuk Thai official India Contact Us page; checked 2026-10-04; Lists Sama Hospitality LLP for India, Tuktukthaiind@gmail.com, +91 97315 79935 and a Hebbal/Bellary Road Bengaluru address. The page links Instagram @tuk.tuk.thai.ind, different from the selected ad's handle; no equivalence is asserted.",
+    "S3 — Google Ads Transparency Center — Tuk Tuk Thai domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; this is not proof of no Google advertising or no activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 3411800248981078 and page ID 401998406326790; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for tuktukthai.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru outlet areas are named in the individual ad and the official India contact page lists a Bengaluru address; no ad-targeting inference.",
+      "method": "The selected card says it is bringing Bangkok-inspired dining to Bengaluru and lists Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road (plus Ahmedabad). This is creative/local-business context, not audience targeting. Published India contact email; no paid-media role or buyer is stated.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The ad's visible Instagram handle differs from the official Contact page's linked Instagram handle (@tuk.tuk.thai.ind); equivalence was not established. No booking/order flow or event firing was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "bengaluru creative",
+      "Hi Tuk Tuk Thai India team,\n\nThe individual India Ad Library card 3411800248981078 is shown Active and Sponsored from 26 Aug 2026. It names Bengaluru and lists Koramangala, JP Nagar, Whitefield, RR Nagar and Hennur Road, with a See details Instagram link.\n\nThe public record does not expose private spend, orders or event firing. The published route, Tuktukthaiind@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "instagram handoff",
+      "Hi Tuk Tuk Thai India team,\n\nThe ad link uses @tuk_tuk_thai_india_official, while the official Contact Us page links @tuk.tuk.thai.ind. I have not treated these as the same profile or inferred a booking path.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "booking signals",
+      "Hi Tuk Tuk Thai India team,\n\nIf you measure table enquiries or orders internally, which event definition and source-of-record would you want tied to an individual paid card? No conversion is visible in the public library.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right team",
+      "Hi Tuk Tuk Thai India team,\n\nThis note is going to the India contact printed for Sama Hospitality LLP. If that is not the right route, could you direct it to whoever owns paid-media measurement?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

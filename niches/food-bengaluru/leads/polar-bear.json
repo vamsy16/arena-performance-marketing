@@ -1,0 +1,211 @@
+{
+  "brand": "Polar Bear",
+  "slug": "polar-bear",
+  "website": "polarbear.co.in",
+  "instagram": "@polarbearicecreams",
+  "niche": "Ice-cream and sundae restaurant chain",
+  "headline": "An active Hot Chocolate Fudge creative is visible; the official contact page's displayed email and mailto target differ.",
+  "market_signal": "The official Contact Us page gives a Bengaluru address and the store locator lists Bengaluru outlets; no audience targeting is inferred.",
+  "contact": {
+    "email": "polarbear@polarbear.co.in",
+    "phone": "",
+    "entity": "Honeycomb Retail (India) Pvt. Ltd.",
+    "address": "No. 47/2, 80 ft Road, Banashankari 6th Stage, Bengaluru 560061 (official contact page).",
+    "route_role": "Official customer-care mailto target. The visible label says customercare@polarbear.co.in while the mailto target is polarbear@polarbear.co.in; verify the route before sending. Not a confirmed media buyer.",
+    "additional_emails": [
+      "customercare@polarbear.co.in"
+    ]
+  },
+  "contact_source": "Crawled from Polar Bear's own Contact Us page at https://polarbear.co.in/contact-us/ on 04 Oct 2026: the displayed customer-care label is customercare@polarbear.co.in, but its mailto target is polarbear@polarbear.co.in. The target is transcribed literally, not guessed; verify before sending.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Visible customer-care label and underlying mailto target differ; verify before sending."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=polarbear.co.in",
+    "detail": "India-region domain view displayed 0 results for polarbear.co.in on 04 Oct 2026. This domain-query observation does not prove Polar Bear has no Google ads."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1569205697824965&view_all_page_id=219875252424",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page Polar Bear-The Ice Cream Sundae Zone (219875252424); started 27 Sep 2026; Hot Chocolate Fudge rainy-day copy; Learn more; final destination not exposed.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Polar Bear official contact page",
+      "url": "https://polarbear.co.in/contact-us/",
+      "source_type": "Brand first-party page",
+      "observed": "Identifies Honeycomb Retail (India) Pvt. Ltd. and a Bengaluru address. Customer-care text displays customercare@polarbear.co.in, but mailto target is polarbear@polarbear.co.in; mismatch preserved.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Polar Bear official store locator",
+      "url": "https://polarbear.co.in/store-locator-v2/",
+      "source_type": "Brand first-party locator",
+      "observed": "Official locator lists Karnataka/Bengaluru branches including Jayanagar, Koramangala, Indiranagar, Whitefield, Bellandur and others; no single current outlet count asserted.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Polar Bear domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=polarbear.co.in",
+      "source_type": "Platform query",
+      "observed": "Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active sundae creative has a Learn more label but no measured landing result",
+      "evidence": "Meta Library ID 1569205697824965; page Polar Bear-The Ice Cream Sundae Zone (219875252424); Sponsored and Active on 04 Oct 2026, started 27 Sep; Hot Chocolate Fudge/rainy-day copy; Learn more.",
+      "analysis": "No accessible destination or order outcome was captured. The card does not expose spend or conversion data.",
+      "next_check": "Re-open the card and confirm the current landing URL and intended action; inspect event firing only in an authorized test environment.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party Bengaluru context exists, but the displayed email and mailto target differ",
+      "evidence": "The contact page identifies Honeycomb Retail (India) Pvt. Ltd. at a Bengaluru address; visible customer-care text is customercare@polarbear.co.in and its mailto target is polarbear@polarbear.co.in. The locator lists Bengaluru branches.",
+      "analysis": "The mailto target is copied from the official link, not guessed; confirm it before sending. Neither route is a confirmed media buyer.",
+      "next_check": "Verify the exact mailbox and recheck a current Bengaluru store listing before using either in outreach.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A zero-result Google query is not evidence of no advertising",
+      "evidence": "The India-region domain query displayed 0 results for polarbear.co.in on 04 Oct 2026.",
+      "analysis": "No conclusion about absence of Google advertising is drawn from the domain query.",
+      "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1569205697824965",
+      "page_id": "219875252424",
+      "page_name": "Polar Bear-The Ice Cream Sundae Zone",
+      "started_on": "2026-09-27",
+      "creative_excerpt": "Here’s your reminder to slow down today. Find a cozy corner, grab a HCF sundae, and enjoy the little moments. #HotChocolateFudge #RainyDayTreats.",
+      "cta": "Learn more; final destination not exposed in captured text",
+      "destination_url": null,
+      "destination_status": "The public card shows a Learn more platform label but no tested brand landing destination or order path.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1569205697824965&view_all_page_id=219875252424"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The direct Polar Bear page card showed Active/Sponsored, page identity, direct Library ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official contact and store-locator pages provide Bengaluru address/outlet context."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "Learn more is displayed, but the final destination and order path were not exposed in the captured card."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact and locator pages plus the direct Meta and Google domain records were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "An official mailto target exists but differs from the visible email label; revalidation is required and buyer identity is unknown."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page Polar Bear-The Ice Cream Sundae Zone (219875252424); started 27 Sep 2026; Hot Chocolate Fudge rainy-day copy; Learn more; final destination not exposed.",
+    "S2 — Polar Bear official contact page; checked 2026-10-04; Identifies Honeycomb Retail (India) Pvt. Ltd. and a Bengaluru address. Customer-care text displays customercare@polarbear.co.in, but mailto target is polarbear@polarbear.co.in; mismatch preserved.",
+    "S3 — Polar Bear official store locator; checked 2026-10-04; Official locator lists Karnataka/Bengaluru branches including Jayanagar, Koramangala, Indiranagar, Whitefield, Bellandur and others; no single current outlet count asserted.",
+    "S4 — Google Ads Transparency Center — Polar Bear domain query; checked 2026-10-04; Zero domain-query results on 04 Oct 2026; this is not proof of no Google ads."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1569205697824965 and page ID 219875252424; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region domain view displayed 0 results for polarbear.co.in on 04 Oct 2026. This domain-query observation does not prove Polar Bear has no Google ads.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The official Contact Us page gives a Bengaluru address and the store locator lists Bengaluru outlets; no audience targeting is inferred. Official customer-care mailto target. The visible label says customercare@polarbear.co.in while the mailto target is polarbear@polarbear.co.in; verify the route before sending. Not a confirmed media buyer.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The public card shows a Learn more platform label but no tested brand landing destination or order path.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "HCF creative",
+      "Hi Polar Bear team,\n\nThe Polar Bear-The Ice Cream Sundae Zone page shows active card 1569205697824965, started 27 Sep 2026, with Hot Chocolate Fudge and rainy-day copy. The captured card labels Learn more, but I could not verify a final landing or order path.\n\nThe public record does not expose private spend, orders or event firing. The published route, polarbear@polarbear.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "contact route",
+      "Hi Polar Bear team,\n\nThe official store locator lists Bengaluru-area branches. One contact detail needs care: the Contact Us page displays customercare@polarbear.co.in, while the linked mailto target is polarbear@polarbear.co.in. I have recorded that mismatch rather than treating the displayed label as a confirmed mailbox.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "CTA outcome",
+      "Hi Polar Bear team,\n\nIf Learn more is intended to lead to an order or store action, an internal check could identify the final landing URL and the agreed event or store record used for reconciliation. No public result is available from the card.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Polar Bear team,\n\nI have a source-linked note on the creative, Bengaluru presence and the email-label mismatch. Please verify the correct inbox before sending and redirect this question if another team owns measurement.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

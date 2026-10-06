@@ -725,9 +725,279 @@
       "day": 1,
       "website": "upgrad.com",
       "niche": "Edtech/Coach"
+    },
+    "Aubree": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "aubree.in",
+      "niche": "Food/Bengaluru/Bakery, patisserie and celebration cakes"
+    },
+    "Nandhana Palace": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "nandhanarestaurants.com",
+      "niche": "Food/Bengaluru/Bengaluru casual dining and Andhra cuisine"
+    },
+    "Byg Brewski": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "bygbrewski.com",
+      "niche": "Food/Bengaluru/Bengaluru brewery, dining and events"
+    },
+    "Hatti Kaapi": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "hattikaapi.com",
+      "niche": "Food/Bengaluru/Coffee, packaged foods and direct-to-consumer retail"
+    },
+    "MTR Foods": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "mtrfoods.com",
+      "niche": "Food/Bengaluru/Packaged foods and Bengaluru-headquartered FMCG"
+    },
+    "Popeyes India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "popeyes.in",
+      "niche": "Food/Bengaluru/Quick-service restaurant and store openings"
+    },
+    "Sagar Ratna": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "sagarratna.com",
+      "niche": "Food/Bengaluru/South Indian vegetarian restaurant chain"
+    },
+    "McDonald's India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "mcdonaldsindia.com",
+      "niche": "Food/Bengaluru/Quick-service restaurant chain (West and South India; HRPL)"
+    },
+    "Starbucks India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "starbucks.in",
+      "niche": "Food/Bengaluru/Coffeehouse and Bengaluru retail stores"
+    },
+    "Krispy Kreme India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 5,
+      "website": "krispykremeindia.in",
+      "niche": "Food/Bengaluru/Doughnuts, gifting and Bengaluru stores"
+    },
+    "Theobroma": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "theobroma.in",
+      "niche": "Food/Bengaluru/Bakery, patisserie and cafe chain"
+    },
+    "The Belgian Waffle Co.": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "thebelgianwaffle.co",
+      "niche": "Food/Bengaluru/Waffle, dessert and cafe chain"
+    },
+    "Behrouz Biryani": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "behrouzbiryani.com",
+      "niche": "Food/Bengaluru/Biryani and prepared-food delivery brand"
+    },
+    "Bakingo": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "bakingo.com",
+      "niche": "Food/Bengaluru/Online bakery, designer cakes and gifting"
+    },
+    "Taco Bell India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "tacobell.co.in",
+      "niche": "Food/Bengaluru/Quick-service restaurant chain (India master-franchisee operations)"
+    },
+    "Wow! Momo": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "wowmomo.com",
+      "niche": "Food/Bengaluru/Momo and quick-service restaurant chain"
+    },
+    "Polar Bear": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "polarbear.co.in",
+      "niche": "Food/Bengaluru/Ice-cream and sundae restaurant chain"
+    },
+    "Jumboking": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "jumboking.co.in",
+      "niche": "Food/Bengaluru/Vegetarian burger QSR chain"
+    },
+    "Swiggy": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "swiggy.com",
+      "niche": "Food/Bengaluru/Food-delivery and dining platform (platform lead, not restaurant)"
+    },
+    "Chaayos": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 6,
+      "website": "chaayos.com",
+      "niche": "Food/Bengaluru/Chai cafe and quick-service restaurant chain"
+    },
+    "NATUF": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.natuf.com/",
+      "niche": "Food/Bengaluru/Levantine cafe and D2C food"
+    },
+    "Swish Now": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://justswish.in/",
+      "niche": "Food/Bengaluru/App-led food delivery and cloud kitchens"
+    },
+    "Thalairaj Biryani": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thalairajbiryani.com/",
+      "niche": "Food/Bengaluru/Biryani restaurant chain"
+    },
+    "Tuk Tuk Thai India": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.tuktukthai.in/",
+      "niche": "Food/Bengaluru/Pan-Asian restaurant chain"
+    },
+    "Chelvies Coffee": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://chelviescoffee.com/",
+      "niche": "Food/Bengaluru/Specialty coffee and cafe chain"
+    },
+    "Liliyum Patisserie Cafe": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://liliyum.com/",
+      "niche": "Food/Bengaluru/Patisserie, cafe and celebration cakes"
+    },
+    "Fish Mart": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.fishmart.online/",
+      "niche": "Food/Bengaluru/Online seafood, meat and grocery storefront"
+    },
+    "Mixnosh Art Cafe": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://www.mixnosh.in/",
+      "niche": "Food/Bengaluru/Art cafe, workshops and celebrations"
+    },
+    "The Cuisine Story": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thecuisinestory.com/",
+      "niche": "Food/Bengaluru/Bengali restaurant and catering"
+    },
+    "Sawadee": {
+      "first_seen": "2026-10-04T00:00:00",
+      "day": 7,
+      "website": "https://thethaivegankitchen.com/",
+      "niche": "Food/Bengaluru/Thai vegan restaurant"
+    },
+    "NIKAA Briyani": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://nikaabriyani.com/",
+      "niche": "Food/Bengaluru/Biryani restaurant"
+    },
+    "Black Pearl Barbeque": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://blackpearlmarathahalli.com/",
+      "niche": "Food/Bengaluru/Theme restaurant and buffet dining"
+    },
+    "Suvaii": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.suvaii.in/",
+      "niche": "Food/Bengaluru/Restaurant and event catering"
+    },
+    "Gold Coins Club & Resort": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.goldcoinsresort.in/",
+      "niche": "Food/Bengaluru/Resort, dining and event venue"
+    },
+    "Paint the Town Restaurant": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.paintthetown.in/",
+      "niche": "Food/Bengaluru/Art-themed restaurant and event venue"
+    },
+    "Chutney Chang": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://fusionfoods.co.in/ws/chutneychang",
+      "niche": "Food/Bengaluru/Asian restaurant"
+    },
+    "Xin by MindEscapes": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.xinbymindescapes.com/",
+      "niche": "Food/Bengaluru/Restaurant"
+    },
+    "Roast Aroma": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://roastaromacafe.in/",
+      "niche": "Food/Bengaluru/Cafe and restaurant"
+    },
+    "AN’s Events & Caterers": {
+      "first_seen": "2026-10-05T00:00:00",
+      "day": 8,
+      "website": "https://www.ansevents.org/",
+      "niche": "Food/Bengaluru/Events and catering"
+    },
+    "GO DESi": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://godesi.in/",
+      "niche": "Food/Bengaluru/D2C Indian snacks and sweets"
+    },
+    "Boba Bhaii": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://www.bobabhai.com/",
+      "niche": "Food/Bengaluru/Bubble tea and Korean-fusion food"
+    },
+    "Deliciae": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://www.delcakes.in/",
+      "niche": "Food/Bengaluru/Cake and dessert bakery"
+    },
+    "United Telugu Kitchens": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://unitedtelugukitchens.com/",
+      "niche": "Food/Bengaluru/Andhra/Telugu restaurant and catering group"
+    },
+    "The Kind Roastery and Brew Room": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://thekindindia.com/",
+      "niche": "Food/Bengaluru/Vegetarian resto-café, coffee roastery and bakery"
+    },
+    "La Pino'z Pizza": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://lapinozpizza.in/",
+      "niche": "Food/Bengaluru/Pizza restaurant chain"
     }
   },
-  "total_found": 111,
+  "total_found": 166,
   "daily_log": [
     {
       "day": 1,
@@ -864,6 +1134,120 @@
         "Milky Mist",
         "Frozen Bottle"
       ]
+    },
+    {
+      "day": 4,
+      "date": "2026-10-03",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 121,
+      "brands": [
+        "SMOOR",
+        "Sid's Farm",
+        "Barbeque Nation",
+        "Millet Amma",
+        "Adukale",
+        "Organic Mandya",
+        "Pure & Sure",
+        "Eat Better Co",
+        "Brik Oven",
+        "Araku Coffee"
+      ],
+      "note": "Reconciled from Batch 2 brand entries already present in brands; prior daily_log had omitted this entry."
+    },
+    {
+      "day": 5,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 131,
+      "brands": [
+        "Aubree",
+        "Nandhana Palace",
+        "Byg Brewski",
+        "Hatti Kaapi",
+        "MTR Foods",
+        "Popeyes India",
+        "Sagar Ratna",
+        "McDonald's India",
+        "Starbucks India",
+        "Krispy Kreme India"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 141,
+      "brands": [
+        "Theobroma",
+        "The Belgian Waffle Co.",
+        "Behrouz Biryani",
+        "Bakingo",
+        "Taco Bell India",
+        "Wow! Momo",
+        "Polar Bear",
+        "Jumboking",
+        "Swiggy",
+        "Chaayos"
+      ],
+      "note": "Batch 4 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 7,
+      "date": "2026-10-04",
+      "niche": "Food/Bengaluru",
+      "count": 10,
+      "total_so_far": 151,
+      "brands": [
+        "NATUF",
+        "Swish Now",
+        "Thalairaj Biryani",
+        "Tuk Tuk Thai India",
+        "Chelvies Coffee",
+        "Liliyum Patisserie Cafe",
+        "Fish Mart",
+        "Mixnosh Art Cafe",
+        "The Cuisine Story",
+        "Sawadee"
+      ],
+      "note": "Batch 5 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 8,
+      "date": "2026-10-05",
+      "niche": "Food/Bengaluru",
+      "count": 9,
+      "total_so_far": 160,
+      "brands": [
+        "NIKAA Briyani",
+        "Black Pearl Barbeque",
+        "Suvaii",
+        "Gold Coins Club & Resort",
+        "Paint the Town Restaurant",
+        "Chutney Chang",
+        "Xin by MindEscapes",
+        "Roast Aroma",
+        "AN’s Events & Caterers"
+      ],
+      "note": "Batch 6 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 9,
+      "date": "2026-10-06",
+      "niche": "Food/Bengaluru",
+      "count": 6,
+      "total_so_far": 166,
+      "brands": [
+        "GO DESi",
+        "Boba Bhaii",
+        "Deliciae",
+        "United Telugu Kitchens",
+        "The Kind Roastery and Brew Room",
+        "La Pino'z Pizza"
+      ],
+      "note": "Batch 7 individually source-checked public-source shortlist; earlier batches preserved."
     }
   ]
 }

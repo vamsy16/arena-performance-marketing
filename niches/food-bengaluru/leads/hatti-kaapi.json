@@ -1,0 +1,200 @@
+{
+  "batch": 3,
+  "brand": "Hatti Kaapi",
+  "slug": "hatti-kaapi",
+  "website": "hattikaapi.com",
+  "instagram": "@hattikaapi.official",
+  "niche": "Coffee, packaged foods and direct-to-consumer retail",
+  "verified_on": "04 OCT 2026",
+  "score": 9.0,
+  "score_20": 18,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "A Bengaluru filter-coffee ad uses WELCOME5 and links directly to the promoted product; the official site also publishes the first-order threshold.",
+  "contact": {
+    "email": "info@hattikaapi.in",
+    "phone": "9591999434",
+    "entity": "Hatti Kaapi (trade name shown; legal entity not established from the reviewed page)",
+    "address": "Hatti Kaapi, Maruthi Arcade, No. 17/A1-2, Yeshwanthapura, Bengaluru, Karnataka 560022, India",
+    "route_role": "Official contact-information page; general contact, not a verified marketing buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Hatti Kaapi's own contact-information policy on 04 Oct 2026: https://www.hattikaapi.com/policies/contact-information (trade name, info@hattikaapi.in, phone and Bengaluru physical address).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Official general contact email."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1467413768539691",
+      "page_id": "100531166152056",
+      "page_name": "HattiKaapi.Official",
+      "started_on": "2026-09-29",
+      "creative_excerpt": "Bengaluru, let’s make mornings a little more Mysuru … Mysuru Filter Coffee Powder … 90% coffee and 10% chicory … Use WELCOME5 at checkout.",
+      "cta": "Shop Now",
+      "destination_url": "https://www.hattikaapi.com/collections/coffee-powder/products/mysore-coffee-powder-250g",
+      "destination_status": "Public card links to the promoted product page.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=hattikaapi.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The ad and official contact-information page both identify Bengaluru/Karnataka. The official site banner states ‘Flat 5% OFF on Your First Order Above ₹1000 | Use Code: WELCOME5’; the ad says 5% off with WELCOME5. No checkout redemption was tested.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 100531166152056 and Library ID 1467413768539691; selected creative, not account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party product and contact pages",
+      "status": "MEASURED — page content",
+      "method": "Official contact-information page lists email/phone/address; product page matches promoted Mysuru coffee blend; site banner publishes WELCOME5 terms.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and code redemptions",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or checkout analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Checkout behavior",
+      "status": "NOT MEASURED",
+      "method": "The public product page was reviewed; checkout and coupon redemption were not tested.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The ad has a direct product CTA and a memorable code",
+      "evidence": "Library ID 1467413768539691 was Active on 04 Oct and started 29 Sep 2026; copy offers 5% off with WELCOME5 and links to the Mysore Coffee Powder 250g product page.",
+      "analysis": "The public handoff is product-specific. The existence of a code does not show how many orders used it or whether purchase events are attributed.",
+      "next_check": "Inside the account, compare the campaign source, code application and completed-order record without inferring results from the public card.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official site publishes an additional first-order threshold",
+      "evidence": "The site banner reads ‘Flat 5% OFF on Your First Order Above ₹1000 | Use Code: WELCOME5’; the ad says 5% off with WELCOME5.",
+      "analysis": "The threshold and first-order condition are published by the brand. This audit does not report a checkout test or claim a mismatch.",
+      "next_check": "Keep the same eligibility wording visible on the product page and at checkout, then verify redemption in first-party order data.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The published email is a general contact route",
+      "evidence": "Hatti Kaapi's contact-information page lists info@hattikaapi.in and a Bengaluru physical address.",
+      "analysis": "The route is brand-owned and checkable, but no paid-media buyer is named on that page.",
+      "next_check": "Ask for routing to the person who owns ecommerce acquisition or campaign measurement.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Page-resolved active Meta record with exact ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative addresses Bengaluru; the official contact page publishes a Bengaluru address."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Shop Now links to the exact promoted product page and displays WELCOME5."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official product, policy/contact and offer-banner content were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published general brand contact route, not a verified marketing buyer."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, direct page-resolved ad 1467413768539691; active, started 29 Sep 2026; checked 04 Oct 2026.",
+    "S2 — Hatti Kaapi official contact-information policy; email, phone and address; checked 04 Oct 2026.",
+    "S3 — Hatti Kaapi official product page and site offer banner; product, blend and WELCOME5 condition; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — selected Hatti Kaapi product ad",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1467413768539691&view_all_page_id=100531166152056",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 29 Sep; Bengaluru-oriented copy, 90:10 coffee/chicory blend, WELCOME5; Shop Now to product page.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Hatti Kaapi official contact-information page",
+      "url": "https://www.hattikaapi.com/policies/contact-information",
+      "source_type": "Brand first-party policy page",
+      "observed": "info@hattikaapi.in; phone 9591999434; Bengaluru address at Yeshwanthapura; trade name Hatti Kaapi.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Hatti Kaapi official product page and offer banner",
+      "url": "https://www.hattikaapi.com/collections/coffee-powder/products/mysore-coffee-powder-250g",
+      "source_type": "Brand first-party product page",
+      "observed": "Mysore Filter Coffee Powder product page; site banner states first order above ₹1,000, 5% off, WELCOME5.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "WELCOME5: confirm the product-to-order handoff",
+      "Hi Hatti Kaapi team,\n\nI saw the active Bengaluru-facing Meta creative for Mysuru Filter Coffee Powder (Library ID 1467413768539691; active when checked 04 Oct). It shows the 90:10 coffee/chicory blend, code WELCOME5 and a Shop Now link to the product page. Your official site banner adds the first-order-above-₹1,000 condition.\n\nI have not tested checkout or seen redemption data. A useful private check is whether the eligibility text, code and campaign source stay together through a completed order.\n\nWould a short evidence-linked route map be useful? If this inbox is not the right one for ecommerce media, could you point me to that owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Keep the offer condition visible",
+      "Hi Hatti Kaapi team,\n\nFollowing up on the WELCOME5 promotion. The ad card says 5% off; the first-party site banner specifies first order above ₹1,000. That is a published condition, not a claim that the checkout is unclear or malfunctioning.\n\nThe check I would run with your team is simply whether the product page and checkout carry the same terms and whether the order record captures code plus campaign source.\n\nMay I send the one-page checklist to the person who owns this flow?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A code is useful when redemption is traceable",
+      "Hi Hatti Kaapi team,\n\nThe visible WELCOME5 code gives the campaign a concrete measurement question: can your own order report connect the ad source, coupon application and completed order? The public Ad Library cannot answer that, and I have not inferred a redemption rate.\n\nI can share the exact field-level checks to run in the account and ecommerce reports, using only the public product and campaign evidence as the starting point.\n\nWould that be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on WELCOME5",
+      "Hi Hatti Kaapi team,\n\nLast note from me. I checked the active Mysuru coffee ad, its product destination, and the official WELCOME5 condition on 04 Oct. I have not accessed spend, coupon redemptions or checkout events.\n\nIf a simple source-to-order check would help the ecommerce team, I can send it. Otherwise I will close the file here; if someone else owns it, a pointer is appreciated.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

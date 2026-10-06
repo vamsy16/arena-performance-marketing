@@ -1,0 +1,254 @@
+{
+  "brand": "Boba Bhaii",
+  "slug": "boba-bhaii",
+  "website": "https://www.bobabhai.com/",
+  "niche": "Bubble tea and Korean-fusion food",
+  "headline": "A brand-page Meta card is Active and uses a generic Maps search CTA; its video was not playable in the capture.",
+  "market_signal": "The selected Meta card is shown under Boba Bhaii and links to a Google Maps search for 'boba bhai near me'. The official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. The map CTA is not an order, store visit or conversion measurement.",
+  "local_evidence_status": "MEASURED — the official Bangalore page lists Bengaluru outlet addresses; the selected ad uses a generic Maps search. No Bengaluru audience targeting or store-visit result is inferred.",
+  "contact": {
+    "email": "care@bobabhai.com",
+    "phone": "+91-79756 73970",
+    "entity": "",
+    "address": "Multiple Bengaluru outlet locations are listed on the official Bangalore page; no single corporate address is stated there.",
+    "route_role": "Published customer-care route; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Boba Bhai's own Bangalore page on 06 Oct 2026: https://www.bobabhai.com/bangalore lists Bengaluru stores and publishes care@bobabhai.com and +91-79756 73970. This is a customer-care route, not a confirmed paid-media contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-06",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published customer-care inbox; no media buyer is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=bobabhai.com",
+    "detail": "The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that Boba Bhaii does not advertise on Google or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Boba Bhaii individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578",
+      "source_type": "Platform individual card",
+      "observed": "Boba Bhaii page (page ID 103298149289578); Library ID 27272445052456789 displayed Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The video did not play in the capture; the visible See details route is a generic Google Maps search for 'boba bhai near me'. One card only; no click or visit result is exposed.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "label": "Boba Bhai official Bengaluru/Bangalore page",
+      "url": "https://www.bobabhai.com/bangalore",
+      "source_type": "Brand first-party local/contact page",
+      "observed": "Lists multiple Bengaluru store locations and publishes care@bobabhai.com and +91-79756 73970. The email is a customer-care route, not a media-buyer identity.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency — bobabhai.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=bobabhai.com",
+      "source_type": "Platform domain query",
+      "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google advertising or activity.",
+      "verified_on": "2026-10-06"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected Maps CTA is not a measured store visit or order",
+      "evidence": "Meta Library ID 27272445052456789; Boba Bhaii; Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The visible See details route is a generic Google Maps search; the video did not play in the capture.",
+      "analysis": "The public record supports the card, advertiser label and visible CTA only. The selected video content, map interactions, store visits, orders and conversion outcomes were not measured.",
+      "next_check": "Re-open the direct card and search destination before reusing the observation; if authorized, agree how map actions, store visits and completed orders would be defined and reconciled.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Bengaluru outlets and customer-care email are first-party; the inbox is not a buyer identity",
+      "evidence": "The brand's Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com.",
+      "analysis": "This confirms local brand context and a routing contact; it does not show who manages paid media or where the ad was targeted.",
+      "next_check": "Recheck outlet listings and ask the published care route to forward the source-linked note to the paid-media measurement owner.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026.",
+      "analysis": "A zero-result domain query is not evidence that no Google ads exist or that no activity occurred.",
+      "next_check": "If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attributing it.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-06",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-06",
+      "library_id": "27272445052456789",
+      "page_id": "103298149289578",
+      "page_name": "Boba Bhaii",
+      "page_profile_url": "https://www.facebook.com/bobabhaii/",
+      "started_on": "2026-07-24",
+      "creative_excerpt": "The individual Boba Bhaii card's video did not play in the capture. The card page displayed Boba Bhaii as the Sponsored advertiser and a See details link to a Google Maps search for 'boba bhai near me'. No unseen video content is inferred.",
+      "cta": "See details — Google Maps search for 'boba bhai near me'.",
+      "destination_url": "https://www.google.com/maps/search/boba+bhai+near+me+/",
+      "destination_status": "The direct card exposes a Google Maps search URL, not a tested route to a specific outlet. The video asset could not be played; no map click, store visit or order outcome was measured.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578"
+    }
+  ],
+  "batch": 7,
+  "verified_on": "06 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct individual card displayed Active/Sponsored, named Boba Bhaii page, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official brand page lists Bengaluru outlets; no audience targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "A generic Maps search CTA is visible; video content and destination outcome were not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct Meta card, official Bengaluru/contact page and Google domain query were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Customer-care inbox is published, but it is not a confirmed media-owner route."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — CHECKED — no domain-query results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Boba Bhaii individual card; checked 2026-10-06; Boba Bhaii page (page ID 103298149289578); Library ID 27272445052456789 displayed Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The video did not play in the capture; the visible See details route is a generic Google Maps search for 'boba bhai near me'. One card only; no click or visit result is exposed.",
+    "S2 — Boba Bhai official Bengaluru/Bangalore page; checked 2026-10-06; Lists multiple Bengaluru store locations and publishes care@bobabhai.com and +91-79756 73970. The email is a customer-care route, not a media-buyer identity.",
+    "S3 — Google Ads Transparency — bobabhai.com domain query; checked 2026-10-06; India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google advertising or activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 27272445052456789 and page ID 103298149289578; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that Boba Bhaii does not advertise on Google or that no ads exist.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the official Bangalore page lists Bengaluru outlet addresses; the selected ad uses a generic Maps search. No Bengaluru audience targeting or store-visit result is inferred.",
+      "method": "The selected Meta card is shown under Boba Bhaii and links to a Google Maps search for 'boba bhai near me'. The official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. The map CTA is not an order, store visit or conversion measurement. Published customer-care route; no paid-media buyer is identified.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The direct card exposes a Google Maps search URL, not a tested route to a specific outlet. The video asset could not be played; no map click, store visit or order outcome was measured.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "06 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Boba Bhaii Maps CTA",
+      "Hi Boba Bhaii team,\n\nI opened Meta Library card 27272445052456789: it displayed Boba Bhaii as Sponsored and Active when checked on 06 Oct 2026, started 24 Jul 2026, and shows a See details link to a Google Maps search for 'boba bhai near me'. The video did not play in my capture, so I have not described unseen content.\n\nThe public record does not expose private spend, orders or event firing. The published route, care@bobabhai.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Bengaluru store route",
+      "Hi Boba Bhaii team,\n\nYour official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. I have not assumed customer care owns paid media or that the Maps link proves a store visit.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Define the outcome",
+      "Hi Boba Bhaii team,\n\nIf the Maps route is intended to support store action, an internal review could agree the outcome definition and source-of-record. I did not access map interactions, store visits or order data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Correct contact",
+      "Hi Boba Bhaii team,\n\nCould you route this short source-linked note to the person responsible for paid-media measurement? If this care inbox is not suitable, a pointer to the right contact is enough.\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Boba Bhaii Maps CTA",
+      "body": "Hi Boba Bhaii team,\n\nI opened Meta Library card 27272445052456789: it displayed Boba Bhaii as Sponsored and Active when checked on 06 Oct 2026, started 24 Jul 2026, and shows a See details link to a Google Maps search for 'boba bhai near me'. The video did not play in my capture, so I have not described unseen content.\n\nThe public record does not expose private spend, orders or event firing. The published route, care@bobabhai.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Bengaluru store route",
+      "body": "Hi Boba Bhaii team,\n\nYour official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. I have not assumed customer care owns paid media or that the Maps link proves a store visit.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Define the outcome",
+      "body": "Hi Boba Bhaii team,\n\nIf the Maps route is intended to support store action, an internal review could agree the outcome definition and source-of-record. I did not access map interactions, store visits or order data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Correct contact",
+      "body": "Hi Boba Bhaii team,\n\nCould you route this short source-linked note to the person responsible for paid-media measurement? If this care inbox is not suitable, a pointer to the right contact is enough.\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

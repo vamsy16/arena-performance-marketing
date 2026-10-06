@@ -1,0 +1,201 @@
+{
+  "brand": "Swish Now",
+  "slug": "swish-now",
+  "website": "https://justswish.in/",
+  "instagram": "",
+  "niche": "App-led food delivery and cloud kitchens",
+  "headline": "A current Swish Now card uses a ten-minute delivery claim; the captured CTA does not expose an order destination.",
+  "market_signal": "The official homepage says Swish started in Bengaluru in 2024. The selected ad copy says 'serving fresh food in 10 minutes (or less)'; that is creative text, not a measured delivery-time or ad-targeting result.",
+  "local_evidence_status": "MEASURED — official homepage identifies Bengaluru as the company's origin; no audience geography is inferred.",
+  "contact": {
+    "email": "support@justswish.in",
+    "phone": "",
+    "entity": "",
+    "address": "Bengaluru origin stated on the official homepage; no corporate street address asserted.",
+    "route_role": "Published customer-support inbox on the official homepage; paid-media buyer not identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Swish's official homepage on 04 Oct 2026: https://justswish.in/ states the company started in Bengaluru and publishes support@justswish.in under Contact. The address is a support route, not a confirmed paid-media owner.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published support inbox; no paid-media or measurement owner is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=justswish.in",
+    "detail": "India-region Google Ads Transparency domain view for justswish.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Swish Now card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1471457201452711&view_all_page_id=376986995505672",
+      "source_type": "Platform record",
+      "observed": "Meta page label Swish Now (page ID 376986995505672); individual Library ID 1471457201452711 displayed Active and Sponsored on 04 Oct 2026, started 12 Aug 2026. Copy: 'Swish - serving fresh food in 10 minutes (or less)'. Learn more destination was not exposed in the captured card text.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Swish official homepage and contact",
+      "url": "https://justswish.in/",
+      "source_type": "Brand first-party page",
+      "observed": "Homepage says Swish started in Bengaluru in 2024, describes its own kitchens/app and publishes support@justswish.in. Published company statements are not ad-targeting or order-performance measurements.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — justswish.in domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=justswish.in",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture. This does not prove no Google advertising or no activity.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected card's delivery line is creative copy, not a measured outcome",
+      "evidence": "Library ID 1471457201452711; page Swish Now (376986995505672); Active and Sponsored on 04 Oct 2026; started 12 Aug 2026; copy says 'serving fresh food in 10 minutes (or less)'.",
+      "analysis": "The card establishes a public sponsored placement and the exact wording shown. It does not validate delivery times, conversions, audience, spend or ROAS.",
+      "next_check": "If the team wants a measurement review, compare the approved delivery-time definition with internal order timestamps only if authorized; do not use the ad copy as a measurement.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The captured Learn more CTA has no public order destination",
+      "evidence": "The selected card shows a Learn more label; the static capture did not expose a brand/app/order destination. The official homepage publishes support@justswish.in and a Bengaluru origin statement.",
+      "analysis": "No order flow or event can be inferred from a label whose final destination is not visible. The contact route is not identified as a paid-media owner.",
+      "next_check": "Re-open the current card in a normal browser and confirm the destination; ask support to route the note to the paid-media measurement owner.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for justswish.in returned zero results on 04 Oct 2026.",
+      "analysis": "Zero results in one public view are not evidence that the brand does not advertise on Google.",
+      "next_check": "If revisited, search a current individual creative and check the advertiser identity, creative, destination and last-shown/status fields.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1471457201452711",
+      "page_id": "376986995505672",
+      "page_name": "Swish Now",
+      "started_on": "2026-08-12",
+      "creative_excerpt": "Swish - serving fresh food in 10 minutes (or less).",
+      "cta": "Learn more; final business destination not exposed in the captured card text",
+      "destination_url": "",
+      "destination_status": "The individual card is Active and Sponsored; static extraction rendered a Learn more label but did not expose a brand destination. No app store, order flow or event was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1471457201452711&view_all_page_id=376986995505672"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 14,
+  "score": 7.0,
+  "score_band": "Moderate public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The individual page-resolved Meta card displayed Active and Sponsored, a named page, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 3,
+      "basis": "The first-party homepage says the company started in Bengaluru; this is origin context, not ad targeting."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 1,
+      "basis": "A Learn more label is visible but the captured card did not expose a brand destination."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "The official homepage/contact route and direct individual card were reviewed with a Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published email is support, not a named paid-media or measurement owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Swish Now card; checked 2026-10-04; Meta page label Swish Now (page ID 376986995505672); individual Library ID 1471457201452711 displayed Active and Sponsored on 04 Oct 2026, started 12 Aug 2026. Copy: 'Swish - serving fresh food in 10 minutes (or less)'. Learn more destination was not exposed in the captured card text.",
+    "S2 — Swish official homepage and contact; checked 2026-10-04; Homepage says Swish started in Bengaluru in 2024, describes its own kitchens/app and publishes support@justswish.in. Published company statements are not ad-targeting or order-performance measurements.",
+    "S3 — Google Ads Transparency Center — justswish.in domain query; checked 2026-10-04; India-region domain view returned zero results in this capture. This does not prove no Google advertising or no activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1471457201452711 and page ID 376986995505672; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for justswish.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — official homepage identifies Bengaluru as the company's origin; no audience geography is inferred.",
+      "method": "The official homepage says Swish started in Bengaluru in 2024. The selected ad copy says 'serving fresh food in 10 minutes (or less)'; that is creative text, not a measured delivery-time or ad-targeting result. Published customer-support inbox on the official homepage; paid-media buyer not identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The individual card is Active and Sponsored; static extraction rendered a Learn more label but did not expose a brand destination. No app store, order flow or event was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "10 minute card",
+      "Hi Swish Now team,\n\nThe Swish Now card 1471457201452711 is shown Sponsored and Active, started 12 Aug 2026. Its copy says 'serving fresh food in 10 minutes (or less)'; I have not treated that as a measured delivery time or conversion result.\n\nThe public record does not expose private spend, orders or event firing. The published route, support@justswish.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "route check",
+      "Hi Swish Now team,\n\nIn the captured card view, the CTA is Learn more but the final destination was not exposed. I have not inferred an order path or event from the label.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "event definition",
+      "Hi Swish Now team,\n\nThe official site says Swish started in Bengaluru and publishes support@justswish.in. For an account-side review, which order event and time window would your team reconcile against the selected ad ID?\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Swish Now team,\n\nIf support is not the right route, could you direct this note to whoever owns paid-media measurement? No private outcome is assumed.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

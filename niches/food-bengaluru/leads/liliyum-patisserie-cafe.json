@@ -1,0 +1,210 @@
+{
+  "brand": "Liliyum Patisserie Cafe",
+  "slug": "liliyum-patisserie-cafe",
+  "website": "https://liliyum.com/",
+  "instagram": "",
+  "niche": "Patisserie, cafe and celebration cakes",
+  "headline": "An active cake-product card links to the official store; a recent Google creative is archived, not currently active.",
+  "market_signal": "Liliyum's official contact page publishes a Bengaluru operating address. The selected Meta card links to Liliyum product pages; a separate Google archive creative explicitly mentions Bangalore but was marked removed and is not current-activity evidence.",
+  "local_evidence_status": "MEASURED — first-party Bengaluru operating address is published; the archived Google creative is not treated as current activity or targeting.",
+  "contact": {
+    "email": "support@liliyum.com",
+    "phone": "+91 99863 50349",
+    "entity": "",
+    "address": "Plot No. 3, Khatha No. 1178, Lakshmi Layout Main Road, Chikkabegur Gate, Hongasandra Village, Bangalore 560068",
+    "route_role": "Published customer-support email on the official contact page; paid-media buyer not identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Liliyum's own Contact Us page on 04 Oct 2026: https://liliyum.com/pages/contact-us publishes support@liliyum.com, phone +91-9986350349 and an operational address in Bengaluru. This is a support route, not a confirmed paid-media contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published customer-support route; no paid-media owner is identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — brand-specific archive creative; last shown 03 Oct 2026 and marked removed for a policy violation; not current activity",
+    "url": "https://adstransparency.google.com/?region=IN&domain=liliyum.com",
+    "detail": "The India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The opened creative CR10100277055867322369 explicitly names Liliyum Patisserie/Bangalore and was last shown 03 Oct 2026; Google's page marked it removed for a policy violation. This is archive evidence, not a current active-ad claim; 22 is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Liliyum product-card record",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1893067388109477&view_all_page_id=687481308002878",
+      "source_type": "Platform individual-card record",
+      "observed": "Individual Library ID 1893067388109477 displayed Active and Sponsored on 04 Oct 2026; started 18 Jun 2025; page label Liliyum Patisserie Cafe. Product versions show Order Now links to Liliyum celebration-cake pages. The surrounding page response said the page was unpublished or deleted; the individual card details still rendered.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Liliyum official Contact Us page",
+      "url": "https://liliyum.com/pages/contact-us",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes support@liliyum.com, phone +91-9986350349 and operational address Plot No. 3, Khatha No. 1178, Lakshmi Layout Main Road, Chikkabegur Gate, Hongasandra Village, Bangalore 560068.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — liliyum.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=liliyum.com",
+      "source_type": "Platform query",
+      "observed": "India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The count is not a current-active count; see opened individual creative S4.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Liliyum Patisserie creative",
+      "url": "https://adstransparency.google.com/advertiser/AR14111876119212851201/creative/CR10100277055867322369?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Verified advertiser SHARATH JOSE; creative explicitly says Liliyum Patisserie/Bangalore; last shown 03 Oct 2026; page states removed for a policy violation. It is not current active-ad evidence.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The Meta card links cake creatives to the official store",
+      "evidence": "Library ID 1893067388109477; page Liliyum Patisserie Cafe (687481308002878); Active and Sponsored on 04 Oct 2026; started 18 Jun 2025; versions include Butterfly Ombre Cake/Butterscotch Cake with Order Now links to liliyum.com.",
+      "analysis": "The direct individual card shows a public placement and product-page path only. The surrounding page response said unpublished or deleted; no broader page/account claim or completed order is inferred.",
+      "next_check": "Re-open the individual ad card, confirm its current status and product destination, and reconcile any authorized order event by card ID and date window.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party support and operating address are published",
+      "evidence": "The official contact page lists support@liliyum.com and a Hongasandra/Bengaluru operating address.",
+      "analysis": "This is a public routing contact and locality source, not a named paid-media buyer or proof of campaign geography.",
+      "next_check": "Recheck the contact details and ask the support route to forward the note to the paid-media measurement owner if appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A recent Google creative is archived and marked removed",
+      "evidence": "Creative CR10100277055867322369 names Liliyum Patisserie/Bangalore, last shown 03 Oct 2026, under verified advertiser SHARATH JOSE; Google marks it removed for a policy violation.",
+      "analysis": "This establishes a recent brand-specific archived creative, not a current Google-active ad. The domain view's 22 any-time results are not an active count.",
+      "next_check": "If revisited, open an individual creative and confirm its current status, advertiser, brand destination and last-shown fields before making an activity claim.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1893067388109477",
+      "page_id": "687481308002878",
+      "page_name": "Liliyum Patisserie Cafe",
+      "started_on": "2025-06-18",
+      "creative_excerpt": "Liliyum is our love for creation; card versions display Butterfly Ombre Cake and Butterscotch Cake with Order Now links to Liliyum product pages.",
+      "cta": "Order Now → Liliyum celebration-cake product page",
+      "destination_url": "https://liliyum.com/collections/celebration-cakes/products/ombre-cake-colorful-cake",
+      "destination_status": "The card displays multiple product versions linking to Liliyum's own store. The surrounding Meta page response said the page was unpublished or deleted, while the individual card still rendered Active/Sponsored; no checkout or event firing was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1893067388109477&view_all_page_id=687481308002878"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The individual Meta card displayed Active/Sponsored, a named page, start date and direct Library ID; page-header limitation is disclosed."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The official contact page publishes a Bengaluru operational address; no ad targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Order Now links to specific official product pages; this does not establish checkout or purchase completion."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact page, direct Meta card, Google domain query and a brand-specific archived creative were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "A first-party support inbox is published, but no paid-media or measurement owner is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — brand-specific archive creative last shown 03 OCT 2026; marked removed; current activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct Liliyum product-card record; checked 2026-10-04; Individual Library ID 1893067388109477 displayed Active and Sponsored on 04 Oct 2026; started 18 Jun 2025; page label Liliyum Patisserie Cafe. Product versions show Order Now links to Liliyum celebration-cake pages. The surrounding page response said the page was unpublished or deleted; the individual card details still rendered.",
+    "S2 — Liliyum official Contact Us page; checked 2026-10-04; Publishes support@liliyum.com, phone +91-9986350349 and operational address Plot No. 3, Khatha No. 1178, Lakshmi Layout Main Road, Chikkabegur Gate, Hongasandra Village, Bangalore 560068.",
+    "S3 — Google Ads Transparency Center — liliyum.com domain query; checked 2026-10-04; India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The count is not a current-active count; see opened individual creative S4.",
+    "S4 — Google Ads Transparency Center — Liliyum Patisserie creative; checked 2026-10-04; Verified advertiser SHARATH JOSE; creative explicitly says Liliyum Patisserie/Bangalore; last shown 03 Oct 2026; page states removed for a policy violation. It is not current active-ad evidence."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1893067388109477 and page ID 687481308002878; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — brand-specific archive creative; last shown 03 Oct 2026 and marked removed for a policy violation; not current activity",
+      "method": "The India-region domain view displayed 22 any-time results under verified advertiser SHARATH JOSE. The opened creative CR10100277055867322369 explicitly names Liliyum Patisserie/Bangalore and was last shown 03 Oct 2026; Google's page marked it removed for a policy violation. This is archive evidence, not a current active-ad claim; 22 is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — first-party Bengaluru operating address is published; the archived Google creative is not treated as current activity or targeting.",
+      "method": "Liliyum's official contact page publishes a Bengaluru operating address. The selected Meta card links to Liliyum product pages; a separate Google archive creative explicitly mentions Bangalore but was marked removed and is not current-activity evidence. Published customer-support email on the official contact page; paid-media buyer not identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card displays multiple product versions linking to Liliyum's own store. The surrounding Meta page response said the page was unpublished or deleted, while the individual card still rendered Active/Sponsored; no checkout or event firing was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "cake order path",
+      "Hi Liliyum Patisserie Cafe team,\n\nThe Liliyum Patisserie Cafe card 1893067388109477 is shown Active and Sponsored from 18 Jun 2025. It lists cake-product versions with Order Now links to Liliyum's own store. The surrounding page response said unpublished or deleted, so I rely only on the rendered individual-card details.\n\nThe public record does not expose private spend, orders or event firing. The published route, support@liliyum.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "delivery query",
+      "Hi Liliyum Patisserie Cafe team,\n\nThe official Contact Us page publishes support@liliyum.com and a Bengaluru operating address. This is first-party context, not evidence of ad targeting or completed orders.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "local card",
+      "Hi Liliyum Patisserie Cafe team,\n\nGoogle's individual Liliyum creative names Liliyum Patisserie/Bangalore and was last shown 03 Oct; Google's page marks it removed for a policy violation. I do not describe it as current Google activity.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Liliyum Patisserie Cafe team,\n\nIf support is not the right place for a measurement note, could you redirect it to the relevant owner? The public sources do not reveal private spend or order outcomes.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

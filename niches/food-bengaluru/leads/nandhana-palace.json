@@ -1,0 +1,191 @@
+{
+  "batch": 3,
+  "brand": "Nandhana Palace",
+  "slug": "nandhana-palace",
+  "website": "nandhanarestaurants.com",
+  "instagram": "@nandhanapalace",
+  "niche": "Bengaluru casual dining and Andhra cuisine",
+  "verified_on": "04 OCT 2026",
+  "score": 7.5,
+  "score_20": 15,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "A page-resolved active founder-story ad routes viewers to Instagram; the official contact page lists a Koramangala address and customer-service emails.",
+  "contact": {
+    "email": "customerservices@nandhanahotels.com",
+    "phone": "080 46131111",
+    "entity": "Nandhana Foods Private Limited",
+    "address": "#7, 4th B block, near BDA Complex, Koramangala, Bangalore 560034",
+    "route_role": "Official page labels this Email Support; not a verified marketing or media buyer.",
+    "additional_emails": [
+      "customercare@nandhana.in"
+    ]
+  },
+  "contact_source": "Crawled from Nandhana Palace's own contact page on 04 Oct 2026: https://nandhanarestaurants.com/contact-us/ (customerservices@nandhanahotels.com is labeled Email Support; customercare@nandhana.in appears in the footer; Nandhana Foods Private Limited and Koramangala address are published).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Email Support; a separate customercare@nandhana.in footer address is also published."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "4610923952560301",
+      "page_id": "379028098788348",
+      "page_name": "Nandhana Palace",
+      "started_on": "2026-09-30",
+      "creative_excerpt": "Before the queues, the branches, and the buzz … Nandhana Palace wasn’t launched. It was earned.",
+      "cta": "Visit Instagram profile",
+      "destination_url": "https://instagram.com/nandhanapalace",
+      "destination_status": "Destination label and Instagram profile URL shown on the public card.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=nandhanarestaurants.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The official contact page publishes a Koramangala, Bangalore address. The ad caption includes Bangalore among its visible keyword-style text; this is not evidence of audience targeting.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 379028098788348 and Library ID 4610923952560301; not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party contact and local address",
+      "status": "MEASURED — page content",
+      "method": "Official contact page lists Koramangala address, Nandhana Foods Private Limited and customer-service email routes.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversions",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Booking or order outcome from social CTA",
+      "status": "NOT MEASURED",
+      "method": "The ad card routes to Instagram; no authenticated social or transaction data reviewed.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The active creative is a founder story with an Instagram handoff",
+      "evidence": "Meta Ad Library ID 4610923952560301 was marked Active and started 30 Sep 2026. Copy: ‘Before the queues, the branches, and the buzz … Nandhana Palace wasn’t launched. It was earned.’ CTA: Visit Instagram profile.",
+      "analysis": "The visible route is social-profile engagement, not a direct booking or order link. The card does not establish the campaign's objective or its results.",
+      "next_check": "If orders or store visits are an objective, compare Instagram click activity with the relevant booking/order records inside the business systems.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official contact page confirms a local Koramangala address",
+      "evidence": "The page lists #7, 4th B block, near BDA Complex, Koramangala, Bangalore 560034, and names Nandhana Foods Private Limited.",
+      "analysis": "This is a first-party local presence signal; no claim about the ad's geographic audience is made.",
+      "next_check": "Route the audit to the team that owns digital campaigns or local-store acquisition.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Published emails are customer-support routes",
+      "evidence": "customerservices@nandhanahotels.com is labeled Email Support; customercare@nandhana.in appears in the same page footer.",
+      "analysis": "Neither address is identified as a marketing buyer or campaign owner.",
+      "next_check": "Ask for the appropriate marketing or digital contact before discussing account-specific changes.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Active page-resolved Meta record with exact ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The official page gives a Koramangala address; the caption includes Bangalore in visible text, not targeting data."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "Public CTA routes to Instagram rather than a visible direct order/booking flow."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact page identifies local address, legal name and support routes."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 1,
+      "basis": "The published addresses are explicitly customer-support routes."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, direct page-resolved ad 4610923952560301; active, started 30 Sep 2026; checked 04 Oct 2026.",
+    "S2 — Nandhana Palace official contact page; support emails, Koramangala address and Nandhana Foods Private Limited; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4610923952560301&view_all_page_id=379028098788348",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 30 Sep 2026; founder-story copy; CTA Visit Instagram profile.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Nandhana Palace official contact page",
+      "url": "https://nandhanarestaurants.com/contact-us/",
+      "source_type": "Brand first-party page",
+      "observed": "Email Support customerservices@nandhanahotels.com; footer customercare@nandhana.in; Nandhana Foods Private Limited; Koramangala, Bangalore 560034; phone 080 46131111.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Founder-story ad: where should I route a measurement note?",
+      "Hi Nandhana team,\n\nI saw the active founder-story creative in Meta Ad Library (Library ID 4610923952560301; started 30 Sep; checked 04 Oct). The card's CTA opens the Nandhana Palace Instagram profile, while your contact page lists the Koramangala address.\n\nI can map the public handoff and list the private checks needed to connect social activity to store or order outcomes. I cannot see spend or conversions from the public card, and I am not assuming the ad is meant to drive orders.\n\nWould it be useful if I sent a concise, source-linked note? If this support inbox is not the right route, could you direct me to the digital-marketing owner?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A small check after the Instagram click",
+      "Hi Nandhana team,\n\nFollowing up with one specific question from the public audit: the selected Meta card sends viewers to Instagram rather than showing a direct booking or ordering page. If the campaign is intended to support store visits or orders, the relevant comparison would be between social click activity and your own store/order records.\n\nThat is a check for your team, not a claim that the current setup is missing measurement.\n\nMay I send the one-page route map to the person who owns digital campaigns?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "The local contact route is clear; the campaign owner is not",
+      "Hi Nandhana team,\n\nYour public contact page gives a Koramangala address and labels customerservices@nandhanahotels.com as Email Support. I am writing to that published route only to ask for the right owner; I have not identified a marketing buyer from public pages.\n\nThe audit separates what the ad card shows from private outcomes and includes the source links so your team can verify each point.\n\nWould you point me to the appropriate marketing contact?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the founder-story creative",
+      "Hi Nandhana team,\n\nLast note from me. I checked the public founder-story ad and official contact page on 04 Oct. I have not accessed campaign, store-visit or order data, so I have not made any performance claim.\n\nIf a route map would help the team review the Instagram handoff, I can send it; otherwise I will leave this here. If another team owns paid media, a pointer is appreciated.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

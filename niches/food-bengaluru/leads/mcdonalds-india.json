@@ -1,0 +1,191 @@
+{
+  "batch": 3,
+  "brand": "McDonald's India",
+  "slug": "mcdonalds-india",
+  "website": "mcdonaldsindia.com",
+  "instagram": "@mcdonalds_india",
+  "niche": "Quick-service restaurant chain (West and South India; HRPL)",
+  "verified_on": "04 OCT 2026",
+  "score": 8.5,
+  "score_20": 17,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "A page-resolved active Order Now creative exposes a multi-hop MFilterIt/DoubleClick/Smart.link route; the published corporate communications contact is not a verified media buyer.",
+  "contact": {
+    "email": "corpcomm@mcdonaldsindia.com",
+    "phone": "+91 22 49135000",
+    "entity": "Hardcastle Restaurants Private Limited (McDonald's India / HRPL)",
+    "address": "Registered office: 1001, Tower 3, 10th Floor, One International Center, Senapati Bapat Marg, Prabhadevi, Mumbai 400013, India",
+    "route_role": "Official reach-us page labels this Media Contact; not a verified paid-media buyer.",
+    "additional_emails": [
+      "info@mcdonaldsindia.com"
+    ]
+  },
+  "contact_source": "Crawled from McDonald's India HRPL reach-us page on 04 Oct 2026: https://www.mcdonaldsindia.com/reach-us.html (corpcomm@mcdonaldsindia.com is labeled Media Contact; info@mcdonaldsindia.com is listed for corporate offers; Hardcastle Restaurants Private Limited and registered office are shown).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "corpcomm@ is Media Contact; info@ is corporate offers/bulk gift-card enquiries."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "1376996287487142",
+      "page_id": "109393465767252",
+      "page_name": "McDonald's India",
+      "started_on": "2026-09-08",
+      "creative_excerpt": "Celebrating 30 years of your every family at McDonald's. Let's family at McD.",
+      "cta": "Order Now",
+      "destination_url": "https://wafs.mfilterit.net/rdct/…",
+      "destination_status": "Captured click path includes an MFilterIt redirect, a DoubleClick trackclk URL and a Smart.link destination; parameter includes Bangalore_Anthem_Video_8Sept_Click. The route was not clicked through or tested for event firing.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=mcdonaldsindia.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The captured ad URL includes the campaign-name parameter Bangalore_Anthem_Video_8Sept_Click; the visible ad copy itself is a 30-years family message. The parameter is a campaign label, not proof of audience targeting or geographic delivery.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 109393465767252 and Library ID 1376996287487142; selected creative, not account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party corporate/contact page",
+      "status": "MEASURED — page content",
+      "method": "HRPL reach-us page publishes media and corporate-offer email routes, legal name, registered address and Karnataka location link.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Public click URL structure",
+      "status": "MEASURED — URL layers visible",
+      "method": "Ad card URL shows MFilterIt redirect, DoubleClick trackclk URL and Smart.link; click-through resolution and tag firing not tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and conversion events",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager or order-event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and orders",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or order analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The selected active ad exposes a layered Order Now click path",
+      "evidence": "Meta ID 1376996287487142 was Active on 04 Oct and started 08 Sep 2026. The card says ‘Celebrating 30 years of your every family…’ and shows an MFilterIt redirect that contains a DoubleClick trackclk URL and Smart.link destination; a campaign parameter reads Bangalore_Anthem_Video_8Sept_Click.",
+      "analysis": "The visible URL structure is a useful QA starting point, but it does not prove that consent, click IDs, analytics events or order attribution work end to end.",
+      "next_check": "With account access, follow the route in a test environment and confirm redirect continuity, landing destination, campaign parameters and the order event.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Bangalore campaign label is not audience-targeting evidence",
+      "evidence": "Bangalore_Anthem_Video_8Sept_Click appears in the captured URL parameters; the ad copy itself celebrates 30 years of family at McDonald's.",
+      "analysis": "A URL label can describe a creative or internal campaign name; no audience geography is inferred.",
+      "next_check": "Confirm targeting and delivery geography in the advertiser account if the market question matters.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The published corporate route is communications, not a verified media buyer",
+      "evidence": "The HRPL reach-us page labels corpcomm@mcdonaldsindia.com as Media Contact and lists info@mcdonaldsindia.com for corporate offers.",
+      "analysis": "Both are official brand routes, but neither page names the person responsible for paid-media measurement.",
+      "next_check": "Ask the published contact to route the message to the relevant digital marketing or analytics owner.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Active advertiser-page creative verified by exact Meta Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 3,
+      "basis": "A Bangalore-named URL parameter is present; it is not proof of audience geography."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The card shows Order Now and a visible multi-hop destination structure."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official HRPL contact page, corporate routes, legal entity and Karnataka location path were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published Media Contact route may route a campaign question but is not a confirmed media buyer."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, McDonald's India ad 1376996287487142; active, started 08 Sep 2026; Order Now URL structure; checked 04 Oct 2026.",
+    "S2 — McDonald's India (HRPL) official reach-us page; legal entity, media contact and corporate-offer contact; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — McDonald's India 30-year creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1376996287487142&view_all_page_id=109393465767252",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 08 Sep 2026; Order Now; captured URL layers include MFilterIt, DoubleClick trackclk and Smart.link; campaign parameter includes Bangalore_Anthem_Video_8Sept_Click.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "McDonald's India HRPL official reach-us page",
+      "url": "https://www.mcdonaldsindia.com/reach-us.html",
+      "source_type": "Brand first-party corporate page",
+      "observed": "Hardcastle Restaurants Private Limited; corpcomm@mcdonaldsindia.com labeled Media Contact; info@mcdonaldsindia.com for corporate offers; registered office and Karnataka location link.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "Order Now path: a redirect continuity check",
+      "Hi McDonald's India team,\n\nI checked the active Meta creative that says “Celebrating 30 years of your every family at McDonald's” (Library ID 1376996287487142; started 08 Sep). Its public Order Now URL shows an MFilterIt redirect, a DoubleClick trackclk URL and a Smart.link destination; the URL also carries a Bangalore_Anthem_Video_8Sept_Click label.\n\nThat visible chain is not proof of a tracking fault. The useful account-side QA is to confirm that click IDs and campaign parameters survive each redirect and that the final order event is recorded.\n\nI found corpcomm@mcdonaldsindia.com labeled Media Contact on the HRPL page. If this is not the right owner, could you route the note to digital marketing or analytics?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Confirm the final destination and source fields",
+      "Hi McDonald's India team,\n\nFollowing up on the public click path for the 30-year creative. The Ad Library exposes several URL layers, but not the final order journey or event logs. I have not concluded that any redirect or measurement event is missing.\n\nA test click in the team's approved environment could confirm the final landing, campaign parameters, consent behavior and order-source capture.\n\nWould a short route map help the campaign owner review those points?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A public campaign label is not targeting data",
+      "Hi McDonald's India team,\n\nOne caution from the audit: the captured URL includes Bangalore_Anthem_Video_8Sept_Click, while the visible ad copy is a broad family message. I am treating that string as a campaign label only; it does not tell me who saw the ad or where it was delivered.\n\nIf Bengaluru delivery is the business question, the account-side audience and delivery report is the right evidence. The public card cannot answer it.\n\nCould you point me to the owner of that check?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the redirect chain",
+      "Hi McDonald's India team,\n\nLast note from me. I reviewed one active Order Now creative and the official HRPL contact page on 04 Oct. The only recommendation is to verify redirect and order-event continuity inside the approved test/reporting environment; I have not accessed performance data.\n\nIf another team owns the flow, a pointer would be appreciated. Otherwise I will close this out.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

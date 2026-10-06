@@ -1,0 +1,220 @@
+{
+  "brand": "The Belgian Waffle Co.",
+  "slug": "the-belgian-waffle-co",
+  "website": "thebelgianwaffle.co",
+  "instagram": "@thebelgianwafflecoindia",
+  "niche": "Waffle, dessert and cafe chain",
+  "headline": "An active Meta card exposes a Maps short link; official indexed Bengaluru locator evidence needs a live recheck.",
+  "market_signal": "Official indexed Karnataka/Bengaluru location content showed store entries, but the deep links returned 404 in direct fetches. Re-open the interactive locator before relying on exact current location details; the selected ad does not establish Bengaluru targeting.",
+  "contact": {
+    "email": "marketing@bloombay.in",
+    "phone": "",
+    "entity": "Not identified in the cited contact page",
+    "address": "First-party indexed location content lists Bengaluru; recheck the interactive locator for current outlet details.",
+    "route_role": "Official marketing inbox for campaign, content and partnership enquiries; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from The Belgian Waffle Co.'s own About Us / FAQ page at https://thebelgianwaffle.co/about-us on 04 Oct 2026: the page directs campaign, content and partnership ideas to marketing@bloombay.in.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Official marketing inbox for campaigns, content and partnerships; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — current brand-specific activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=thebelgianwaffle.co",
+    "detail": "India-region domain view displayed about 500 any-time results under verified Shrey Yogesh Aggarwal. The opened preview content was blocked in the static view; advertiser-to-brand and Bengaluru creative relationships were not established. About 500 is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1130453286074164&view_all_page_id=937113036310326",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page label The Belgian Waffle Co. (page ID 937113036310326); started 01 Oct 2026; card exposes a Maps short link, not validated as a brand store.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "The Belgian Waffle Co. official About Us / FAQ",
+      "url": "https://thebelgianwaffle.co/about-us",
+      "source_type": "Brand first-party page",
+      "observed": "Official page directs marketing, content, campaign and partnership queries to marketing@bloombay.in; it does not identify a paid-media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Official indexed Bengaluru locator page (deep link currently unavailable)",
+      "url": "https://thebelgianwaffle.co/location/karnataka/bengaluru/page/5/",
+      "source_type": "Brand first-party locator (indexed page)",
+      "observed": "Official search index surfaced Bengaluru store entries including HSR Layout, BEL Road, Bellandur, Koramangala, JP Nagar and others. The page and a linked JP Nagar store deep link returned 404 in direct fetch; the live /store-locator selector did not render city rows in the static capture. No exact current outlet count is asserted.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Belgian Waffle domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=thebelgianwaffle.co",
+      "source_type": "Platform query",
+      "observed": "About 500 any-time results under verified Shrey Yogesh Aggarwal; opened preview content blocked; no advertiser-to-brand or Bengaluru creative relationship established.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S5",
+      "label": "Maps short link exposed in the selected Meta card",
+      "url": "https://maps.app.goo.gl/YyuvUGmDPvzZRfEZ8",
+      "source_type": "Ad destination resolution check",
+      "observed": "Static link resolution returned Pan Bazaar, Guwahati, Assam; not verified as a Belgian Waffle Co. location. This route is not treated as a Bengaluru destination.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active card exposes a Maps short link whose final place is unconfirmed",
+      "evidence": "Meta Library ID 1130453286074164 is labelled The Belgian Waffle Co. (page ID 937113036310326), Sponsored and Active on 04 Oct 2026, started 01 Oct 2026. The Maps short link resolved in the static check to Pan Bazaar, Guwahati.",
+      "analysis": "The page-resolved card proves a sponsored placement on the named page. Its short-link destination is not verified as a brand store and is not a Bengaluru signal.",
+      "next_check": "Re-open the card and Maps link in a normal browser; verify the final business/place before describing the offer or city.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Bengaluru location evidence is first-party indexed content, not a reachable live listing",
+      "evidence": "The official indexed Karnataka/Bengaluru page showed outlet snippets, but direct fetch returned 404; the interactive locator did not render city results in the static capture. The About Us page publishes marketing@bloombay.in.",
+      "analysis": "Retain Bengaluru relevance as a caveated first-party index signal, not a fully re-opened live store listing and not ad targeting.",
+      "next_check": "Re-open the official store locator and confirm at least one current Bengaluru location before sending the local-context line.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google domain results do not establish current Belgian Waffle activity",
+      "evidence": "The India-domain view displayed about 500 any-time results under verified Shrey Yogesh Aggarwal; the opened preview was blocked and no brand relationship was established.",
+      "analysis": "Any-time and mixed-advertiser results are not current brand-ad counts. No Google activity is asserted.",
+      "next_check": "If revisited, verify an individual creative, named advertiser, brand-specific destination and last-shown/status fields.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "local_evidence_status": "PARTIALLY VERIFIED — official indexed location snippets; deep-link pages return 404 and current locator rows do not load in the static capture.",
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1130453286074164",
+      "page_id": "937113036310326",
+      "page_name": "The Belgian Waffle Co.",
+      "started_on": "2026-10-01",
+      "creative_excerpt": "The video preview was not available in the captured card; its Maps link was labelled for The Belgian Waffle Co.",
+      "cta": "Maps link labelled ‘See details’ / Learn more",
+      "destination_url": "https://maps.app.goo.gl/YyuvUGmDPvzZRfEZ8",
+      "destination_status": "The card exposed a Maps short link. Static resolution returned Pan Bazaar, Guwahati, not a verifiable Belgian Waffle outlet; do not treat it as a Bengaluru destination or tested conversion path.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1130453286074164&view_all_page_id=937113036310326"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A direct page-resolved Meta card displayed Active and Sponsored, with page ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 2,
+      "basis": "First-party indexed content lists Bengaluru stores, but direct retrieval failed; local evidence is weak/caveated and requires a live recheck."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "A Maps short link is visible, but its resolved place was not verified as the brand or city destination."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official marketing FAQ, indexed locator, domain-level Google query and individual Meta card were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 4,
+      "basis": "The published inbox is explicitly for campaign/content/partnership enquiries, but not confirmed as a media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page label The Belgian Waffle Co. (page ID 937113036310326); started 01 Oct 2026; card exposes a Maps short link, not validated as a brand store.",
+    "S2 — The Belgian Waffle Co. official About Us / FAQ; checked 2026-10-04; Official page directs marketing, content, campaign and partnership queries to marketing@bloombay.in; it does not identify a paid-media buyer.",
+    "S3 — Official indexed Bengaluru locator page (deep link currently unavailable); checked 2026-10-04; Official search index surfaced Bengaluru store entries including HSR Layout, BEL Road, Bellandur, Koramangala, JP Nagar and others. The page and a linked JP Nagar store deep link returned 404 in direct fetch; the live /store-locator selector did not render city rows in the static capture. No exact current outlet count is asserted.",
+    "S4 — Google Ads Transparency Center — Belgian Waffle domain query; checked 2026-10-04; About 500 any-time results under verified Shrey Yogesh Aggarwal; opened preview content blocked; no advertiser-to-brand or Bengaluru creative relationship established.",
+    "S5 — Maps short link exposed in the selected Meta card; checked 2026-10-04; Static link resolution returned Pan Bazaar, Guwahati, Assam; not verified as a Belgian Waffle Co. location. This route is not treated as a Bengaluru destination."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1130453286074164 and page ID 937113036310326; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — current brand-specific activity not established",
+      "method": "India-region domain view displayed about 500 any-time results under verified Shrey Yogesh Aggarwal. The opened preview content was blocked in the static view; advertiser-to-brand and Bengaluru creative relationships were not established. About 500 is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "PARTIALLY VERIFIED — official indexed location snippets; deep-link pages return 404 and current locator rows do not load in the static capture.",
+      "method": "Official indexed Karnataka/Bengaluru location content showed store entries, but the deep links returned 404 in direct fetches. Re-open the interactive locator before relying on exact current location details; the selected ad does not establish Bengaluru targeting. Official marketing inbox for campaign, content and partnership enquiries; no paid-media buyer is identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card exposed a Maps short link. Static resolution returned Pan Bazaar, Guwahati, not a verifiable Belgian Waffle outlet; do not treat it as a Bengaluru destination or tested conversion path.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Maps link",
+      "Hi The Belgian Waffle Co. team,\n\nThe active Meta card on The Belgian Waffle Co. page is Library ID 1130453286074164 (started 01 Oct 2026). Its Maps short link resolved in the static check to Pan Bazaar, Guwahati, not a verifiable Belgian Waffle outlet; I am not calling it a Bengaluru destination.\n\nThe public record does not expose private spend, orders or event firing. The published route, marketing@bloombay.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "locator check",
+      "Hi The Belgian Waffle Co. team,\n\nThe official FAQ publishes marketing@bloombay.in for campaign/content/partnership enquiries. Its indexed Karnataka location page lists Bengaluru entries, but the direct page returned 404 and the interactive locator did not render the city rows. I have recorded that limitation rather than assuming a current outlet count.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store outcome",
+      "Hi The Belgian Waffle Co. team,\n\nIf a Maps step is intended to drive store visits, one internal check is to confirm the exact store URL/pin and agree which store-visit or order event is authoritative. The public record alone does not show a visit or order.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi The Belgian Waffle Co. team,\n\nI have a source-linked note on the active card, its unverified Maps link and the first-party locator caveat. If this route is not the right place for measurement questions, could you point me to the owner?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "brand": "AN’s Events & Caterers",
+  "slug": "ans-events-caterers",
+  "website": "https://www.ansevents.org/",
+  "instagram": "https://www.instagram.com/anseventsandcaterers/",
+  "niche": "Events and catering",
+  "headline": "A page-resolved public event/catering card is active in the dated capture; contact pages expose two differently formatted email routes.",
+  "market_signal": "The individually resolved card says “Planning an event in Bangalore?” and offers catering/event management with a quotation/WhatsApp step. The official .org site lists an address in Hebbal Kempapura, Bengaluru and shows a contact label/mailto mismatch.",
+  "local_evidence_status": "MEASURED — card copy says Bangalore; the official .org site lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, Hebbal Kempapura, Bengaluru 560024.",
+  "contact": {
+    "email": "anusumesh.2009@gmail.com",
+    "phone": "+91 93805 38400 / +91 87928 12695",
+    "entity": "",
+    "address": "Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024 (official .org site)",
+    "route_role": "Public Facebook Page About email; general contact only, not a confirmed paid-media owner. Official site has a mismatched visible email label/mailto target.",
+    "additional_emails": [
+      {
+        "email": "contact@anskitchen.in",
+        "source_id": "S3",
+        "detail": "Visible label on official .org page; linked mailto target differs."
+      },
+      {
+        "email": "contact@ansevents.org",
+        "source_id": "S3",
+        "detail": "Linked mailto target on official .org page; visible label differs."
+      }
+    ]
+  },
+  "contact_source": "Crawled from AN’s Events & Caterers Facebook Page About on 05 Oct 2026: https://www.facebook.com/100064927532767/about lists anusumesh.2009@gmail.com. Its official https://www.ansevents.org/ site lists the Hebbal Kempapura address and phone numbers, but displays contact@anskitchen.in linked to mailto:contact@ansevents.org. Conflict preserved; no email is silently substituted and no media buyer is identified.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "email_role": "Public Page About contact; site email label/target mismatch also recorded."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=ansevents.org",
+    "detail": "The India-region ansevents.org query returned zero results in this capture; this does not prove no Google activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — AN’s Events & Caterers individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767",
+      "source_type": "Platform record",
+      "observed": "AN's Events and caterers page; Library ID 2506487619856998 displayed Active/Sponsored on 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?”, lists catering/event management and names weddings, engagements, birthdays, baptisms and corporate events; buttons show Get Quote and Send WhatsApp message. Destination and event outcome not tested.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "AN’s Events official Facebook Page About/contact",
+      "url": "https://www.facebook.com/100064927532767/about",
+      "source_type": "Brand first-party Page/contact record",
+      "observed": "Lists anusumesh.2009@gmail.com and identifies the Page as AN’s Events and caterers, Bangalore; provides a public contact route. No paid-media owner named.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "AN’s Events official .org website/contact section",
+      "url": "https://www.ansevents.org/",
+      "source_type": "Brand first-party website/contact page",
+      "observed": "Lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024; phones +91 87928 12695 and +91 93805 38400. Visible email label is contact@anskitchen.in, linked mailto target is contact@ansevents.org. The site also publishes service descriptions and branded claims; no private event results used.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — ansevents.org query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=ansevents.org",
+      "source_type": "Platform domain query",
+      "observed": "India-region ansevents.org query returned zero results on 05 Oct 2026; not proof of no Google activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The card exposes event quote/WhatsApp labels, not confirmed bookings",
+      "evidence": "Library ID 2506487619856998; AN's Events and caterers; Active/Sponsored 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?” and buttons show Get Quote/Send WhatsApp message.",
+      "analysis": "This establishes the public creative and next-step labels only. Final destination, event leads, confirmed bookings and attribution are not visible.",
+      "next_check": "Re-open the card to verify its current CTA destination; if authorized, distinguish qualified event inquiries from confirmed bookings in the approved source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "MEDIUM",
+      "title": "First-party contact routes conflict and need confirmation",
+      "evidence": "Facebook Page About lists anusumesh.2009@gmail.com. Official .org site lists the Hebbal Kempapura address and shows contact@anskitchen.in linked to mailto:contact@ansevents.org.",
+      "analysis": "The label/target mismatch is preserved rather than guessing which is preferred or treating either route as a media owner.",
+      "next_check": "Confirm the correct current business contact and ask it to route the source-linked note to the paid-media measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "India-region ansevents.org query returned zero results on 05 Oct 2026.",
+      "analysis": "Zero results do not prove no Google advertising or activity.",
+      "next_check": "If revisited, inspect a current individual creative and verify the advertiser, brand-specific copy, destination and status.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "2506487619856998",
+      "page_id": "100064927532767",
+      "page_name": "AN's Events and caterers",
+      "page_profile_url": "https://www.facebook.com/100064927532767/",
+      "started_on": "2026-09-22",
+      "creative_excerpt": "“Planning an event in Bangalore?” Copy offers catering and complete event management for weddings, engagements, birthdays, baptisms and corporate events; invites a quotation and WhatsApp message.",
+      "cta": "Get Quote / Send WhatsApp message (button labels shown; final route not tested).",
+      "destination_url": null,
+      "destination_status": "The captured card shows Get Quote and Send WhatsApp message labels. The card-specific final destination and any event inquiry/booking outcome were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2506487619856998&view_all_page_id=100064927532767"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual card resolved to the named page; Active/Sponsored status, start date and Library ID checked."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Ad card says Bangalore; official website lists Hebbal Kempapura, Bengaluru."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Get Quote and WhatsApp labels are shown; final card route/outcome not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, Page About, official .org site/contact and Google query reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Contact routes are public but site email label/target conflict; no paid-media owner named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — AN’s Events & Caterers individual card; checked 2026-10-05; AN's Events and caterers page; Library ID 2506487619856998 displayed Active/Sponsored on 05 Oct 2026; started 22 Sep 2026. Copy says “Planning an event in Bangalore?”, lists catering/event management and names weddings, engagements, birthdays, baptisms and corporate events; buttons show Get Quote and Send WhatsApp message. Destination and event outcome not tested.",
+    "S2 — AN’s Events official Facebook Page About/contact; checked 2026-10-05; Lists anusumesh.2009@gmail.com and identifies the Page as AN’s Events and caterers, Bangalore; provides a public contact route. No paid-media owner named.",
+    "S3 — AN’s Events official .org website/contact section; checked 2026-10-05; Lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, 1st Stage, Hebbal Kempapura, Bengaluru, Karnataka 560024; phones +91 87928 12695 and +91 93805 38400. Visible email label is contact@anskitchen.in, linked mailto target is contact@ansevents.org. The site also publishes service descriptions and branded claims; no private event results used.",
+    "S4 — Google Ads Transparency — ansevents.org query; checked 2026-10-05; India-region ansevents.org query returned zero results on 05 Oct 2026; not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 2506487619856998 and page ID 100064927532767; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region ansevents.org query returned zero results in this capture; this does not prove no Google activity.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — card copy says Bangalore; the official .org site lists Ans Kitchen, 1st Cross Rd, Vinayaka Layout, Hebbal Kempapura, Bengaluru 560024.",
+      "method": "The individually resolved card says “Planning an event in Bangalore?” and offers catering/event management with a quotation/WhatsApp step. The official .org site lists an address in Hebbal Kempapura, Bengaluru and shows a contact label/mailto mismatch. Public Facebook Page About email; general contact only, not a confirmed paid-media owner. Official site has a mismatched visible email label/mailto target.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The captured card shows Get Quote and Send WhatsApp message labels. The card-specific final destination and any event inquiry/booking outcome were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Bangalore event card",
+      "Hi AN’s Events & Caterers team,\n\nI checked card 2506487619856998: it is shown Sponsored and Active, started 22 Sep 2026, and says “Planning an event in Bangalore?” with Get Quote/WhatsApp labels. I have not inferred an event booking.\n\nThe public record does not expose private spend, orders or event firing. The published route, anusumesh.2009@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "contact route check",
+      "Hi AN’s Events & Caterers team,\n\nThe Page About lists anusumesh.2009@gmail.com; the official site lists contact@anskitchen.in but links to contact@ansevents.org. I have kept that discrepancy visible rather than choosing for you.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "event inquiry definition",
+      "Hi AN’s Events & Caterers team,\n\nA review could separate qualified event inquiries from confirmed bookings using the team’s source-of-record. Those private outcomes are not public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "measurement owner",
+      "Hi AN’s Events & Caterers team,\n\nCould you confirm the best contact route and direct this source-linked note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Bangalore event card",
+      "body": "Hi AN’s Events & Caterers team,\n\nI checked card 2506487619856998: it is shown Sponsored and Active, started 22 Sep 2026, and says “Planning an event in Bangalore?” with Get Quote/WhatsApp labels. I have not inferred an event booking.\n\nThe public record does not expose private spend, orders or event firing. The published route, anusumesh.2009@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "contact route check",
+      "body": "Hi AN’s Events & Caterers team,\n\nThe Page About lists anusumesh.2009@gmail.com; the official site lists contact@anskitchen.in but links to contact@ansevents.org. I have kept that discrepancy visible rather than choosing for you.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "event inquiry definition",
+      "body": "Hi AN’s Events & Caterers team,\n\nA review could separate qualified event inquiries from confirmed bookings using the team’s source-of-record. Those private outcomes are not public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "measurement owner",
+      "body": "Hi AN’s Events & Caterers team,\n\nCould you confirm the best contact route and direct this source-linked note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    }
+  ]
+}

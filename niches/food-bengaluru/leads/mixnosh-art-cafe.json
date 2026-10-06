@@ -1,0 +1,200 @@
+{
+  "brand": "Mixnosh Art Cafe",
+  "slug": "mixnosh-art-cafe",
+  "website": "https://www.mixnosh.in/",
+  "instagram": "",
+  "niche": "Art cafe, workshops and celebrations",
+  "headline": "A Jayanagar/HSR booking card points to the official site; the individual card renders despite an unavailable page header.",
+  "market_signal": "The selected card names Jayanagar and HSR Layout, Bangalore; Mixnosh's own contact page lists both Bengaluru locations. This is local context only, not evidence of ad targeting.",
+  "local_evidence_status": "MEASURED — Bengaluru neighborhoods appear in the card and first-party contact page; audience targeting is not inferred.",
+  "contact": {
+    "email": "mixnosharts@gmail.com",
+    "phone": "+91 63643 30840 / +91 63643 30860 / +91 99000 18115",
+    "entity": "",
+    "address": "1919, 21st Main Road, 25th Cross, Sector 2, HSR Layout, Bengaluru; Ground Floor, 13th Cross, 732, 36th Cross Road, 7th Block, Jayanagar, Bengaluru 560070",
+    "route_role": "Published 'Let's Connect / Drop Us a Line' email on the official contact page; no paid-media buyer is named.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Mixnosh's own Contact Us page on 04 Oct 2026: https://www.mixnosh.in/contact.php publishes mixnosharts@gmail.com, phone numbers and HSR/Jayanagar Bengaluru addresses. The page describes the email as a general 'Drop Us a Line' route, not a paid-media buyer.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "General first-party contact route; not identified as paid-media or measurement owner."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=mixnosh.in",
+    "detail": "India-region Google Ads Transparency domain view for mixnosh.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Mixnosh individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1361122659444561&view_all_page_id=112591047247243",
+      "source_type": "Platform individual-card record",
+      "observed": "The surrounding page response says the page was unpublished or deleted/no ads match, but the direct individual-card details render Library ID 1361122659444561 as Active and Sponsored, started 07 Jul 2026. Advertiser label Mixnosh Art Cafe with CheekySneeky; copy names Jayanagar/Bangalore and HSR; Book now links to mixnosh.in.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Mixnosh official Contact Us page",
+      "url": "https://www.mixnosh.in/contact.php",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes mixnosharts@gmail.com, phone numbers, HSR and Jayanagar Bengaluru addresses and a general 'Let's Connect / Drop Us a Line' route. No paid-media owner is named.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — mixnosh.in domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=mixnosh.in",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The individual card names local areas and exposes a Book now route",
+      "evidence": "Library ID 1361122659444561; Active and Sponsored on 04 Oct 2026; started 07 Jul 2026; copy names Mixnosh Art Cafe, Jayanagar/Bangalore and HSR; Book now links to mixnosh.in. Surrounding page response says unpublished or deleted.",
+      "analysis": "The exact card-level record is visible, but the surrounding page header is unavailable. The button does not reveal a completed reservation, workshop booking or event.",
+      "next_check": "Re-open the card and current official site; confirm the page status and destination before relying on the link, then map any authorized booking event by ID and date window.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party contact page publishes two Bengaluru outlets",
+      "evidence": "The official Contact Us page lists HSR Layout and Jayanagar Bengaluru addresses plus mixnosharts@gmail.com.",
+      "analysis": "This supports city context and a published routing inbox, not ad targeting or the identity of a paid-media owner.",
+      "next_check": "Ask the general contact to forward the note to the measurement owner if the route is appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for mixnosh.in returned zero results on 04 Oct 2026.",
+      "analysis": "Zero results in a domain query do not establish no Google activity.",
+      "next_check": "If revisited, open a specific creative and verify advertiser, brand tie, destination and last-shown/status.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1361122659444561",
+      "page_id": "112591047247243",
+      "page_name": "Mixnosh Art Cafe with CheekySneeky",
+      "started_on": "2026-07-07",
+      "creative_excerpt": "Come and celebrate with us at Mixnosh Art Cafe, Bangalore; the card copy names Jayanagar and HSR Layout.",
+      "cta": "Book now → mixnosh.in",
+      "destination_url": "http://www.mixnosh.in/",
+      "destination_status": "The direct individual card shows Active and Sponsored with a Book now link to mixnosh.in. The surrounding Meta page response says the page was unpublished or deleted; only the card-level record is relied on. No booking event or website flow was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1361122659444561&view_all_page_id=112591047247243"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The direct card-level record displayed Active/Sponsored, advertiser label, start date and Library ID; unavailable page header is disclosed."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The selected copy and official contact page name Jayanagar/HSR in Bengaluru; no audience targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Book now and the official site URL are visible; a booking outcome is not."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official contact page and direct individual card were reviewed with a Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "A general contact inbox is available, but no paid-media owner is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Mixnosh individual card; checked 2026-10-04; The surrounding page response says the page was unpublished or deleted/no ads match, but the direct individual-card details render Library ID 1361122659444561 as Active and Sponsored, started 07 Jul 2026. Advertiser label Mixnosh Art Cafe with CheekySneeky; copy names Jayanagar/Bangalore and HSR; Book now links to mixnosh.in.",
+    "S2 — Mixnosh official Contact Us page; checked 2026-10-04; Publishes mixnosharts@gmail.com, phone numbers, HSR and Jayanagar Bengaluru addresses and a general 'Let's Connect / Drop Us a Line' route. No paid-media owner is named.",
+    "S3 — Google Ads Transparency Center — mixnosh.in domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1361122659444561 and page ID 112591047247243; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for mixnosh.in returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru neighborhoods appear in the card and first-party contact page; audience targeting is not inferred.",
+      "method": "The selected card names Jayanagar and HSR Layout, Bangalore; Mixnosh's own contact page lists both Bengaluru locations. This is local context only, not evidence of ad targeting. Published 'Let's Connect / Drop Us a Line' email on the official contact page; no paid-media buyer is named.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The direct individual card shows Active and Sponsored with a Book now link to mixnosh.in. The surrounding Meta page response says the page was unpublished or deleted; only the card-level record is relied on. No booking event or website flow was tested.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "jayanagar booking",
+      "Hi Mixnosh Art Cafe team,\n\nThe Mixnosh Art Cafe individual card 1361122659444561 is marked Active and Sponsored, started 07 Jul 2026. It names Jayanagar and HSR and shows Book now to mixnosh.in. The surrounding Meta page response says unpublished or deleted, so I rely only on the card-level details.\n\nThe public record does not expose private spend, orders or event firing. The published route, mixnosharts@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "creative handoff",
+      "Hi Mixnosh Art Cafe team,\n\nYour official contact page lists Jayanagar and HSR locations. That is local business context, not evidence of who saw the card or booked a visit.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "workshop journey",
+      "Hi Mixnosh Art Cafe team,\n\nA visible Book now route does not show what the site counts as a booking, store visit or completed event. I have not inferred results from the click path.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Mixnosh Art Cafe team,\n\nIf the published 'Let's Connect' inbox is not the right owner, could you route me to the person responsible for paid-media measurement? No private campaign result is assumed.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

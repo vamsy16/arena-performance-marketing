@@ -1,0 +1,262 @@
+{
+  "brand": "Xin by MindEscapes",
+  "slug": "xin-by-mindescapes",
+  "website": "https://www.xinbymindescapes.com/",
+  "instagram": "https://www.instagram.com/xinbymindescapes/",
+  "niche": "Restaurant",
+  "headline": "A page-resolved restaurant card has a dated active public record; the official group homepage gives only a general enquiries route.",
+  "market_signal": "An individually resolved Xin By MindEscapes ad says “Order From XIN” and labels online food delivery/Koramangala. The Xin-owned contact page publishes enquiry@xinbymindescapes.com and a Koramangala registered-office address; the office is not represented as a restaurant outlet.",
+  "local_evidence_status": "MEASURED — selected creative uses “Koramangala” and #xinbangalore; Xin’s own contact page gives a Koramangala, Bangalore registered-office address. The registered office is not claimed as an outlet or audience target.",
+  "contact": {
+    "email": "enquiry@xinbymindescapes.com",
+    "phone": "+91 97399 08844 / +91 96069 91560",
+    "entity": "MindEscapes Club Pvt. Ltd. (as named on Xin’s own contact page)",
+    "address": "#83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034, India (registered office, not outlet claim)",
+    "route_role": "Published Xin contact-page enquiry route; not a confirmed paid-media buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Xin’s own Contact page on 05 Oct 2026: https://www.xinbymindescapes.com/contact lists enquiry@xinbymindescapes.com, +91 97399 08844 / +91 96069 91560 and MindEscapes Club Pvt. Ltd.’s Koramangala registered office. It does not identify a paid-media buyer or state that the office is an outlet.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published brand enquiry route; no media owner named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — zero domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com",
+    "detail": "The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Xin By MindEscapes individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624",
+      "source_type": "Platform record",
+      "observed": "Xin By MindEscapes page; Library ID 1798771901502677 displayed Active/Sponsored on 05 Oct 2026; started 06 Jul 2026. The captured card copy says “The kitchen is closed. Zomato is open”; “Order From XIN”; and labels food delivery/online ordering/Koramangala. A TinyURL appears with “See menu”; destination and order completion not tested.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Xin official Contact page",
+      "url": "https://www.xinbymindescapes.com/contact",
+      "source_type": "Brand first-party contact page",
+      "observed": "Lists enquiry@xinbymindescapes.com, +91 97399 08844, +91 96069 91560 and MindEscapes Club Pvt. Ltd., #83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034. This is described as a registered office, not a restaurant outlet.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Xin official homepage",
+      "url": "https://www.xinbymindescapes.com/",
+      "source_type": "Brand first-party website",
+      "observed": "Describes Xin as an Asian-cuisine brand across Xin Go, Xin Den and Xin Fine. No private order/conversion results were used.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — xinbymindescapes.com query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=xinbymindescapes.com",
+      "source_type": "Platform domain query",
+      "observed": "The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active card shows delivery copy and a short link, not a public order result",
+      "evidence": "Library ID 1798771901502677; Xin By MindEscapes; Active/Sponsored 05 Oct 2026; started 06 Jul 2026. Copy says “The kitchen is closed. Zomato is open” and “Order From XIN”; a TinyURL appears beside “See menu.”",
+      "analysis": "The selected card supports public creative and CTA text only. TinyURL destination, checkout, completed orders, spend and attribution are not measured.",
+      "next_check": "Expand and verify the short link before reuse; if authorized, map the Library ID to a defined completed order and the approved source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Xin publishes a brand-specific contact; the registered office is not called an outlet",
+      "evidence": "Xin Contact page lists enquiry@xinbymindescapes.com and a Koramangala, Bangalore registered office.",
+      "analysis": "The card also labels Koramangala, but neither the registered-office address nor city copy establishes ad audience targeting or a particular branch.",
+      "next_check": "Confirm the outlet/location served by this card and ask the published brand contact to route to the paid-media measurement owner.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The brand-domain Google query returned zero results in this capture",
+      "evidence": "India-region xinbymindescapes.com query returned zero results on 05 Oct 2026.",
+      "analysis": "A zero-result domain view does not rule out advertising through another domain or account.",
+      "next_check": "If revisited, inspect a specific accessible creative and verify named advertiser, brand copy, destination and current status.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "1798771901502677",
+      "page_id": "248827811637624",
+      "page_name": "Xin By MindEscapes",
+      "page_profile_url": "https://www.facebook.com/XinByMindescapes/",
+      "started_on": "2026-07-06",
+      "creative_excerpt": "Selected card copy: “The kitchen is closed. Zomato is open”; “Don’t force a meal. Order exactly what you’re craving. Order From XIN.” It also labels the destination “Food Delivery, Online Ordering, Koramangala.”",
+      "cta": "Order From XIN; card variant exposes a short link (not expanded/tested).",
+      "destination_url": "https://tinyurl.com/mr3f6vx8",
+      "destination_status": "The captured card displays a TinyURL next to “See menu”; a separate variant says Order From XIN. Short URL destination, checkout and order outcome were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1798771901502677&view_all_page_id=248827811637624"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual page-resolved card displayed Active/Sponsored, advertiser page, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Card says Koramangala/online ordering and the brand contact page lists a Koramangala registered office; not an outlet or targeting claim."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Order CTA and TinyURL are visible; final path/outcome not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, Xin-owned Contact/homepage and brand-domain Google query reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Brand-specific enquiry contact is published; buyer is not named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Xin By MindEscapes individual card; checked 2026-10-05; Xin By MindEscapes page; Library ID 1798771901502677 displayed Active/Sponsored on 05 Oct 2026; started 06 Jul 2026. The captured card copy says “The kitchen is closed. Zomato is open”; “Order From XIN”; and labels food delivery/online ordering/Koramangala. A TinyURL appears with “See menu”; destination and order completion not tested.",
+    "S2 — Xin official Contact page; checked 2026-10-05; Lists enquiry@xinbymindescapes.com, +91 97399 08844, +91 96069 91560 and MindEscapes Club Pvt. Ltd., #83, 3rd Floor, 7th Cross, 4th B Block, Koramangala, Bangalore 560034. This is described as a registered office, not a restaurant outlet.",
+    "S3 — Xin official homepage; checked 2026-10-05; Describes Xin as an Asian-cuisine brand across Xin Go, Xin Den and Xin Fine. No private order/conversion results were used.",
+    "S4 — Google Ads Transparency — xinbymindescapes.com query; checked 2026-10-05; The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1798771901502677 and page ID 248827811637624; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — zero domain-query results (not proof of no activity)",
+      "method": "The India-region xinbymindescapes.com query returned zero results on 05 Oct 2026. This is not proof the brand has no Google advertising or activity.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — selected creative uses “Koramangala” and #xinbangalore; Xin’s own contact page gives a Koramangala, Bangalore registered-office address. The registered office is not claimed as an outlet or audience target.",
+      "method": "An individually resolved Xin By MindEscapes ad says “Order From XIN” and labels online food delivery/Koramangala. The Xin-owned contact page publishes enquiry@xinbymindescapes.com and a Koramangala registered-office address; the office is not represented as a restaurant outlet. Published Xin contact-page enquiry route; not a confirmed paid-media buyer.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The captured card displays a TinyURL next to “See menu”; a separate variant says Order From XIN. Short URL destination, checkout and order outcome were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Xin order card",
+      "Hi Xin by MindEscapes team,\n\nI checked card 1798771901502677: it is shown Sponsored and Active, started 06 Jul 2026, and says “Order From XIN” with delivery/Koramangala copy. I have not treated the short link as a completed order.\n\nThe public record does not expose private spend, orders or event firing. The published route, enquiry@xinbymindescapes.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Koramangala route",
+      "Hi Xin by MindEscapes team,\n\nXin’s own contact page publishes enquiry@xinbymindescapes.com and a registered-office address in Koramangala. I have not assumed the office is an outlet or a media team.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "order event definition",
+      "Hi Xin by MindEscapes team,\n\nA review could connect the selected card to a defined completed-order event and the business’s source-of-record, if authorized. Neither is public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "measurement owner",
+      "Hi Xin by MindEscapes team,\n\nThe brand contact page does not name a paid-media owner. Could you route this source-linked note to the person responsible for measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Xin order card",
+      "body": "Hi Xin by MindEscapes team,\n\nI checked card 1798771901502677: it is shown Sponsored and Active, started 06 Jul 2026, and says “Order From XIN” with delivery/Koramangala copy. I have not treated the short link as a completed order.\n\nThe public record does not expose private spend, orders or event firing. The published route, enquiry@xinbymindescapes.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Koramangala route",
+      "body": "Hi Xin by MindEscapes team,\n\nXin’s own contact page publishes enquiry@xinbymindescapes.com and a registered-office address in Koramangala. I have not assumed the office is an outlet or a media team.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "order event definition",
+      "body": "Hi Xin by MindEscapes team,\n\nA review could connect the selected card to a defined completed-order event and the business’s source-of-record, if authorized. Neither is public in this snapshot.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "measurement owner",
+      "body": "Hi Xin by MindEscapes team,\n\nThe brand contact page does not name a paid-media owner. Could you route this source-linked note to the person responsible for measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

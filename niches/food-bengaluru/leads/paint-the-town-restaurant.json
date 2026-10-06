@@ -1,0 +1,269 @@
+{
+  "brand": "Paint the Town Restaurant",
+  "slug": "paint-the-town-restaurant",
+  "website": "https://www.paintthetown.in/",
+  "instagram": "https://www.instagram.com/paint.the.town.bangalore/",
+  "niche": "Art-themed restaurant and event venue",
+  "headline": "One sponsored card combines dining and event enquiries; the official site exposes menus and bookable event routes.",
+  "market_signal": "Selected Koramangala card promotes savoury dishes/art menu and DMs for guided sessions, birthdays and corporate events. Official site presents Dine Sip Paint, menus and event booking routes. Contact address matches the ad.",
+  "local_evidence_status": "MEASURED — selected creative and first-party Contact page publish the same Koramangala address; no ad audience geography inferred.",
+  "contact": {
+    "email": "paint.the.town.workshop@gmail.com",
+    "phone": "+91 6366230141",
+    "entity": "",
+    "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095",
+    "route_role": "Published first-party general contact; no paid-media buyer identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Paint the Town’s own Contact page on 05 Oct 2026: https://www.paintthetown.in/contact-3 publishes paint.the.town.workshop@gmail.com, +91 6366230141 and the Koramangala address named in the card. No paid-media owner is named.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published general contact; buyer not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=paintthetown.in",
+    "detail": "The India-region paintthetown.in Google query returned zero results in this capture. This limited public query does not prove no Google activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Paint the town restaurant card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623",
+      "source_type": "Platform record",
+      "observed": "Paint the town restaurant (public Page link ID 61557370840689); Library ID 1383590387259883 displayed Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy promotes savoury dishes/art menu and DMs for guided sessions, birthdays, corporate events; gives Koramangala address; Learn more links to paintthetown.in.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "Paint the Town official Contact page",
+      "url": "https://www.paintthetown.in/contact-3",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes paint.the.town.workshop@gmail.com, +91 6366230141 and No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Paint the Town official homepage / event routes",
+      "url": "https://www.paintthetown.in/",
+      "source_type": "Brand first-party website",
+      "observed": "Presents Dine Sip Paint, food/art menus, events and bookable guided experiences; homepage links to separate event service pages. Public routes do not establish booking outcomes or tracking.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — paintthetown.in query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=paintthetown.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region domain view returned zero results 05 Oct 2026. Not proof of no Google advertising or activity.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "One card routes both dining and event enquiries",
+      "evidence": "ID 1383590387259883; Paint the town restaurant; Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy names food/art menu and DMs for guided sessions, birthdays and corporate events; Learn more links to official site.",
+      "analysis": "The creative exposes different customer intents; it does not show whether dining, event enquiries or confirmed bookings are reported separately.",
+      "next_check": "If the team separates objectives, define dining and event inquiry/booking events and map destinations only with authorized account-side data.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The site offers separate menus and event routes; no tracking claim is made",
+      "evidence": "Official homepage presents Dine Sip Paint, food/art menus and bookable event experiences; Contact page matches the card’s Koramangala address.",
+      "analysis": "This establishes public paths, not evidence that attribution is missing or that a path fails.",
+      "next_check": "Re-open menus/event pages before outreach; ask which internal record is the source of truth for dining versus event bookings.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "India-region view for paintthetown.in returned zero results 05 Oct 2026.",
+      "analysis": "Zero results do not prove the brand does not advertise on Google.",
+      "next_check": "If revisited, verify a specific current creative, advertiser, destination and last-shown/status.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1",
+      "S3"
+    ],
+    [
+      "S1",
+      "S3"
+    ],
+    [
+      "S1",
+      "S3"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "1383590387259883",
+      "page_id": "210934195446623",
+      "page_name": "Paint the town restaurant",
+      "page_profile_url": "https://www.facebook.com/61557370840689/",
+      "started_on": "2026-09-25",
+      "creative_excerpt": "Walk-in copy promotes savoury dishes/art menu; the same creative invites DMs for guided sessions, birthdays and corporate events at Koramangala.",
+      "cta": "Learn more to the official site; the creative separately invites event DMs.",
+      "destination_url": "https://www.paintthetown.in/",
+      "destination_status": "The card links to paintthetown.in and separately invites DMs for events; page navigation and completed booking were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1383590387259883&view_all_page_id=210934195446623"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 19,
+  "score": 9.5,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Individual card displayed Active/Sponsored, advertiser, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Selected creative and first-party Contact page identify Koramangala, Bengaluru."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Learn more and event-DM route visible; no visit or booking result exposed."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, contact/events pages and Google query reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Published general inbox is a routing point, not a confirmed media buyer."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — Paint the town restaurant card; checked 2026-10-05; Paint the town restaurant (public Page link ID 61557370840689); Library ID 1383590387259883 displayed Active/Sponsored 05 Oct 2026; started 25 Sep 2026. Copy promotes savoury dishes/art menu and DMs for guided sessions, birthdays, corporate events; gives Koramangala address; Learn more links to paintthetown.in.",
+    "S2 — Paint the Town official Contact page; checked 2026-10-05; Publishes paint.the.town.workshop@gmail.com, +91 6366230141 and No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru 560095.",
+    "S3 — Paint the Town official homepage / event routes; checked 2026-10-05; Presents Dine Sip Paint, food/art menus, events and bookable guided experiences; homepage links to separate event service pages. Public routes do not establish booking outcomes or tracking.",
+    "S4 — Google Ads Transparency — paintthetown.in query; checked 2026-10-05; India-region domain view returned zero results 05 Oct 2026. Not proof of no Google advertising or activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1383590387259883 and page ID 210934195446623; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region paintthetown.in Google query returned zero results in this capture. This limited public query does not prove no Google activity.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — selected creative and first-party Contact page publish the same Koramangala address; no ad audience geography inferred.",
+      "method": "Selected Koramangala card promotes savoury dishes/art menu and DMs for guided sessions, birthdays and corporate events. Official site presents Dine Sip Paint, menus and event booking routes. Contact address matches the ad. Published first-party general contact; no paid-media buyer identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card links to paintthetown.in and separately invites DMs for events; page navigation and completed booking were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Dining and events",
+      "Hi Paint the Town Restaurant team,\n\nCard 1383590387259883 is shown Sponsored and Active, started 25 Sep 2026, and combines dining/art-menu copy with DMs for events. The official site has separate menus and booking pages; I have not inferred bookings.\n\nThe public record does not expose private spend, orders or event firing. The published route, paint.the.town.workshop@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Two booking paths",
+      "Hi Paint the Town Restaurant team,\n\nThe site offers food/art menus and event pages, while the card uses Learn more and a DM invitation. I did not test a completed reservation or event booking.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Outcome definition",
+      "Hi Paint the Town Restaurant team,\n\nA review could define a dining outcome separately from a qualified event enquiry or confirmed booking. No such results are public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi Paint the Town Restaurant team,\n\nThe Contact page publishes a general inbox but no media buyer. Could you direct this to the measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Dining and events",
+      "body": "Hi Paint the Town Restaurant team,\n\nCard 1383590387259883 is shown Sponsored and Active, started 25 Sep 2026, and combines dining/art-menu copy with DMs for events. The official site has separate menus and booking pages; I have not inferred bookings.\n\nThe public record does not expose private spend, orders or event firing. The published route, paint.the.town.workshop@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Two booking paths",
+      "body": "Hi Paint the Town Restaurant team,\n\nThe site offers food/art menus and event pages, while the card uses Learn more and a DM invitation. I did not test a completed reservation or event booking.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Outcome definition",
+      "body": "Hi Paint the Town Restaurant team,\n\nA review could define a dining outcome separately from a qualified event enquiry or confirmed booking. No such results are public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi Paint the Town Restaurant team,\n\nThe Contact page publishes a general inbox but no media buyer. Could you direct this to the measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

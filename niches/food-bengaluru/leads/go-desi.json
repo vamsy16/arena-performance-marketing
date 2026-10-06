@@ -1,0 +1,268 @@
+{
+  "brand": "GO DESi",
+  "slug": "go-desi",
+  "website": "https://godesi.in/",
+  "niche": "D2C Indian snacks and sweets",
+  "headline": "An individually opened snack ad is Active in the capture and links to a product page; private purchase outcomes remain unavailable.",
+  "market_signal": "The selected Meta creative names GO DESi snack products and displays a Shop Now product link; its copy says it delivers across India. GO DESi's own Contact page publishes an RR Nagar, Bengaluru address. That establishes first-party local context, not Bengaluru ad targeting.",
+  "local_evidence_status": "MEASURED — the brand's own Contact page lists an RR Nagar, Bengaluru address; the selected ad says delivery across India. No audience-geography inference is made.",
+  "contact": {
+    "email": "welovetalking@godesi.in",
+    "phone": "+91 9353756891 (order-related queries); +91 8904271453 (distributor and bulk enquiries)",
+    "entity": "",
+    "address": "#145, 9th Main, 3rd Stage, Raghavendra Swami Mutt Road, Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru, Karnataka 560098 (address published on the official Contact page; not independently described as headquarters).",
+    "route_role": "Official general-query inbox. The page lists separate order-related and distributor/bulk telephone routes. No paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from GO DESi's own Contact Us page on 06 Oct 2026: https://godesi.in/pages/contact-us publishes welovetalking@godesi.in for queries and lists the RR Nagar, Bengaluru address. It separately lists phone routes for order-related and distributor/bulk enquiries. This is a published general-query route, not a confirmed paid-media contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-06",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published general-query inbox; no paid-media buyer is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=godesi.in",
+    "detail": "On 06 Oct 2026, the India-region godesi.in domain query displayed 22 any-time results and stated that a domain can include multiple advertiser accounts. The opened individual creative CR08057425657375752193 is under verified advertiser Haystack Marketing Services Pvt Ltd, was last shown 15 Sep 2026, and Google marked the media unavailable/removed for a policy violation. The extracted creative did not expose GO DESi branding, product copy or a brand landing page. It is not attributed to GO DESi and does not establish current brand-specific Google activity. The public result count is a dated snapshot, not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — GO DESi individual snack card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199",
+      "source_type": "Platform individual card",
+      "observed": "GO DESi page (page ID 117547272221199); Library ID 1440511024788968 displayed Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The card's visible copy promotes GO DESi snacks and shows a Shop Now product link to godesi.in. Copy claims and product/price details are advertiser text, not independent performance or current-price measurements.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "label": "GO DESi official Contact Us page",
+      "url": "https://godesi.in/pages/contact-us",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes welovetalking@godesi.in for queries; lists order-related phone +91 9353756891, distributor/bulk phone +91 8904271453 and a Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru address. The email is a general-query route, not a confirmed media contact.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency — godesi.in domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=godesi.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region any-time query displayed 22 results on 06 Oct 2026 and warned that results can point to multiple advertiser accounts. A domain result count is not a current-active brand count.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — opened Haystack creative",
+      "url": "https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Verified advertiser Haystack Marketing Services Pvt Ltd; creative ID CR08057425657375752193; last shown 15 Sep 2026; video; Google indicated the creative media was unavailable/removed for policy violation. The extracted card did not identify GO DESi, so no brand tie or current GO DESi Google activity is claimed.",
+      "verified_on": "2026-10-06"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The selected Shop Now card is public placement evidence, not an order result",
+      "evidence": "Meta Library ID 1440511024788968; page GO DESi; Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The visible card links to a GO DESi snack product page.",
+      "analysis": "The card supports the visible creative and route only. Its product, price and ingredient statements are advertiser copy; no checkout, order, audience, spend or conversion result was measured.",
+      "next_check": "Re-open the direct Library ID and product path before outreach; if authorized, define the completed-order event and source-of-record before measuring outcomes.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official Bengaluru contact address is not evidence of Bengaluru ad targeting",
+      "evidence": "The Contact page lists an RR Nagar, Bengaluru address, while the selected card says it delivers across India.",
+      "analysis": "This establishes first-party Bengaluru context only; neither a local outlet nor Bengaluru audience targeting is inferred.",
+      "next_check": "Confirm the correct commercial/media contact and any location scope directly with the brand; use internal campaign geography only if the brand authorizes access.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google result is under a verified agency; no GO DESi tie is established",
+      "evidence": "The domain query displayed 22 any-time results. Opened creative CR08057425657375752193 names Haystack Marketing Services Pvt Ltd as verified advertiser, was last shown 15 Sep 2026, and its media was unavailable/removed.",
+      "analysis": "The extracted creative does not identify GO DESi. A matching domain query or agency advertiser is not sufficient to attribute this creative to the brand or call it current activity.",
+      "next_check": "If revisited, open a brand-identifying creative and confirm its named advertiser, visible GO DESi content, destination and last-shown/status fields.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3",
+      "S4"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-06",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-06",
+      "library_id": "1440511024788968",
+      "page_id": "117547272221199",
+      "page_name": "GO DESi",
+      "page_profile_url": "https://www.facebook.com/Godesifoods/",
+      "started_on": "2026-07-13",
+      "creative_excerpt": "The GO DESi card asks, 'Bored with the same old potato chips?' and lists Ragi Chips, Barbeque Peanuts and Sun-dried Fruits; a visible product card says Tomato Masala Banana Chips and displays Shop Now to a GO DESi product URL. The card's product, ingredient, delivery and price statements are advertiser copy, not independently verified product outcomes or prices.",
+      "cta": "Shop Now",
+      "destination_url": "https://godesi.in/products/tomato-masala-banana-chips?utm_content=Facebook_UA&utm_source=facebook&variant=51803214479681",
+      "destination_status": "The individual card exposes a Shop Now link to the GO DESi product URL. The URL was visible in the card; no checkout, order or conversion was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199"
+    }
+  ],
+  "batch": 7,
+  "verified_on": "06 OCT 2026",
+  "score_20": 19,
+  "score": 9.5,
+  "score_band": "High public-signal fit",
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct card displayed Active/Sponsored, page identity, start date, Library ID and a visible product route."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "First-party Contact page lists an RR Nagar, Bengaluru address; the card's delivery copy is nationwide and no targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "Shop Now and the product URL are visible; checkout and completed purchase were not measured."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct Meta card, brand Contact page, Google domain query and opened Google creative were checked."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Official general-query email is published, but it is not a confirmed paid-media buyer route."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established",
+  "sources": [
+    "S1 — Meta Ad Library — GO DESi individual snack card; checked 2026-10-06; GO DESi page (page ID 117547272221199); Library ID 1440511024788968 displayed Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The card's visible copy promotes GO DESi snacks and shows a Shop Now product link to godesi.in. Copy claims and product/price details are advertiser text, not independent performance or current-price measurements.",
+    "S2 — GO DESi official Contact Us page; checked 2026-10-06; Publishes welovetalking@godesi.in for queries; lists order-related phone +91 9353756891, distributor/bulk phone +91 8904271453 and a Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru address. The email is a general-query route, not a confirmed media contact.",
+    "S3 — Google Ads Transparency — godesi.in domain query; checked 2026-10-06; India-region any-time query displayed 22 results on 06 Oct 2026 and warned that results can point to multiple advertiser accounts. A domain result count is not a current-active brand count.",
+    "S4 — Google Ads Transparency — opened Haystack creative; checked 2026-10-06; Verified advertiser Haystack Marketing Services Pvt Ltd; creative ID CR08057425657375752193; last shown 15 Sep 2026; video; Google indicated the creative media was unavailable/removed for policy violation. The extracted card did not identify GO DESi, so no brand tie or current GO DESi Google activity is claimed."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1440511024788968 and page ID 117547272221199; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established",
+      "method": "On 06 Oct 2026, the India-region godesi.in domain query displayed 22 any-time results and stated that a domain can include multiple advertiser accounts. The opened individual creative CR08057425657375752193 is under verified advertiser Haystack Marketing Services Pvt Ltd, was last shown 15 Sep 2026, and Google marked the media unavailable/removed for a policy violation. The extracted creative did not expose GO DESi branding, product copy or a brand landing page. It is not attributed to GO DESi and does not establish current brand-specific Google activity. The public result count is a dated snapshot, not an active-ad count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the brand's own Contact page lists an RR Nagar, Bengaluru address; the selected ad says delivery across India. No audience-geography inference is made.",
+      "method": "The selected Meta creative names GO DESi snack products and displays a Shop Now product link; its copy says it delivers across India. GO DESi's own Contact page publishes an RR Nagar, Bengaluru address. That establishes first-party local context, not Bengaluru ad targeting. Official general-query inbox. The page lists separate order-related and distributor/bulk telephone routes. No paid-media buyer is identified.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The individual card exposes a Shop Now link to the GO DESi product URL. The URL was visible in the card; no checkout, order or conversion was tested.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "06 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "GO DESi snack card",
+      "Hi GO DESi team,\n\nI opened Meta card 1440511024788968: it displayed GO DESi as Sponsored and Active when checked on 06 Oct 2026, started 13 Jul 2026, and linked a snack creative to a GO DESi product page. I have not treated the ad's product or price copy as an independently checked order result.\n\nThe public record does not expose private spend, orders or event firing. The published route, welovetalking@godesi.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Published route",
+      "Hi GO DESi team,\n\nYour official Contact page publishes welovetalking@godesi.in for queries and an RR Nagar, Bengaluru address. I have not treated the inbox as a media buyer or the address as evidence of local ad targeting.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Order measurement",
+      "Hi GO DESi team,\n\nIf useful, an account-side check could map the selected Library ID to a completed-order definition and order source-of-record. I did not access checkout, campaign or order data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi GO DESi team,\n\nI have not established a GO DESi-specific Google creative from the opened agency result. Could you route this source-linked note to the person responsible for paid-media measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "GO DESi snack card",
+      "body": "Hi GO DESi team,\n\nI opened Meta card 1440511024788968: it displayed GO DESi as Sponsored and Active when checked on 06 Oct 2026, started 13 Jul 2026, and linked a snack creative to a GO DESi product page. I have not treated the ad's product or price copy as an independently checked order result.\n\nThe public record does not expose private spend, orders or event firing. The published route, welovetalking@godesi.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Published route",
+      "body": "Hi GO DESi team,\n\nYour official Contact page publishes welovetalking@godesi.in for queries and an RR Nagar, Bengaluru address. I have not treated the inbox as a media buyer or the address as evidence of local ad targeting.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Order measurement",
+      "body": "Hi GO DESi team,\n\nIf useful, an account-side check could map the selected Library ID to a completed-order definition and order source-of-record. I did not access checkout, campaign or order data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi GO DESi team,\n\nI have not established a GO DESi-specific Google creative from the opened agency result. Could you route this source-linked note to the person responsible for paid-media measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    }
+  ]
+}

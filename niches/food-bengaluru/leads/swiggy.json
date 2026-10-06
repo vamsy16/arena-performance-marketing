@@ -1,0 +1,219 @@
+{
+  "brand": "Swiggy",
+  "slug": "swiggy",
+  "website": "swiggy.com",
+  "instagram": "@swiggy.in",
+  "niche": "Food-delivery and dining platform (platform lead, not restaurant)",
+  "headline": "Swiggy is a platform lead; its active versioned card links to restaurant listings that differed across captures, with no Bengaluru route established.",
+  "market_signal": "Swiggy's corporate contact page lists a Bengaluru corporate office. The selected Meta card has multiple versions; the latest direct fetch rendered a Ludhiana Pizza Wings listing while a prior capture showed a Mumbai Subway listing. This is local corporate context only, not evidence of Bengaluru ad targeting.",
+  "contact": {
+    "email": "akanksha.j@swiggy.in",
+    "phone": "",
+    "entity": "Swiggy Limited",
+    "address": "Corporate office: Sumadhura Capitol Towers, Tower 1, Pattanduru Agrahara, Bengaluru, Karnataka 560066 (official contact page).",
+    "route_role": "Published Food and Dineout PR / Corporate Communications route (AVP); not a paid-media buyer. Use only for referral to the relevant measurement owner.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Swiggy's own corporate contact page at https://www.swiggy.com/corporate/contact-us/ on 04 Oct 2026: Akanksha Jain is listed for Swiggy Food and Swiggy Dineout PR/Corporate Communications at akanksha.j@swiggy.in.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Food and Dineout PR / Corporate Communications (AVP); referral route, not a paid-media buyer."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no Swiggy consumer-brand Google creative established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=swiggy.com",
+    "detail": "India-region domain view displayed about 5K any-time results and says the domain includes multiple advertiser accounts. A verified SWIGGY LIMITED advertiser appears in results. The individual creative linked in S5 promotes the Toing food-delivery app, not Swiggy's consumer food-order brand. This does not establish current Swiggy consumer-brand Google activity; about 5K is not an active-ad count."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Swiggy page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1004826868771702&view_all_page_id=313788932116395",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored; started 19 May 2026. Card says multiple versions; latest capture linked to Ludhiana Pizza Wings and a prior capture to Mumbai Subway.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Swiggy official corporate contact page — Food/Dineout PR route and Bengaluru office",
+      "url": "https://www.swiggy.com/corporate/contact-us/",
+      "source_type": "Corporate first-party page",
+      "observed": "Lists Akanksha Jain (Swiggy Food/Dineout PR) and the published email. The same page lists a Bengaluru corporate office; the route is PR, not a buyer, and office presence is not ad-targeting evidence.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Swiggy domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=swiggy.com",
+      "source_type": "Platform query",
+      "observed": "About 5K mixed-account any-time results. Verified SWIGGY LIMITED advertiser appears; a reviewed creative promoted Toing, not the Swiggy consumer brand.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S5",
+      "label": "Google Ads Transparency Center — individual SWIGGY LIMITED creative",
+      "url": "https://adstransparency.google.com/advertiser/AR04872672420588158977/creative/CR12702785112756977665?region=IN",
+      "source_type": "Platform creative",
+      "observed": "Individual creative is by SWIGGY LIMITED and promotes Toing; it is not treated as Swiggy consumer-brand activity.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S6",
+      "label": "Swiggy restaurant destination exposed in one rendered card version",
+      "url": "https://www.swiggy.com/city/Ludhiana/pizza-wings-hargobind-nagar-chaura-bazar-rest1006676?utm_source=meta_web&utm_campaign=MetaRxFeedAds&is_retargeting=true&media_source=RxFeed",
+      "source_type": "Ad destination link",
+      "observed": "Latest capture linked to Ludhiana Pizza Wings; a prior capture showed Mumbai Subway. The card has multiple versions; neither establishes a Bengaluru route.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The versioned platform card exposes changing restaurant-listing destinations",
+      "evidence": "Meta Library ID 1004826868771702; page Swiggy (313788932116395); Sponsored and Active on 04 Oct 2026, started 19 May; the direct card says it has multiple versions. The latest capture linked to Ludhiana Pizza Wings; a prior capture showed Mumbai Subway.",
+      "analysis": "The public record establishes a Swiggy platform placement and versioned listing links only, not Bengaluru targeting or an order outcome. Swiggy is a platform lead, not a restaurant.",
+      "next_check": "Reopen each current version, confirm whether a Bengaluru route exists, and reconcile any authorized order to that version's campaign identifier.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Bengaluru corporate presence and a published PR route do not identify a media owner",
+      "evidence": "The corporate page lists a Bengaluru office and publishes akanksha.j@swiggy.in for Food and Dineout PR/Corporate Communications.",
+      "analysis": "This establishes corporate local context and a routing contact only; it is not evidence that the selected ad targets Bengaluru.",
+      "next_check": "Ask the published Food/Dineout PR route for a referral to the team responsible for consumer paid-media measurement.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A verified Swiggy advertiser's reviewed Google creative promotes Toing",
+      "evidence": "Google's mixed domain view displayed about 5K any-time results; individual creative CR12702785112756977665 is under verified SWIGGY LIMITED and promotes Toing food delivery.",
+      "analysis": "The creative is tied to SWIGGY LIMITED but promotes Toing, not Swiggy's consumer food-order brand. It is not counted as current Swiggy consumer-brand activity.",
+      "next_check": "Do not describe this as a Swiggy consumer ad; if revisited, verify an individual creative's product destination and last-shown/status fields.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1004826868771702",
+      "page_id": "313788932116395",
+      "page_name": "Swiggy",
+      "started_on": "2026-05-19",
+      "creative_excerpt": "Stop scrolling. Start eating. Your favourite meals are just a tap away on Swiggy.",
+      "cta": "Order Now → Swiggy restaurant listing; the card says it has multiple versions",
+      "destination_url": null,
+      "destination_status": "The direct page says the ad has multiple versions. The latest capture rendered a Ludhiana Pizza Wings listing, while a prior capture showed a Mumbai Subway listing. No Bengaluru route or stable single destination was verified.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1004826868771702&view_all_page_id=313788932116395"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "The individual Swiggy page card displayed Active/Sponsored, direct Library ID, page label and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The corporate page identifies a Bengaluru office; the selected click destination is Mumbai, not Bengaluru."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 4,
+      "basis": "The captured version exposes an Order Now restaurant-listing URL, but destinations vary by version and no Bengaluru route is established."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official corporate contact/office, direct Meta card, Google domain query and individual Google creative were reviewed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published contact is PR/Corporate Communications for Food and Dineout, not a media buyer; referral only."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — direct Swiggy page and selected creative; checked 2026-10-04; Active and Sponsored; started 19 May 2026. Card says multiple versions; latest capture linked to Ludhiana Pizza Wings and a prior capture to Mumbai Subway.",
+    "S2 — Swiggy official corporate contact page — Food/Dineout PR route and Bengaluru office; checked 2026-10-04; Lists Akanksha Jain (Swiggy Food/Dineout PR) and the published email. The same page lists a Bengaluru corporate office; the route is PR, not a buyer, and office presence is not ad-targeting evidence.",
+    "S4 — Google Ads Transparency Center — Swiggy domain query; checked 2026-10-04; About 5K mixed-account any-time results. Verified SWIGGY LIMITED advertiser appears; a reviewed creative promoted Toing, not the Swiggy consumer brand.",
+    "S5 — Google Ads Transparency Center — individual SWIGGY LIMITED creative; checked 2026-10-04; Individual creative is by SWIGGY LIMITED and promotes Toing; it is not treated as Swiggy consumer-brand activity.",
+    "S6 — Swiggy restaurant destination exposed in one rendered card version; checked 2026-10-04; Latest capture linked to Ludhiana Pizza Wings; a prior capture showed Mumbai Subway. The card has multiple versions; neither establishes a Bengaluru route."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1004826868771702 and page ID 313788932116395; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no Swiggy consumer-brand Google creative established",
+      "method": "India-region domain view displayed about 5K any-time results and says the domain includes multiple advertiser accounts. A verified SWIGGY LIMITED advertiser appears in results. The individual creative linked in S5 promotes the Toing food-delivery app, not Swiggy's consumer food-order brand. This does not establish current Swiggy consumer-brand Google activity; about 5K is not an active-ad count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "Swiggy's corporate contact page lists a Bengaluru corporate office. The selected Meta card has multiple versions; the latest direct fetch rendered a Ludhiana Pizza Wings listing while a prior capture showed a Mumbai Subway listing. This is local corporate context only, not evidence of Bengaluru ad targeting. Published Food and Dineout PR / Corporate Communications route (AVP); not a paid-media buyer. Use only for referral to the relevant measurement owner.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The direct page says the ad has multiple versions. The latest capture rendered a Ludhiana Pizza Wings listing, while a prior capture showed a Mumbai Subway listing. No Bengaluru route or stable single destination was verified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "versioned ad",
+      "Hi Swiggy team,\n\nThe Swiggy page shows active card 1004826868771702, started 19 May 2026, with ‘Your favourite meals are just a tap away on Swiggy’ and an Order Now link. The card says it has multiple versions: the latest capture linked to Ludhiana Pizza Wings, while a prior capture showed Mumbai Subway. I am including Swiggy as a food-delivery platform, not a restaurant, and not calling this a Bengaluru-targeted ad.\n\nThe public record does not expose private spend, orders or event firing. The published route, akanksha.j@swiggy.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Toing creative",
+      "Hi Swiggy team,\n\nThe Google domain query is a mixed any-time view. A verified SWIGGY LIMITED advertiser's individual creative CR12702785112756977665 promotes Toing, not Swiggy's consumer food-order brand. I have not counted it as current Swiggy consumer-brand activity.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "listing clicks",
+      "Hi Swiggy team,\n\nIf a restaurant-listing click is intended to drive an order, the useful private check is which event, city and campaign/source identifier connect that version's click to a completed order. The public card does not show that outcome.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Swiggy team,\n\nI have a source-linked public snapshot of the platform card, Bengaluru corporate contact and the separate Toing creative. If the Food/Dineout PR route is not suitable, could you point me to the team responsible for measurement?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

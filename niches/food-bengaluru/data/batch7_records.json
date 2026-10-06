@@ -1,0 +1,1000 @@
+{
+  "batch": 7,
+  "niche": "Food / Bengaluru, India",
+  "working_target": 10,
+  "selected_count": 6,
+  "source_check_date": "2026-10-06",
+  "research_note": "Six retained leads have individually opened Meta cards that displayed the named page, Sponsored and Active status, a start date and a direct Library ID on 06 Oct 2026. They also have brand-owned contact provenance and explicit Bengaluru context from a brand page, outlet page or selected creative. The ten-lead figure is a working target, not a quota; no candidate was added to fill the shortfall. Public ad inventory and counts can change. Google Ads Transparency uses any-time domain queries; a zero-result view is not proof of no activity, and an individual creative is attributed only when its named advertiser and visible brand content support the tie. GO DESi's opened Google result was under a verified agency and did not expose a brand tie. Deliciae's verified advertiser creative was removed and is archive evidence; La Pino'z creative names the brand under verified advertiser COPENHAGEN HOSPITALITY but its last-shown date is not a current-active label. Contact emails are published by the brands' own sites; none is established as a paid-media buyer. The Kind's email was visible in an official-domain indexed page but not in direct page extraction, so re-open that page before sending. UTK's email is for catering enquiries only. No private spend, ROAS, CPA, conversion, booking, order, audience, tag/pixel presence or event-firing measurement is claimed. No simulated, estimated, benchmarked, forecast or expected-uplift values are included.",
+  "score_dimensions": [
+    "Direct paid signal",
+    "Bengaluru relevance",
+    "Public CTA visibility",
+    "First-party source coverage",
+    "Contact-route relevance"
+  ],
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "scope_decisions": [
+    "Six leads were retained from a working target of ten after direct-card, first-party contact, Bengaluru-context and cross-folder duplicate checks. No weak or unresolved candidate was used to reach ten.",
+    "All six selected Meta cards were opened individually on 06 Oct 2026 and displayed their named page, Sponsored and Active labels, start date and Library ID. A selected card is not an account-wide count; public inventory can change daily.",
+    "Bengaluru relevance is based only on official outlet/contact information or explicit creative copy. It does not establish Meta or Google audience targeting.",
+    "Google domain counts are dated, any-time discovery snapshots, not current-active ad counts. Opened individual creative records are described separately; zero-result queries do not prove no activity.",
+    "The Happy Screens was excluded: its official page and opened Active/Sponsored card identify a private mini-theatre and celebration/event service; gourmet food is a supporting feature. It was not treated as a core Food lead or used to pad the target.",
+    "The Kind was retained as a Bengaluru resto-café/food brand with an active food-franchise card. The card is co-branded with Building Brands For Tomorrow (BBFT); the ad buyer/manager relationship is unknown. Its published email came from an official-domain indexed Get in Touch snippet; direct fetch redirected and did not expose the email, so verify it again before sending.",
+    "United Telugu Kitchens' gm@telugukitchens.com is published on the brand's catering page for catering enquiries. It is not represented as a restaurant-marketing or paid-media contact.",
+    "Customer-care, general-query, order-support and catering inboxes are routing contacts only. No media decision-maker is identified for any retained lead.",
+    "Private account data, spend, ROAS, CPA, conversion rates, booking/order outcomes, tracking configuration, tag/pixel presence and event firing were not accessed or inferred."
+  ],
+  "excluded_candidates": [
+    {
+      "brand": "The Happy Screens",
+      "decision": "Excluded from Batch 7; not counted among the six retained leads and not added to the registry.",
+      "reason": "Food-niche fit was checked rather than assumed. Its own contact page and Meta Page identify a private mini-theatre service, and the opened card leads with celebrations/private-theatre experiences; gourmet food is listed as a supporting feature. Because the primary marketed service is event/entertainment booking rather than a food business, it was excluded from this Food batch despite verified Bengaluru locations, a brand-owned email and an active card. This is a scope decision, not a claim that it lacks food service.",
+      "sources": [
+        {
+          "label": "Meta Ad Library — individual The Happy Screens card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1287486572789402&view_all_page_id=102788009373518",
+          "checked_on": "2026-10-06",
+          "observed": "The Happy Screens - Private Mini Theater and Cafe; Library ID 1287486572789402 displayed Active and Sponsored; started 26 Apr 2026. The copy leads with private-theatre celebrations and describes gourmet food as one experience feature; it lists Bengaluru and other cities and a WhatsApp booking action. The video did not play in the capture."
+        },
+        {
+          "label": "The Happy Screens official Contact Us page",
+          "url": "https://www.thehappyscreens.in/contact-us",
+          "checked_on": "2026-10-06",
+          "observed": "Publishes thehappyscreens@gmail.com and Bengaluru locations including Kalyan Nagar, Koramangala, Banashankari and Basaveshwara Nagar. The page is for private-theatre celebration bookings; the email is not included as a Batch 7 lead contact."
+        }
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "brand": "GO DESi",
+      "slug": "go-desi",
+      "website": "https://godesi.in/",
+      "niche": "D2C Indian snacks and sweets",
+      "headline": "An individually opened snack ad is Active in the capture and links to a product page; private purchase outcomes remain unavailable.",
+      "market_signal": "The selected Meta creative names GO DESi snack products and displays a Shop Now product link; its copy says it delivers across India. GO DESi's own Contact page publishes an RR Nagar, Bengaluru address. That establishes first-party local context, not Bengaluru ad targeting.",
+      "local_evidence_status": "MEASURED — the brand's own Contact page lists an RR Nagar, Bengaluru address; the selected ad says delivery across India. No audience-geography inference is made.",
+      "contact": {
+        "email": "welovetalking@godesi.in",
+        "phone": "+91 9353756891 (order-related queries); +91 8904271453 (distributor and bulk enquiries)",
+        "entity": "",
+        "address": "#145, 9th Main, 3rd Stage, Raghavendra Swami Mutt Road, Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru, Karnataka 560098 (address published on the official Contact page; not independently described as headquarters).",
+        "route_role": "Official general-query inbox. The page lists separate order-related and distributor/bulk telephone routes. No paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from GO DESi's own Contact Us page on 06 Oct 2026: https://godesi.in/pages/contact-us publishes welovetalking@godesi.in for queries and lists the RR Nagar, Bengaluru address. It separately lists phone routes for order-related and distributor/bulk enquiries. This is a published general-query route, not a confirmed paid-media contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published general-query inbox; no paid-media buyer is named."
+      },
+      "meta": {
+        "page_name": "GO DESi",
+        "page_id": "117547272221199",
+        "page_profile_url": "https://www.facebook.com/Godesifoods/",
+        "library_id": "1440511024788968",
+        "started_on": "2026-07-13",
+        "creative_excerpt": "The GO DESi card asks, 'Bored with the same old potato chips?' and lists Ragi Chips, Barbeque Peanuts and Sun-dried Fruits; a visible product card says Tomato Masala Banana Chips and displays Shop Now to a GO DESi product URL. The card's product, ingredient, delivery and price statements are advertiser copy, not independently verified product outcomes or prices.",
+        "cta": "Shop Now",
+        "destination_url": "https://godesi.in/products/tomato-masala-banana-chips?utm_content=Facebook_UA&utm_source=facebook&variant=51803214479681",
+        "destination_status": "The individual card exposes a Shop Now link to the GO DESi product URL. The URL was visible in the card; no checkout, order or conversion was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established",
+        "url": "https://adstransparency.google.com/?region=IN&domain=godesi.in",
+        "detail": "On 06 Oct 2026, the India-region godesi.in domain query displayed 22 any-time results and stated that a domain can include multiple advertiser accounts. The opened individual creative CR08057425657375752193 is under verified advertiser Haystack Marketing Services Pvt Ltd, was last shown 15 Sep 2026, and Google marked the media unavailable/removed for a policy violation. The extracted creative did not expose GO DESi branding, product copy or a brand landing page. It is not attributed to GO DESi and does not establish current brand-specific Google activity. The public result count is a dated snapshot, not an active-ad count."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — GO DESi individual snack card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199",
+          "source_type": "Platform individual card",
+          "observed": "GO DESi page (page ID 117547272221199); Library ID 1440511024788968 displayed Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The card's visible copy promotes GO DESi snacks and shows a Shop Now product link to godesi.in. Copy claims and product/price details are advertiser text, not independent performance or current-price measurements.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "GO DESi official Contact Us page",
+          "url": "https://godesi.in/pages/contact-us",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes welovetalking@godesi.in for queries; lists order-related phone +91 9353756891, distributor/bulk phone +91 8904271453 and a Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru address. The email is a general-query route, not a confirmed media contact.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency — godesi.in domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=godesi.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed 22 results on 06 Oct 2026 and warned that results can point to multiple advertiser accounts. A domain result count is not a current-active brand count.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — opened Haystack creative",
+          "url": "https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser Haystack Marketing Services Pvt Ltd; creative ID CR08057425657375752193; last shown 15 Sep 2026; video; Google indicated the creative media was unavailable/removed for policy violation. The extracted card did not identify GO DESi, so no brand tie or current GO DESi Google activity is claimed.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected Shop Now card is public placement evidence, not an order result",
+          "evidence": "Meta Library ID 1440511024788968; page GO DESi; Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The visible card links to a GO DESi snack product page.",
+          "analysis": "The card supports the visible creative and route only. Its product, price and ingredient statements are advertiser copy; no checkout, order, audience, spend or conversion result was measured.",
+          "next_check": "Re-open the direct Library ID and product path before outreach; if authorized, define the completed-order event and source-of-record before measuring outcomes.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official Bengaluru contact address is not evidence of Bengaluru ad targeting",
+          "evidence": "The Contact page lists an RR Nagar, Bengaluru address, while the selected card says it delivers across India.",
+          "analysis": "This establishes first-party Bengaluru context only; neither a local outlet nor Bengaluru audience targeting is inferred.",
+          "next_check": "Confirm the correct commercial/media contact and any location scope directly with the brand; use internal campaign geography only if the brand authorizes access.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google result is under a verified agency; no GO DESi tie is established",
+          "evidence": "The domain query displayed 22 any-time results. Opened creative CR08057425657375752193 names Haystack Marketing Services Pvt Ltd as verified advertiser, was last shown 15 Sep 2026, and its media was unavailable/removed.",
+          "analysis": "The extracted creative does not identify GO DESi. A matching domain query or agency advertiser is not sufficient to attribute this creative to the brand or call it current activity.",
+          "next_check": "If revisited, open a brand-identifying creative and confirm its named advertiser, visible GO DESi content, destination and last-shown/status fields.",
+          "source_ids": [
+            "S3",
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Direct card displayed Active/Sponsored, page identity, start date, Library ID and a visible product route.",
+        "First-party Contact page lists an RR Nagar, Bengaluru address; the card's delivery copy is nationwide and no targeting is inferred.",
+        "Shop Now and the product URL are visible; checkout and completed purchase were not measured.",
+        "Direct Meta card, brand Contact page, Google domain query and opened Google creative were checked.",
+        "Official general-query email is published, but it is not a confirmed paid-media buyer route."
+      ],
+      "email_subjects": [
+        "GO DESi snack card",
+        "Published route",
+        "Order measurement",
+        "Right owner"
+      ],
+      "email_notes": [
+        "I opened Meta card 1440511024788968: it displayed GO DESi as Sponsored and Active when checked on 06 Oct 2026, started 13 Jul 2026, and linked a snack creative to a GO DESi product page. I have not treated the ad's product or price copy as an independently checked order result.",
+        "Your official Contact page publishes welovetalking@godesi.in for queries and an RR Nagar, Bengaluru address. I have not treated the inbox as a media buyer or the address as evidence of local ad targeting.",
+        "If useful, an account-side check could map the selected Library ID to a completed-order definition and order source-of-record. I did not access checkout, campaign or order data.",
+        "I have not established a GO DESi-specific Google creative from the opened agency result. Could you route this source-linked note to the person responsible for paid-media measurement?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3",
+          "S4"
+        ]
+      ]
+    },
+    {
+      "brand": "Boba Bhaii",
+      "slug": "boba-bhaii",
+      "website": "https://www.bobabhai.com/",
+      "niche": "Bubble tea and Korean-fusion food",
+      "headline": "A brand-page Meta card is Active and uses a generic Maps search CTA; its video was not playable in the capture.",
+      "market_signal": "The selected Meta card is shown under Boba Bhaii and links to a Google Maps search for 'boba bhai near me'. The official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. The map CTA is not an order, store visit or conversion measurement.",
+      "local_evidence_status": "MEASURED — the official Bangalore page lists Bengaluru outlet addresses; the selected ad uses a generic Maps search. No Bengaluru audience targeting or store-visit result is inferred.",
+      "contact": {
+        "email": "care@bobabhai.com",
+        "phone": "+91-79756 73970",
+        "entity": "",
+        "address": "Multiple Bengaluru outlet locations are listed on the official Bangalore page; no single corporate address is stated there.",
+        "route_role": "Published customer-care route; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Boba Bhai's own Bangalore page on 06 Oct 2026: https://www.bobabhai.com/bangalore lists Bengaluru stores and publishes care@bobabhai.com and +91-79756 73970. This is a customer-care route, not a confirmed paid-media contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published customer-care inbox; no media buyer is named."
+      },
+      "meta": {
+        "page_name": "Boba Bhaii",
+        "page_id": "103298149289578",
+        "page_profile_url": "https://www.facebook.com/bobabhaii/",
+        "library_id": "27272445052456789",
+        "started_on": "2026-07-24",
+        "creative_excerpt": "The individual Boba Bhaii card's video did not play in the capture. The card page displayed Boba Bhaii as the Sponsored advertiser and a See details link to a Google Maps search for 'boba bhai near me'. No unseen video content is inferred.",
+        "cta": "See details — Google Maps search for 'boba bhai near me'.",
+        "destination_url": "https://www.google.com/maps/search/boba+bhai+near+me+/",
+        "destination_status": "The direct card exposes a Google Maps search URL, not a tested route to a specific outlet. The video asset could not be played; no map click, store visit or order outcome was measured.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=bobabhai.com",
+        "detail": "The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that Boba Bhaii does not advertise on Google or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Boba Bhaii individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578",
+          "source_type": "Platform individual card",
+          "observed": "Boba Bhaii page (page ID 103298149289578); Library ID 27272445052456789 displayed Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The video did not play in the capture; the visible See details route is a generic Google Maps search for 'boba bhai near me'. One card only; no click or visit result is exposed.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "Boba Bhai official Bengaluru/Bangalore page",
+          "url": "https://www.bobabhai.com/bangalore",
+          "source_type": "Brand first-party local/contact page",
+          "observed": "Lists multiple Bengaluru store locations and publishes care@bobabhai.com and +91-79756 73970. The email is a customer-care route, not a media-buyer identity.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "Google Ads Transparency — bobabhai.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=bobabhai.com",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google advertising or activity.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The selected Maps CTA is not a measured store visit or order",
+          "evidence": "Meta Library ID 27272445052456789; Boba Bhaii; Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The visible See details route is a generic Google Maps search; the video did not play in the capture.",
+          "analysis": "The public record supports the card, advertiser label and visible CTA only. The selected video content, map interactions, store visits, orders and conversion outcomes were not measured.",
+          "next_check": "Re-open the direct card and search destination before reusing the observation; if authorized, agree how map actions, store visits and completed orders would be defined and reconciled.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Bengaluru outlets and customer-care email are first-party; the inbox is not a buyer identity",
+          "evidence": "The brand's Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com.",
+          "analysis": "This confirms local brand context and a routing contact; it does not show who manages paid media or where the ad was targeted.",
+          "next_check": "Recheck outlet listings and ask the published care route to forward the source-linked note to the paid-media measurement owner.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026.",
+          "analysis": "A zero-result domain query is not evidence that no Google ads exist or that no activity occurred.",
+          "next_check": "If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attributing it.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Direct individual card displayed Active/Sponsored, named Boba Bhaii page, start date and ID.",
+        "Official brand page lists Bengaluru outlets; no audience targeting is inferred.",
+        "A generic Maps search CTA is visible; video content and destination outcome were not measured.",
+        "Direct Meta card, official Bengaluru/contact page and Google domain query were reviewed.",
+        "Customer-care inbox is published, but it is not a confirmed media-owner route."
+      ],
+      "email_subjects": [
+        "Boba Bhaii Maps CTA",
+        "Bengaluru store route",
+        "Define the outcome",
+        "Correct contact"
+      ],
+      "email_notes": [
+        "I opened Meta Library card 27272445052456789: it displayed Boba Bhaii as Sponsored and Active when checked on 06 Oct 2026, started 24 Jul 2026, and shows a See details link to a Google Maps search for 'boba bhai near me'. The video did not play in my capture, so I have not described unseen content.",
+        "Your official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. I have not assumed customer care owns paid media or that the Maps link proves a store visit.",
+        "If the Maps route is intended to support store action, an internal review could agree the outcome definition and source-of-record. I did not access map interactions, store visits or order data.",
+        "Could you route this short source-linked note to the person responsible for paid-media measurement? If this care inbox is not suitable, a pointer to the right contact is enough."
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S1",
+          "S2"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2"
+        ]
+      ]
+    },
+    {
+      "brand": "Deliciae",
+      "slug": "deliciae",
+      "website": "https://www.delcakes.in/",
+      "niche": "Cake and dessert bakery",
+      "headline": "A directly opened cake card is Active in the capture and points to a Bengaluru ordering route; the ad's offer and order results are not independently verified.",
+      "market_signal": "The selected Meta card promotes a dark-chocolate ganache cake and includes an order route to the Bengaluru storefront. The official FAQ publishes info@deliciaecakes.com for order support, and the official ordering site exposes Bengaluru delivery and pickup options. The card's discount language is advertiser copy, not a verified current offer.",
+      "local_evidence_status": "MEASURED — the selected creative names orders.delcakes.in/blr and the official order site displays Bengaluru delivery/pickup choices. This does not measure audience geography or completed orders.",
+      "contact": {
+        "email": "info@deliciaecakes.com",
+        "phone": "",
+        "entity": "",
+        "address": "Bengaluru order route: https://orders.delcakes.in/blr. The cited pages do not establish a corporate office address.",
+        "route_role": "Official order-confirmation and order-change support inbox; no paid-media buyer is identified.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from Deliciae's own FAQ on 06 Oct 2026: https://www.delcakes.in/why-deliciae/ publishes info@deliciaecakes.com for order-confirmation and order-change issues. It is an order-support inbox, not a confirmed paid-media contact. The official Bengaluru order route is https://orders.delcakes.in/blr.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Published order support; no paid-media buyer is named."
+      },
+      "meta": {
+        "page_name": "Deliciae by Bunty Mahajan",
+        "page_id": "109482575760811",
+        "page_profile_url": "https://www.facebook.com/delcakes.in/",
+        "library_id": "4626067054271505",
+        "started_on": "2026-09-26",
+        "creative_excerpt": "The card says, 'Our signature 54% dark chocolate ganache infused with caramel, layered between sponge & sprinkled with sea salt flakes.' It also says to order from Zomato/Swiggy or orders.delcakes.in/blr and displays a 15% code. These are advertiser statements and were not independently validated as current product, price or offer terms.",
+        "cta": "Order Now; card creative shows a Linktree route and names orders.delcakes.in/blr in its text.",
+        "destination_url": "https://linktr.ee/delcakes.bengaluru",
+        "destination_status": "The individual card shows the Linktree URL; its final redirect targets were not followed. The ad text separately names the Bengaluru order route. No checkout or order outcome was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — 92 any-time domain-query results; opened verified Deliciae advertiser creative CR12610092193726595073, last shown 05 Oct 2026 and removed; archive evidence only, not a current-active label",
+        "url": "https://adstransparency.google.com/?region=IN&domain=delcakes.in",
+        "detail": "On 06 Oct 2026, the India-region delcakes.in any-time domain query displayed 92 results, including creatives under verified advertiser accounts named Deliciae. Opened creative CR12610092193726595073 under verified advertiser Deliciae (legal name: Deliciae) was last shown 05 Oct 2026; Google marked the image creative removed for a policy violation, and its image content was unavailable. The advertiser identity and individual creative ID establish a brand-named Google archive record, not a current-active ad or order result. The 92-result domain count is a dated any-time snapshot and can change.",
+        "creative_url": "https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN"
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — Deliciae individual dark-chocolate card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811",
+          "source_type": "Platform individual card",
+          "observed": "Deliciae by Bunty Mahajan page (page ID 109482575760811); Library ID 4626067054271505 displayed Active and Sponsored on 06 Oct 2026; started 26 Sep 2026. Copy describes a 54% dark-chocolate ganache cake and a Bengaluru order route; it displays a 15% offer code. Product and offer statements are advertiser copy, not independent price/availability or conversion measurements. The card shows a Linktree order route; final redirect was not tested.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "Deliciae official FAQ — order support email",
+          "url": "https://www.delcakes.in/why-deliciae/",
+          "source_type": "Brand first-party FAQ/contact page",
+          "observed": "Publishes info@deliciaecakes.com for order-confirmation and order-change issues; notes bulk/custom-order support separately. This is an order-support route, not a confirmed paid-media contact.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "Deliciae official Bengaluru ordering page",
+          "url": "https://orders.delcakes.in/blr",
+          "source_type": "Brand first-party order page",
+          "observed": "Page title identifies Deliciae ordering in Bengaluru; displays Bengaluru delivery and pickup choices including Whitefield, Indiranagar, Bellandur, St. Mark's, Koramangala, Hebbal and Brookefield. This is route availability, not proof of a completed order or current ad targeting.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — delcakes.in domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=delcakes.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed 92 results on 06 Oct 2026. Multiple advertiser accounts can point to a domain; this count is not a current-active brand count.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S5",
+          "label": "Google Ads Transparency — opened verified Deliciae creative",
+          "url": "https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser/legal name Deliciae; individual image creative CR12610092193726595073 last shown 05 Oct 2026. Google marked the creative image removed for policy violation; image content unavailable. This is dated archive evidence, not a current-active ad status.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The active cake card exposes an order route, not a completed order",
+          "evidence": "Meta Library ID 4626067054271505; Deliciae by Bunty Mahajan; Active and Sponsored on 06 Oct 2026; started 26 Sep 2026. Copy describes a 54% dark-chocolate ganache cake and names the Bengaluru order route; CTA is Order Now through Linktree.",
+          "analysis": "The product, discount and code are advertiser copy. The final Linktree hops, checkout, current offer terms, orders and conversion results were not independently tested.",
+          "next_check": "Re-open the card and final order path before reusing the offer wording; if authorized, map the selected Library ID to a completed-order event and source-of-record.",
+          "source_ids": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party support and Bengaluru order routes are published; neither identifies a media buyer",
+          "evidence": "The official FAQ publishes info@deliciaecakes.com for order support; the official order page displays a Bengaluru order route and pickup/delivery choices.",
+          "analysis": "These sources support an order-support contact and local order route, not media ownership, completed sales or audience geography.",
+          "next_check": "Ask the published order-support route to forward the source-linked note to the paid-media measurement owner; confirm that this inbox is suitable before sending.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google archive evidence is brand-named but not a current-active status",
+          "evidence": "The domain query displayed 92 any-time results. Verified advertiser Deliciae's opened creative CR12610092193726595073 was last shown 05 Oct 2026; Google marked the image creative removed and did not expose its content.",
+          "analysis": "The advertiser name and individual creative ID tie an archive record to a brand-named advertiser. The record does not establish a currently running Google ad, product claim or order result.",
+          "next_check": "If revisited, confirm the current date/filter, advertiser identity, creative content and status/last-shown fields before making a live Google-activity claim.",
+          "source_ids": [
+            "S4",
+            "S5"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Direct Meta card displayed Active/Sponsored, page identity, start date, ID and order CTA.",
+        "Selected card and first-party ordering page identify the Bengaluru order route; no audience targeting is inferred.",
+        "Order Now and a Linktree/official order route are visible; final redirect and completed order were not tested.",
+        "Direct Meta card, first-party FAQ/order page, Google domain query and opened individual creative were checked.",
+        "Official email is an order-support route, not a confirmed paid-media owner."
+      ],
+      "email_subjects": [
+        "Deliciae dark-chocolate card",
+        "Bengaluru order route",
+        "Order outcome definition",
+        "Paid-media contact"
+      ],
+      "email_notes": [
+        "I opened Meta card 4626067054271505: it displayed Deliciae by Bunty Mahajan as Sponsored and Active when checked on 06 Oct 2026, started 26 Sep 2026, and the copy names a dark-chocolate ganache cake plus a Bengaluru order route. The 15% code is card copy; I have not verified current offer terms or orders.",
+        "The official FAQ publishes info@deliciaecakes.com for order support, and the official order page shows a Bengaluru route. I have not treated that inbox as a media buyer or followed the card's Linktree redirects.",
+        "If online orders are the intended outcome, a private review could align the Library ID, the completed-order definition and the order source-of-record. I did not access any private campaign, checkout or sales data.",
+        "The Google archive result I opened is under verified advertiser Deliciae but is marked removed, so I am not calling it a current Google ad. Could you point me to the right paid-media measurement contact?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1",
+          "S3"
+        ],
+        [
+          "S4",
+          "S5"
+        ]
+      ]
+    },
+    {
+      "brand": "United Telugu Kitchens",
+      "slug": "united-telugu-kitchens",
+      "website": "https://unitedtelugukitchens.com/",
+      "niche": "Andhra/Telugu restaurant and catering group",
+      "headline": "An Active Bengaluru-named restaurant card carries Andhra-food copy and a Call Now action; calls and outcomes are not public.",
+      "market_signal": "The selected Meta card appears under United Telugu Kitchens Bengaluru, uses Andhra-food and Bengaluru copy, and displays Call now. The brand's contact page lists Kadugodi and Kanakapura Bengaluru locations. Its only published email found for this record is on the separate Catering page and is explicitly for catering enquiries, not paid media.",
+      "local_evidence_status": "MEASURED — the selected Meta page/copy names Bengaluru and the brand's official Contact page lists Bengaluru locations. This does not establish audience targeting or call outcomes.",
+      "contact": {
+        "email": "gm@telugukitchens.com",
+        "phone": "+91-9912000777 (published on the official catering page)",
+        "entity": "",
+        "address": "Official Contact page lists Kadugodi, Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062 locations; no corporate-office address is inferred.",
+        "route_role": "Catering information and enquiry route only; not a confirmed restaurant-marketing or paid-media contact.",
+        "additional_emails": []
+      },
+      "contact_source": "Crawled from United Telugu Kitchens' own Catering page on 06 Oct 2026: https://unitedtelugukitchens.com/catering publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. The official Contact page https://unitedtelugukitchens.com/contact lists Bengaluru locations but no public general email. The published email is catering-specific, not a confirmed media contact.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S2",
+          "S3"
+        ],
+        "email_role": "Catering enquiries only; no general marketing or paid-media buyer email was found."
+      },
+      "meta": {
+        "page_name": "United Telugu Kitchens Bengaluru",
+        "page_id": "172125759316085",
+        "page_profile_url": "https://www.facebook.com/unitedtelugukitchens/",
+        "library_id": "1400576771684831",
+        "started_on": "2026-10-03",
+        "creative_excerpt": "The card copy says, 'Bold spices, soulful flavours and plates that bring the heart of Andhra to the table. Come hungry, leave with a new favourite.' The text includes Andhra-food/Bangalore terms and the card shows Call now. The video did not play in the capture; no unseen visual or call destination is inferred.",
+        "cta": "Call now; final telephone link/number was not exposed in the captured selected card.",
+        "destination_url": null,
+        "destination_status": "The selected card shows a Call now action. The call destination/number and any answered call, visit or order were not tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com",
+        "detail": "The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that United Telugu Kitchens does not advertise on Google or that no ads exist."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — United Telugu Kitchens Bengaluru individual card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085",
+          "source_type": "Platform individual card",
+          "observed": "United Telugu Kitchens Bengaluru page (page ID 172125759316085); Library ID 1400576771684831 displayed Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy mentions Andhra flavours/Bengaluru; Call now is visible. Video did not play in the capture and call destination/outcome were not tested.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "United Telugu Kitchens official Catering page — catering email",
+          "url": "https://unitedtelugukitchens.com/catering",
+          "source_type": "Brand first-party service/contact page",
+          "observed": "Publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. It does not identify the email as a restaurant-marketing or paid-media contact.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "United Telugu Kitchens official Contact page — Bengaluru locations",
+          "url": "https://unitedtelugukitchens.com/contact",
+          "source_type": "Brand first-party location/contact page",
+          "observed": "Lists Kadugodi/Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062; offers a location/enquiry form and publishes no general contact email in the captured page.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — unitedtelugukitchens.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The Call now card is a public CTA, not a measured call or restaurant visit",
+          "evidence": "Meta Library ID 1400576771684831; United Telugu Kitchens Bengaluru; Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy refers to Andhra food/Bengaluru and the card shows Call now.",
+          "analysis": "The video did not play in the capture. The visible page, text and CTA are supported; the call destination, calls, dining visits, orders and campaign performance were not measured.",
+          "next_check": "Re-open the card and call path; if authorized, agree whether the intended outcome is a connected call, qualified enquiry, visit or another event before measuring it.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Bengaluru locations are first-party; the available email route is catering-specific",
+          "evidence": "The official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The official Catering page publishes gm@telugukitchens.com for catering enquiries.",
+          "analysis": "The sources establish local food-service context and a related published email, not that this inbox owns restaurant media or paid campaigns.",
+          "next_check": "If using the catering inbox, ask it to route the note to the correct marketing/media owner; for broader outreach, confirm an appropriate published general route first.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026.",
+          "analysis": "One zero-result query does not establish that no Google ads or prior activity exist.",
+          "next_check": "If revisited, open a current individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        2
+      ],
+      "score_bases": [
+        "Direct card displayed Active/Sponsored, page identity, start date and ID.",
+        "Selected page/copy and official Contact page name Bengaluru; no audience targeting is inferred.",
+        "Call now is visible; final number, call connection and conversion outcome were not tested.",
+        "Direct Meta card, official Catering and Contact pages, and Google domain query were checked.",
+        "Published email is for catering enquiries only; no marketing/media owner is named."
+      ],
+      "email_subjects": [
+        "UTK Bengaluru card",
+        "Published catering route",
+        "Define the call outcome",
+        "Correct media contact"
+      ],
+      "email_notes": [
+        "I opened Meta Library card 1400576771684831: it displayed United Telugu Kitchens Bengaluru as Sponsored and Active when checked on 06 Oct 2026, started 03 Oct 2026, with Andhra-food/Bengaluru copy and a Call now action. The video did not play in my capture, so I have not described unseen content.",
+        "Your official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The published gm@telugukitchens.com address is on the separate Catering page for catering enquiries; I have not assumed it is a media contact.",
+        "If the Call now action is intended to drive enquiries, a private review could distinguish a connected call from a qualified enquiry or visit before measuring it. I did not access any call or order records.",
+        "Could you route this source-linked note to the person responsible for paid-media measurement? If the catering inbox is not suitable, a pointer to the right contact is enough."
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ]
+      ]
+    },
+    {
+      "brand": "The Kind Roastery and Brew Room",
+      "slug": "the-kind-roastery-and-brew-room",
+      "website": "https://thekindindia.com/",
+      "instagram": "https://www.instagram.com/thekind.india/",
+      "niche": "Vegetarian resto-café, coffee roastery and bakery",
+      "headline": "A co-branded active franchise card names the Bengaluru café/bakery offer; ad ownership, destination and enquiry outcomes are unknown.",
+      "market_signal": "The official site describes The Kind as a resto-café with all-day vegetarian food and lists JP Nagar, Bellandur and Indiranagar, Bengaluru. Its individual Meta card is co-branded with Building Brands For Tomorrow (BBFT) and promotes a Bengaluru café/bakery franchise. The ad buyer/manager relationship and destination behind fb.me are not established.",
+      "local_evidence_status": "MEASURED — direct first-party site content describes a Bengaluru resto-café and lists three Bengaluru locations; the selected card explicitly says Bengaluru. No audience targeting is inferred.",
+      "contact": {
+        "email": "thekindindia@gmail.com",
+        "phone": "",
+        "entity": "",
+        "address": "Official site lists JP Nagar, Bellandur and Indiranagar locations in Bengaluru; no corporate-office address is inferred.",
+        "route_role": "Official-domain indexed 'Get in Touch' email; direct page fetch redirected and did not expose the email, so re-open before sending. Not a confirmed paid-media contact.",
+        "additional_emails": []
+      },
+      "contact_source": "Rechecked on 06 Oct 2026: the official-domain search result for https://thekindindia.com/shop/ showed a 'Contact / Get in Touch' section with thekindindia@gmail.com. Direct fetch of that URL redirected to the homepage representation and did not expose the email. This is an official-domain indexed contact snippet, but the email should be re-opened on the live site before sending; no media-buyer identity is established.",
+      "contact_source_status": "PARTIALLY VERIFIED — official-domain indexed page shows the email; direct extraction did not expose it.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S3"
+        ],
+        "email_role": "Official indexed Get in Touch route; re-open before sending; no paid-media buyer is named."
+      },
+      "meta": {
+        "page_name": "The Kind Roastery and Brew Room",
+        "page_id": "100820726181920",
+        "page_profile_url": "https://www.facebook.com/thekindindia/",
+        "library_id": "1076550118145187",
+        "started_on": "2026-08-20",
+        "creative_excerpt": "The individual card is shown 'with Building Brands For Tomorrow BBFT' and says, 'Franchise opportunity with Bengaluru's specialty coffee, bakery & all-day vegetarian dining.' The card's additional claims ('high performing stores', 'good margins' and investment wording) are advertiser copy, not independently verified and are not used as audit findings.",
+        "cta": "See Details",
+        "destination_url": "http://fb.me/",
+        "destination_status": "The card displays See Details with an fb.me URL. The final destination/redirect was not followed. The card is co-branded with BBFT; it is not known which party funds or manages the ad.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — no domain-query results (not proof of no activity)",
+        "url": "https://adstransparency.google.com/?region=IN&domain=thekindindia.com",
+        "detail": "The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove no Google advertising or activity."
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — The Kind co-branded franchise card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920",
+          "source_type": "Platform individual card",
+          "observed": "The Kind Roastery and Brew Room page (page ID 100820726181920); Library ID 1076550118145187 displayed Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. Card is co-branded 'with Building Brands For Tomorrow BBFT'; copy names a Bengaluru specialty coffee, bakery and all-day vegetarian-dining franchise. See Details points to fb.me; final destination and buyer/manager relationship were not established.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "The Kind official website — food offer and Bengaluru locations",
+          "url": "https://thekindindia.com/",
+          "source_type": "Brand first-party website",
+          "observed": "Direct page describes The Kind as a resto-café/community hub, lists all-day vegetarian food, coffee and bakery, and identifies JP Nagar, Bellandur and Indiranagar Bengaluru locations. Direct extraction did not show the contact email.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "The Kind official-domain indexed Shop/Get in Touch page — email recheck",
+          "url": "https://thekindindia.com/shop/",
+          "source_type": "Brand first-party page as surfaced in official-domain search index; direct fetch limitation disclosed",
+          "observed": "The official-domain search result displayed 'Contact / Get in Touch / thekindindia@gmail.com' and Bengaluru location snippets on 06 Oct 2026. Direct fetch of this URL redirected to the homepage representation and did not expose the email text. It is source-provenanced but must be re-opened live before sending; it is not a named media-buyer route.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — thekindindia.com domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=thekindindia.com",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The co-branded franchise card does not establish who funds or manages the ad",
+          "evidence": "Meta Library ID 1076550118145187; The Kind Roastery and Brew Room 'with Building Brands For Tomorrow BBFT'; Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. The public copy identifies a Bengaluru coffee/bakery/vegetarian-dining franchise; See Details uses fb.me.",
+          "analysis": "The record establishes the named page, co-branding, card copy, status/date and short-link label only. The final destination, advertiser account ownership, investment or margin claims, franchise enquiries and conversions were not independently validated.",
+          "next_check": "Re-open the card and final destination; ask The Kind/BBFT to confirm campaign ownership and the correct franchise-measurement contact before any account-level comparison.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The official site supports the Food/Bengaluru fit; the indexed email needs a live recheck",
+          "evidence": "The official home page describes a resto-café with vegetarian food, coffee and bakery, and lists JP Nagar, Bellandur and Indiranagar. The official-domain /shop/ search snippet showed thekindindia@gmail.com; direct fetch redirected and did not expose the email.",
+          "analysis": "The brand/category/locality are directly supported. The published email is first-party indexed text but is only partially verified in direct page extraction and is not a confirmed media-buyer route.",
+          "next_check": "Before sending, re-open the official Get in Touch page and verify the email is still present; then ask for the correct paid-media/franchise measurement owner.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "The Google domain query returned zero results in this capture",
+          "evidence": "The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026.",
+          "analysis": "A zero-result query is not proof of no Google ads or activity.",
+          "next_check": "If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "score_bases": [
+        "Direct card displayed Active/Sponsored, page identity, start date and ID, but it is co-branded and the buyer/manager is unknown.",
+        "Official home page and card copy both identify Bengaluru; no audience targeting is inferred.",
+        "See Details and the fb.me short URL are visible; final destination and franchise enquiry were not tested.",
+        "Direct Meta card, official food/location page, official-domain email snippet and Google query were reviewed; email extraction remains partial.",
+        "The official-domain indexed email is general and only partially exposed by direct fetch; no media buyer is named."
+      ],
+      "email_subjects": [
+        "The Kind franchise card",
+        "Bengaluru café and contact route",
+        "Franchise enquiry definition",
+        "Right owner"
+      ],
+      "email_notes": [
+        "I opened Meta Library card 1076550118145187: it displayed The Kind Roastery and Brew Room as Sponsored and Active when checked on 06 Oct 2026, started 20 Aug 2026, and was co-branded with BBFT. The copy names a Bengaluru coffee, bakery and all-day vegetarian-dining franchise; I have not inferred which party funds or manages the ad.",
+        "Your official site describes a Bengaluru resto-café and lists JP Nagar, Bellandur and Indiranagar. The official-domain indexed Get in Touch result shows thekindindia@gmail.com, but the direct page fetch redirected and did not expose the address, so please re-open it before sending and confirm the right route.",
+        "If the franchise card is meant to generate enquiries, an account-side review could define a qualified franchise enquiry and trace the visible CTA only after confirming the final destination. The fb.me destination and any enquiry outcome were not tested.",
+        "I have not treated the ad's margin/investment wording as verified performance or a return. Could you route a source-linked note to the person responsible for paid-media or franchise-enquiry measurement?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S1",
+          "S3"
+        ]
+      ]
+    },
+    {
+      "brand": "La Pino'z Pizza",
+      "slug": "la-pinoz-pizza",
+      "website": "https://lapinozpizza.in/",
+      "niche": "Pizza restaurant chain",
+      "headline": "An Active international-menu card uses an order short link; the final path and private order outcome were not tested.",
+      "market_signal": "The selected Meta card promotes an international menu and shows Order Now through uen.io/lapinoz. La Pino'z's official store locator lists Bengaluru store cards and branch pages; its Contact page publishes separate customer-support and franchise-enquiry emails. The selected creative is not a Bengaluru-specific offer and does not establish local targeting.",
+      "local_evidence_status": "MEASURED — the official Bengaluru locator lists local store cards/branch routes; captured outlet availability labels vary. No current opening status, ad audience or local conversion is inferred.",
+      "contact": {
+        "email": "support@lapinozpizza.in",
+        "phone": "+91 8238235444 (stores); +91 176-2509231 (published contact-page phone)",
+        "entity": "",
+        "address": "The Contact page lists the corporate office in Zirakpur, Punjab. Bengaluru outlet locations are listed separately in the official store locator; no Bengaluru corporate office is inferred.",
+        "route_role": "Published customer-support inbox. The same page lists info@lapinozpizza.in for franchise enquiries; neither route is identified as a paid-media buyer.",
+        "additional_emails": [
+          "info@lapinozpizza.in (franchise enquiries; official Contact page)"
+        ]
+      },
+      "contact_source": "Crawled from La Pino'z's own Contact Us page on 06 Oct 2026: https://lapinozpizza.in/contact-us publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus its Zirakpur corporate-office address and telephone routes. The Bengaluru locator is a separate page. These are published routing contacts, not confirmed media buyers.",
+      "contact_source_detail": {
+        "checked_on": "2026-10-06",
+        "source_ids": [
+          "S2"
+        ],
+        "email_role": "Customer support; a separate first-party franchise-enquiry email is recorded. No paid-media buyer is named."
+      },
+      "meta": {
+        "page_name": "La Pino'z Pizza",
+        "page_id": "266085096841696",
+        "page_profile_url": "https://www.facebook.com/LaPinozPizzaIndia/",
+        "library_id": "1091108349891554",
+        "started_on": "2025-08-22",
+        "creative_excerpt": "The card promotes La Pino'z's International Menu, referencing Nashville, Jamaican Jerk and Korean flavours, and displays Order Now to uen.io/lapinoz. Menu wording is advertiser copy; the final short-link destination and any completed order were not tested.",
+        "cta": "Order Now",
+        "destination_url": "http://uen.io/lapinoz",
+        "destination_status": "The card displays the uen.io/lapinoz short link; its final destination was not followed. No checkout or order outcome was tested.",
+        "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696",
+        "source_id": "S1",
+        "status": "Active",
+        "sponsored": true,
+        "checked_on": "2026-10-06"
+      },
+      "google_evidence": {
+        "status": "CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label",
+        "url": "https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in",
+        "detail": "On 06 Oct 2026, the India-region lapinozpizza.in any-time query displayed 23 results. Opened individual creative CR00331488745591144449 is under verified advertiser COPENHAGEN HOSPITALITY; its visible text names La Pino'z / 'La Pino'z - Order Pizza Online' and the detail page says last shown 05 Oct 2026. The page also contains unavailable/removed variations; the selected record has no Active label, so it is archive/last-shown evidence, not a claim of current Google-active status. The advertiser's legal or agency relationship to La Pino'z is not inferred.",
+        "creative_url": "https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN"
+      },
+      "sources_detail": [
+        {
+          "id": "S1",
+          "label": "Meta Ad Library — La Pino'z Pizza international-menu card",
+          "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696",
+          "source_type": "Platform individual card",
+          "observed": "La Pino'z Pizza page (page ID 266085096841696); Library ID 1091108349891554 displayed Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. Copy promotes an International Menu and shows Order Now to uen.io/lapinoz. The final short-link destination and any order outcome were not tested.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S2",
+          "label": "La Pino'z official Contact Us page",
+          "url": "https://lapinozpizza.in/contact-us",
+          "source_type": "Brand first-party contact page",
+          "observed": "Publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus store and corporate-office phone routes. Lists the corporate office in Zirakpur, Punjab; this address is not presented as a Bengaluru outlet.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S3",
+          "label": "La Pino'z official Bengaluru store locator",
+          "url": "https://lapinozpizza.in/store-locator/bengaluru",
+          "source_type": "Brand first-party local outlet page",
+          "observed": "The Bengaluru locator renders store cards and branch routes for Bengaluru localities. The captured output includes mixed outlet-availability labels; no current open/closed state is generalized or inferred from this capture.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S4",
+          "label": "Google Ads Transparency — lapinozpizza.in domain query",
+          "url": "https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in",
+          "source_type": "Platform domain query",
+          "observed": "India-region any-time query displayed 23 results on 06 Oct 2026. The domain view is not a current-active count and may include multiple advertiser accounts.",
+          "verified_on": "2026-10-06"
+        },
+        {
+          "id": "S5",
+          "label": "Google Ads Transparency — opened La Pino'z creative under verified advertiser",
+          "url": "https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN",
+          "source_type": "Platform individual creative",
+          "observed": "Verified advertiser COPENHAGEN HOSPITALITY; creative ID CR00331488745591144449 visibly names La Pino'z / La Pino'z - Order Pizza Online; last shown 05 Oct 2026. The record does not display an Active label, and some variations are unavailable/removed. Advertiser relationship and current status are not inferred.",
+          "verified_on": "2026-10-06"
+        }
+      ],
+      "findings": [
+        {
+          "priority": "NOTE",
+          "title": "The Active international-menu card is not an order measurement",
+          "evidence": "Meta Library ID 1091108349891554; La Pino'z Pizza; Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. The visible creative describes an International Menu and shows Order Now to uen.io/lapinoz.",
+          "analysis": "The menu wording is advertiser copy. The final redirect, checkout, orders, spend, audiences and conversion result were not tested or measured.",
+          "next_check": "Re-open the direct card and follow the short link before reusing it; if authorized, map the selected Library ID to a completed-order event and source-of-record.",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "First-party support and Bengaluru store routes are separate",
+          "evidence": "The Contact page publishes support@lapinozpizza.in for support and info@lapinozpizza.in for franchise enquiries; the Bengaluru store locator lists local outlet cards. The published corporate-office address is in Zirakpur, Punjab.",
+          "analysis": "These sources establish published contact routes and Bengaluru outlet context, not a Bengaluru corporate office or a paid-media buyer. Locator availability labels are not treated as a universal live status.",
+          "next_check": "Ask the published support route to forward the source-linked note to the paid-media measurement owner; confirm the selected outlet and its current operating status directly if needed.",
+          "source_ids": [
+            "S2",
+            "S3"
+          ]
+        },
+        {
+          "priority": "NOTE",
+          "title": "Google Transparency exposes a brand-named archive creative, not current active status",
+          "evidence": "The domain query displayed 23 any-time results. Opened creative CR00331488745591144449 under verified advertiser COPENHAGEN HOSPITALITY names La Pino'z / 'La Pino'z - Order Pizza Online' and was last shown 05 Oct 2026.",
+          "analysis": "Visible creative text ties the archive item to La Pino'z, but the page does not label it Active and does not establish the verified advertiser's legal/agency relationship or a current campaign.",
+          "next_check": "If revisited, check current filter/status, advertiser details, creative content and final destination before claiming live Google activity or account ownership.",
+          "source_ids": [
+            "S4",
+            "S5"
+          ]
+        }
+      ],
+      "score_values": [
+        4,
+        4,
+        3,
+        4,
+        3
+      ],
+      "score_bases": [
+        "Direct individual Meta card displayed Active/Sponsored, named page, start date, ID and order action.",
+        "Official Bengaluru locator lists local outlet pages; no audience or universal open-status inference.",
+        "Order Now and a short link are visible; final path and completed order were not tested.",
+        "Direct Meta card, official contact page, Bengaluru locator, Google domain query and opened individual creative were checked.",
+        "Customer-support and franchise emails are published, but neither is a confirmed paid-media-owner route."
+      ],
+      "email_subjects": [
+        "International Menu card",
+        "Published support route",
+        "Completed-order definition",
+        "Paid-media owner"
+      ],
+      "email_notes": [
+        "I opened Meta Library card 1091108349891554: it displayed La Pino'z Pizza as Sponsored and Active when checked on 06 Oct 2026, started 22 Aug 2025, and promotes an International Menu with an Order Now short link. I have not followed the final redirect or inferred an order.",
+        "Your official Contact page lists support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries; the Bengaluru locator is a separate page. I have not assumed either inbox owns paid media or that the card is Bengaluru-targeted.",
+        "If online orders are the intended outcome, a private check could align the Library ID, final destination and completed-order definition with the source-of-record. I did not access any order or account data.",
+        "The Google Transparency item I opened names La Pino'z under verified advertiser COPENHAGEN HOSPITALITY and was last shown 05 Oct; it is not labelled Active, so I am not calling it a current Google ad. Could you route this note to the paid-media measurement owner?"
+      ],
+      "email_source_ids": [
+        [
+          "S1"
+        ],
+        [
+          "S2",
+          "S3"
+        ],
+        [
+          "S1"
+        ],
+        [
+          "S4",
+          "S5"
+        ]
+      ]
+    }
+  ]
+}

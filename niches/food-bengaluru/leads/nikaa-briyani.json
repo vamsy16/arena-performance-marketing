@@ -1,0 +1,265 @@
+{
+  "brand": "NIKAA Briyani",
+  "slug": "nikaa-briyani",
+  "website": "https://nikaabriyani.com/",
+  "instagram": "https://www.instagram.com/nikaabriyani/",
+  "niche": "Biryani restaurant",
+  "headline": "A page-resolved Marathahalli card carries an offer claim; public order outcomes are not visible.",
+  "market_signal": "Selected card names Nikaa Biryani–Marathahalli at 90/4, J.P. Royale, Outer Ring Road, Bengaluru. Its ₹299 offer is card copy, not a separately checked in-store price. Official contact page lists Nonvee Foods’ corporate contact address in Salem.",
+  "local_evidence_status": "MEASURED — Bengaluru locality/address appears in the selected card; the official contact page separately lists a Salem corporate address. No ad audience geography is inferred.",
+  "contact": {
+    "email": "feedback@nikaabriyani.com",
+    "phone": "+91 97512 22216",
+    "entity": "Nonvee Foods Private Limited",
+    "address": "#32, Valmiki Street, Salem 636005 (corporate contact address published on the official page)",
+    "route_role": "Published feedback and catering-consultation route; no paid-media buyer identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from NIKAA Briyani’s own Contact page on 05 Oct 2026: https://nikaabriyani.com/contact publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited’s Salem address. This is a feedback/catering route, not a confirmed paid-media contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-05",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Published feedback/catering contact; no paid-media buyer is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — one result under verified NONVEE FOODS PRIVATE LIMITED; opened creative last shown 10 Feb 2026 and marked removed; current NIKAA-specific Google activity not established",
+    "url": "https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com",
+    "detail": "The India-region nikaabriyani.com query returned one result under verified NONVEE FOODS PRIVATE LIMITED. Opened creative CR05188749861448581121 says last shown 10 Feb 2026 and removed for policy violation; content unavailable. The first-party contact page names Nonvee Foods, but the unavailable creative is not tied to NIKAA, so no Google activity is attributed to the brand."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — NIKAA individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563",
+      "source_type": "Platform record",
+      "observed": "NIKAA Briyani; Library ID 1105859485389342 displayed Active and Sponsored on 05 Oct 2026; started 02 Oct 2026. Copy states a ₹299 unlimited-biryani offer and lists a Marathahalli, Bengaluru address. Instagram ‘Send message’ label; card-level claim only.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S2",
+      "label": "NIKAA official Contact page",
+      "url": "https://nikaabriyani.com/contact",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited at #32, Valmiki Street, Salem 636005. Invites feedback/questions/catering consultation; does not name a media buyer.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency — nikaabriyani.com query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=nikaabriyani.com",
+      "source_type": "Platform domain query",
+      "observed": "India-region query returned one result under verified NONVEE FOODS PRIVATE LIMITED; domain result alone is not proof of a NIKAA creative or current brand activity.",
+      "verified_on": "2026-10-05"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — opened NONVEE creative",
+      "url": "https://adstransparency.google.com/advertiser/AR01963374832565354497/creative/CR05188749861448581121?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Verified advertiser NONVEE FOODS PRIVATE LIMITED; last shown 10 Feb 2026 and marked removed for policy violation. Creative unavailable, so no NIKAA tie/current Google activity is established.",
+      "verified_on": "2026-10-05"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active Marathahalli card is an offer and message route, not an order measurement",
+      "evidence": "ID 1105859485389342; NIKAA Briyani; Active and Sponsored 05 Oct 2026; started 02 Oct 2026. Copy states ₹299 and a Marathahalli address; captured card shows Instagram ‘Send message’.",
+      "analysis": "This establishes the public card and wording only. Offer price was not checked at the outlet; no order, audience, spend or event result is exposed.",
+      "next_check": "Re-open the card and confirm copy/destination before reuse; if authorized, map the Library ID to the agreed completed-order event and source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official contact route is feedback/catering, not a named media owner",
+      "evidence": "Official Contact page publishes feedback@nikaabriyani.com and names Nonvee Foods at a Salem address; the selected card names a Marathahalli outlet.",
+      "analysis": "The sources support a contact route and Bengaluru card context, not a media-buyer identity or corporate-location claim in Bengaluru.",
+      "next_check": "Ask the published contact to route the source-linked note to the paid-media measurement owner; confirm the route before sending.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google result is not attributable to NIKAA",
+      "evidence": "Domain view returned one verified NONVEE result; opened creative was last shown 10 Feb 2026 and marked removed, with content unavailable.",
+      "analysis": "A matching corporate name and domain query do not substitute for an accessible brand-identifying creative. No current Google activity is claimed.",
+      "next_check": "If revisited, open a current individual creative and verify advertiser, brand copy, destination and status/last-shown fields.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S1",
+      "S2"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-05",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-05",
+      "library_id": "1105859485389342",
+      "page_id": "105049425832563",
+      "page_name": "NIKAA Briyani",
+      "page_profile_url": "https://www.facebook.com/nikaabriyani/",
+      "started_on": "2026-10-02",
+      "creative_excerpt": "‘Unlimited Biryani Feast at Just ₹299’; card names Nikaa Biryani–Marathahalli and gives 90/4, J.P. Royale, Outer Ring Road, Bengaluru 560037.",
+      "cta": "Instagram “Send message” label; final profile/conversation route not resolved.",
+      "destination_url": null,
+      "destination_status": "The captured card shows an Instagram “Send message” label; the final profile/conversation URL and any order outcome were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1105859485389342&view_all_page_id=105049425832563"
+    }
+  ],
+  "batch": 6,
+  "verified_on": "05 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness, conversion, revenue or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A page-resolved Meta card displayed Active/Sponsored, page identity, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The creative names Marathahalli, Bengaluru; the contact page’s Salem office address is kept distinct."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "Instagram ‘Send message’ is visible, but exact destination/outcome was not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct card, first-party contact page, Google query and opened creative were checked."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published route is feedback/catering, not a confirmed paid-media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — checked; current brand-specific activity not established",
+  "sources": [
+    "S1 — Meta Ad Library — NIKAA individual card; checked 2026-10-05; NIKAA Briyani; Library ID 1105859485389342 displayed Active and Sponsored on 05 Oct 2026; started 02 Oct 2026. Copy states a ₹299 unlimited-biryani offer and lists a Marathahalli, Bengaluru address. Instagram ‘Send message’ label; card-level claim only.",
+    "S2 — NIKAA official Contact page; checked 2026-10-05; Publishes feedback@nikaabriyani.com, +91 97512 22216 and Nonvee Foods Private Limited at #32, Valmiki Street, Salem 636005. Invites feedback/questions/catering consultation; does not name a media buyer.",
+    "S3 — Google Ads Transparency — nikaabriyani.com query; checked 2026-10-05; India-region query returned one result under verified NONVEE FOODS PRIVATE LIMITED; domain result alone is not proof of a NIKAA creative or current brand activity.",
+    "S4 — Google Ads Transparency — opened NONVEE creative; checked 2026-10-05; Verified advertiser NONVEE FOODS PRIVATE LIMITED; last shown 10 Feb 2026 and marked removed for policy violation. Creative unavailable, so no NIKAA tie/current Google activity is established."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1105859485389342 and page ID 105049425832563; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — one result under verified NONVEE FOODS PRIVATE LIMITED; opened creative last shown 10 Feb 2026 and marked removed; current NIKAA-specific Google activity not established",
+      "method": "The India-region nikaabriyani.com query returned one result under verified NONVEE FOODS PRIVATE LIMITED. Opened creative CR05188749861448581121 says last shown 10 Feb 2026 and removed for policy violation; content unavailable. The first-party contact page names Nonvee Foods, but the unavailable creative is not tied to NIKAA, so no Google activity is attributed to the brand.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — Bengaluru locality/address appears in the selected card; the official contact page separately lists a Salem corporate address. No ad audience geography is inferred.",
+      "method": "Selected card names Nikaa Biryani–Marathahalli at 90/4, J.P. Royale, Outer Ring Road, Bengaluru. Its ₹299 offer is card copy, not a separately checked in-store price. Official contact page lists Nonvee Foods’ corporate contact address in Salem. Published feedback and catering-consultation route; no paid-media buyer identified.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The captured card shows an Instagram “Send message” label; the final profile/conversation URL and any order outcome were not tested.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "05 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "05 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "Marathahalli card",
+      "Hi NIKAA Briyani team,\n\nI checked card 1105859485389342: Sponsored and Active, started 02 Oct 2026, naming NIKAA Briyani in Marathahalli. The ₹299 price is card copy, not a separately checked in-store price.\n\nThe public record does not expose private spend, orders or event firing. The published route, feedback@nikaabriyani.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Offer-copy check",
+      "Hi NIKAA Briyani team,\n\nThe card shows an Instagram ‘Send message’ route, while the official contact page publishes feedback/catering. I did not test either path or infer an order.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Order event",
+      "Hi NIKAA Briyani team,\n\nA measurement review would define the chosen completed-order event and source-of-record, then map the card destination only if authorized. Those records are not public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi NIKAA Briyani team,\n\nThe official contact page does not identify a media buyer. Could you point me to the person responsible for paid-media measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "Marathahalli card",
+      "body": "Hi NIKAA Briyani team,\n\nI checked card 1105859485389342: Sponsored and Active, started 02 Oct 2026, naming NIKAA Briyani in Marathahalli. The ₹299 price is card copy, not a separately checked in-store price.\n\nThe public record does not expose private spend, orders or event firing. The published route, feedback@nikaabriyani.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Offer-copy check",
+      "body": "Hi NIKAA Briyani team,\n\nThe card shows an Instagram ‘Send message’ route, while the official contact page publishes feedback/catering. I did not test either path or infer an order.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Order event",
+      "body": "Hi NIKAA Briyani team,\n\nA measurement review would define the chosen completed-order event and source-of-record, then map the card destination only if authorized. Those records are not public here.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi NIKAA Briyani team,\n\nThe official contact page does not identify a media buyer. Could you point me to the person responsible for paid-media measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ]
+}

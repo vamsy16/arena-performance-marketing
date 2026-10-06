@@ -1,0 +1,200 @@
+{
+  "batch": 3,
+  "brand": "Sagar Ratna",
+  "slug": "sagar-ratna",
+  "website": "sagarratna.com",
+  "instagram": "@sagar_ratna_",
+  "niche": "South Indian vegetarian restaurant chain",
+  "verified_on": "04 OCT 2026",
+  "score": 7.5,
+  "score_20": 15,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "ads_active": "Google Ads NOT MEASURED",
+  "headline": "An active Bengaluru-specific ‘BLR Benne Masala Dosa’ creative is visible; the current Bengaluru outlet was not confirmed in the official locator check.",
+  "contact": {
+    "email": "customercare@sagarratna.in",
+    "phone": "",
+    "entity": "Not identified on the reviewed contact page",
+    "address": "No Bengaluru address confirmed in the official location-list content reviewed on 04 Oct 2026",
+    "route_role": "Official contact page explicitly labels this email for press and media enquiries; not a confirmed marketing buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Sagar Ratna's own contact page on 04 Oct 2026: https://www.sagarratna.com/contact/ (customercare@sagarratna.in is explicitly listed for press and media enquiries; the official form separately offers Partnership Opportunities).",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Press and media enquiries; the same official page has a Partnership Opportunities form option."
+  },
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active on 2026-10-04",
+      "library_id": "4319462314993083",
+      "page_id": "105831168063749",
+      "page_name": "Sagar Ratna",
+      "started_on": "2026-06-22",
+      "creative_excerpt": "Bengaluru gave the world two superstars … BLR Benne Masala Dosa — The Thalaivar of the table. South Ke Superstar — Now Serving.",
+      "cta": "Locate Us",
+      "destination_url": "https://www.sagarratna.com/locations/",
+      "destination_status": "CTA and official locator link visible; a Bengaluru outlet was not confirmed in the locator content reviewed.",
+      "source_id": "S1"
+    }
+  ],
+  "google_evidence": {
+    "status": "NOT MEASURED",
+    "url": "https://adstransparency.google.com/?region=IN&domain=sagarratna.com",
+    "detail": "No Google Ads Transparency result is reported for this lead in this batch; not a zero-ad claim."
+  },
+  "market_signal": "The active creative is explicitly Bengaluru-oriented and says ‘BLR Benne Masala Dosa.’ The official location page content reviewed on 04 Oct did not confirm a Bengaluru outlet; current Bengaluru physical presence is therefore unconfirmed from that locator check, not stated absent.",
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct ad record active on capture date",
+      "method": "Direct advertiser-page/card URL with page ID 105831168063749 and Library ID 4319462314993083; selected creative, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads",
+      "status": "NOT MEASURED",
+      "method": "No Google advertiser/domain scan reported for this lead; do not read as zero.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "First-party contact and location page",
+      "status": "MEASURED — page content; Bengaluru outlet UNCONFIRMED",
+      "method": "Contact page publishes press/media email and partnership form category; location page content reviewed did not confirm an individual Bengaluru outlet.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser or tag-manager/event test was performed; no tag is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and outlet orders",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account or transaction analytics data; no estimate substituted.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Current Bengaluru store presence",
+      "status": "UNCONFIRMED from reviewed locator content",
+      "method": "Bengaluru-specific ad is visible, but the reviewed official location page content did not establish a local store address.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "MEDIUM",
+      "title": "The active creative is city-specific and exposes a Locate Us CTA",
+      "evidence": "Library ID 4319462314993083 was Active on 04 Oct and started 22 Jun 2026. Copy says ‘Bengaluru gave the world two superstars’ and ‘BLR Benne Masala Dosa’; CTA: Locate Us.",
+      "analysis": "The creative is a clear Bengaluru market signal. It does not, by itself, prove ad targeting or a current Bengaluru outlet.",
+      "next_check": "Confirm the intended Bengaluru destination and operating outlet with the brand before using local-store language.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "priority": "MEDIUM",
+      "title": "The official locator did not confirm a Bengaluru outlet in the reviewed content",
+      "evidence": "The location page content reviewed lists location sections but did not return a Bengaluru store address; the ad itself names Bengaluru and Karnataka.",
+      "analysis": "This is recorded as unconfirmed from one public locator check, not as proof that no outlet exists.",
+      "next_check": "Ask the company to confirm the current local outlet or franchise/partner destination before evaluating the city campaign path.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The email route is explicitly press and media; the contact form offers partnership routing",
+      "evidence": "The contact page says ‘For press and media enquiries, please write to customercare@sagarratna.in’ and includes a ‘Partnership Opportunities’ form option.",
+      "analysis": "The email is official and related to communications, but it is not identified as a performance-marketing contact.",
+      "next_check": "Use the official partnership form or request routing to the digital-marketing owner.",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Active page-resolved Meta record with exact ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 3,
+      "basis": "Creative explicitly names Bengaluru; current local outlet was not confirmed in the reviewed locator content."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Locate Us CTA and official locator are visible; Bengaluru-specific destination not confirmed."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 3,
+      "basis": "Official contact and locations pages reviewed; local store presence remains unconfirmed."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Official press/media email and partnership form are published; no media buyer identified."
+    }
+  ],
+  "sources": [
+    "S1 — Meta Ad Library, Sagar Ratna ad 4319462314993083; active, started 22 Jun 2026; Bengaluru/BLR creative; checked 04 Oct 2026.",
+    "S2 — Sagar Ratna official contact page; press/media email and partnership form option; checked 04 Oct 2026.",
+    "S3 — Sagar Ratna official locations page; reviewed for Bengaluru address, not confirmed in returned content; checked 04 Oct 2026."
+  ],
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — Bengaluru ‘BLR Benne Masala Dosa’ creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4319462314993083&view_all_page_id=105831168063749",
+      "source_type": "Platform record",
+      "observed": "Active on 04 Oct 2026; started 22 Jun 2026; ‘Bengaluru gave the world two superstars’ and ‘BLR Benne Masala Dosa’; Locate Us CTA.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Sagar Ratna official contact page",
+      "url": "https://www.sagarratna.com/contact/",
+      "source_type": "Brand first-party page",
+      "observed": "customercare@sagarratna.in explicitly for press/media; contact form offers Partnership Opportunities and other collaboration categories.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Sagar Ratna official locations page",
+      "url": "https://www.sagarratna.com/locations/",
+      "source_type": "Brand first-party locator",
+      "observed": "Location sections returned for review did not confirm a Bengaluru store address; report records local outlet as unconfirmed, not absent.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "outreach": [
+    [
+      "BLR Benne Masala Dosa: confirm the local destination",
+      "Hi Sagar Ratna team,\n\nI saw the active Meta creative that says “Bengaluru gave the world two superstars” and promotes the BLR Benne Masala Dosa (Library ID 4319462314993083; active when checked 04 Oct). The card uses a Locate Us CTA.\n\nI also reviewed the official locations page, but the content returned to me did not confirm a Bengaluru outlet address. I am treating the ad as a city signal, not claiming a current local store. Could you confirm the intended Bengaluru destination and route this note to the team that owns the campaign?\n\nThe public card does not show spend or orders. I can share a short, source-linked note that separates what is visible from the private checks.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "A destination check before the campaign review",
+      "Hi Sagar Ratna team,\n\nFollowing up on the BLR Benne Masala Dosa creative. The ad's Locate Us CTA is visible, but the Bengaluru outlet was not confirmed in the location-page content I reviewed. That is an unconfirmed result from one public locator check—not a claim that no outlet exists.\n\nBefore assessing the city journey, the useful check is to confirm the local destination, current store/partner details and any branch-level order source.\n\nWould the one-page evidence map be useful to the appropriate team?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "The published contact route is for press and media",
+      "Hi Sagar Ratna team,\n\nYour official contact page publishes customercare@sagarratna.in for press and media enquiries and offers a separate Partnership Opportunities form option. I am using the published address only to ask for routing; I have not identified a paid-media buyer on public pages.\n\nIf performance marketing sits with another team or franchise partner, could you direct me to the right owner for the Bengaluru creative?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Closing the loop on the Bengaluru creative",
+      "Hi Sagar Ratna team,\n\nLast note from me. I checked the active BLR Benne Masala Dosa creative, the official contact page and the location page on 04 Oct. A Bengaluru outlet was not confirmed by the locator content reviewed, so I have not described one as present or absent.\n\nIf the campaign is handled by a local partner, a pointer to that contact would be helpful. Otherwise I will close the file here.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

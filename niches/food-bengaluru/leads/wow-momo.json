@@ -1,0 +1,209 @@
+{
+  "brand": "Wow! Momo",
+  "slug": "wow-momo",
+  "website": "wowmomo.com",
+  "instagram": "@wowmomos",
+  "niche": "Momo and quick-service restaurant chain",
+  "headline": "An active ₹99 offer card names four non-Bengaluru cities; the official locator separately lists Bengaluru restaurants.",
+  "market_signal": "The official locator lists Bengaluru restaurants. The selected active offer copy names other cities only; no Bengaluru targeting is inferred.",
+  "contact": {
+    "email": "info@wowmomo.co.in",
+    "phone": "",
+    "entity": "Wow! Momo Foods Private Limited",
+    "address": "Official restaurant locator lists Bengaluru locations; no head-office address asserted.",
+    "route_role": "Official general contact published in the privacy page; not identified as a paid-media buyer.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Wow! Momo's own privacy page at https://www.wowmomo.com/privacy/ on 04 Oct 2026: it identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in as a contact route.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Official general contact; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=wowmomo.com",
+    "detail": "India-region domain view displayed 0 results for wowmomo.com on 04 Oct 2026. A zero-result domain query does not prove no Google activity or that no ads exist elsewhere."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct advertiser page and selected creative",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2300405184049353&view_all_page_id=165456736798479",
+      "source_type": "Platform record",
+      "observed": "Active and Sponsored on 04 Oct 2026; page Wow! Momo (165456736798479); started 22 Sep 2026; ₹99 copy names Delhi, Siliguri, Jalpaiguri and Vadodara, not Bengaluru; destination not exposed.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Wow! Momo official privacy/contact page",
+      "url": "https://www.wowmomo.com/privacy/",
+      "source_type": "Brand first-party page",
+      "observed": "Identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in; page does not identify a paid-media buyer.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Wow! Momo official Bengaluru restaurant locator",
+      "url": "https://restaurants.wowmomo.com/location/karnataka/bangalore",
+      "source_type": "Brand first-party locator",
+      "observed": "Locator lists Bengaluru restaurants and outlet addresses; some entries show open hours while another is marked temporarily closed. No current outlet count or ad targeting is inferred.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency Center — Wow! Momo domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=wowmomo.com",
+      "source_type": "Platform query",
+      "observed": "Zero domain-query results on 04 Oct 2026; this is not proof that no advertiser ads exist.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The live ₹99 creative names four cities, none of them Bengaluru",
+      "evidence": "Meta Library ID 2300405184049353; page Wow! Momo (165456736798479); Sponsored and Active on 04 Oct 2026, started 22 Sep; copy names Delhi, Siliguri, Jalpaiguri and Vadodara.",
+      "analysis": "The active card is a brand-page sponsored record, but its offer copy lists other cities. It is not evidence of Bengaluru targeting or a Bengaluru offer.",
+      "next_check": "Before using the creative as a Bengaluru example, confirm a separate Bengaluru card and inspect that individual card and destination.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official locator separately lists Bengaluru outlets and a general contact",
+      "evidence": "The official restaurant locator lists Bengaluru entries; the privacy page identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in.",
+      "analysis": "This supports local service context and a published route only; no ad audience or buyer is inferred.",
+      "next_check": "Re-open the locator for current outlet status and ask the general contact to route measurement questions to the appropriate owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "A zero-result Google query is not evidence of no advertising",
+      "evidence": "The India-region domain query displayed 0 results for wowmomo.com on 04 Oct 2026.",
+      "analysis": "Domain-query coverage can be incomplete; no claim of no Google advertising is made.",
+      "next_check": "If revisited, search by verified advertiser and inspect individual creative details rather than relying on a zero-result domain view.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "2300405184049353",
+      "page_id": "165456736798479",
+      "page_name": "Wow! Momo",
+      "started_on": "2026-09-22",
+      "creative_excerpt": "Craving momos? Get EVERYTHING at just ₹99! Available only at Satya Niketan — Delhi, Vega Circle Mall — Siliguri, Ukilpara — Jalpaiguri, and OP Road — Vadodara.",
+      "cta": "Not exposed in the captured card text",
+      "destination_url": null,
+      "destination_status": "The selected card's destination URL and button label were not exposed in the captured text; the listed offer cities do not include Bengaluru.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=2300405184049353&view_all_page_id=165456736798479"
+    }
+  ],
+  "batch": 4,
+  "verified_on": "04 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "An individual Wow! Momo page card displayed Active/Sponsored, page identity, direct Library ID and start date."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official locator lists Bengaluru outlets, while the selected creative itself names other cities only."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "The captured card did not expose a CTA button or destination link."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official privacy/contact and Bengaluru locator pages were checked alongside the direct Meta card and Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The published info@ address is a general contact route, not a named media owner."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct advertiser page and selected creative; checked 2026-10-04; Active and Sponsored on 04 Oct 2026; page Wow! Momo (165456736798479); started 22 Sep 2026; ₹99 copy names Delhi, Siliguri, Jalpaiguri and Vadodara, not Bengaluru; destination not exposed.",
+    "S2 — Wow! Momo official privacy/contact page; checked 2026-10-04; Identifies Wow! Momo Foods Private Limited and publishes info@wowmomo.co.in; page does not identify a paid-media buyer.",
+    "S3 — Wow! Momo official Bengaluru restaurant locator; checked 2026-10-04; Locator lists Bengaluru restaurants and outlet addresses; some entries show open hours while another is marked temporarily closed. No current outlet count or ad targeting is inferred.",
+    "S4 — Google Ads Transparency Center — Wow! Momo domain query; checked 2026-10-04; Zero domain-query results on 04 Oct 2026; this is not proof that no advertiser ads exist."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 2300405184049353 and page ID 165456736798479; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region domain view displayed 0 results for wowmomo.com on 04 Oct 2026. A zero-result domain query does not prove no Google activity or that no ads exist elsewhere.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — public first-party page content",
+      "method": "The official locator lists Bengaluru restaurants. The selected active offer copy names other cities only; no Bengaluru targeting is inferred. Official general contact published in the privacy page; not identified as a paid-media buyer.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The selected card's destination URL and button label were not exposed in the captured text; the listed offer cities do not include Bengaluru.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "₹99 cities",
+      "Hi Wow! Momo team,\n\nThe Wow! Momo card 2300405184049353 is Active and Sponsored when checked 04 Oct 2026, starting 22 Sep. Its ₹99 copy names Delhi, Siliguri, Jalpaiguri and Vadodara; I am not treating it as a Bengaluru-targeted offer.\n\nThe public record does not expose private spend, orders or event firing. The published route, info@wowmomo.co.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "local locator",
+      "Hi Wow! Momo team,\n\nThe official restaurant locator separately lists Bengaluru outlets. The Google domain query returned no results, which does not prove there are no Google campaigns; I have not made a zero-ad claim.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "store outcome",
+      "Hi Wow! Momo team,\n\nIf the local objective is a store visit or an order, a useful internal check is to define which event is authoritative and how its store/city is recorded. The public card does not show that outcome.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right owner",
+      "Hi Wow! Momo team,\n\nThe public snapshot keeps the non-Bengaluru offer copy separate from the first-party Bengaluru locator. If info@ is not suitable for campaign questions, could you point me to the right owner?\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}

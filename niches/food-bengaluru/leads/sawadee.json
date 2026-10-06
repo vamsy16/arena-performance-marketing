@@ -1,0 +1,200 @@
+{
+  "brand": "Sawadee",
+  "slug": "sawadee",
+  "website": "https://thethaivegankitchen.com/",
+  "instagram": "",
+  "niche": "Thai vegan restaurant",
+  "headline": "An active origin-story card points to a Maps Contact us link; the official site publishes a partnership route.",
+  "market_signal": "The ad card includes Bangalore-related tags and a Maps Contact us short link. Sawadee's own homepage describes the current restaurant in Frazer Town, Bengaluru and says an Indiranagar restaurant is planned to open in November 2026; that future location is not described as already open.",
+  "local_evidence_status": "MEASURED — first-party homepage establishes current Frazer Town context; planned Indiranagar opening is dated future context only.",
+  "contact": {
+    "email": "thethaivegankitchen5@gmail.com",
+    "phone": "+91 99161 35764",
+    "entity": "",
+    "address": "Frazer Town, Bengaluru, Karnataka (current restaurant location stated on the official homepage; no street address asserted here)",
+    "route_role": "Published Franchise / Collaborations / Partnerships contact; no paid-media buyer is identified.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from Sawadee / The Thai Vegan Kitchen's own homepage on 04 Oct 2026: https://thethaivegankitchen.com/ presents the franchise/collaborations/partnerships section and publishes thethaivegankitchen5@gmail.com and +91 99161 35764. It is a partnership route, not a paid-media owner.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-04",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "First-party franchise/collaborations/partnerships route; paid-media owner not identified."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=thethaivegankitchen.com",
+    "detail": "India-region Google Ads Transparency domain view for thethaivegankitchen.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — direct Sawadee card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1600729371632852&view_all_page_id=166520571852732",
+      "source_type": "Platform individual-card record",
+      "observed": "Page label Sawadee: Authentic Thai Vegan Kitchen (page ID 166520571852732); individual Library ID 1600729371632852 displayed Active and Sponsored on 04 Oct 2026, started 24 Sep 2026. Origin-story copy references a Thailand cooking class; card includes Bangalore-related tags and a Maps Contact us short link.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S2",
+      "label": "Sawadee / The Thai Vegan Kitchen official homepage",
+      "url": "https://thethaivegankitchen.com/",
+      "source_type": "Brand first-party page/contact",
+      "observed": "Homepage identifies Sawadee, describes its current Frazer Town/Bangalore restaurant, and states that a new Indiranagar restaurant is planned for November 2026. Its Franchise / Collaborations / Partnerships section publishes thethaivegankitchen5@gmail.com and +91 99161 35764.",
+      "verified_on": "2026-10-04"
+    },
+    {
+      "id": "S3",
+      "label": "Google Ads Transparency Center — thethaivegankitchen.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=thethaivegankitchen.com",
+      "source_type": "Platform query",
+      "observed": "India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising.",
+      "verified_on": "2026-10-04"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The active origin-story card exposes a Maps Contact us route",
+      "evidence": "Library ID 1600729371632852; page Sawadee: Authentic Thai Vegan Kitchen (166520571852732); Active and Sponsored on 04 Oct 2026; started 24 Sep 2026; story copy begins with a cooking class in Thailand; Contact us links to a Maps short URL.",
+      "analysis": "The card shows a public placement and contact-labelled Maps route only. The final destination, reservation, visit and event firing were not measured.",
+      "next_check": "Re-open the current card and resolve the Maps link to its final business/contact action; map a booking/visit event only with authorized internal data.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The first-party site distinguishes the current restaurant from a planned location",
+      "evidence": "The official homepage describes the current Sawadee restaurant in Frazer Town/Bangalore and says the new Indiranagar restaurant is planned for November 2026; it publishes a partnership email.",
+      "analysis": "This supports Bengaluru business context and a published partnership route. The future outlet is not counted as open, and neither fact establishes ad targeting or paid-media ownership.",
+      "next_check": "Recheck the official page after the stated opening date and ask the published partnership route to forward the measurement note if appropriate.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned no result in this capture",
+      "evidence": "India-region domain view for thethaivegankitchen.com returned zero results on 04 Oct 2026.",
+      "analysis": "Zero results do not establish that the brand does not advertise on Google.",
+      "next_check": "If revisited, open any individual creative and confirm advertiser, brand tie, destination and last-shown/status fields.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-04",
+      "library_id": "1600729371632852",
+      "page_id": "166520571852732",
+      "page_name": "Sawadee: Authentic Thai Vegan Kitchen",
+      "started_on": "2026-09-24",
+      "creative_excerpt": "Some stories don't start with a business plan. This one started with a cooking class in Thailand, and never really stopped. Here is how Sawadee came into being.",
+      "cta": "Contact us → Maps short link",
+      "destination_url": "https://maps.app.goo.gl/qGRF7uZCvnUB8Ftf6?g_st=iw",
+      "destination_status": "The individual card exposes a Maps short link labelled Contact us. The final map/contact destination was not resolved for this report; no reservation, visit or event is inferred.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1600729371632852&view_all_page_id=166520571852732"
+    }
+  ],
+  "batch": 5,
+  "verified_on": "04 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Triage of public paid, local, CTA, first-party and contact-route evidence only; not an effectiveness or revenue score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "A direct page-resolved Meta card displayed Active/Sponsored, page identity, start date and Library ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "The official homepage describes a current Frazer Town/Bangalore location; a planned Indiranagar opening is not treated as current."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "A Maps Contact us short link is visible, but its final action/outcome was not checked."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Official brand/contact homepage and individual Meta card were reviewed with a Google domain query."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "The published franchise/partnership route is relevant to business routing but is not a named media buyer."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — 0 domain results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — direct Sawadee card; checked 2026-10-04; Page label Sawadee: Authentic Thai Vegan Kitchen (page ID 166520571852732); individual Library ID 1600729371632852 displayed Active and Sponsored on 04 Oct 2026, started 24 Sep 2026. Origin-story copy references a Thailand cooking class; card includes Bangalore-related tags and a Maps Contact us short link.",
+    "S2 — Sawadee / The Thai Vegan Kitchen official homepage; checked 2026-10-04; Homepage identifies Sawadee, describes its current Frazer Town/Bangalore restaurant, and states that a new Indiranagar restaurant is planned for November 2026. Its Franchise / Collaborations / Partnerships section publishes thethaivegankitchen5@gmail.com and +91 99161 35764.",
+    "S3 — Google Ads Transparency Center — thethaivegankitchen.com domain query; checked 2026-10-04; India-region domain view returned zero results in this capture; zero results are not proof of no Google advertising."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1600729371632852 and page ID 166520571852732; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "India-region Google Ads Transparency domain view for thethaivegankitchen.com returned zero results in this capture. This is a limited public query, not proof that the brand does not advertise or that no ads exist.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — first-party homepage establishes current Frazer Town context; planned Indiranagar opening is dated future context only.",
+      "method": "The ad card includes Bangalore-related tags and a Maps Contact us short link. Sawadee's own homepage describes the current restaurant in Frazer Town, Bengaluru and says an Indiranagar restaurant is planned to open in November 2026; that future location is not described as already open. Published Franchise / Collaborations / Partnerships contact; no paid-media buyer is identified.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The individual card exposes a Maps short link labelled Contact us. The final map/contact destination was not resolved for this report; no reservation, visit or event is inferred.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "04 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "04 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "sawadee card",
+      "Hi Sawadee team,\n\nThe individual Sawadee card 1600729371632852 is shown Active and Sponsored from 24 Sep 2026 and tells the origin story. Its visible Contact us route is a Maps short link; I have not treated it as a reservation or visit.\n\nThe public record does not expose private spend, orders or event firing. The published route, thethaivegankitchen5@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "maps route",
+      "Hi Sawadee team,\n\nYour official homepage describes the current Frazer Town restaurant and publishes a franchise/collaboration/partnership email. It describes the Indiranagar location as planned for November, not already open.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "reservation records",
+      "Hi Sawadee team,\n\nFor a measurement review, the internal question would be which record defines a completed reservation, order or visit and how a card ID is matched; no outcome data is public.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "right team",
+      "Hi Sawadee team,\n\nBecause the published inbox is for partnerships rather than paid media, could you redirect this to the measurement owner if that's more appropriate? No performance claim is being made.\n\nThis is my last note. If this is not the right route, could you point me to the owner of paid-media measurement? No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ]
+}
