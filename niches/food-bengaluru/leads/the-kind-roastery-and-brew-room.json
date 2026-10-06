@@ -1,0 +1,267 @@
+{
+  "brand": "The Kind Roastery and Brew Room",
+  "slug": "the-kind-roastery-and-brew-room",
+  "website": "https://thekindindia.com/",
+  "instagram": "https://www.instagram.com/thekind.india/",
+  "niche": "Vegetarian resto-café, coffee roastery and bakery",
+  "headline": "A co-branded active franchise card names the Bengaluru café/bakery offer; ad ownership, destination and enquiry outcomes are unknown.",
+  "market_signal": "The official site describes The Kind as a resto-café with all-day vegetarian food and lists JP Nagar, Bellandur and Indiranagar, Bengaluru. Its individual Meta card is co-branded with Building Brands For Tomorrow (BBFT) and promotes a Bengaluru café/bakery franchise. The ad buyer/manager relationship and destination behind fb.me are not established.",
+  "local_evidence_status": "MEASURED — direct first-party site content describes a Bengaluru resto-café and lists three Bengaluru locations; the selected card explicitly says Bengaluru. No audience targeting is inferred.",
+  "contact": {
+    "email": "thekindindia@gmail.com",
+    "phone": "",
+    "entity": "",
+    "address": "Official site lists JP Nagar, Bellandur and Indiranagar locations in Bengaluru; no corporate-office address is inferred.",
+    "route_role": "Official-domain indexed 'Get in Touch' email; direct page fetch redirected and did not expose the email, so re-open before sending. Not a confirmed paid-media contact.",
+    "additional_emails": []
+  },
+  "contact_source": "Rechecked on 06 Oct 2026: the official-domain search result for https://thekindindia.com/shop/ showed a 'Contact / Get in Touch' section with thekindindia@gmail.com. Direct fetch of that URL redirected to the homepage representation and did not expose the email. This is an official-domain indexed contact snippet, but the email should be re-opened on the live site before sending; no media-buyer identity is established.",
+  "contact_source_status": "PARTIALLY VERIFIED — official-domain indexed page shows the email; direct extraction did not expose it.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-06",
+    "source_ids": [
+      "S3"
+    ],
+    "email_role": "Official indexed Get in Touch route; re-open before sending; no paid-media buyer is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=thekindindia.com",
+    "detail": "The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove no Google advertising or activity."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — The Kind co-branded franchise card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920",
+      "source_type": "Platform individual card",
+      "observed": "The Kind Roastery and Brew Room page (page ID 100820726181920); Library ID 1076550118145187 displayed Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. Card is co-branded 'with Building Brands For Tomorrow BBFT'; copy names a Bengaluru specialty coffee, bakery and all-day vegetarian-dining franchise. See Details points to fb.me; final destination and buyer/manager relationship were not established.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "label": "The Kind official website — food offer and Bengaluru locations",
+      "url": "https://thekindindia.com/",
+      "source_type": "Brand first-party website",
+      "observed": "Direct page describes The Kind as a resto-café/community hub, lists all-day vegetarian food, coffee and bakery, and identifies JP Nagar, Bellandur and Indiranagar Bengaluru locations. Direct extraction did not show the contact email.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "label": "The Kind official-domain indexed Shop/Get in Touch page — email recheck",
+      "url": "https://thekindindia.com/shop/",
+      "source_type": "Brand first-party page as surfaced in official-domain search index; direct fetch limitation disclosed",
+      "observed": "The official-domain search result displayed 'Contact / Get in Touch / thekindindia@gmail.com' and Bengaluru location snippets on 06 Oct 2026. Direct fetch of this URL redirected to the homepage representation and did not expose the email text. It is source-provenanced but must be re-opened live before sending; it is not a named media-buyer route.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — thekindindia.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=thekindindia.com",
+      "source_type": "Platform domain query",
+      "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity.",
+      "verified_on": "2026-10-06"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The co-branded franchise card does not establish who funds or manages the ad",
+      "evidence": "Meta Library ID 1076550118145187; The Kind Roastery and Brew Room 'with Building Brands For Tomorrow BBFT'; Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. The public copy identifies a Bengaluru coffee/bakery/vegetarian-dining franchise; See Details uses fb.me.",
+      "analysis": "The record establishes the named page, co-branding, card copy, status/date and short-link label only. The final destination, advertiser account ownership, investment or margin claims, franchise enquiries and conversions were not independently validated.",
+      "next_check": "Re-open the card and final destination; ask The Kind/BBFT to confirm campaign ownership and the correct franchise-measurement contact before any account-level comparison.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The official site supports the Food/Bengaluru fit; the indexed email needs a live recheck",
+      "evidence": "The official home page describes a resto-café with vegetarian food, coffee and bakery, and lists JP Nagar, Bellandur and Indiranagar. The official-domain /shop/ search snippet showed thekindindia@gmail.com; direct fetch redirected and did not expose the email.",
+      "analysis": "The brand/category/locality are directly supported. The published email is first-party indexed text but is only partially verified in direct page extraction and is not a confirmed media-buyer route.",
+      "next_check": "Before sending, re-open the official Get in Touch page and verify the email is still present; then ask for the correct paid-media/franchise measurement owner.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026.",
+      "analysis": "A zero-result query is not proof of no Google ads or activity.",
+      "next_check": "If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S1",
+      "S3"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-06",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-06",
+      "library_id": "1076550118145187",
+      "page_id": "100820726181920",
+      "page_name": "The Kind Roastery and Brew Room",
+      "page_profile_url": "https://www.facebook.com/thekindindia/",
+      "started_on": "2026-08-20",
+      "creative_excerpt": "The individual card is shown 'with Building Brands For Tomorrow BBFT' and says, 'Franchise opportunity with Bengaluru's specialty coffee, bakery & all-day vegetarian dining.' The card's additional claims ('high performing stores', 'good margins' and investment wording) are advertiser copy, not independently verified and are not used as audit findings.",
+      "cta": "See Details",
+      "destination_url": "http://fb.me/",
+      "destination_status": "The card displays See Details with an fb.me URL. The final destination/redirect was not followed. The card is co-branded with BBFT; it is not known which party funds or manages the ad.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920"
+    }
+  ],
+  "batch": 7,
+  "verified_on": "06 OCT 2026",
+  "score_20": 16,
+  "score": 8.0,
+  "score_band": "Good public-signal fit",
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct card displayed Active/Sponsored, page identity, start date and ID, but it is co-branded and the buyer/manager is unknown."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official home page and card copy both identify Bengaluru; no audience targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 2,
+      "basis": "See Details and the fb.me short URL are visible; final destination and franchise enquiry were not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct Meta card, official food/location page, official-domain email snippet and Google query were reviewed; email extraction remains partial."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "The official-domain indexed email is general and only partially exposed by direct fetch; no media buyer is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — CHECKED — no domain-query results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — The Kind co-branded franchise card; checked 2026-10-06; The Kind Roastery and Brew Room page (page ID 100820726181920); Library ID 1076550118145187 displayed Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. Card is co-branded 'with Building Brands For Tomorrow BBFT'; copy names a Bengaluru specialty coffee, bakery and all-day vegetarian-dining franchise. See Details points to fb.me; final destination and buyer/manager relationship were not established.",
+    "S2 — The Kind official website — food offer and Bengaluru locations; checked 2026-10-06; Direct page describes The Kind as a resto-café/community hub, lists all-day vegetarian food, coffee and bakery, and identifies JP Nagar, Bellandur and Indiranagar Bengaluru locations. Direct extraction did not show the contact email.",
+    "S3 — The Kind official-domain indexed Shop/Get in Touch page — email recheck; checked 2026-10-06; The official-domain search result displayed 'Contact / Get in Touch / thekindindia@gmail.com' and Bengaluru location snippets on 06 Oct 2026. Direct fetch of this URL redirected to the homepage representation and did not expose the email text. It is source-provenanced but must be re-opened live before sending; it is not a named media-buyer route.",
+    "S4 — Google Ads Transparency — thekindindia.com domain query; checked 2026-10-06; India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1076550118145187 and page ID 100820726181920; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove no Google advertising or activity.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — direct first-party site content describes a Bengaluru resto-café and lists three Bengaluru locations; the selected card explicitly says Bengaluru. No audience targeting is inferred.",
+      "method": "The official site describes The Kind as a resto-café with all-day vegetarian food and lists JP Nagar, Bellandur and Indiranagar, Bengaluru. Its individual Meta card is co-branded with Building Brands For Tomorrow (BBFT) and promotes a Bengaluru café/bakery franchise. The ad buyer/manager relationship and destination behind fb.me are not established. Official-domain indexed 'Get in Touch' email; direct page fetch redirected and did not expose the email, so re-open before sending. Not a confirmed paid-media contact.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card displays See Details with an fb.me URL. The final destination/redirect was not followed. The card is co-branded with BBFT; it is not known which party funds or manages the ad.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "06 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "The Kind franchise card",
+      "Hi The Kind Roastery and Brew Room team,\n\nI opened Meta Library card 1076550118145187: it displayed The Kind Roastery and Brew Room as Sponsored and Active when checked on 06 Oct 2026, started 20 Aug 2026, and was co-branded with BBFT. The copy names a Bengaluru coffee, bakery and all-day vegetarian-dining franchise; I have not inferred which party funds or manages the ad.\n\nThe public record does not expose private spend, orders or event firing. The published route, thekindindia@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Bengaluru café and contact route",
+      "Hi The Kind Roastery and Brew Room team,\n\nYour official site describes a Bengaluru resto-café and lists JP Nagar, Bellandur and Indiranagar. The official-domain indexed Get in Touch result shows thekindindia@gmail.com, but the direct page fetch redirected and did not expose the address, so please re-open it before sending and confirm the right route.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Franchise enquiry definition",
+      "Hi The Kind Roastery and Brew Room team,\n\nIf the franchise card is meant to generate enquiries, an account-side review could define a qualified franchise enquiry and trace the visible CTA only after confirming the final destination. The fb.me destination and any enquiry outcome were not tested.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Right owner",
+      "Hi The Kind Roastery and Brew Room team,\n\nI have not treated the ad's margin/investment wording as verified performance or a return. Could you route a source-linked note to the person responsible for paid-media or franchise-enquiry measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "The Kind franchise card",
+      "body": "Hi The Kind Roastery and Brew Room team,\n\nI opened Meta Library card 1076550118145187: it displayed The Kind Roastery and Brew Room as Sponsored and Active when checked on 06 Oct 2026, started 20 Aug 2026, and was co-branded with BBFT. The copy names a Bengaluru coffee, bakery and all-day vegetarian-dining franchise; I have not inferred which party funds or manages the ad.\n\nThe public record does not expose private spend, orders or event firing. The published route, thekindindia@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Bengaluru café and contact route",
+      "body": "Hi The Kind Roastery and Brew Room team,\n\nYour official site describes a Bengaluru resto-café and lists JP Nagar, Bellandur and Indiranagar. The official-domain indexed Get in Touch result shows thekindindia@gmail.com, but the direct page fetch redirected and did not expose the address, so please re-open it before sending and confirm the right route.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Franchise enquiry definition",
+      "body": "Hi The Kind Roastery and Brew Room team,\n\nIf the franchise card is meant to generate enquiries, an account-side review could define a qualified franchise enquiry and trace the visible CTA only after confirming the final destination. The fb.me destination and any enquiry outcome were not tested.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Right owner",
+      "body": "Hi The Kind Roastery and Brew Room team,\n\nI have not treated the ad's margin/investment wording as verified performance or a return. Could you route a source-linked note to the person responsible for paid-media or franchise-enquiry measurement?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    }
+  ]
+}

@@ -1739,3 +1739,559 @@ Excluded from Batch 6; not counted in the nine retained leads and not added to t
 ```
 
 The builder appends to the existing workbook, source index, email exports and registry; it does not rebuild earlier batches. Its duplicate guard checks the root registry and existing niche JSON/CSV inventories.
+
+## Batch 7 — Food / Bengaluru (source check: 06 October 2026)
+
+This is a dated, source-linked public-evidence snapshot. Six leads were retained against a working target of ten; no candidate was added to fill the shortfall. Each selected Meta card was individually opened on 06 Oct 2026 and displayed the named page, Sponsored and Active labels, start date and direct Library ID. One selected card is not an account-wide count and public inventory can change. Google domain counts are any-time discovery snapshots; zero results do not prove no activity. An opened Google creative is attributed only to the named advertiser/visible brand content and is not treated as current-active unless the source says so. Bengaluru relevance comes from the official brand page or selected ad copy, not inferred audience targeting. Spend, ROAS, CPA, orders, bookings, conversion rates, tag/pixel presence and event firing remain unavailable/not measured.
+
+### GO DESi
+
+Site: `https://godesi.in/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `welovetalking@godesi.in` — Official general-query inbox. The page lists separate order-related and distributor/bulk telephone routes. No paid-media buyer is identified.  Crawled from GO DESi's own Contact Us page on 06 Oct 2026: https://godesi.in/pages/contact-us publishes welovetalking@godesi.in for queries and lists the RR Nagar, Bengaluru address. It separately lists phone routes for order-related and distributor/bulk enquiries. This is a published general-query route, not a confirmed paid-media contact.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1440511024788968 — Active and Sponsored; started 2026-07-13 | Meta Ad Library · GO DESi · page ID 117547272221199 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/Godesifoods/; visible copy: The GO DESi card asks, 'Bored with the same old potato chips?' and lists Ragi Chips, Barbeque Peanuts and Sun-dried Fruits; a visible product card says Tomato Masala Banana Chips and displays Shop Now to a GO DESi product URL. The card's product, ingredient, delivery and price statements are advertiser copy, not independently verified product outcomes or prices.; CTA: Shop Now; destination boundary: The individual card exposes a Shop Now link to the GO DESi product URL. The URL was visible in the card; no checkout, order or conversion was tested. |
+| The selected Shop Now card is public placement evidence, not an order result | Meta Ad Library — GO DESi individual snack card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199) | Evidence: Meta Library ID 1440511024788968; page GO DESi; Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The visible card links to a GO DESi snack product page. Analysis boundary: The card supports the visible creative and route only. Its product, price and ingredient statements are advertiser copy; no checkout, order, audience, spend or conversion result was measured. Next check: Re-open the direct Library ID and product path before outreach; if authorized, define the completed-order event and source-of-record before measuring outcomes. |
+| The official Bengaluru contact address is not evidence of Bengaluru ad targeting | Meta Ad Library — GO DESi individual snack card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199) | Evidence: The Contact page lists an RR Nagar, Bengaluru address, while the selected card says it delivers across India. Analysis boundary: This establishes first-party Bengaluru context only; neither a local outlet nor Bengaluru audience targeting is inferred. Next check: Confirm the correct commercial/media contact and any location scope directly with the brand; use internal campaign geography only if the brand authorizes access. |
+| The official Bengaluru contact address is not evidence of Bengaluru ad targeting | GO DESi official Contact Us page (S2) | [https://godesi.in/pages/contact-us](https://godesi.in/pages/contact-us) | Evidence: The Contact page lists an RR Nagar, Bengaluru address, while the selected card says it delivers across India. Analysis boundary: This establishes first-party Bengaluru context only; neither a local outlet nor Bengaluru audience targeting is inferred. Next check: Confirm the correct commercial/media contact and any location scope directly with the brand; use internal campaign geography only if the brand authorizes access. |
+| The Google result is under a verified agency; no GO DESi tie is established | Google Ads Transparency — godesi.in domain query (S3) | [https://adstransparency.google.com/?region=IN&domain=godesi.in](https://adstransparency.google.com/?region=IN&domain=godesi.in) | Evidence: The domain query displayed 22 any-time results. Opened creative CR08057425657375752193 names Haystack Marketing Services Pvt Ltd as verified advertiser, was last shown 15 Sep 2026, and its media was unavailable/removed. Analysis boundary: The extracted creative does not identify GO DESi. A matching domain query or agency advertiser is not sufficient to attribute this creative to the brand or call it current activity. Next check: If revisited, open a brand-identifying creative and confirm its named advertiser, visible GO DESi content, destination and last-shown/status fields. |
+| The Google result is under a verified agency; no GO DESi tie is established | Google Ads Transparency — opened Haystack creative (S4) | [https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN](https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN) | Evidence: The domain query displayed 22 any-time results. Opened creative CR08057425657375752193 names Haystack Marketing Services Pvt Ltd as verified advertiser, was last shown 15 Sep 2026, and its media was unavailable/removed. Analysis boundary: The extracted creative does not identify GO DESi. A matching domain query or agency advertiser is not sufficient to attribute this creative to the brand or call it current activity. Next check: If revisited, open a brand-identifying creative and confirm its named advertiser, visible GO DESi content, destination and last-shown/status fields. |
+| Source register S1 — Meta Ad Library — GO DESi individual snack card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199) | GO DESi page (page ID 117547272221199); Library ID 1440511024788968 displayed Active and Sponsored on 06 Oct 2026; started 13 Jul 2026. The card's visible copy promotes GO DESi snacks and shows a Shop Now product link to godesi.in. Copy claims and product/price details are advertiser text, not independent performance or current-price measurements. |
+| Source register S2 — GO DESi official Contact Us page | Brand first-party contact page | [https://godesi.in/pages/contact-us](https://godesi.in/pages/contact-us) | Publishes welovetalking@godesi.in for queries; lists order-related phone +91 9353756891, distributor/bulk phone +91 8904271453 and a Dwaraka Nagar, BEML Layout, RR Nagar, Bengaluru address. The email is a general-query route, not a confirmed media contact. |
+| Source register S3 — Google Ads Transparency — godesi.in domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=godesi.in](https://adstransparency.google.com/?region=IN&domain=godesi.in) | India-region any-time query displayed 22 results on 06 Oct 2026 and warned that results can point to multiple advertiser accounts. A domain result count is not a current-active brand count. |
+| Source register S4 — Google Ads Transparency — opened Haystack creative | Platform individual creative | [https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN](https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN) | Verified advertiser Haystack Marketing Services Pvt Ltd; creative ID CR08057425657375752193; last shown 15 Sep 2026; video; Google indicated the creative media was unavailable/removed for policy violation. The extracted card did not identify GO DESi, so no brand tie or current GO DESi Google activity is claimed. |
+| Google Ads Transparency status: CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=godesi.in](https://adstransparency.google.com/?region=IN&domain=godesi.in) | On 06 Oct 2026, the India-region godesi.in domain query displayed 22 any-time results and stated that a domain can include multiple advertiser accounts. The opened individual creative CR08057425657375752193 is under verified advertiser Haystack Marketing Services Pvt Ltd, was last shown 15 Sep 2026, and Google marked the media unavailable/removed for a policy violation. The extracted creative did not expose GO DESi branding, product copy or a brand landing page. It is not attributed to GO DESi and does not establish current brand-specific Google activity. The public result count is a dated snapshot, not an active-ad count. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/go-desi.json`](leads/go-desi.json) | 19 / 20 (9.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — GO DESi snack card**
+
+Hi GO DESi team,
+
+I opened Meta card 1440511024788968: it displayed GO DESi as Sponsored and Active when checked on 06 Oct 2026, started 13 Jul 2026, and linked a snack creative to a GO DESi product page. I have not treated the ad's product or price copy as an independently checked order result.
+
+The public record does not expose private spend, orders or event firing. The published route, welovetalking@godesi.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199)
+
+**Day 3 — Published route**
+
+Hi GO DESi team,
+
+Your official Contact page publishes welovetalking@godesi.in for queries and an RR Nagar, Bengaluru address. I have not treated the inbox as a media buyer or the address as evidence of local ad targeting.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199) · [S2](https://godesi.in/pages/contact-us)
+
+**Day 7 — Order measurement**
+
+Hi GO DESi team,
+
+If useful, an account-side check could map the selected Library ID to a completed-order definition and order source-of-record. I did not access checkout, campaign or order data.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1440511024788968&view_all_page_id=117547272221199)
+
+**Day 14 — Right owner**
+
+Hi GO DESi team,
+
+I have not established a GO DESi-specific Google creative from the opened agency result. Could you route this source-linked note to the person responsible for paid-media measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://godesi.in/pages/contact-us) · [S3](https://adstransparency.google.com/?region=IN&domain=godesi.in) · [S4](https://adstransparency.google.com/advertiser/AR00949790304788021249/creative/CR08057425657375752193?region=IN)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Crawled from GO DESi's own Contact Us page on 06 Oct 2026: https://godesi.in/pages/contact-us publishes welovetalking@godesi.in for queries and lists the RR Nagar, Bengaluru address. It separately lists phone routes for order-related and distributor/bulk enquiries. This is a published general-query route, not a confirmed paid-media contact.
+
+### Boba Bhaii
+
+Site: `https://www.bobabhai.com/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `care@bobabhai.com` — Published customer-care route; no paid-media buyer is identified.  Crawled from Boba Bhai's own Bangalore page on 06 Oct 2026: https://www.bobabhai.com/bangalore lists Bengaluru stores and publishes care@bobabhai.com and +91-79756 73970. This is a customer-care route, not a confirmed paid-media contact.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 27272445052456789 — Active and Sponsored; started 2026-07-24 | Meta Ad Library · Boba Bhaii · page ID 103298149289578 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/bobabhaii/; visible copy: The individual Boba Bhaii card's video did not play in the capture. The card page displayed Boba Bhaii as the Sponsored advertiser and a See details link to a Google Maps search for 'boba bhai near me'. No unseen video content is inferred.; CTA: See details — Google Maps search for 'boba bhai near me'.; destination boundary: The direct card exposes a Google Maps search URL, not a tested route to a specific outlet. The video asset could not be played; no map click, store visit or order outcome was measured. |
+| The selected Maps CTA is not a measured store visit or order | Meta Ad Library — Boba Bhaii individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578) | Evidence: Meta Library ID 27272445052456789; Boba Bhaii; Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The visible See details route is a generic Google Maps search; the video did not play in the capture. Analysis boundary: The public record supports the card, advertiser label and visible CTA only. The selected video content, map interactions, store visits, orders and conversion outcomes were not measured. Next check: Re-open the direct card and search destination before reusing the observation; if authorized, agree how map actions, store visits and completed orders would be defined and reconciled. |
+| Bengaluru outlets and customer-care email are first-party; the inbox is not a buyer identity | Meta Ad Library — Boba Bhaii individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578) | Evidence: The brand's Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. Analysis boundary: This confirms local brand context and a routing contact; it does not show who manages paid media or where the ad was targeted. Next check: Recheck outlet listings and ask the published care route to forward the source-linked note to the paid-media measurement owner. |
+| Bengaluru outlets and customer-care email are first-party; the inbox is not a buyer identity | Boba Bhai official Bengaluru/Bangalore page (S2) | [https://www.bobabhai.com/bangalore](https://www.bobabhai.com/bangalore) | Evidence: The brand's Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. Analysis boundary: This confirms local brand context and a routing contact; it does not show who manages paid media or where the ad was targeted. Next check: Recheck outlet listings and ask the published care route to forward the source-linked note to the paid-media measurement owner. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — bobabhai.com domain query (S3) | [https://adstransparency.google.com/?region=IN&domain=bobabhai.com](https://adstransparency.google.com/?region=IN&domain=bobabhai.com) | Evidence: The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026. Analysis boundary: A zero-result domain query is not evidence that no Google ads exist or that no activity occurred. Next check: If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attributing it. |
+| Source register S1 — Meta Ad Library — Boba Bhaii individual card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578) | Boba Bhaii page (page ID 103298149289578); Library ID 27272445052456789 displayed Active and Sponsored on 06 Oct 2026; started 24 Jul 2026. The video did not play in the capture; the visible See details route is a generic Google Maps search for 'boba bhai near me'. One card only; no click or visit result is exposed. |
+| Source register S2 — Boba Bhai official Bengaluru/Bangalore page | Brand first-party local/contact page | [https://www.bobabhai.com/bangalore](https://www.bobabhai.com/bangalore) | Lists multiple Bengaluru store locations and publishes care@bobabhai.com and +91-79756 73970. The email is a customer-care route, not a media-buyer identity. |
+| Source register S3 — Google Ads Transparency — bobabhai.com domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=bobabhai.com](https://adstransparency.google.com/?region=IN&domain=bobabhai.com) | India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google advertising or activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=bobabhai.com](https://adstransparency.google.com/?region=IN&domain=bobabhai.com) | The India-region bobabhai.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that Boba Bhaii does not advertise on Google or that no ads exist. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/boba-bhaii.json`](leads/boba-bhaii.json) | 18 / 20 (9.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Boba Bhaii Maps CTA**
+
+Hi Boba Bhaii team,
+
+I opened Meta Library card 27272445052456789: it displayed Boba Bhaii as Sponsored and Active when checked on 06 Oct 2026, started 24 Jul 2026, and shows a See details link to a Google Maps search for 'boba bhai near me'. The video did not play in my capture, so I have not described unseen content.
+
+The public record does not expose private spend, orders or event firing. The published route, care@bobabhai.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578)
+
+**Day 3 — Bengaluru store route**
+
+Hi Boba Bhaii team,
+
+Your official Bangalore page lists Bengaluru outlets and publishes care@bobabhai.com. I have not assumed customer care owns paid media or that the Maps link proves a store visit.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578) · [S2](https://www.bobabhai.com/bangalore)
+
+**Day 7 — Define the outcome**
+
+Hi Boba Bhaii team,
+
+If the Maps route is intended to support store action, an internal review could agree the outcome definition and source-of-record. I did not access map interactions, store visits or order data.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=27272445052456789&view_all_page_id=103298149289578)
+
+**Day 14 — Correct contact**
+
+Hi Boba Bhaii team,
+
+Could you route this short source-linked note to the person responsible for paid-media measurement? If this care inbox is not suitable, a pointer to the right contact is enough.
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.bobabhai.com/bangalore)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Crawled from Boba Bhai's own Bangalore page on 06 Oct 2026: https://www.bobabhai.com/bangalore lists Bengaluru stores and publishes care@bobabhai.com and +91-79756 73970. This is a customer-care route, not a confirmed paid-media contact.
+
+### Deliciae
+
+Site: `https://www.delcakes.in/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `info@deliciaecakes.com` — Official order-confirmation and order-change support inbox; no paid-media buyer is identified.  Crawled from Deliciae's own FAQ on 06 Oct 2026: https://www.delcakes.in/why-deliciae/ publishes info@deliciaecakes.com for order-confirmation and order-change issues. It is an order-support inbox, not a confirmed paid-media contact. The official Bengaluru order route is https://orders.delcakes.in/blr.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 4626067054271505 — Active and Sponsored; started 2026-09-26 | Meta Ad Library · Deliciae by Bunty Mahajan · page ID 109482575760811 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/delcakes.in/; visible copy: The card says, 'Our signature 54% dark chocolate ganache infused with caramel, layered between sponge & sprinkled with sea salt flakes.' It also says to order from Zomato/Swiggy or orders.delcakes.in/blr and displays a 15% code. These are advertiser statements and were not independently validated as current product, price or offer terms.; CTA: Order Now; card creative shows a Linktree route and names orders.delcakes.in/blr in its text.; destination boundary: The individual card shows the Linktree URL; its final redirect targets were not followed. The ad text separately names the Bengaluru order route. No checkout or order outcome was tested. |
+| The active cake card exposes an order route, not a completed order | Meta Ad Library — Deliciae individual dark-chocolate card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811) | Evidence: Meta Library ID 4626067054271505; Deliciae by Bunty Mahajan; Active and Sponsored on 06 Oct 2026; started 26 Sep 2026. Copy describes a 54% dark-chocolate ganache cake and names the Bengaluru order route; CTA is Order Now through Linktree. Analysis boundary: The product, discount and code are advertiser copy. The final Linktree hops, checkout, current offer terms, orders and conversion results were not independently tested. Next check: Re-open the card and final order path before reusing the offer wording; if authorized, map the selected Library ID to a completed-order event and source-of-record. |
+| The active cake card exposes an order route, not a completed order | Deliciae official Bengaluru ordering page (S3) | [https://orders.delcakes.in/blr](https://orders.delcakes.in/blr) | Evidence: Meta Library ID 4626067054271505; Deliciae by Bunty Mahajan; Active and Sponsored on 06 Oct 2026; started 26 Sep 2026. Copy describes a 54% dark-chocolate ganache cake and names the Bengaluru order route; CTA is Order Now through Linktree. Analysis boundary: The product, discount and code are advertiser copy. The final Linktree hops, checkout, current offer terms, orders and conversion results were not independently tested. Next check: Re-open the card and final order path before reusing the offer wording; if authorized, map the selected Library ID to a completed-order event and source-of-record. |
+| First-party support and Bengaluru order routes are published; neither identifies a media buyer | Deliciae official FAQ — order support email (S2) | [https://www.delcakes.in/why-deliciae/](https://www.delcakes.in/why-deliciae/) | Evidence: The official FAQ publishes info@deliciaecakes.com for order support; the official order page displays a Bengaluru order route and pickup/delivery choices. Analysis boundary: These sources support an order-support contact and local order route, not media ownership, completed sales or audience geography. Next check: Ask the published order-support route to forward the source-linked note to the paid-media measurement owner; confirm that this inbox is suitable before sending. |
+| First-party support and Bengaluru order routes are published; neither identifies a media buyer | Deliciae official Bengaluru ordering page (S3) | [https://orders.delcakes.in/blr](https://orders.delcakes.in/blr) | Evidence: The official FAQ publishes info@deliciaecakes.com for order support; the official order page displays a Bengaluru order route and pickup/delivery choices. Analysis boundary: These sources support an order-support contact and local order route, not media ownership, completed sales or audience geography. Next check: Ask the published order-support route to forward the source-linked note to the paid-media measurement owner; confirm that this inbox is suitable before sending. |
+| Google archive evidence is brand-named but not a current-active status | Google Ads Transparency — delcakes.in domain query (S4) | [https://adstransparency.google.com/?region=IN&domain=delcakes.in](https://adstransparency.google.com/?region=IN&domain=delcakes.in) | Evidence: The domain query displayed 92 any-time results. Verified advertiser Deliciae's opened creative CR12610092193726595073 was last shown 05 Oct 2026; Google marked the image creative removed and did not expose its content. Analysis boundary: The advertiser name and individual creative ID tie an archive record to a brand-named advertiser. The record does not establish a currently running Google ad, product claim or order result. Next check: If revisited, confirm the current date/filter, advertiser identity, creative content and status/last-shown fields before making a live Google-activity claim. |
+| Google archive evidence is brand-named but not a current-active status | Google Ads Transparency — opened verified Deliciae creative (S5) | [https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN](https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN) | Evidence: The domain query displayed 92 any-time results. Verified advertiser Deliciae's opened creative CR12610092193726595073 was last shown 05 Oct 2026; Google marked the image creative removed and did not expose its content. Analysis boundary: The advertiser name and individual creative ID tie an archive record to a brand-named advertiser. The record does not establish a currently running Google ad, product claim or order result. Next check: If revisited, confirm the current date/filter, advertiser identity, creative content and status/last-shown fields before making a live Google-activity claim. |
+| Source register S1 — Meta Ad Library — Deliciae individual dark-chocolate card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811) | Deliciae by Bunty Mahajan page (page ID 109482575760811); Library ID 4626067054271505 displayed Active and Sponsored on 06 Oct 2026; started 26 Sep 2026. Copy describes a 54% dark-chocolate ganache cake and a Bengaluru order route; it displays a 15% offer code. Product and offer statements are advertiser copy, not independent price/availability or conversion measurements. The card shows a Linktree order route; final redirect was not tested. |
+| Source register S2 — Deliciae official FAQ — order support email | Brand first-party FAQ/contact page | [https://www.delcakes.in/why-deliciae/](https://www.delcakes.in/why-deliciae/) | Publishes info@deliciaecakes.com for order-confirmation and order-change issues; notes bulk/custom-order support separately. This is an order-support route, not a confirmed paid-media contact. |
+| Source register S3 — Deliciae official Bengaluru ordering page | Brand first-party order page | [https://orders.delcakes.in/blr](https://orders.delcakes.in/blr) | Page title identifies Deliciae ordering in Bengaluru; displays Bengaluru delivery and pickup choices including Whitefield, Indiranagar, Bellandur, St. Mark's, Koramangala, Hebbal and Brookefield. This is route availability, not proof of a completed order or current ad targeting. |
+| Source register S4 — Google Ads Transparency — delcakes.in domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=delcakes.in](https://adstransparency.google.com/?region=IN&domain=delcakes.in) | India-region any-time query displayed 92 results on 06 Oct 2026. Multiple advertiser accounts can point to a domain; this count is not a current-active brand count. |
+| Source register S5 — Google Ads Transparency — opened verified Deliciae creative | Platform individual creative | [https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN](https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN) | Verified advertiser/legal name Deliciae; individual image creative CR12610092193726595073 last shown 05 Oct 2026. Google marked the creative image removed for policy violation; image content unavailable. This is dated archive evidence, not a current-active ad status. |
+| Google Ads Transparency status: CHECKED — 92 any-time domain-query results; opened verified Deliciae advertiser creative CR12610092193726595073, last shown 05 Oct 2026 and removed; archive evidence only, not a current-active label | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=delcakes.in](https://adstransparency.google.com/?region=IN&domain=delcakes.in) | On 06 Oct 2026, the India-region delcakes.in any-time domain query displayed 92 results, including creatives under verified advertiser accounts named Deliciae. Opened creative CR12610092193726595073 under verified advertiser Deliciae (legal name: Deliciae) was last shown 05 Oct 2026; Google marked the image creative removed for a policy violation, and its image content was unavailable. The advertiser identity and individual creative ID establish a brand-named Google archive record, not a current-active ad or order result. The 92-result domain count is a dated any-time snapshot and can change. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/deliciae.json`](leads/deliciae.json) | 18 / 20 (9.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — Deliciae dark-chocolate card**
+
+Hi Deliciae team,
+
+I opened Meta card 4626067054271505: it displayed Deliciae by Bunty Mahajan as Sponsored and Active when checked on 06 Oct 2026, started 26 Sep 2026, and the copy names a dark-chocolate ganache cake plus a Bengaluru order route. The 15% code is card copy; I have not verified current offer terms or orders.
+
+The public record does not expose private spend, orders or event firing. The published route, info@deliciaecakes.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811)
+
+**Day 3 — Bengaluru order route**
+
+Hi Deliciae team,
+
+The official FAQ publishes info@deliciaecakes.com for order support, and the official order page shows a Bengaluru route. I have not treated that inbox as a media buyer or followed the card's Linktree redirects.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://www.delcakes.in/why-deliciae/) · [S3](https://orders.delcakes.in/blr)
+
+**Day 7 — Order outcome definition**
+
+Hi Deliciae team,
+
+If online orders are the intended outcome, a private review could align the Library ID, the completed-order definition and the order source-of-record. I did not access any private campaign, checkout or sales data.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=4626067054271505&view_all_page_id=109482575760811) · [S3](https://orders.delcakes.in/blr)
+
+**Day 14 — Paid-media contact**
+
+Hi Deliciae team,
+
+The Google archive result I opened is under verified advertiser Deliciae but is marked removed, so I am not calling it a current Google ad. Could you point me to the right paid-media measurement contact?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S4](https://adstransparency.google.com/?region=IN&domain=delcakes.in) · [S5](https://adstransparency.google.com/advertiser/AR09896695090640846849/creative/CR12610092193726595073?region=IN)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Crawled from Deliciae's own FAQ on 06 Oct 2026: https://www.delcakes.in/why-deliciae/ publishes info@deliciaecakes.com for order-confirmation and order-change issues. It is an order-support inbox, not a confirmed paid-media contact. The official Bengaluru order route is https://orders.delcakes.in/blr.
+
+### United Telugu Kitchens
+
+Site: `https://unitedtelugukitchens.com/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `gm@telugukitchens.com` — Catering information and enquiry route only; not a confirmed restaurant-marketing or paid-media contact.  Crawled from United Telugu Kitchens' own Catering page on 06 Oct 2026: https://unitedtelugukitchens.com/catering publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. The official Contact page https://unitedtelugukitchens.com/contact lists Bengaluru locations but no public general email. The published email is catering-specific, not a confirmed media contact.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1400576771684831 — Active and Sponsored; started 2026-10-03 | Meta Ad Library · United Telugu Kitchens Bengaluru · page ID 172125759316085 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/unitedtelugukitchens/; visible copy: The card copy says, 'Bold spices, soulful flavours and plates that bring the heart of Andhra to the table. Come hungry, leave with a new favourite.' The text includes Andhra-food/Bangalore terms and the card shows Call now. The video did not play in the capture; no unseen visual or call destination is inferred.; CTA: Call now; final telephone link/number was not exposed in the captured selected card.; destination boundary: The selected card shows a Call now action. The call destination/number and any answered call, visit or order were not tested. |
+| The Call now card is a public CTA, not a measured call or restaurant visit | Meta Ad Library — United Telugu Kitchens Bengaluru individual card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085) | Evidence: Meta Library ID 1400576771684831; United Telugu Kitchens Bengaluru; Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy refers to Andhra food/Bengaluru and the card shows Call now. Analysis boundary: The video did not play in the capture. The visible page, text and CTA are supported; the call destination, calls, dining visits, orders and campaign performance were not measured. Next check: Re-open the card and call path; if authorized, agree whether the intended outcome is a connected call, qualified enquiry, visit or another event before measuring it. |
+| Bengaluru locations are first-party; the available email route is catering-specific | United Telugu Kitchens official Catering page — catering email (S2) | [https://unitedtelugukitchens.com/catering](https://unitedtelugukitchens.com/catering) | Evidence: The official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The official Catering page publishes gm@telugukitchens.com for catering enquiries. Analysis boundary: The sources establish local food-service context and a related published email, not that this inbox owns restaurant media or paid campaigns. Next check: If using the catering inbox, ask it to route the note to the correct marketing/media owner; for broader outreach, confirm an appropriate published general route first. |
+| Bengaluru locations are first-party; the available email route is catering-specific | United Telugu Kitchens official Contact page — Bengaluru locations (S3) | [https://unitedtelugukitchens.com/contact](https://unitedtelugukitchens.com/contact) | Evidence: The official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The official Catering page publishes gm@telugukitchens.com for catering enquiries. Analysis boundary: The sources establish local food-service context and a related published email, not that this inbox owns restaurant media or paid campaigns. Next check: If using the catering inbox, ask it to route the note to the correct marketing/media owner; for broader outreach, confirm an appropriate published general route first. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — unitedtelugukitchens.com domain query (S4) | [https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com](https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com) | Evidence: The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026. Analysis boundary: One zero-result query does not establish that no Google ads or prior activity exist. Next check: If revisited, open a current individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution. |
+| Source register S1 — Meta Ad Library — United Telugu Kitchens Bengaluru individual card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085) | United Telugu Kitchens Bengaluru page (page ID 172125759316085); Library ID 1400576771684831 displayed Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy mentions Andhra flavours/Bengaluru; Call now is visible. Video did not play in the capture and call destination/outcome were not tested. |
+| Source register S2 — United Telugu Kitchens official Catering page — catering email | Brand first-party service/contact page | [https://unitedtelugukitchens.com/catering](https://unitedtelugukitchens.com/catering) | Publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. It does not identify the email as a restaurant-marketing or paid-media contact. |
+| Source register S3 — United Telugu Kitchens official Contact page — Bengaluru locations | Brand first-party location/contact page | [https://unitedtelugukitchens.com/contact](https://unitedtelugukitchens.com/contact) | Lists Kadugodi/Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062; offers a location/enquiry form and publishes no general contact email in the captured page. |
+| Source register S4 — Google Ads Transparency — unitedtelugukitchens.com domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com](https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com) | India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com](https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com) | The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that United Telugu Kitchens does not advertise on Google or that no ads exist. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/united-telugu-kitchens.json`](leads/united-telugu-kitchens.json) | 17 / 20 (8.5 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — UTK Bengaluru card**
+
+Hi United Telugu Kitchens team,
+
+I opened Meta Library card 1400576771684831: it displayed United Telugu Kitchens Bengaluru as Sponsored and Active when checked on 06 Oct 2026, started 03 Oct 2026, with Andhra-food/Bengaluru copy and a Call now action. The video did not play in my capture, so I have not described unseen content.
+
+The public record does not expose private spend, orders or event firing. The published route, gm@telugukitchens.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085)
+
+**Day 3 — Published catering route**
+
+Hi United Telugu Kitchens team,
+
+Your official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The published gm@telugukitchens.com address is on the separate Catering page for catering enquiries; I have not assumed it is a media contact.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://unitedtelugukitchens.com/catering) · [S3](https://unitedtelugukitchens.com/contact)
+
+**Day 7 — Define the call outcome**
+
+Hi United Telugu Kitchens team,
+
+If the Call now action is intended to drive enquiries, a private review could distinguish a connected call from a qualified enquiry or visit before measuring it. I did not access any call or order records.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085)
+
+**Day 14 — Correct media contact**
+
+Hi United Telugu Kitchens team,
+
+Could you route this source-linked note to the person responsible for paid-media measurement? If the catering inbox is not suitable, a pointer to the right contact is enough.
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://unitedtelugukitchens.com/catering) · [S3](https://unitedtelugukitchens.com/contact)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Crawled from United Telugu Kitchens' own Catering page on 06 Oct 2026: https://unitedtelugukitchens.com/catering publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. The official Contact page https://unitedtelugukitchens.com/contact lists Bengaluru locations but no public general email. The published email is catering-specific, not a confirmed media contact.
+
+### The Kind Roastery and Brew Room
+
+Site: `https://thekindindia.com/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `thekindindia@gmail.com` — Official-domain indexed 'Get in Touch' email; direct page fetch redirected and did not expose the email, so re-open before sending. Not a confirmed paid-media contact. PARTIALLY VERIFIED — official-domain indexed page shows the email; direct extraction did not expose it. Rechecked on 06 Oct 2026: the official-domain search result for https://thekindindia.com/shop/ showed a 'Contact / Get in Touch' section with thekindindia@gmail.com. Direct fetch of that URL redirected to the homepage representation and did not expose the email. This is an official-domain indexed contact snippet, but the email should be re-opened on the live site before sending; no media-buyer identity is established.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1076550118145187 — Active and Sponsored; started 2026-08-20 | Meta Ad Library · The Kind Roastery and Brew Room · page ID 100820726181920 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/thekindindia/; visible copy: The individual card is shown 'with Building Brands For Tomorrow BBFT' and says, 'Franchise opportunity with Bengaluru's specialty coffee, bakery & all-day vegetarian dining.' The card's additional claims ('high performing stores', 'good margins' and investment wording) are advertiser copy, not independently verified and are not used as audit findings.; CTA: See Details; destination boundary: The card displays See Details with an fb.me URL. The final destination/redirect was not followed. The card is co-branded with BBFT; it is not known which party funds or manages the ad. |
+| The co-branded franchise card does not establish who funds or manages the ad | Meta Ad Library — The Kind co-branded franchise card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920) | Evidence: Meta Library ID 1076550118145187; The Kind Roastery and Brew Room 'with Building Brands For Tomorrow BBFT'; Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. The public copy identifies a Bengaluru coffee/bakery/vegetarian-dining franchise; See Details uses fb.me. Analysis boundary: The record establishes the named page, co-branding, card copy, status/date and short-link label only. The final destination, advertiser account ownership, investment or margin claims, franchise enquiries and conversions were not independently validated. Next check: Re-open the card and final destination; ask The Kind/BBFT to confirm campaign ownership and the correct franchise-measurement contact before any account-level comparison. |
+| The official site supports the Food/Bengaluru fit; the indexed email needs a live recheck | The Kind official website — food offer and Bengaluru locations (S2) | [https://thekindindia.com/](https://thekindindia.com/) | Evidence: The official home page describes a resto-café with vegetarian food, coffee and bakery, and lists JP Nagar, Bellandur and Indiranagar. The official-domain /shop/ search snippet showed thekindindia@gmail.com; direct fetch redirected and did not expose the email. Analysis boundary: The brand/category/locality are directly supported. The published email is first-party indexed text but is only partially verified in direct page extraction and is not a confirmed media-buyer route. Next check: Before sending, re-open the official Get in Touch page and verify the email is still present; then ask for the correct paid-media/franchise measurement owner. |
+| The official site supports the Food/Bengaluru fit; the indexed email needs a live recheck | The Kind official-domain indexed Shop/Get in Touch page — email recheck (S3) | [https://thekindindia.com/shop/](https://thekindindia.com/shop/) | Evidence: The official home page describes a resto-café with vegetarian food, coffee and bakery, and lists JP Nagar, Bellandur and Indiranagar. The official-domain /shop/ search snippet showed thekindindia@gmail.com; direct fetch redirected and did not expose the email. Analysis boundary: The brand/category/locality are directly supported. The published email is first-party indexed text but is only partially verified in direct page extraction and is not a confirmed media-buyer route. Next check: Before sending, re-open the official Get in Touch page and verify the email is still present; then ask for the correct paid-media/franchise measurement owner. |
+| The Google domain query returned zero results in this capture | Google Ads Transparency — thekindindia.com domain query (S4) | [https://adstransparency.google.com/?region=IN&domain=thekindindia.com](https://adstransparency.google.com/?region=IN&domain=thekindindia.com) | Evidence: The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026. Analysis boundary: A zero-result query is not proof of no Google ads or activity. Next check: If revisited, open an individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution. |
+| Source register S1 — Meta Ad Library — The Kind co-branded franchise card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920) | The Kind Roastery and Brew Room page (page ID 100820726181920); Library ID 1076550118145187 displayed Active and Sponsored on 06 Oct 2026; started 20 Aug 2026. Card is co-branded 'with Building Brands For Tomorrow BBFT'; copy names a Bengaluru specialty coffee, bakery and all-day vegetarian-dining franchise. See Details points to fb.me; final destination and buyer/manager relationship were not established. |
+| Source register S2 — The Kind official website — food offer and Bengaluru locations | Brand first-party website | [https://thekindindia.com/](https://thekindindia.com/) | Direct page describes The Kind as a resto-café/community hub, lists all-day vegetarian food, coffee and bakery, and identifies JP Nagar, Bellandur and Indiranagar Bengaluru locations. Direct extraction did not show the contact email. |
+| Source register S3 — The Kind official-domain indexed Shop/Get in Touch page — email recheck | Brand first-party page as surfaced in official-domain search index; direct fetch limitation disclosed | [https://thekindindia.com/shop/](https://thekindindia.com/shop/) | The official-domain search result displayed 'Contact / Get in Touch / thekindindia@gmail.com' and Bengaluru location snippets on 06 Oct 2026. Direct fetch of this URL redirected to the homepage representation and did not expose the email text. It is source-provenanced but must be re-opened live before sending; it is not a named media-buyer route. |
+| Source register S4 — Google Ads Transparency — thekindindia.com domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=thekindindia.com](https://adstransparency.google.com/?region=IN&domain=thekindindia.com) | India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity. |
+| Google Ads Transparency status: CHECKED — no domain-query results (not proof of no activity) | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=thekindindia.com](https://adstransparency.google.com/?region=IN&domain=thekindindia.com) | The India-region thekindindia.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove no Google advertising or activity. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/the-kind-roastery-and-brew-room.json`](leads/the-kind-roastery-and-brew-room.json) | 16 / 20 (8.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — The Kind franchise card**
+
+Hi The Kind Roastery and Brew Room team,
+
+I opened Meta Library card 1076550118145187: it displayed The Kind Roastery and Brew Room as Sponsored and Active when checked on 06 Oct 2026, started 20 Aug 2026, and was co-branded with BBFT. The copy names a Bengaluru coffee, bakery and all-day vegetarian-dining franchise; I have not inferred which party funds or manages the ad.
+
+The public record does not expose private spend, orders or event firing. The published route, thekindindia@gmail.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920)
+
+**Day 3 — Bengaluru café and contact route**
+
+Hi The Kind Roastery and Brew Room team,
+
+Your official site describes a Bengaluru resto-café and lists JP Nagar, Bellandur and Indiranagar. The official-domain indexed Get in Touch result shows thekindindia@gmail.com, but the direct page fetch redirected and did not expose the address, so please re-open it before sending and confirm the right route.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://thekindindia.com/) · [S3](https://thekindindia.com/shop/)
+
+**Day 7 — Franchise enquiry definition**
+
+Hi The Kind Roastery and Brew Room team,
+
+If the franchise card is meant to generate enquiries, an account-side review could define a qualified franchise enquiry and trace the visible CTA only after confirming the final destination. The fb.me destination and any enquiry outcome were not tested.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920)
+
+**Day 14 — Right owner**
+
+Hi The Kind Roastery and Brew Room team,
+
+I have not treated the ad's margin/investment wording as verified performance or a return. Could you route a source-linked note to the person responsible for paid-media or franchise-enquiry measurement?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1076550118145187&view_all_page_id=100820726181920) · [S3](https://thekindindia.com/shop/)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Rechecked on 06 Oct 2026: the official-domain search result for https://thekindindia.com/shop/ showed a 'Contact / Get in Touch' section with thekindindia@gmail.com. Direct fetch of that URL redirected to the homepage representation and did not expose the email. This is an official-domain indexed contact snippet, but the email should be re-opened on the live site before sending; no media-buyer identity is established.
+
+### La Pino'z Pizza
+
+Site: `https://lapinozpizza.in/` · source check 06 October 2026 · Batch 7
+
+**Published contact and provenance:** `support@lapinozpizza.in` — Published customer-support inbox. The same page lists info@lapinozpizza.in for franchise enquiries; neither route is identified as a paid-media buyer.  Crawled from La Pino'z's own Contact Us page on 06 Oct 2026: https://lapinozpizza.in/contact-us publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus its Zirakpur corporate-office address and telephone routes. The Bengaluru locator is a separate page. These are published routing contacts, not confirmed media buyers.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library ID 1091108349891554 — Active and Sponsored; started 2025-08-22 | Meta Ad Library · La Pino'z Pizza · page ID 266085096841696 | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696) | Checked 2026-10-06; direct card and advertiser/page profile: https://www.facebook.com/LaPinozPizzaIndia/; visible copy: The card promotes La Pino'z's International Menu, referencing Nashville, Jamaican Jerk and Korean flavours, and displays Order Now to uen.io/lapinoz. Menu wording is advertiser copy; the final short-link destination and any completed order were not tested.; CTA: Order Now; destination boundary: The card displays the uen.io/lapinoz short link; its final destination was not followed. No checkout or order outcome was tested. |
+| The Active international-menu card is not an order measurement | Meta Ad Library — La Pino'z Pizza international-menu card (S1) | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696) | Evidence: Meta Library ID 1091108349891554; La Pino'z Pizza; Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. The visible creative describes an International Menu and shows Order Now to uen.io/lapinoz. Analysis boundary: The menu wording is advertiser copy. The final redirect, checkout, orders, spend, audiences and conversion result were not tested or measured. Next check: Re-open the direct card and follow the short link before reusing it; if authorized, map the selected Library ID to a completed-order event and source-of-record. |
+| First-party support and Bengaluru store routes are separate | La Pino'z official Contact Us page (S2) | [https://lapinozpizza.in/contact-us](https://lapinozpizza.in/contact-us) | Evidence: The Contact page publishes support@lapinozpizza.in for support and info@lapinozpizza.in for franchise enquiries; the Bengaluru store locator lists local outlet cards. The published corporate-office address is in Zirakpur, Punjab. Analysis boundary: These sources establish published contact routes and Bengaluru outlet context, not a Bengaluru corporate office or a paid-media buyer. Locator availability labels are not treated as a universal live status. Next check: Ask the published support route to forward the source-linked note to the paid-media measurement owner; confirm the selected outlet and its current operating status directly if needed. |
+| First-party support and Bengaluru store routes are separate | La Pino'z official Bengaluru store locator (S3) | [https://lapinozpizza.in/store-locator/bengaluru](https://lapinozpizza.in/store-locator/bengaluru) | Evidence: The Contact page publishes support@lapinozpizza.in for support and info@lapinozpizza.in for franchise enquiries; the Bengaluru store locator lists local outlet cards. The published corporate-office address is in Zirakpur, Punjab. Analysis boundary: These sources establish published contact routes and Bengaluru outlet context, not a Bengaluru corporate office or a paid-media buyer. Locator availability labels are not treated as a universal live status. Next check: Ask the published support route to forward the source-linked note to the paid-media measurement owner; confirm the selected outlet and its current operating status directly if needed. |
+| Google Transparency exposes a brand-named archive creative, not current active status | Google Ads Transparency — lapinozpizza.in domain query (S4) | [https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in](https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in) | Evidence: The domain query displayed 23 any-time results. Opened creative CR00331488745591144449 under verified advertiser COPENHAGEN HOSPITALITY names La Pino'z / 'La Pino'z - Order Pizza Online' and was last shown 05 Oct 2026. Analysis boundary: Visible creative text ties the archive item to La Pino'z, but the page does not label it Active and does not establish the verified advertiser's legal/agency relationship or a current campaign. Next check: If revisited, check current filter/status, advertiser details, creative content and final destination before claiming live Google activity or account ownership. |
+| Google Transparency exposes a brand-named archive creative, not current active status | Google Ads Transparency — opened La Pino'z creative under verified advertiser (S5) | [https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN](https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN) | Evidence: The domain query displayed 23 any-time results. Opened creative CR00331488745591144449 under verified advertiser COPENHAGEN HOSPITALITY names La Pino'z / 'La Pino'z - Order Pizza Online' and was last shown 05 Oct 2026. Analysis boundary: Visible creative text ties the archive item to La Pino'z, but the page does not label it Active and does not establish the verified advertiser's legal/agency relationship or a current campaign. Next check: If revisited, check current filter/status, advertiser details, creative content and final destination before claiming live Google activity or account ownership. |
+| Source register S1 — Meta Ad Library — La Pino'z Pizza international-menu card | Platform individual card | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696) | La Pino'z Pizza page (page ID 266085096841696); Library ID 1091108349891554 displayed Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. Copy promotes an International Menu and shows Order Now to uen.io/lapinoz. The final short-link destination and any order outcome were not tested. |
+| Source register S2 — La Pino'z official Contact Us page | Brand first-party contact page | [https://lapinozpizza.in/contact-us](https://lapinozpizza.in/contact-us) | Publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus store and corporate-office phone routes. Lists the corporate office in Zirakpur, Punjab; this address is not presented as a Bengaluru outlet. |
+| Source register S3 — La Pino'z official Bengaluru store locator | Brand first-party local outlet page | [https://lapinozpizza.in/store-locator/bengaluru](https://lapinozpizza.in/store-locator/bengaluru) | The Bengaluru locator renders store cards and branch routes for Bengaluru localities. The captured output includes mixed outlet-availability labels; no current open/closed state is generalized or inferred from this capture. |
+| Source register S4 — Google Ads Transparency — lapinozpizza.in domain query | Platform domain query | [https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in](https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in) | India-region any-time query displayed 23 results on 06 Oct 2026. The domain view is not a current-active count and may include multiple advertiser accounts. |
+| Source register S5 — Google Ads Transparency — opened La Pino'z creative under verified advertiser | Platform individual creative | [https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN](https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN) | Verified advertiser COPENHAGEN HOSPITALITY; creative ID CR00331488745591144449 visibly names La Pino'z / La Pino'z - Order Pizza Online; last shown 05 Oct 2026. The record does not display an Active label, and some variations are unavailable/removed. Advertiser relationship and current status are not inferred. |
+| Google Ads Transparency status: CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label | Google Ads Transparency Center · India region · domain and individual creative where available | [https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in](https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in) | On 06 Oct 2026, the India-region lapinozpizza.in any-time query displayed 23 results. Opened individual creative CR00331488745591144449 is under verified advertiser COPENHAGEN HOSPITALITY; its visible text names La Pino'z / 'La Pino'z - Order Pizza Online' and the detail page says last shown 05 Oct 2026. The page also contains unavailable/removed variations; the selected record has no Active label, so it is archive/last-shown evidence, not a claim of current Google-active status. The advertiser's legal or agency relationship to La Pino'z is not inferred. |
+| Private performance / tracking measures | Unavailable to the public reviewer | — | Spend, ROAS, CPA, orders/bookings, conversions, tag/pixel presence and event firing were not accessed or estimated. No tag/pixel absence claim is made. |
+| Public-evidence fit score | Five-dimension triage score in report and lead JSON | [`leads/la-pinoz-pizza.json`](leads/la-pinoz-pizza.json) | 18 / 20 (9.0 / 10), triage only; not an ROI, performance, revenue, forecast or sales-probability score. |
+
+#### Outreach sequence — source-linked drafts
+
+**Day 1 — International Menu card**
+
+Hi La Pino'z Pizza team,
+
+I opened Meta Library card 1091108349891554: it displayed La Pino'z Pizza as Sponsored and Active when checked on 06 Oct 2026, started 22 Aug 2025, and promotes an International Menu with an Order Now short link. I have not followed the final redirect or inferred an order.
+
+The public record does not expose private spend, orders or event firing. The published route, support@lapinozpizza.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.
+
+Would you point me to the person responsible for paid-media measurement?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696)
+
+**Day 3 — Published support route**
+
+Hi La Pino'z Pizza team,
+
+Your official Contact page lists support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries; the Bengaluru locator is a separate page. I have not assumed either inbox owns paid media or that the card is Bengaluru-targeted.
+
+I have not converted a public ad count, domain query or click path into a performance claim.
+
+Would a short source-linked handoff be useful?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S2](https://lapinozpizza.in/contact-us) · [S3](https://lapinozpizza.in/store-locator/bengaluru)
+
+**Day 7 — Completed-order definition**
+
+Hi La Pino'z Pizza team,
+
+If online orders are the intended outcome, a private check could align the Library ID, final destination and completed-order definition with the source-of-record. I did not access any order or account data.
+
+That is an account-side verification step only, not a claim that anything is missing or underperforming.
+
+Is this the right team to ask?
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S1](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696)
+
+**Day 14 — Paid-media owner**
+
+Hi La Pino'z Pizza team,
+
+The Google Transparency item I opened names La Pino'z under verified advertiser COPENHAGEN HOSPITALITY and was last shown 05 Oct; it is not labelled Active, so I am not calling it a current Google ad. Could you route this note to the paid-media measurement owner?
+
+This is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.
+
+— Smart Pursuit
+smartpursuit3@gmail.com | 7095024220
+
+**Evidence to recheck:** [S4](https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in) · [S5](https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN)
+
+**Source record:** `data/batch7_records.json`; **contact provenance:** Crawled from La Pino'z's own Contact Us page on 06 Oct 2026: https://lapinozpizza.in/contact-us publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus its Zirakpur corporate-office address and telephone routes. The Bengaluru locator is a separate page. These are published routing contacts, not confirmed media buyers.
+
+## Batch 7 scope decisions
+
+- Six leads were retained from a working target of ten after direct-card, first-party contact, Bengaluru-context and cross-folder duplicate checks. No weak or unresolved candidate was used to reach ten.
+- All six selected Meta cards were opened individually on 06 Oct 2026 and displayed their named page, Sponsored and Active labels, start date and Library ID. A selected card is not an account-wide count; public inventory can change daily.
+- Bengaluru relevance is based only on official outlet/contact information or explicit creative copy. It does not establish Meta or Google audience targeting.
+- Google domain counts are dated, any-time discovery snapshots, not current-active ad counts. Opened individual creative records are described separately; zero-result queries do not prove no activity.
+- The Happy Screens was excluded: its official page and opened Active/Sponsored card identify a private mini-theatre and celebration/event service; gourmet food is a supporting feature. It was not treated as a core Food lead or used to pad the target.
+- The Kind was retained as a Bengaluru resto-café/food brand with an active food-franchise card. The card is co-branded with Building Brands For Tomorrow (BBFT); the ad buyer/manager relationship is unknown. Its published email came from an official-domain indexed Get in Touch snippet; direct fetch redirected and did not expose the email, so verify it again before sending.
+- United Telugu Kitchens' gm@telugukitchens.com is published on the brand's catering page for catering enquiries. It is not represented as a restaurant-marketing or paid-media contact.
+- Customer-care, general-query, order-support and catering inboxes are routing contacts only. No media decision-maker is identified for any retained lead.
+- Private account data, spend, ROAS, CPA, conversion rates, booking/order outcomes, tracking configuration, tag/pixel presence and event firing were not accessed or inferred.
+
+### Excluded candidates — not in Batch 7 leads or registry
+
+#### The Happy Screens
+
+**Decision:** Excluded from Batch 7; not counted among the six retained leads and not added to the registry.
+
+**Reason:** Food-niche fit was checked rather than assumed. Its own contact page and Meta Page identify a private mini-theatre service, and the opened card leads with celebrations/private-theatre experiences; gourmet food is listed as a supporting feature. Because the primary marketed service is event/entertainment booking rather than a food business, it was excluded from this Food batch despite verified Bengaluru locations, a brand-owned email and an active card. This is a scope decision, not a claim that it lacks food service.
+
+| Claim in the audit | Where to check it | Link | What you should see |
+|---|---|---|---|
+| Meta Ad Library — individual The Happy Screens card | Candidate source — excluded; not counted as a lead | [https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1287486572789402&view_all_page_id=102788009373518](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1287486572789402&view_all_page_id=102788009373518) | Checked 2026-10-06. The Happy Screens - Private Mini Theater and Cafe; Library ID 1287486572789402 displayed Active and Sponsored; started 26 Apr 2026. The copy leads with private-theatre celebrations and describes gourmet food as one experience feature; it lists Bengaluru and other cities and a WhatsApp booking action. The video did not play in the capture. |
+| The Happy Screens official Contact Us page | Candidate source — excluded; not counted as a lead | [https://www.thehappyscreens.in/contact-us](https://www.thehappyscreens.in/contact-us) | Checked 2026-10-06. Publishes thehappyscreens@gmail.com and Bengaluru locations including Kalyan Nagar, Koramangala, Banashankari and Basaveshwara Nagar. The page is for private-theatre celebration bookings; the email is not included as a Batch 7 lead contact. |
+
+### Batch 7 incremental builder
+
+```bash
+.venv/bin/python niches/food-bengaluru/scripts/build_batch7_deliverables.py
+```
+
+The builder appends new source records, contacts, email/source maps and score/finding rows without rebuilding earlier batches; its preflight checks the root registry and every existing niche's lead JSON/CSV inventories. It refuses a second run against existing Batch 7 outputs.
+
+### Step 0 — repository inventory and skill dispositions for Batch 7
+
+The required `gh repo list vamsy16 --limit 200` inventory was run on 06 Oct 2026 before Batch 7 qualification. The returned descriptions were screened for the task-relevant libraries below. The existing six batches were the pack baseline; the one-time `build_batch6_deliverables.py` was reviewed but was not rerun. Batch 7 was appended to the existing pack without replacing earlier folders or records.
+
+- **Used — this repository, `vamsy16/arena-performance-marketing`:** `REUSABLE-PROMPT.md`, `AUDIT-WORKFLOW.md`, `HOW-TO-RUN-IN-NEW-CHAT.md`, the Food/Bengaluru README, existing records, registry, workbook conventions and the Batches 1–6 archive. The bundled `skills/performance-lead-audit` was used only for evidence-led audit framing; `skills/ads`, `skills/analytics` and `skills/attribution` informed the public-data, event-measurement and attribution boundaries; `skills/cold-email` and its `follow-up-sequences.md` and `personalization.md` references informed concise, source-specific Day 1/3/7/14 emails. `skills/lead-prospecting` and `skills/pdf-report-generator` were reviewed; generated lead pools, local score thresholds, benchmark/ROI/guarantee examples and any conflicting PDF layout were not used. The pack's required PDF format and this incremental archive take precedence.
+- **Used — `vamsy16/claude-ads` @ `669c7608ecb50dd95c941a71fa3ca0a1c0e40512`:** `skills/ads-research` for dated primary-source lineage and `skills/ads-audit` for evidence coverage and unknown/partial boundaries. No authenticated account audit is claimed.
+- **Used — `vamsy16/marketingskills` @ `59d5112e61fd9b043cb3c97d5551f7044d184ad0`:** `skills/ads/references/audit-guardrails.md` to keep evidence coverage separate from account health and to keep unknowns out of pass/fail conclusions. The analytics/attribution guidance also supports the limits already recorded above; no account-level conversion or attribution claim is made.
+- **Used — `vamsy16/smart-pursuit-agency` @ `40e070ceaaf632790a03a644e6d3eb7a5dce40b2`:** `agency-skills-repo/agency-skills/01-sales-bd/lead-generation-prospecting.md` for a specific, verifiable observation in each email; `agency-skills-repo/agency-skills/04-service-delivery/ppc-paid-media.md` for the warning not to present generated CPC/CPM/conversion benchmarks as fact. These are Markdown playbooks, not `SKILL.md` files.
+- **Reviewed, not used — `vamsy16/coldoutboundskills`:** the outbound/campaign-copywriting material was reviewed, but its campaign approval and proof/context workflow was not needed for these prepared emails; no sending or launch tools were used.
+- **Reviewed, not used — `vamsy16/arena-email-marketing` @ `8f9671be60944d23914c0077e67b101bbac25d67`:** `skills/email-sequence-generator` targets lifecycle/Klaviyo flows and the sample material includes unsupported traffic/revenue/performance claims. Neither was copied for this B2B prospecting sequence.
+- **Reviewed, not used — `vamsy16/arena-analytics` @ `d05faa536865fb9d77c54afc76d36ba3dc8685f8` and `vamsy16/arena-analytics-marketing` @ `d547d0de363a427a478138f0dcd82b03b0d99846`:** both `skills/analytics-audit` materials require private account measurements and include unsupported projected ROAS/data-loss claims; no such claims or audits were reused.
+- **No usable skill / not run — `vamsy16/performance-marketing`:** the repository had no relevant `SKILL.md`; its lead-finding scripts/prompts were not used. **No usable skill / not run — `vamsy16/lead-scraper`:** no `SKILL.md`; its Google Maps/site-enrichment workflow is not this manually verified ad-card workflow. **Not used — `vamsy16/lead-gen-kit`, `vamsy16/google-maps-scraper` and `vamsy16/google-maps-scraper-kit`:** Maps discovery/enrichment rather than the required first-party contact plus individually inspected paid-ad card; none was run.
+- **Irrelevant to this Food/Bengaluru paid-media and direct-contact task:** `vamsy16/claude-seo`, `vamsy16/Brand-building-skills`, `vamsy16/agency-agents`, `vamsy16/arena-cro`, `vamsy16/arena-content-marketing`, `vamsy16/arena-gmb`, `vamsy16/arena-linkedin-marketing`, `vamsy16/arena-seo-aeo-geo`, `vamsy16/arena-smm`, `vamsy16/arena-whatsapp-marketing` and `vamsy16/arena-youtube-marketing`. `vamsy16/arena-solar` was listed as empty and its GitHub API contents request returned HTTP/API 409, so no skill was available. `vamsy16/arena-skill` is a generic answer-bracket skill, not a marketing evidence or prospecting skill. Inventory entries described as software/frameworks, AI infrastructure, design/engineering skill sets, video/media tools, documentation or unrelated personal projects were not used; no relevant paid-media/contact skill was identified in them.
+- **Reviewed, not reused — root reference PDF `partha-dental-skin-hair-clinic-audit.pdf`:** the seven-page legacy report was inspected for archive context only. Its account-specific metrics, tracking findings and performance claims were not applicable to these Food/Bengaluru prospects and were not copied; Batch 7 follows the existing niche pack format and cites only its own source checks.
+- **Workflow exclusion:** the bundled legacy `AUDIT-WORKFLOW.md` and `HOW-TO-RUN-IN-NEW-CHAT.md` contain mock/generated lead-pool and estimated-performance examples. They were read for process context, but those scripts and claims will not be run or copied. Batch 7 uses independently checked live public sources and records unknowns rather than estimates.

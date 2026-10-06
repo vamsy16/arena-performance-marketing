@@ -1,28 +1,30 @@
 # Food / Bengaluru — Smart Pursuit paid-media evidence pack
 
-> **60 leads total:** 21 legacy leads (Batches 1–2) and 39 source-checked leads across Batches 3–6. Batch 6 adds 9 qualified leads, checked 05 Oct 2026 (working target: 10); earlier batches and records are preserved. The 21 legacy leads were not revalidated in this update.
+> **66 leads total:** 21 legacy leads (Batches 1–2) and 45 source-checked leads across Batches 3–7. Batch 7 adds 6 qualified leads, checked 06 Oct 2026 (working target: 10); earlier batches and records are preserved. The 21 legacy leads were not revalidated in this update.
 
 ## Start here
 
 | Path | Contents / status |
 |---|---|
-| `Food-Bangalore-ALL-IN-ONE.xlsx` | Master workbook with 60 leads, 240 emails, findings, scores, source links, coverage, and batch/data status. Legacy ROI content remains archived and is not a current forecast. |
+| `Food-Bangalore-ALL-IN-ONE.xlsx` | Master workbook with 66 leads, 264 emails, findings, scores, source links, coverage, and batch/data status. Legacy ROI content remains archived and is not a current forecast. |
 | `Food-Bangalore-BATCH-3-EMAILS.xlsx` | Preserved one-sheet export of the 10 Batch 3 leads. |
 | `Food-Bangalore-BATCH-4-EMAILS.xlsx` | Preserved one-sheet export of the 10 Batch 4 leads with Subject, Body 1–4, and audit attachment name. |
 | `Food-Bangalore-BATCH-5-EMAILS.xlsx` | Preserved one-sheet export of the 10 Batch 5 leads with Subject, Body 1–4, and audit attachment name. |
-| `Food-Bangalore-BATCH-6-EMAILS.xlsx` | New one-sheet export of the 9 retained Batch 6 leads with Subject, Body 1–4, and audit attachment name. |
-| `audits/*-paid-media-measurement-audit.pdf` | 60 per-lead PDFs. Batch 3, Batch 4, Batch 5 and Batch 6 reports are checked for exactly five pages; previous formats are preserved and not revalidated here. |
-| `VERIFY-THE-DATA.md` | Claim-to-public-URL rows for prior batches plus Batch 5 and Batch 6 findings, exact ad cards, Google caveats, source register and contact provenance. |
-| `ALL-EMAIL-SEQUENCES.md` | 240 email messages across the preserved batches; Batch 6 adds 36 new messages. |
-| `outreach/*-outreach-templates.md` | Per-lead, four-touch email files; Batch 5 and Batch 6 routes and contact provenance are explicit. |
-| `leads/*.json` | 60 structured lead records. Batch 6 JSON includes contact provenance, direct Meta IDs, source map, findings, score bases and four outreach emails. |
-| `LEADS-INDEX.csv` | Flat index for all 60 leads, with batch vintage and Google status caveats. |
-| `data/batch3_records.json` / `data/batch4_records.json` / `data/batch5_records.json` / `data/batch6_records.json` | Canonical source records for Batches 3–6; Batch 6 stores source notes, findings, score bases and email briefs used by the builder. |
-| `data/seen_leads.json` | Updated deduplication registry; 160 registered brands after Batch 6. |
+| `Food-Bangalore-BATCH-6-EMAILS.xlsx` | Preserved one-sheet export of the 9 retained Batch 6 leads with Subject, Body 1–4, and audit attachment name. |
+| `Food-Bangalore-BATCH-7-EMAILS.xlsx` | New one-sheet export of the six retained Batch 7 leads with Subject, Body 1–4, audit attachment, day-level source IDs, and linked contact provenance/caveats. |
+| `audits/*-paid-media-measurement-audit.pdf` | 66 per-lead PDFs. Batch 3–6 five-page reports are preserved; Batch 7 has 6 source-linked audits with page counts, footer numbering and logo presence checked during generation. |
+| `VERIFY-THE-DATA.md` | Claim-to-public-URL rows for prior batches plus Batch 5–7 findings, exact ad cards, Google caveats, source register and contact provenance. |
+| `ALL-EMAIL-SEQUENCES.md` | 264 email messages across the preserved batches; Batch 7 adds 24 new messages. |
+| `outreach/*-outreach-templates.md` | Per-lead, four-touch email files; Batch 5–7 routes and contact provenance are explicit, including the partial The Kind email caveat. |
+| `leads/*.json` | 66 structured lead records. Batch 7 JSON includes contact provenance, direct Meta IDs, source map, findings, score bases and four outreach emails. |
+| `LEADS-INDEX.csv` | Flat index for all 66 leads, with batch vintage and Google status caveats. |
+| `data/batch3_records.json` / `data/batch4_records.json` / `data/batch5_records.json` / `data/batch6_records.json` / `data/batch7_records.json` | Canonical source records for Batches 3–7; Batch 7 stores source notes, findings, score bases, exclusions and email briefs used by the builder. |
+| `data/seen_leads.json` | Updated deduplication registry; 166 registered brands after Batch 7. |
 | `scripts/build_batch3_deliverables.py` | Preserved incremental Batch 3 builder. |
 | `scripts/build_batch4_deliverables.py` | Preserved Batch 4 one-time incremental append builder; do not rerun against the completed pack. |
 | `scripts/build_batch5_deliverables.py` | Preserved Batch 5 one-time incremental append builder; do not rerun against the completed pack. |
-| `scripts/build_batch6_deliverables.py` | Batch 6 one-time incremental append builder; its duplicate guard blocks another run against the completed pack. Do not run legacy-only `build_master_excel.py`. |
+| `scripts/build_batch6_deliverables.py` | Preserved Batch 6 one-time incremental append builder; do not rerun against its completed pack. |
+| `scripts/build_batch7_deliverables.py` | Batch 7 one-time incremental append builder; preflight blocks duplicate brands/artifacts. Do not run legacy-only `build_master_excel.py`. |
 
 ## Batch history and data vintage
 
@@ -33,7 +35,8 @@
 | Batch 3 | 10 | 04 Oct 2026 | Source-checked public-evidence batch; preserved. |
 | Batch 4 | 10 | 04 Oct 2026 | Preserved source-checked batch; one selected evidence-led audit per lead. |
 | Batch 5 | 10 | 04 Oct 2026 | Preserved source-checked batch; one selected evidence-led audit per lead. |
-| Batch 6 | 9 | 05 Oct 2026 | New source-checked batch; one selected evidence-led audit per lead; working target 10, no padding. |
+| Batch 6 | 9 | 05 Oct 2026 | Preserved source-checked batch; one selected evidence-led audit per lead. |
+| Batch 7 | 6 | 06 Oct 2026 | New source-checked batch; one selected evidence-led audit per lead; working target 10, no padding. |
 
 ## Batch 3 — preserved source-checked leads
 
@@ -179,3 +182,51 @@ This one-time append checked candidate names/domains against the root registry, 
 ```
 
 The builder appends rows and files to the existing pack, validates first-party contact provenance and finding/source IDs, checks duplicates across existing niches, allows the evidence-qualified count to remain below the ten-lead working target, and verifies five-page PDF output. It intentionally rejects a second run against the completed registry/workbook.
+
+
+## Batch 7 — new leads
+
+| Brand | Published first-party route | Google evidence status | Public-evidence fit |
+|---|---|---|---:|
+| GO DESi | `welovetalking@godesi.in` | CHECKED — 22 any-time domain-query results; opened verified Haystack agency creative CR08057425657375752193, last shown 15 Sep 2026 and removed; no GO DESi creative tie established | 9.5 / 10 |
+| Boba Bhaii | `care@bobabhai.com` | CHECKED — no domain-query results (not proof of no activity) | 9.0 / 10 |
+| Deliciae | `info@deliciaecakes.com` | CHECKED — 92 any-time domain-query results; opened verified Deliciae advertiser creative CR12610092193726595073, last shown 05 Oct 2026 and removed; archive evidence only, not a current-active label | 9.0 / 10 |
+| United Telugu Kitchens | `gm@telugukitchens.com` | CHECKED — no domain-query results (not proof of no activity) | 8.5 / 10 |
+| The Kind Roastery and Brew Room | `thekindindia@gmail.com` (re-open before sending) | CHECKED — no domain-query results (not proof of no activity) | 8.0 / 10 |
+| La Pino'z Pizza | `support@lapinozpizza.in` | CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label | 9.0 / 10 |
+
+### Batch 7 evidence and scope notes
+
+- Working target: 10. 6 leads were retained after individual Meta-card, first-party contact, Bengaluru-context and duplicate checks; no weaker candidate was used to fill the shortfall.
+- All 6 selected Meta cards were opened individually on 06 Oct 2026 and displayed the named page, Sponsored and Active labels, start date and direct Library ID. One card is not an account-wide count; public inventory can change.
+- Duplicate checks include `data/seen_leads.json` and every existing `niches/` folder's lead JSON, CSV indexes and niche-local registries. No duplicate name/domain was found among the six retained brands.
+- The Kind: the official-domain indexed `/shop/` Get in Touch snippet showed `thekindindia@gmail.com`, but direct page fetch redirected and did not expose it. Re-open the live official page before sending; the contact is not a confirmed media buyer.
+- United Telugu Kitchens' `gm@telugukitchens.com` is published on its Catering page specifically for catering enquiries. La Pino'z lists `support@lapinozpizza.in` for customer support and `info@lapinozpizza.in` for franchise enquiries. Other published inboxes are routing contacts only; no paid-media owner was identified.
+- GO DESi's opened Google result names verified agency Haystack Marketing Services and does not expose a GO DESi creative tie. Deliciae's brand-named verified Google creative is removed and last shown 05 Oct; La Pino'z's brand-named creative under verified advertiser COPENHAGEN HOSPITALITY was last shown 05 Oct and is not labelled Active. These are not current-active Google claims. Zero-result domain queries do not prove no ads.
+- The Happy Screens was excluded because the official offer and opened ad foreground private-theatre and celebration booking; food is supporting. It is not included as a lead, score, email target or registry entry; the scope decision and source links are in `VERIFY-THE-DATA.md` and the master workbook.
+- All prices, product details, offers and quality/volume claims shown in creatives are advertiser copy unless explicitly stated otherwise; they were not independently verified as current terms or outcomes. Spend, ROAS, CPA, order/booking outcomes, tags/pixels, audience geography and event firing remain unavailable/not measured.
+- Scores are public-evidence fit only (/20, displayed /10) with five recorded bases; they are not performance, revenue, likelihood, spend, projections, benchmarks, expected uplift or ROI.
+
+### Step 0 — repository inventory and skill dispositions for Batch 7
+
+The required `gh repo list vamsy16 --limit 200` inventory was run on 06 Oct 2026 before Batch 7 qualification. The returned descriptions were screened for the task-relevant libraries below. The existing six batches were the pack baseline; the one-time `build_batch6_deliverables.py` was reviewed but was not rerun. Batch 7 was appended to the existing pack without replacing earlier folders or records.
+
+- **Used — this repository, `vamsy16/arena-performance-marketing`:** `REUSABLE-PROMPT.md`, `AUDIT-WORKFLOW.md`, `HOW-TO-RUN-IN-NEW-CHAT.md`, the Food/Bengaluru README, existing records, registry, workbook conventions and the Batches 1–6 archive. The bundled `skills/performance-lead-audit` was used only for evidence-led audit framing; `skills/ads`, `skills/analytics` and `skills/attribution` informed the public-data, event-measurement and attribution boundaries; `skills/cold-email` and its `follow-up-sequences.md` and `personalization.md` references informed concise, source-specific Day 1/3/7/14 emails. `skills/lead-prospecting` and `skills/pdf-report-generator` were reviewed; generated lead pools, local score thresholds, benchmark/ROI/guarantee examples and any conflicting PDF layout were not used. The pack's required PDF format and this incremental archive take precedence.
+- **Used — `vamsy16/claude-ads` @ `669c7608ecb50dd95c941a71fa3ca0a1c0e40512`:** `skills/ads-research` for dated primary-source lineage and `skills/ads-audit` for evidence coverage and unknown/partial boundaries. No authenticated account audit is claimed.
+- **Used — `vamsy16/marketingskills` @ `59d5112e61fd9b043cb3c97d5551f7044d184ad0`:** `skills/ads/references/audit-guardrails.md` to keep evidence coverage separate from account health and to keep unknowns out of pass/fail conclusions. The analytics/attribution guidance also supports the limits already recorded above; no account-level conversion or attribution claim is made.
+- **Used — `vamsy16/smart-pursuit-agency` @ `40e070ceaaf632790a03a644e6d3eb7a5dce40b2`:** `agency-skills-repo/agency-skills/01-sales-bd/lead-generation-prospecting.md` for a specific, verifiable observation in each email; `agency-skills-repo/agency-skills/04-service-delivery/ppc-paid-media.md` for the warning not to present generated CPC/CPM/conversion benchmarks as fact. These are Markdown playbooks, not `SKILL.md` files.
+- **Reviewed, not used — `vamsy16/coldoutboundskills`:** the outbound/campaign-copywriting material was reviewed, but its campaign approval and proof/context workflow was not needed for these prepared emails; no sending or launch tools were used.
+- **Reviewed, not used — `vamsy16/arena-email-marketing` @ `8f9671be60944d23914c0077e67b101bbac25d67`:** `skills/email-sequence-generator` targets lifecycle/Klaviyo flows and the sample material includes unsupported traffic/revenue/performance claims. Neither was copied for this B2B prospecting sequence.
+- **Reviewed, not used — `vamsy16/arena-analytics` @ `d05faa536865fb9d77c54afc76d36ba3dc8685f8` and `vamsy16/arena-analytics-marketing` @ `d547d0de363a427a478138f0dcd82b03b0d99846`:** both `skills/analytics-audit` materials require private account measurements and include unsupported projected ROAS/data-loss claims; no such claims or audits were reused.
+- **No usable skill / not run — `vamsy16/performance-marketing`:** the repository had no relevant `SKILL.md`; its lead-finding scripts/prompts were not used. **No usable skill / not run — `vamsy16/lead-scraper`:** no `SKILL.md`; its Google Maps/site-enrichment workflow is not this manually verified ad-card workflow. **Not used — `vamsy16/lead-gen-kit`, `vamsy16/google-maps-scraper` and `vamsy16/google-maps-scraper-kit`:** Maps discovery/enrichment rather than the required first-party contact plus individually inspected paid-ad card; none was run.
+- **Irrelevant to this Food/Bengaluru paid-media and direct-contact task:** `vamsy16/claude-seo`, `vamsy16/Brand-building-skills`, `vamsy16/agency-agents`, `vamsy16/arena-cro`, `vamsy16/arena-content-marketing`, `vamsy16/arena-gmb`, `vamsy16/arena-linkedin-marketing`, `vamsy16/arena-seo-aeo-geo`, `vamsy16/arena-smm`, `vamsy16/arena-whatsapp-marketing` and `vamsy16/arena-youtube-marketing`. `vamsy16/arena-solar` was listed as empty and its GitHub API contents request returned HTTP/API 409, so no skill was available. `vamsy16/arena-skill` is a generic answer-bracket skill, not a marketing evidence or prospecting skill. Inventory entries described as software/frameworks, AI infrastructure, design/engineering skill sets, video/media tools, documentation or unrelated personal projects were not used; no relevant paid-media/contact skill was identified in them.
+- **Reviewed, not reused — root reference PDF `partha-dental-skin-hair-clinic-audit.pdf`:** the seven-page legacy report was inspected for archive context only. Its account-specific metrics, tracking findings and performance claims were not applicable to these Food/Bengaluru prospects and were not copied; Batch 7 follows the existing niche pack format and cites only its own source checks.
+- **Workflow exclusion:** the bundled legacy `AUDIT-WORKFLOW.md` and `HOW-TO-RUN-IN-NEW-CHAT.md` contain mock/generated lead-pool and estimated-performance examples. They were read for process context, but those scripts and claims will not be run or copied. Batch 7 uses independently checked live public sources and records unknowns rather than estimates.
+
+### Batch 7 builder (one-time append)
+
+```bash
+.venv/bin/python niches/food-bengaluru/scripts/build_batch7_deliverables.py
+```
+
+The incremental builder appends to the master workbook, email exports, source index, lead/outreach folders, verification guide and registry. It refuses duplicate records and pre-existing Batch 7 output files; the data builder preserves earlier batches and creates no estimated metrics.

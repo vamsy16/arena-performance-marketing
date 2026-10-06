@@ -959,9 +959,45 @@
       "day": 8,
       "website": "https://www.ansevents.org/",
       "niche": "Food/Bengaluru/Events and catering"
+    },
+    "GO DESi": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://godesi.in/",
+      "niche": "Food/Bengaluru/D2C Indian snacks and sweets"
+    },
+    "Boba Bhaii": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://www.bobabhai.com/",
+      "niche": "Food/Bengaluru/Bubble tea and Korean-fusion food"
+    },
+    "Deliciae": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://www.delcakes.in/",
+      "niche": "Food/Bengaluru/Cake and dessert bakery"
+    },
+    "United Telugu Kitchens": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://unitedtelugukitchens.com/",
+      "niche": "Food/Bengaluru/Andhra/Telugu restaurant and catering group"
+    },
+    "The Kind Roastery and Brew Room": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://thekindindia.com/",
+      "niche": "Food/Bengaluru/Vegetarian resto-café, coffee roastery and bakery"
+    },
+    "La Pino'z Pizza": {
+      "first_seen": "2026-10-06T00:00:00",
+      "day": 9,
+      "website": "https://lapinozpizza.in/",
+      "niche": "Food/Bengaluru/Pizza restaurant chain"
     }
   },
-  "total_found": 160,
+  "total_found": 166,
   "daily_log": [
     {
       "day": 1,
@@ -1196,6 +1232,22 @@
         "AN’s Events & Caterers"
       ],
       "note": "Batch 6 manually verified public-source shortlist; existing batches preserved."
+    },
+    {
+      "day": 9,
+      "date": "2026-10-06",
+      "niche": "Food/Bengaluru",
+      "count": 6,
+      "total_so_far": 166,
+      "brands": [
+        "GO DESi",
+        "Boba Bhaii",
+        "Deliciae",
+        "United Telugu Kitchens",
+        "The Kind Roastery and Brew Room",
+        "La Pino'z Pizza"
+      ],
+      "note": "Batch 7 individually source-checked public-source shortlist; earlier batches preserved."
     }
   ]
 }

@@ -1,0 +1,278 @@
+{
+  "brand": "La Pino'z Pizza",
+  "slug": "la-pinoz-pizza",
+  "website": "https://lapinozpizza.in/",
+  "niche": "Pizza restaurant chain",
+  "headline": "An Active international-menu card uses an order short link; the final path and private order outcome were not tested.",
+  "market_signal": "The selected Meta card promotes an international menu and shows Order Now through uen.io/lapinoz. La Pino'z's official store locator lists Bengaluru store cards and branch pages; its Contact page publishes separate customer-support and franchise-enquiry emails. The selected creative is not a Bengaluru-specific offer and does not establish local targeting.",
+  "local_evidence_status": "MEASURED — the official Bengaluru locator lists local store cards/branch routes; captured outlet availability labels vary. No current opening status, ad audience or local conversion is inferred.",
+  "contact": {
+    "email": "support@lapinozpizza.in",
+    "phone": "+91 8238235444 (stores); +91 176-2509231 (published contact-page phone)",
+    "entity": "",
+    "address": "The Contact page lists the corporate office in Zirakpur, Punjab. Bengaluru outlet locations are listed separately in the official store locator; no Bengaluru corporate office is inferred.",
+    "route_role": "Published customer-support inbox. The same page lists info@lapinozpizza.in for franchise enquiries; neither route is identified as a paid-media buyer.",
+    "additional_emails": [
+      "info@lapinozpizza.in (franchise enquiries; official Contact page)"
+    ]
+  },
+  "contact_source": "Crawled from La Pino'z's own Contact Us page on 06 Oct 2026: https://lapinozpizza.in/contact-us publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus its Zirakpur corporate-office address and telephone routes. The Bengaluru locator is a separate page. These are published routing contacts, not confirmed media buyers.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-06",
+    "source_ids": [
+      "S2"
+    ],
+    "email_role": "Customer support; a separate first-party franchise-enquiry email is recorded. No paid-media buyer is named."
+  },
+  "google_evidence": {
+    "status": "CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label",
+    "url": "https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in",
+    "detail": "On 06 Oct 2026, the India-region lapinozpizza.in any-time query displayed 23 results. Opened individual creative CR00331488745591144449 is under verified advertiser COPENHAGEN HOSPITALITY; its visible text names La Pino'z / 'La Pino'z - Order Pizza Online' and the detail page says last shown 05 Oct 2026. The page also contains unavailable/removed variations; the selected record has no Active label, so it is archive/last-shown evidence, not a claim of current Google-active status. The advertiser's legal or agency relationship to La Pino'z is not inferred.",
+    "creative_url": "https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN"
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — La Pino'z Pizza international-menu card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696",
+      "source_type": "Platform individual card",
+      "observed": "La Pino'z Pizza page (page ID 266085096841696); Library ID 1091108349891554 displayed Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. Copy promotes an International Menu and shows Order Now to uen.io/lapinoz. The final short-link destination and any order outcome were not tested.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "label": "La Pino'z official Contact Us page",
+      "url": "https://lapinozpizza.in/contact-us",
+      "source_type": "Brand first-party contact page",
+      "observed": "Publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus store and corporate-office phone routes. Lists the corporate office in Zirakpur, Punjab; this address is not presented as a Bengaluru outlet.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "label": "La Pino'z official Bengaluru store locator",
+      "url": "https://lapinozpizza.in/store-locator/bengaluru",
+      "source_type": "Brand first-party local outlet page",
+      "observed": "The Bengaluru locator renders store cards and branch routes for Bengaluru localities. The captured output includes mixed outlet-availability labels; no current open/closed state is generalized or inferred from this capture.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — lapinozpizza.in domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=lapinozpizza.in",
+      "source_type": "Platform domain query",
+      "observed": "India-region any-time query displayed 23 results on 06 Oct 2026. The domain view is not a current-active count and may include multiple advertiser accounts.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S5",
+      "label": "Google Ads Transparency — opened La Pino'z creative under verified advertiser",
+      "url": "https://adstransparency.google.com/advertiser/AR07694090760076918785/creative/CR00331488745591144449?region=IN",
+      "source_type": "Platform individual creative",
+      "observed": "Verified advertiser COPENHAGEN HOSPITALITY; creative ID CR00331488745591144449 visibly names La Pino'z / La Pino'z - Order Pizza Online; last shown 05 Oct 2026. The record does not display an Active label, and some variations are unavailable/removed. Advertiser relationship and current status are not inferred.",
+      "verified_on": "2026-10-06"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The Active international-menu card is not an order measurement",
+      "evidence": "Meta Library ID 1091108349891554; La Pino'z Pizza; Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. The visible creative describes an International Menu and shows Order Now to uen.io/lapinoz.",
+      "analysis": "The menu wording is advertiser copy. The final redirect, checkout, orders, spend, audiences and conversion result were not tested or measured.",
+      "next_check": "Re-open the direct card and follow the short link before reusing it; if authorized, map the selected Library ID to a completed-order event and source-of-record.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "First-party support and Bengaluru store routes are separate",
+      "evidence": "The Contact page publishes support@lapinozpizza.in for support and info@lapinozpizza.in for franchise enquiries; the Bengaluru store locator lists local outlet cards. The published corporate-office address is in Zirakpur, Punjab.",
+      "analysis": "These sources establish published contact routes and Bengaluru outlet context, not a Bengaluru corporate office or a paid-media buyer. Locator availability labels are not treated as a universal live status.",
+      "next_check": "Ask the published support route to forward the source-linked note to the paid-media measurement owner; confirm the selected outlet and its current operating status directly if needed.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Google Transparency exposes a brand-named archive creative, not current active status",
+      "evidence": "The domain query displayed 23 any-time results. Opened creative CR00331488745591144449 under verified advertiser COPENHAGEN HOSPITALITY names La Pino'z / 'La Pino'z - Order Pizza Online' and was last shown 05 Oct 2026.",
+      "analysis": "Visible creative text ties the archive item to La Pino'z, but the page does not label it Active and does not establish the verified advertiser's legal/agency relationship or a current campaign.",
+      "next_check": "If revisited, check current filter/status, advertiser details, creative content and final destination before claiming live Google activity or account ownership.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S4",
+      "S5"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-06",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-06",
+      "library_id": "1091108349891554",
+      "page_id": "266085096841696",
+      "page_name": "La Pino'z Pizza",
+      "page_profile_url": "https://www.facebook.com/LaPinozPizzaIndia/",
+      "started_on": "2025-08-22",
+      "creative_excerpt": "The card promotes La Pino'z's International Menu, referencing Nashville, Jamaican Jerk and Korean flavours, and displays Order Now to uen.io/lapinoz. Menu wording is advertiser copy; the final short-link destination and any completed order were not tested.",
+      "cta": "Order Now",
+      "destination_url": "http://uen.io/lapinoz",
+      "destination_status": "The card displays the uen.io/lapinoz short link; its final destination was not followed. No checkout or order outcome was tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1091108349891554&view_all_page_id=266085096841696"
+    }
+  ],
+  "batch": 7,
+  "verified_on": "06 OCT 2026",
+  "score_20": 18,
+  "score": 9.0,
+  "score_band": "High public-signal fit",
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct individual Meta card displayed Active/Sponsored, named page, start date, ID and order action."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Official Bengaluru locator lists local outlet pages; no audience or universal open-status inference."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Order Now and a short link are visible; final path and completed order were not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct Meta card, official contact page, Bengaluru locator, Google domain query and opened individual creative were checked."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 3,
+      "basis": "Customer-support and franchise emails are published, but neither is a confirmed paid-media-owner route."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label",
+  "sources": [
+    "S1 — Meta Ad Library — La Pino'z Pizza international-menu card; checked 2026-10-06; La Pino'z Pizza page (page ID 266085096841696); Library ID 1091108349891554 displayed Active and Sponsored on 06 Oct 2026; started 22 Aug 2025. Copy promotes an International Menu and shows Order Now to uen.io/lapinoz. The final short-link destination and any order outcome were not tested.",
+    "S2 — La Pino'z official Contact Us page; checked 2026-10-06; Publishes support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries, plus store and corporate-office phone routes. Lists the corporate office in Zirakpur, Punjab; this address is not presented as a Bengaluru outlet.",
+    "S3 — La Pino'z official Bengaluru store locator; checked 2026-10-06; The Bengaluru locator renders store cards and branch routes for Bengaluru localities. The captured output includes mixed outlet-availability labels; no current open/closed state is generalized or inferred from this capture.",
+    "S4 — Google Ads Transparency — lapinozpizza.in domain query; checked 2026-10-06; India-region any-time query displayed 23 results on 06 Oct 2026. The domain view is not a current-active count and may include multiple advertiser accounts.",
+    "S5 — Google Ads Transparency — opened La Pino'z creative under verified advertiser; checked 2026-10-06; Verified advertiser COPENHAGEN HOSPITALITY; creative ID CR00331488745591144449 visibly names La Pino'z / La Pino'z - Order Pizza Online; last shown 05 Oct 2026. The record does not display an Active label, and some variations are unavailable/removed. Advertiser relationship and current status are not inferred."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1091108349891554 and page ID 266085096841696; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — 23 any-time domain-query results; opened verified COPENHAGEN HOSPITALITY creative CR00331488745591144449 names La Pino'z and was last shown 05 Oct 2026; last-shown is not a current-active label",
+      "method": "On 06 Oct 2026, the India-region lapinozpizza.in any-time query displayed 23 results. Opened individual creative CR00331488745591144449 is under verified advertiser COPENHAGEN HOSPITALITY; its visible text names La Pino'z / 'La Pino'z - Order Pizza Online' and the detail page says last shown 05 Oct 2026. The page also contains unavailable/removed variations; the selected record has no Active label, so it is archive/last-shown evidence, not a claim of current Google-active status. The advertiser's legal or agency relationship to La Pino'z is not inferred.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the official Bengaluru locator lists local store cards/branch routes; captured outlet availability labels vary. No current opening status, ad audience or local conversion is inferred.",
+      "method": "The selected Meta card promotes an international menu and shows Order Now through uen.io/lapinoz. La Pino'z's official store locator lists Bengaluru store cards and branch pages; its Contact page publishes separate customer-support and franchise-enquiry emails. The selected creative is not a Bengaluru-specific offer and does not establish local targeting. Published customer-support inbox. The same page lists info@lapinozpizza.in for franchise enquiries; neither route is identified as a paid-media buyer.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "MEASURED — public card label/link only",
+      "method": "The card displays the uen.io/lapinoz short link; its final destination was not followed. No checkout or order outcome was tested.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "06 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "International Menu card",
+      "Hi La Pino'z Pizza team,\n\nI opened Meta Library card 1091108349891554: it displayed La Pino'z Pizza as Sponsored and Active when checked on 06 Oct 2026, started 22 Aug 2025, and promotes an International Menu with an Order Now short link. I have not followed the final redirect or inferred an order.\n\nThe public record does not expose private spend, orders or event firing. The published route, support@lapinozpizza.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Published support route",
+      "Hi La Pino'z Pizza team,\n\nYour official Contact page lists support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries; the Bengaluru locator is a separate page. I have not assumed either inbox owns paid media or that the card is Bengaluru-targeted.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Completed-order definition",
+      "Hi La Pino'z Pizza team,\n\nIf online orders are the intended outcome, a private check could align the Library ID, final destination and completed-order definition with the source-of-record. I did not access any order or account data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Paid-media owner",
+      "Hi La Pino'z Pizza team,\n\nThe Google Transparency item I opened names La Pino'z under verified advertiser COPENHAGEN HOSPITALITY and was last shown 05 Oct; it is not labelled Active, so I am not calling it a current Google ad. Could you route this note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "International Menu card",
+      "body": "Hi La Pino'z Pizza team,\n\nI opened Meta Library card 1091108349891554: it displayed La Pino'z Pizza as Sponsored and Active when checked on 06 Oct 2026, started 22 Aug 2025, and promotes an International Menu with an Order Now short link. I have not followed the final redirect or inferred an order.\n\nThe public record does not expose private spend, orders or event firing. The published route, support@lapinozpizza.in, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Published support route",
+      "body": "Hi La Pino'z Pizza team,\n\nYour official Contact page lists support@lapinozpizza.in for customer support and info@lapinozpizza.in for franchise enquiries; the Bengaluru locator is a separate page. I have not assumed either inbox owns paid media or that the card is Bengaluru-targeted.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Completed-order definition",
+      "body": "Hi La Pino'z Pizza team,\n\nIf online orders are the intended outcome, a private check could align the Library ID, final destination and completed-order definition with the source-of-record. I did not access any order or account data.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Paid-media owner",
+      "body": "Hi La Pino'z Pizza team,\n\nThe Google Transparency item I opened names La Pino'z under verified advertiser COPENHAGEN HOSPITALITY and was last shown 05 Oct; it is not labelled Active, so I am not calling it a current Google ad. Could you route this note to the paid-media measurement owner?\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ]
+}

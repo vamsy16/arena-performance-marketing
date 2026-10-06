@@ -1,0 +1,266 @@
+{
+  "brand": "United Telugu Kitchens",
+  "slug": "united-telugu-kitchens",
+  "website": "https://unitedtelugukitchens.com/",
+  "niche": "Andhra/Telugu restaurant and catering group",
+  "headline": "An Active Bengaluru-named restaurant card carries Andhra-food copy and a Call Now action; calls and outcomes are not public.",
+  "market_signal": "The selected Meta card appears under United Telugu Kitchens Bengaluru, uses Andhra-food and Bengaluru copy, and displays Call now. The brand's contact page lists Kadugodi and Kanakapura Bengaluru locations. Its only published email found for this record is on the separate Catering page and is explicitly for catering enquiries, not paid media.",
+  "local_evidence_status": "MEASURED — the selected Meta page/copy names Bengaluru and the brand's official Contact page lists Bengaluru locations. This does not establish audience targeting or call outcomes.",
+  "contact": {
+    "email": "gm@telugukitchens.com",
+    "phone": "+91-9912000777 (published on the official catering page)",
+    "entity": "",
+    "address": "Official Contact page lists Kadugodi, Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062 locations; no corporate-office address is inferred.",
+    "route_role": "Catering information and enquiry route only; not a confirmed restaurant-marketing or paid-media contact.",
+    "additional_emails": []
+  },
+  "contact_source": "Crawled from United Telugu Kitchens' own Catering page on 06 Oct 2026: https://unitedtelugukitchens.com/catering publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. The official Contact page https://unitedtelugukitchens.com/contact lists Bengaluru locations but no public general email. The published email is catering-specific, not a confirmed media contact.",
+  "contact_source_detail": {
+    "checked_on": "2026-10-06",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "email_role": "Catering enquiries only; no general marketing or paid-media buyer email was found."
+  },
+  "google_evidence": {
+    "status": "CHECKED — no domain-query results (not proof of no activity)",
+    "url": "https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com",
+    "detail": "The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that United Telugu Kitchens does not advertise on Google or that no ads exist."
+  },
+  "sources_detail": [
+    {
+      "id": "S1",
+      "label": "Meta Ad Library — United Telugu Kitchens Bengaluru individual card",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085",
+      "source_type": "Platform individual card",
+      "observed": "United Telugu Kitchens Bengaluru page (page ID 172125759316085); Library ID 1400576771684831 displayed Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy mentions Andhra flavours/Bengaluru; Call now is visible. Video did not play in the capture and call destination/outcome were not tested.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S2",
+      "label": "United Telugu Kitchens official Catering page — catering email",
+      "url": "https://unitedtelugukitchens.com/catering",
+      "source_type": "Brand first-party service/contact page",
+      "observed": "Publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. It does not identify the email as a restaurant-marketing or paid-media contact.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S3",
+      "label": "United Telugu Kitchens official Contact page — Bengaluru locations",
+      "url": "https://unitedtelugukitchens.com/contact",
+      "source_type": "Brand first-party location/contact page",
+      "observed": "Lists Kadugodi/Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062; offers a location/enquiry form and publishes no general contact email in the captured page.",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "S4",
+      "label": "Google Ads Transparency — unitedtelugukitchens.com domain query",
+      "url": "https://adstransparency.google.com/?region=IN&domain=unitedtelugukitchens.com",
+      "source_type": "Platform domain query",
+      "observed": "India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity.",
+      "verified_on": "2026-10-06"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "NOTE",
+      "title": "The Call now card is a public CTA, not a measured call or restaurant visit",
+      "evidence": "Meta Library ID 1400576771684831; United Telugu Kitchens Bengaluru; Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy refers to Andhra food/Bengaluru and the card shows Call now.",
+      "analysis": "The video did not play in the capture. The visible page, text and CTA are supported; the call destination, calls, dining visits, orders and campaign performance were not measured.",
+      "next_check": "Re-open the card and call path; if authorized, agree whether the intended outcome is a connected call, qualified enquiry, visit or another event before measuring it.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "Bengaluru locations are first-party; the available email route is catering-specific",
+      "evidence": "The official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The official Catering page publishes gm@telugukitchens.com for catering enquiries.",
+      "analysis": "The sources establish local food-service context and a related published email, not that this inbox owns restaurant media or paid campaigns.",
+      "next_check": "If using the catering inbox, ask it to route the note to the correct marketing/media owner; for broader outreach, confirm an appropriate published general route first.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "priority": "NOTE",
+      "title": "The Google domain query returned zero results in this capture",
+      "evidence": "The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026.",
+      "analysis": "One zero-result query does not establish that no Google ads or prior activity exist.",
+      "next_check": "If revisited, open a current individual creative and verify advertiser, visible brand content, destination and status/last-shown before attribution.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "email_source_ids": [
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ],
+    [
+      "S1"
+    ],
+    [
+      "S2",
+      "S3"
+    ]
+  ],
+  "ad_evidence": [
+    {
+      "platform": "Meta Ad Library",
+      "status": "Active and Sponsored on 2026-10-06",
+      "active": true,
+      "sponsored": true,
+      "checked_on": "2026-10-06",
+      "library_id": "1400576771684831",
+      "page_id": "172125759316085",
+      "page_name": "United Telugu Kitchens Bengaluru",
+      "page_profile_url": "https://www.facebook.com/unitedtelugukitchens/",
+      "started_on": "2026-10-03",
+      "creative_excerpt": "The card copy says, 'Bold spices, soulful flavours and plates that bring the heart of Andhra to the table. Come hungry, leave with a new favourite.' The text includes Andhra-food/Bangalore terms and the card shows Call now. The video did not play in the capture; no unseen visual or call destination is inferred.",
+      "cta": "Call now; final telephone link/number was not exposed in the captured selected card.",
+      "destination_url": null,
+      "destination_status": "The selected card shows a Call now action. The call destination/number and any answered call, visit or order were not tested.",
+      "source_id": "S1",
+      "direct_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&id=1400576771684831&view_all_page_id=172125759316085"
+    }
+  ],
+  "batch": 7,
+  "verified_on": "06 OCT 2026",
+  "score_20": 17,
+  "score": 8.5,
+  "score_band": "Good public-signal fit",
+  "score_note": "Public-evidence-fit triage only: direct paid signal, explicit Bengaluru context, visibility of the public CTA, first-party source coverage and suitability of the published contact route. Not an effectiveness, conversion, revenue, spend, ROI, forecast or sales-probability score.",
+  "score_breakdown": [
+    {
+      "dimension": "Direct paid signal",
+      "score": 4,
+      "basis": "Direct card displayed Active/Sponsored, page identity, start date and ID."
+    },
+    {
+      "dimension": "Bengaluru relevance",
+      "score": 4,
+      "basis": "Selected page/copy and official Contact page name Bengaluru; no audience targeting is inferred."
+    },
+    {
+      "dimension": "Public CTA visibility",
+      "score": 3,
+      "basis": "Call now is visible; final number, call connection and conversion outcome were not tested."
+    },
+    {
+      "dimension": "First-party source coverage",
+      "score": 4,
+      "basis": "Direct Meta card, official Catering and Contact pages, and Google domain query were checked."
+    },
+    {
+      "dimension": "Contact-route relevance",
+      "score": 2,
+      "basis": "Published email is for catering enquiries only; no marketing/media owner is named."
+    }
+  ],
+  "ads_active": "Google Ads Transparency — CHECKED — no domain-query results (not proof of no activity)",
+  "sources": [
+    "S1 — Meta Ad Library — United Telugu Kitchens Bengaluru individual card; checked 2026-10-06; United Telugu Kitchens Bengaluru page (page ID 172125759316085); Library ID 1400576771684831 displayed Active and Sponsored on 06 Oct 2026; started 03 Oct 2026. Copy mentions Andhra flavours/Bengaluru; Call now is visible. Video did not play in the capture and call destination/outcome were not tested.",
+    "S2 — United Telugu Kitchens official Catering page — catering email; checked 2026-10-06; Publishes gm@telugukitchens.com and +91-9912000777 under 'For More Information' for catering enquiries. It does not identify the email as a restaurant-marketing or paid-media contact.",
+    "S3 — United Telugu Kitchens official Contact page — Bengaluru locations; checked 2026-10-06; Lists Kadugodi/Kannamangala, Bengaluru 560115 and Kanakapura Road/Forum South Bengaluru 560062; offers a location/enquiry form and publishes no general contact email in the captured page.",
+    "S4 — Google Ads Transparency — unitedtelugukitchens.com domain query; checked 2026-10-06; India-region any-time query displayed zero results on 06 Oct 2026. This is not proof of no Google activity."
+  ],
+  "coverage": [
+    {
+      "surface": "Meta paid activity",
+      "status": "MEASURED — selected direct card active on capture date",
+      "method": "Direct Library ID 1400576771684831 and page ID 172125759316085; advertiser label, Sponsored/Active status and start date checked. One selected card, not an account-wide count.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Google Ads Transparency",
+      "status": "CHECKED — no domain-query results (not proof of no activity)",
+      "method": "The India-region unitedtelugukitchens.com any-time query displayed zero results on 06 Oct 2026. Zero results in one public domain query do not prove that United Telugu Kitchens does not advertise on Google or that no ads exist.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Bengaluru context and first-party contact",
+      "status": "MEASURED — the selected Meta page/copy names Bengaluru and the brand's official Contact page lists Bengaluru locations. This does not establish audience targeting or call outcomes.",
+      "method": "The selected Meta card appears under United Telugu Kitchens Bengaluru, uses Andhra-food and Bengaluru copy, and displays Call now. The brand's contact page lists Kadugodi and Kanakapura Bengaluru locations. Its only published email found for this record is on the separate Catering page and is explicitly for catering enquiries, not paid media. Catering information and enquiry route only; not a confirmed restaurant-marketing or paid-media contact.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "CTA / destination path",
+      "status": "NOT MEASURED — destination not exposed in captured card",
+      "method": "The selected card shows a Call now action. The call destination/number and any answered call, visit or order were not tested.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Site tags, pixels and event firing",
+      "status": "NOT MEASURED",
+      "method": "No rendered-browser, tag-manager, network or event-firing test was performed; no tag or pixel is described as absent.",
+      "date": "06 OCT 2026"
+    },
+    {
+      "surface": "Spend, ROAS, CPA and conversion outcomes",
+      "status": "UNAVAILABLE — private to advertiser",
+      "method": "No public account, analytics, booking or order data; no estimate, benchmark or projection substituted.",
+      "date": "06 OCT 2026"
+    }
+  ],
+  "outreach": [
+    [
+      "UTK Bengaluru card",
+      "Hi United Telugu Kitchens team,\n\nI opened Meta Library card 1400576771684831: it displayed United Telugu Kitchens Bengaluru as Sponsored and Active when checked on 06 Oct 2026, started 03 Oct 2026, with Andhra-food/Bengaluru copy and a Call now action. The video did not play in my capture, so I have not described unseen content.\n\nThe public record does not expose private spend, orders or event firing. The published route, gm@telugukitchens.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Published catering route",
+      "Hi United Telugu Kitchens team,\n\nYour official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The published gm@telugukitchens.com address is on the separate Catering page for catering enquiries; I have not assumed it is a media contact.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Define the call outcome",
+      "Hi United Telugu Kitchens team,\n\nIf the Call now action is intended to drive enquiries, a private review could distinguish a connected call from a qualified enquiry or visit before measuring it. I did not access any call or order records.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ],
+    [
+      "Correct media contact",
+      "Hi United Telugu Kitchens team,\n\nCould you route this source-linked note to the person responsible for paid-media measurement? If the catering inbox is not suitable, a pointer to the right contact is enough.\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220"
+    ]
+  ],
+  "outreach_sequence": [
+    {
+      "day": "Day 1",
+      "subject": "UTK Bengaluru card",
+      "body": "Hi United Telugu Kitchens team,\n\nI opened Meta Library card 1400576771684831: it displayed United Telugu Kitchens Bengaluru as Sponsored and Active when checked on 06 Oct 2026, started 03 Oct 2026, with Andhra-food/Bengaluru copy and a Call now action. The video did not play in my capture, so I have not described unseen content.\n\nThe public record does not expose private spend, orders or event firing. The published route, gm@telugukitchens.com, is used only to ask for the right owner; I have not assumed it is the paid-media team.\n\nWould you point me to the person responsible for paid-media measurement?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "subject": "Published catering route",
+      "body": "Hi United Telugu Kitchens team,\n\nYour official Contact page lists Kadugodi and Kanakapura Bengaluru locations. The published gm@telugukitchens.com address is on the separate Catering page for catering enquiries; I have not assumed it is a media contact.\n\nI have not converted a public ad count, domain query or click path into a performance claim.\n\nWould a short source-linked handoff be useful?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "subject": "Define the call outcome",
+      "body": "Hi United Telugu Kitchens team,\n\nIf the Call now action is intended to drive enquiries, a private review could distinguish a connected call from a qualified enquiry or visit before measuring it. I did not access any call or order records.\n\nThat is an account-side verification step only, not a claim that anything is missing or underperforming.\n\nIs this the right team to ask?\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "day": "Day 14",
+      "subject": "Correct media contact",
+      "body": "Hi United Telugu Kitchens team,\n\nCould you route this source-linked note to the person responsible for paid-media measurement? If the catering inbox is not suitable, a pointer to the right contact is enough.\n\nThis is my last note. If the published route is not the right one, no reply is needed. No private result has been inferred.\n\n— Smart Pursuit\nsmartpursuit3@gmail.com | 7095024220",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    }
+  ]
+}
